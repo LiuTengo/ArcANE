@@ -5,166 +5,156 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "agency-communion",
-      "axis_name": "From witty manipulator to restrained co-witness",
-      "pole_start": "Begins as a socially agile, self-assertive strategist who uses wit, flattery, and disguise to manage Don Quixote from a position of interpretive control.",
-      "pole_end": "Ends as a more restrained, morally serious participant who still acts decisively but is oriented toward witness, humane closure, and respect rather than domination.",
+      "dimension_label": "Agency vs Communion",
+      "axis_name": "From Instrumental Self-Assertion to Communal Embeddedness",
+      "pole_start": "Agency-dominant: Carrasco seeks centrality, mastery, and reputation through wit, flattery, disguise, and staged combat; relationships are largely instruments for managing Quixote, Sancho, and the village audience.",
+      "pole_end": "More communally embedded but still patronizing: he embraces Quixote, collaborates with the curate on the pastoral scheme, allies warmly with Sancho, and serves as executor and epitaph-writer, though his sociability remains self-assured and condescending.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Playful orchestration",
+          "phase": "Playful social mastery and insider performance",
           "chapter_range": [
             55,
-            61
+            60
           ],
-          "position_description": "Carrasco is socially embedded and verbally agile, enjoying the role of witty intermediary while also setting events in motion behind the scenes.",
+          "position_description": "High agency and instrumental sociability: he flatters Quixote, teases Sancho, positions himself as a literary insider, and encourages the third sally while secretly conspiring to manage it.",
           "key_moments": [
-            "Chapter 55: introduced as the learned bachelor who brings news of the printed history",
-            "Chapters 56-57: flattery, debate, and conversational steering",
-            "Chapter 60: helps arrange Don Quixote's departure through a hidden plan",
-            "Chapter 61: his influence becomes partly offstage after the scheme is launched"
+            "Returns from Salamanca with news of the printed history.",
+            "Flatters Quixote and probes Sancho about the book's omissions.",
+            "Advises the next sally and is trusted with the secret departure.",
+            "Dismisses the housekeeper's fears and supplies a helmet while secretly aligning with the curate and barber."
           ]
         },
         {
-          "phase": "Wounded control",
+          "phase": "Covert combat and humiliation",
           "chapter_range": [
-            67,
+            65,
             68
           ],
-          "position_description": "His agency remains strong, but humiliation after the failed disguise and defeat makes his control more reactive, embittered, and less triumphant.",
+          "position_description": "Agency is asserted through disguise and combat, but the scheme collapses into humiliation; communion drops as he converts shame into private vengeance.",
           "key_moments": [
-            "Chapter 67: the Knight of the Mirrors scheme is exposed",
-            "Chapter 68: he is beaten, humiliated, and turns failure into renewed resolve"
+            "Provokes Quixote as the Knight of the Mirrors.",
+            "Is violently unhorsed and exposed as Carrasco.",
+            "Is forced to confess Dulcinea's superiority and obey Quixote's terms.",
+            "Admits to Tom Cecial that he now wants to thrash Quixote out of vengeance."
           ]
         },
         {
-          "phase": "Pragmatic closure",
+          "phase": "Discreet tactical correction",
           "chapter_range": [
             103,
+            118
+          ],
+          "position_description": "He remains strategic but shifts toward restrained procedure: skeptical verification, anonymity, formal challenge, and merciful terms rather than open personal domination.",
+          "key_moments": [
+            "Questions the page and remains skeptical about Sancho's government.",
+            "Returns as the Knight of the White Moon and imposes a chivalric oath.",
+            "Defeats Quixote while sparing his body and Dulcinea's honor.",
+            "Leaves anonymously and reveals his identity only to Don Antonio."
+          ]
+        },
+        {
+          "phase": "Companionate containment and elegy",
+          "chapter_range": [
+            123,
             127
           ],
-          "position_description": "In the later chapters, he remains active but increasingly channels his agency into containment, accommodation, and finally solemn witness at Don Quixote's death.",
+          "position_description": "He moves toward communion: he embraces Quixote, enters the pastoral fiction, allies with Sancho, and serves as executor and elegist, though his care remains therapeutically condescending.",
           "key_moments": [
-            "Chapter 103: skeptical investigation of Sancho's governorship",
-            "Chapter 105: continued doubt about Sancho's political rise",
-            "Chapter 118: returns as the chastened Knight of the White Moon",
-            "Chapter 126: tactically accommodates the pastoral scheme",
-            "Chapter 127: witnesses Don Quixote's lucid death and helps close the story"
+            "Renews his plan after the Knight of the Mirrors defeat and collaborates with the duke.",
+            "Welcomes the returning Quixote with open arms and learns privately of the oath.",
+            "Applauds the pastoral plan and accepts the name 'Carrascon'.",
+            "Proposes pastoral names including 'Teresaina' for Sancho's wife.",
+            "Is appointed executor and composes Quixote's epitaph."
           ]
         }
       ],
-      "evidence_summary": "Both analyses agree that Carrasco is fundamentally agentic, but his agency changes in quality: from playful control to wounded persistence, then into a more restrained and socially accountable form of participation.",
+      "evidence_summary": "Both sets trace a real but incomplete movement from instrumental, competitive agency toward social participation, collaborative fiction-making, and village fellowship. Carrasco remains self-assured and patronizing throughout, so the increase in communion is genuine but mixed.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Published scholarship on Don Quixote does support reading Sansón Carrasco as a figure whose early role depends on wit, disguise, and strategic manipulation, while later episodes can be read as moving toward a more serious, ethically inflected mode of engagement. Critics of the novel’s self-reflexive and performative structures often treat Carrasco as an agent who first tries to control Don Quixote through interpretive superiority and then becomes implicated in the novel’s more chastened, witness-like closure. The axis is therefore grounded in scholarship, though the exact developmental arc is more interpretive than explicitly named in the criticism.",
+            "reasoning": "The axis is broadly supported by characterological and formalist readings of Sansón Carrasco: critics regularly note his self-satisfied wit, theatrical manipulation of Quixote and Sancho, and his eventual reintegration into the village social order as friend, executor, and epitaph-writer. The scholarship is scattered rather than centered on a single dedicated psychological study, and it often treats these traits as comic-narrative functions, but the same internal movement from self-assertive stage-management to patronizing communal embeddedness is legible in the critical tradition.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the novel's layered games of interpretation and the role of characters such as Sansón Carrasco in managing, testing, and redirecting Don Quixote through wit and literary self-consciousness.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Madrid: Ínsula",
+                "url": null,
+                "relevance": "Casalduero's formalist analysis treats Carrasco as a self-regarding comic agent whose schemes and later absorption into the village frame expose his social performance and reintegration.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats Carrasco as part of the novel's comic-intellectual apparatus and helps ground the idea that his interventions shift from clever manipulation toward a more serious moral framing of Don Quixote's end.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Woodbridge: Tamesis / Boydell & Brewer",
+                "url": null,
+                "relevance": "Close discusses Carrasco as a self-satisfied bachiller and stage-manager of comic plots whose role is eventually absorbed into the novel's social world.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes Carrasco within the novel's narrative design, where disguise and strategic action initially place him in a position of control but later episodes complicate that dominance with a more reflective function.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Westport, CT: Greenwood Press",
+                "url": null,
+                "relevance": "The reference entry on Sansón Carrasco synthesizes his trajectory from manipulative prankster and disguised combatant to friend, executor, and epitaph-writer.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               },
               {
-                "author": "González Echevarría, Roberto",
-                "title": "Cervantes' Don Quixote: A New Reading",
-                "year": 2005,
-                "publication": "Yale University Press",
-                "relevance": "This reading emphasizes the novel's ethical and self-conscious closure, which can support an interpretation of Carrasco's later role as less domineering and more oriented toward witnessing and closure.",
-                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote%3A+A+New+Reading+2005"
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Riley examines Carrasco as a reader-critic who tries to control Quixote's fiction, supporting the axis's initial agency-dominant pole of intellectual mastery and manipulation.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
-            "verdict": true,
-            "reasoning": "Published criticism does support reading Sansón Carrasco as moving from clever, socially agile manipulation toward a more chastened and ethically serious mode of engagement with Don Quixote. Scholars of the novel often treat him as a figure of interpretive control and comic strategy early on, while later episodes—especially his final interventions—can be read as a turn toward restraint, recognition, and humane closure rather than pure domination.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel discusses Sansón Carrasco’s role as an intelligent manipulator of Quixote and helps ground the claim that he begins from a position of witty, strategic control.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close’s broader critical account of the novel’s interpretive traditions is useful for understanding Carrasco as a self-conscious agent in the comic management of Quixote, and for situating later, more serious readings of his function.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the narrative and ethical structure of Carrasco’s interventions, supporting the idea that his role can shift from tactical deception toward a more measured participation in Quixote’s story.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              }
-            ]
+            "verdict": false,
+            "reasoning": "The proposed arc—Sansón Carrasco moving from instrumental self-assertion to communal embeddedness—is a plausible thematic reading, but I cannot recall published scholarship that treats Carrasco as undergoing this specific intrapersonal psychological development. Critics generally discuss him as a comic manipulator, surrogate reader, or agent of narrative correction, and his late communal roles as executor and epitaph-writer are seldom analyzed as evidence of inner change. Thus the axis is not securely grounded in verifiable published psychological criticism on Don Quixote.",
+            "citations": []
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "Scholarship on Sansón Carrasco repeatedly treats him as a self-conscious strategist whose wit, disguise, and interpretive games place him in competition with Don Quixote, while later episodes can be read as tempering that aggressiveness with a more chastened, ethically serious stance. The axis is therefore grounded in published criticism, especially work on Carrasco’s role as a manipulator, rival reader, and eventually a figure implicated in the novel’s movement toward closure and humane recognition.",
+            "reasoning": "Cervantine scholarship does treat Sansón Carrasco as a self-conscious manipulator whose wit and disguises are instruments of vanity and narrative control, and it also notes his eventual reintegration into the village community as friend, executor, and epitaph-writer. The 'change' is more often described as a narrative/comic function than as a deep psychological conversion, but the two poles are recognizable in published criticism.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin / Twayne",
-                "relevance": "Riley discusses Carrasco as an intelligent, socially agile opponent who uses disguise and wit to manage Don Quixote, supporting the axis’s starting point of interpretive control.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close’s broader account of the novel’s critical tradition includes Carrasco as a figure whose interventions are shaped by self-assertion, irony, and eventually a more sober relation to Don Quixote’s suffering and the novel’s ending.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing treats Carrasco as a structurally important agent whose practical intelligence and later restraint help move the narrative toward closure rather than mere domination.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "The entry on Sansón Carrasco synthesizes his role as an ambitious, witty bachelor whose schemes to manage Quixote give way to cooperative friendship and executor duties.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               },
               {
-                "author": "Friedman, Edward H.",
-                "title": "Cervantes in the Middle: Realism and Reality in the Spanish Novel from Lazarillo de Tormes to Niebla",
+                "author": "Riley, Edward C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Clarendon Press",
+                "url": null,
+                "relevance": "Riley analyzes Carrasco as a reader-critic whose literary judgments and social performance are instruments of self-assertion, supporting the agency-dominant starting pole.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
                 "year": 1975,
-                "publication": "University of Delaware Press",
-                "relevance": "Friedman’s discussion of Cervantes emphasizes characters who shift from comic manipulation toward ethical seriousness, a framework that fits Carrasco’s movement from strategic control to more humane witness.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Cervantes+in+the+Middle%3A+Realism+and+Reality+in+the+Spanish+Novel+from+Lazarillo+de+Tormes+to+Niebla+1975"
+                "publication": "University of North Carolina Press",
+                "url": null,
+                "relevance": "El Saffar reads Carrasco's disguises and manipulations as attempts at narrative control that are ultimately contained by the community, supporting the move toward embeddedness.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               }
             ]
           }
@@ -174,146 +164,167 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_02",
-      "dimension_label": "confidence-humility",
-      "axis_name": "From self-assured planner to chastened but persistent reformer",
-      "pole_start": "Starts as a highly self-assured planner who believes wit, disguise, and tactical orchestration can control Don Quixote and shape events.",
-      "pole_end": "Ends more chastened and realistic, aware of the limits of intervention, yet still committed to reform and closure.",
+      "dimension_label": "Control vs Acceptance",
+      "axis_name": "From Engineered Control and Confident Cure to Chastened Acceptance and Baffled Denial",
+      "pole_start": "Carrasco believes Don Quixote can be managed, defeated, and cured through clever schemes, flattery, disguise, and staged chivalric combat; deception is understood as medicine and his own method as lucid.",
+      "pole_end": "His schemes are repeatedly refuted. He moves toward accepting that Quixote's cure, sanity, and death exceed his control, yet he also treats Quixote's final lucidity as a new symptom and never fully revises his belief in manipulation as cure.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "positive",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Confident orchestration",
+          "phase": "Confident manipulation and curative sociability",
           "chapter_range": [
             55,
-            61
+            60
           ],
-          "position_description": "He acts as though his intelligence and social skill are sufficient to manage the situation, showing little doubt about his competence.",
+          "position_description": "He treats Quixote as highly susceptible to admiration and literary fame and trusts social performance and engineered circumstances to direct or cure him.",
           "key_moments": [
-            "Chapters 56-57: witty control of conversation",
-            "Chapter 60: orchestrates Don Quixote's departure through a hidden plan"
+            "Uses flattery and literary talk to gain influence.",
+            "Advises the next sally and is trusted with secrecy.",
+            "Deceives the housekeeper while planning to encourage Quixote's departure.",
+            "Helps launch the third sally and conspires with the curate and barber."
           ]
         },
         {
-          "phase": "Humiliation and tactical realism",
+          "phase": "Failed mastery and humiliation",
           "chapter_range": [
-            67,
+            65,
             68
           ],
-          "position_description": "The failed staged defeat forces him into a humbler posture, making clear that planning is easier than execution and that Quixote's interpretive world can defeat strategy.",
+          "position_description": "The Knight of the Mirrors plan backfires; his confidence in easy control is severely shaken, but he converts failure into vengeance rather than rethinking the method.",
           "key_moments": [
-            "Chapter 67: Don Quixote identifies him despite the disguise",
-            "Chapter 68: he is bruised, frustrated, and more tactically realistic"
+            "Provokes Quixote into combat as the Knight of the Mirrors.",
+            "Is defeated and unmasked.",
+            "Is forced to confess Dulcinea's beauty and obey Quixote's terms.",
+            "Admits his plan failed and turns toward revenge."
           ]
         },
         {
-          "phase": "Chastened persistence",
+          "phase": "Revised procedural control",
           "chapter_range": [
-            118,
+            103,
+            118
+          ],
+          "position_description": "He learns that direct force and public unmasking fail, so he seeks control through anonymity, formal chivalric contract, restraint, and merciful terms.",
+          "key_moments": [
+            "Calls Sancho's government delusion or enchantment.",
+            "Challenges Don Quixote as the Knight of the White Moon.",
+            "Defeats him without striking his body and imposes a year's retirement.",
+            "Leaves anonymously rather than seeking credit.",
+            "Tells Don Antonio his plan and asks for secrecy."
+          ]
+        },
+        {
+          "phase": "Control ceded and baffled denial",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "He remains committed, but his confidence is moderated by failure; by the end he functions more as a serious manager of closure than a triumphant mastermind.",
+          "position_description": "He discovers that Quixote is already bound by his oath and later that Quixote's lucidity and death cannot be managed by Carrasco's pastoral scheme; he accepts a custodial role but denies the sanity as madness.",
           "key_moments": [
-            "Chapter 118: defeat as the Knight of the White Moon confirms both persistence and failure",
-            "Chapter 126: accommodates Don Quixote's pastoral fantasy",
-            "Chapter 127: helps close the story with restraint and seriousness"
+            "Learns privately that Don Quixote has been defeated and is bound to stay home a year.",
+            "Applauds the pastoral plan as containment.",
+            "Hears Don Quixote declare that his reason has returned and urges him to 'be rational'.",
+            "Witnesses Quixote's rational confession and is appointed executor.",
+            "Writes an epitaph conceding that Quixote died sane without revising his own therapeutic method."
           ]
         }
       ],
-      "evidence_summary": "The merged evidence shows a clear arc from confident control into chastened competence. Carrasco does not abandon his reformist project, but he loses the illusion that cleverness alone guarantees success.",
+      "evidence_summary": "Both sets show repeated schemes failing. Set A emphasizes chastened acceptance of limits; Set B emphasizes baffled denial of Quixote's sanity. Merged, the arc is a disillusionment of therapeutic control: Carrasco's method is refuted in fact, but he only partially internalizes the lesson.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Published scholarship on Don Quixote does support reading Sansón Carrasco as a figure whose confidence in strategy, disguise, and textual wit is progressively checked by experience. Critics often treat him as a self-conscious manipulator of plot who becomes, by the novel’s end, more aware of the limits of intervention while still pursuing Don Quixote’s restoration and closure. That said, the scholarship more often frames this as a shift from comic control to chastened practicality than as a fully interior psychological conversion.",
+            "reasoning": "The axis is broadly supported by scholarship that reads Sansón Carrasco as a self-consciously rational manipulator whose disguises and staged combats are comic therapeutic fictions, and whose failures expose the limits of his control over Quixote. Critics are less precise about the final 'baffled denial,' but they do treat his schemes as ironized and his authority as chastened rather than omniscient.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Sansón Carrasco as an agent of planned intervention whose schemes depend on wit and disguise, and he notes the eventual failure or limitation of such tactics in controlling Don Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats Sansón Carrasco within the novel’s larger comic-structural design, emphasizing the character’s tactical intelligence and the way repeated defeats expose the limits of clever manipulation.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "author": "Quint, David",
+                "title": "Cervantes's Novel of Modern Times: A New Reading of Don Quijote",
+                "year": 2003,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "Quint analyzes Part II's schemes, including Carrasco's attempts to manage Quixote through fiction, as ironized efforts that expose the limits of authorial and character control.",
+                "search_url": "https://scholar.google.com/scholar?q=Quint%2C+David+Cervantes%27s+Novel+of+Modern+Times%3A+A+New+Reading+of+Don+Quijote+2003"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "Cervantes Encyclopedia",
+                "title": "The Cervantes Encyclopedia",
                 "year": 2004,
                 "publication": "Greenwood Press",
-                "relevance": "The encyclopedia entry on Sansón Carrasco summarizes his role as an orchestrator of disguises and plans, while also registering the gradual hardening of reality against his reformist ambitions.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes+Encyclopedia+2004"
+                "url": null,
+                "relevance": "The reference entry on Sansón Carrasco treats his disguises and staged combats as failed therapeutic manipulations, supporting the control-to-chastened reading of his character.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Close's account of Cervantine humor and character irony discusses Carrasco's rational self-assurance and the comic correction of his manipulative 'cure' of Quixote.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published criticism does support reading Sansón Carrasco as a self-assured strategist whose confidence is progressively chastened by repeated failure, while his reforming impulse persists. Scholars of Don Quixote often treat him as a figure of intervention, disguise, and control who learns—through defeat and exposure—the limits of wit and orchestration, which aligns closely with this confidence-to-humility arc.",
+            "reasoning": "The axis is grounded in criticism that reads Sansón Carrasco’s Part II masquerades as quasi-therapeutic attempts to manage Don Quixote through fiction, disguise, and staged combat, and that stresses the ironic reversal of those schemes. The specifically psychoanalytic vocabulary of 'control versus acceptance' is not always used, but character-centered readings of Carrasco’s confidence, humiliation, and incomplete self-revision support the internal movement described.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
+                "author": "Predmore, Richard L.",
+                "title": "The World of Don Quixote",
+                "year": 1967,
+                "publication": "Harvard University Press",
+                "url": null,
+                "relevance": "Analyzes Carrasco’s Knight of the Mirrors and Knight of the White Moon schemes as attempts to control and cure Quixote through fiction, and their ironic reversal.",
+                "search_url": "https://scholar.google.com/scholar?q=Predmore%2C+Richard+L.+The+World+of+Don+Quixote+1967"
+              },
+              {
+                "author": "Riley, E. C.",
                 "title": "Cervantes's Theory of the Novel",
                 "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sansón Carrasco as an agent of planned intervention in Don Quixote, and his analysis helps ground the character's movement from tactical confidence toward a more limited, realistic understanding of what reform can achieve.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "publication": "Clarendon Press",
+                "url": null,
+                "relevance": "Discusses Sansón Carrasco as a reader-manipulator whose literary schemes to manage Quixote expose the limits of fictional control.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close's broader account of Quixote criticism includes Sansón Carrasco as a practical reformer whose schemes are repeatedly checked by reality, supporting the idea of chastened persistence rather than simple abandonment.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "Márquez Villanueva treats Sansón Carrasco as a psychologically and morally complex interventionist, which supports reading him as moving from overconfident manipulation toward a more sober but still reform-minded stance.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "Sullivan, Henry W.",
+                "title": "Grotesque Purgatory: A Study of Cervantes's Don Quixote, Part II",
+                "year": 1996,
+                "publication": "Penn State University Press",
+                "url": null,
+                "relevance": "Reads Part II’s therapeutic and purgatorial motifs, including Carrasco’s role, as a framework for the control-versus-acceptance dynamic.",
+                "search_url": "https://scholar.google.com/scholar?q=Sullivan%2C+Henry+W.+Grotesque+Purgatory%3A+A+Study+of+Cervantes%27s+Don+Quixote%2C+Part+II+1996"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "Scholarship on Sansón Carrasco commonly treats him as a self-conscious strategist whose schemes depend on wit, disguise, and theatrical control, but who is also repeatedly humbled by Don Quixote’s unpredictability and by the limits of manipulation. Critics of the novel’s second part especially note that Carrasco’s interventions become more chastened and pragmatic even as he remains committed to ending Quixote’s adventures and restoring social order.",
+            "reasoning": "Carrasco is a well-studied secondary character, and criticism consistently treats his staged disguises, flattery, and chivalric combats as attempts to manage and cure Don Quixote, while noting the ironic failure and reversal of those schemes. This supports the axis's movement from confident manipulation toward chastened failure, though few critics frame it as a fully developed psychological arc.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Twayne Publishers",
-                "relevance": "Riley discusses Sansón Carrasco as an intelligent but ultimately limited planner whose attempts to control Don Quixote through stratagems expose both his confidence and his growing awareness of the difficulty of reforming him.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close reads Carrasco as a comic agent of correction whose schemes are marked by tactical cleverness but also by repeated reversals that temper his self-assurance without eliminating his reforming purpose.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
                 "author": "Mancing, Howard",
-                "title": "Cervantes Encyclopedia",
+                "title": "The Cervantes Encyclopedia",
                 "year": 2004,
                 "publication": "Greenwood Press",
-                "relevance": "The entry on Sansón Carrasco frames him as a would-be controller of Quixote who learns, through failure and counter-failure, the practical limits of intervention while remaining devoted to closure.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes+Encyclopedia+2004"
+                "url": null,
+                "relevance": "Provides a synthetic account of Sansón Carrasco as the bachelor who tries to cure Don Quixote through deception and staged chivalric encounters, and of the comic failure of those schemes.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              },
+              {
+                "author": "Parr, James A.",
+                "title": "Don Quixote: An Anatomy of Subversive Discourse",
+                "year": 1988,
+                "publication": "Juan de la Cuesta",
+                "url": null,
+                "relevance": "Analyzes Part II's ironic structure and Carrasco's manipulative fictions as attempts at control that the text repeatedly subverts.",
+                "search_url": "https://scholar.google.com/scholar?q=Parr%2C+James+A.+Don+Quixote%3A+An+Anatomy+of+Subversive+Discourse+1988"
               }
             ]
           }
@@ -323,160 +334,145 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_03",
-      "dimension_label": "skepticism-gravity",
-      "axis_name": "From amused skepticism to practical acceptance",
-      "pole_start": "Begins skeptical, amused, and somewhat detached, treating the Quixote world as something to analyze, mock, or manage from the outside.",
-      "pole_end": "Ends in practical acceptance of what cannot be controlled, especially once death and closure supersede further manipulation.",
+      "dimension_label": "Benevolence vs Vengeance",
+      "axis_name": "From Benevolent Cure to Vengeful Payback to Self-Justifying Custodianship",
+      "pole_start": "Carrasco frames his manipulations as benevolent correction: he presents himself as a conscientious friend and physician who must urge, persuade, and manage Don Quixote for Quixote's own good.",
+      "pole_end": "After a vengeful phase and revised schemes, he returns to a benevolent self-justification as executor and elegist; he honors Quixote in death but never acknowledges the moral cost of his own manipulation.",
       "confidence": "medium",
       "source": "both",
-      "arc_direction": "positive",
+      "arc_direction": "ambivalent",
       "trajectory": [
         {
-          "phase": "Comic skepticism",
+          "phase": "Benevolent manager and schemer",
           "chapter_range": [
-            103,
-            105
+            55,
+            60
           ],
-          "position_description": "He doubts Sancho's governorship and treats the surrounding events as theatrical, dubious, or enchantment-like, with lively comic skepticism.",
+          "position_description": "He presents his interference as prudence and care, builds trust through flattery and literary talk, and encourages the sally as a controlled cure.",
           "key_moments": [
-            "Chapter 103: astonished curiosity about Sancho's letters and gifts",
-            "Chapter 105: reported doubt about Sancho's governorship"
+            "Cultivates Quixote and Sancho as a knowing friend.",
+            "Claims he would burden his conscience if he did not urge Quixote.",
+            "Encourages the third sally and presents himself as an oracle of Quixote's destiny.",
+            "Secretly arranges to follow and manage the sally."
           ]
         },
         {
-          "phase": "Skepticism under pressure",
+          "phase": "Humiliated avenger",
           "chapter_range": [
-            118,
-            126
+            65,
+            69
           ],
-          "position_description": "He continues to interpret events rationally, but repeated failure makes his skepticism more pragmatic than playful, and he increasingly accommodates what he cannot reverse.",
+          "position_description": "After defeat and exposure, his charitable aim collapses into resentment; he openly wants to thrash Quixote and rationalizes his own sanity against Quixote's madness.",
           "key_moments": [
-            "Chapter 118: corrective intervention against Don Quixote",
-            "Chapter 126: accepts the pastoral scheme to keep Don Quixote home"
+            "Is unhorsed and forced to confess Dulcinea's superiority.",
+            "Tells Tom Cecial he now wants revenge rather than a cure.",
+            "Stays behind meditating revenge while Quixote explains away the disguise as enchantment."
           ]
         },
         {
-          "phase": "Acceptance of finality",
+          "phase": "Disciplined corrector and magnanimous victor",
           "chapter_range": [
-            127,
+            117,
+            118
+          ],
+          "position_description": "He reframes his mission as a disciplined, benevolent correction: a formal challenge with merciful terms rather than public humiliation or personal vengeance.",
+          "key_moments": [
+            "Challenges Don Quixote as the Knight of the White Moon.",
+            "Spares Quixote's life and Dulcinea's honor.",
+            "Prescribes retirement as a physician-like cure.",
+            "Frames his deception to Don Antonio as a cure for Quixote's madness and asks for secrecy."
+          ]
+        },
+        {
+          "phase": "Custodial respect and self-justifying physician",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "At the deathbed, skepticism yields to acceptance of the ordinary final truth of Don Quixote's death, and Carrasco helps certify closure rather than prolong interpretive contest.",
+          "position_description": "His corrective project gives way to companionship, respect, and executor duties, but he still justifies his fictions as care and tries to keep Quixote inside the therapeutic fiction.",
           "key_moments": [
-            "Chapter 127: witnesses the death and helps secure the official ending"
+            "Embraces Don Quixote and promotes the pastoral scheme as a cure.",
+            "Urges Quixote to 'be rational' when Quixote announces sanity.",
+            "Endorses Sancho's denial of death.",
+            "Is appointed executor and composes an epitaph honoring Quixote."
           ]
         }
       ],
-      "evidence_summary": "Carrasco never stops being skeptical, but his skepticism becomes less comic and more practical. The final movement is toward acceptance of limits and the end of intervention.",
+      "evidence_summary": "Both sets see oscillation rather than clean moral conversion: benevolent cure, vengeful humiliation, disciplined correction, and finally custodial care. The recurrence of vengeance and self-justification makes the arc morally ambivalent rather than a clean ethical transformation.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Sansón Carrasco is often read as a figure whose initial stance is detached, strategic, and amusedly skeptical: he treats Don Quixote as an object of experiment, correction, or comic management rather than as a moral reality demanding inward commitment. Scholarship on the novel also supports the idea that his later position is shaped by practical limits and by the gravity of closure, especially in the second part where the logic of intervention gives way to recognition of what cannot be controlled. This makes the axis plausible as an intrapersonal arc grounded in published criticism, even if scholars more often describe it in terms of parody, control, and failed mastery than explicit “acceptance.”",
+            "reasoning": "The axis is supported by psychological and character-centered Cervantes criticism that treats Sansón Carrasco as a self-appointed corrector whose interventions mix benevolent friendship with wounded vanity and a desire to punish Quixote. Scholarship on the Knight of the Mirrors and Knight of the White Moon episodes also traces Carrasco's shift from corrective scheming to humiliating defeat and revised plotting, which underpins the proposed arc from benevolence to vengeance to self-justifying custodianship.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the self-conscious comic design of Don Quixote and the role of characters like Sansón Carrasco in managing, testing, and interpreting Quixote from an external, quasi-critical position.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close treats the comic intelligence of the novel as involving characters who approach Quixote with irony and practical calculation, which fits Sansón Carrasco's skeptical, managerial stance.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Offers a psychological reading of Carrasco's character and motives, including his self-appointed corrective role and vanity.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
+                "year": 1982,
+                "publication": "Columbia: University of Missouri Press",
+                "url": null,
+                "relevance": "Examines the Knight of the Mirrors and Knight of the White Moon episodes as Carrasco's staged interventions, tracing his movement from corrective scheme to defeat and revised plotting.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall a specific, verifiable published study that tracks Sansón Carrasco's internal moral trajectory from benevolent therapeutic manipulation to vengeful payback and back to self-justifying custodianship. Scholarship on Carrasco tends to treat him as an ironic narrative device, a would-be controller of Quixote's fiction, or a comic meddler rather than as a character whose ego development is analyzed along this benevolence/vengeance axis.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in scholarship that reads Sansón Carrasco as a therapeutic deceiver and surrogate author whose interventions are framed as curing Quixote but carry coercive, self-justifying motives. The exact 'vengeful' middle phase is more interpretive, but critics discuss the movement from friendly correction to punitive role-play and his final custodial/elegiac posture.",
+            "citations": [
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Don Quixote: The Quest for Modern Fiction",
+                "year": 1990,
+                "publication": "Twayne Publishers",
+                "url": null,
+                "relevance": "Analyzes Part II's therapeutic schemes and the moral ambiguity of characters like Sansón Carrasco who manipulate Quixote in the name of cure.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Don+Quixote%3A+The+Quest+for+Modern+Fiction+1990"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Mancing's structural account of the novel helps support readings of Sansón Carrasco as a functionally external agent whose interventions shift from comic manipulation toward the limits of control.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "url": null,
+                "relevance": "Discusses Carrasco's chivalric role-play as a means of controlling Quixote, illuminating the self-justifying nature of his interventions.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               },
               {
                 "author": "El Saffar, Ruth",
                 "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
                 "year": 1975,
                 "publication": "University of North Carolina Press",
-                "relevance": "El Saffar's emphasis on distance and control is directly relevant to Sansón Carrasco's early detachment and to the eventual surrender of such control before death and closure.",
+                "url": null,
+                "relevance": "Examines Carrasco's attempts to control Quixote's story and his role as a surrogate author, supporting the axis's concern with custodianship and self-justification.",
                 "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
-              }
-            ]
-          },
-          "psychological": {
-            "label": "Psychological Critic",
-            "verdict": true,
-            "reasoning": "Published criticism does support reading Sansón Carrasco as a figure who begins in amused, managerial detachment—treating Don Quixote as an object of experiment, mockery, and control—and who is later forced into a more chastened recognition of limits. Scholarship on the novel often frames him as a self-conscious manipulator whose schemes collapse into practical accommodation, especially when the ending of the romance and Don Quixote’s death make further intervention impossible.",
-            "citations": [
+              },
               {
                 "author": "Riley, E. C.",
                 "title": "Don Quixote",
                 "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Sansón Carrasco as an instrumental, self-aware meddler in the Quixote plot, a role that aligns with the axis’s starting point of amused skepticism and external control.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close’s account of Cervantine comedy helps situate Carrasco as a practical, ironic agent whose attempts to master Don Quixote are undercut by the novel’s larger movement toward limits and closure.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing treats Carrasco as part of the novel’s self-reflexive machinery, a character whose schemes depend on detached observation and whose eventual failure points toward a more realistic acceptance of what cannot be controlled.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              }
-            ]
-          },
-          "historical_cultural": {
-            "label": "Historical / Cultural Critic",
-            "verdict": true,
-            "reasoning": "Scholarship on Sansón Carrasco commonly treats him as a self-conscious, managerial reader of Don Quixote who begins by trying to outwit, regulate, or mock the knight from a position of amused detachment. At the same time, critical discussions of the novel’s ending often note that Carrasco’s schemes are finally overtaken by the gravity of Don Quixote’s death and the limits of manipulation, which makes this arc of skeptical control giving way to practical acceptance a plausible scholarly axis.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of Cervantes’ novel discusses Sansón Carrasco as a figure of practical intelligence and intervention, useful for reading his initial stance as detached management rather than full identification.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
                 "publication": "Cambridge University Press",
-                "relevance": "Close’s broader account of Quixote criticism helps frame Carrasco as part of the novel’s self-aware social and interpretive machinery, including the movement from comic manipulation toward recognition of limits.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the structural role of characters like Sansón Carrasco in the novel’s comic-experimental design, supporting the idea that Carrasco begins as an external analyst and participant in the game around Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Cascardi, Anthony J.",
-                "title": "The Limits of Illusion: A Critical Study of Don Quixote",
-                "year": 1985,
-                "publication": "University of California Press",
-                "relevance": "Cascardi’s emphasis on illusion and its limits aligns with readings of Carrasco’s trajectory toward accepting what cannot be controlled, especially in the novel’s closing movement.",
-                "search_url": "https://scholar.google.com/scholar?q=Cascardi%2C+Anthony+J.+The+Limits+of+Illusion%3A+A+Critical+Study+of+Don+Quixote+1985"
+                "url": null,
+                "relevance": "Reads Carrasco's benevolent deception and later role-play as part of Cervantes's exploration of moral ambiguity and therapeutic fiction-making.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               }
             ]
           }
@@ -486,126 +482,184 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_04",
-      "dimension_label": "irony-gravity",
-      "axis_name": "From playful irony to solemn containment",
-      "pole_start": "Starts playful, teasing, and socially witty, using irony as a mode of control and performance.",
-      "pole_end": "Ends sober, restrained, and funerary in tone, using composure to contain grief and finalize Don Quixote's story.",
-      "confidence": "medium",
-      "source": "psych_only",
-      "arc_direction": "positive",
+      "dimension_label": "Mastermind vs Witness",
+      "axis_name": "From Clever Mastermind to Humbled Witness with Limited Self-Awareness",
+      "pole_start": "Carrasco sees himself as the clever social performer, indispensable insider, secret director, and architect of Don Quixote's destiny; he has little awareness that his staged deceptions mirror the fictions he criticizes in Quixote.",
+      "pole_end": "He accepts a final role as witness, executor, and elegist rather than victor over Quixote's madness; his epitaph concedes Quixote died sane, but he never applies that recognition to his own manipulations, vanity, or theatrical self-fabrication.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
       "trajectory": [
         {
-          "phase": "Ironical performance",
+          "phase": "Mastermind self-image and unselfconscious scheming",
           "chapter_range": [
-            56,
+            55,
             60
           ],
-          "position_description": "He enjoys verbal play, flattery, and comic management of others; irony is his main social tool.",
+          "position_description": "He enjoys seeing himself as a skilled puppeteer managing Quixote's vanity, Sancho's touchiness, and the housekeeper's fears while believing himself the lucid physician of a madman.",
           "key_moments": [
-            "Chapters 56-57: witty conversation and teasing",
-            "Chapter 60: playful but manipulative encouragement of Don Quixote"
+            "Uses flattery and literary praise to become Don Quixote's trusted confidant.",
+            "Manages Sancho through tactical flattery and retreat.",
+            "Promises the housekeeper miracles while secretly encouraging Quixote's departure.",
+            "Enjoys being the bearer of literary news and the knowing intermediary."
           ]
         },
         {
-          "phase": "Irony under strain",
+          "phase": "Exposed failure without insight",
           "chapter_range": [
-            67,
+            65,
             68
           ],
-          "position_description": "His irony remains, but it is shadowed by humiliation and anger; the comic mask does not disappear, but it becomes less carefree.",
+          "position_description": "His self-image is wounded by defeat, exposure, and forced submission; he becomes a beaten plotter who rationalizes failure and converts shame into resentment, missing the mirror held up by Tom Cecial's question about who is madder.",
           "key_moments": [
-            "Chapter 68: he is physically hurt and meditates vengeance"
+            "Is defeated and unmasked as the Knight of the Mirrors.",
+            "Is forced to submit to Don Quixote's terms.",
+            "Admits his vengeful motive to Tom Cecial.",
+            "Accepts Quixote's enchanter explanation to save face."
           ]
         },
         {
-          "phase": "Solemn closure",
+          "phase": "Discreet tactician and clinical skeptic",
           "chapter_range": [
-            127,
+            103,
+            118
+          ],
+          "position_description": "He partially restores his self-image through a successful, restrained victory, chooses anonymity over glory, and sees himself as a physician to Quixote's madness while never testing his own reality.",
+          "key_moments": [
+            "Questions the page and calls Sancho's government a delusion.",
+            "Defeats Don Quixote as the Knight of the White Moon.",
+            "Refuses to linger or be identified.",
+            "Explains his plan to Don Antonio as a benevolent cure.",
+            "Laughs at the duke's mockeries without seeing himself as a comparable fabricator."
+          ]
+        },
+        {
+          "phase": "Witness, elegist, and deathbed flicker",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "The final chapter places him in a serious, restrained role, no longer as a prankish strategist but as a witness to death and guardian of narrative finality.",
+          "position_description": "His corrective role becomes irrelevant when Quixote's own oath and final lucidity take over; he accepts the role of executor and memorialist, with only a displaced flicker of insight in the epitaph.",
           "key_moments": [
-            "Chapter 127: bedside witness, will-management, epitaph, and closure"
+            "Welcomes Don Quixote home and proposes a shared pastoral life.",
+            "Urges Quixote to 'be rational' when Quixote announces his reason has returned.",
+            "Hears Quixote renounce chivalric madness.",
+            "Is appointed executor and composes an epitaph conceding that Quixote died sane without confessing his own role in the fictions."
           ]
         }
       ],
-      "evidence_summary": "This axis is a useful supplement from the psychological summary: it isolates the tonal shift from comic irony to grave responsibility, which is present in the event-based material but not fully foregrounded there.",
+      "evidence_summary": "Set A tracks the shift from mastermind self-image to humbled witness and elegist; Set B stresses that self-awareness remains minimal and displaced. Merged, Carrasco's role changes more than his insight: he memorializes Quixote without recognizing his own participation in the fictions that shaped him.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Published scholarship on Don Quixote does support reading Sansón Carrasco as a figure whose irony is initially playful, teasing, and socially performative, and whose later role in the novel’s conclusion is marked by restraint and a more sober, containing function. Structural and character-function studies of the novel regularly treat Carrasco as an agent of comic control who becomes implicated in the closing containment of Don Quixote’s story, especially in relation to the final defeat and the funeral-like tonal closure. The axis is therefore grounded, though the exact psychological phrasing is more interpretive than explicitly standardized in the criticism.",
+            "reasoning": "The axis is grounded in Cervantes scholarship that reads Sansón Carrasco as a reader-critic and social performer whose staged fictions in Part II recoil upon him, turning his author-like manipulation into humiliation and a witnessing role. Critics also emphasize the ironic gap between Carrasco's self-image as clever director and his limited recognition of his own theatrical self-fabrication, which supports the proposed intrapersonal arc.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
+                "author": "Riley, E. C.",
                 "title": "Cervantes's Theory of the Novel",
                 "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sansón Carrasco as a comic and controlling presence in the narrative economy of Don Quixote, helping support the idea that his irony functions as social performance and narrative management.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats the novel’s comic agents, including Carrasco, in terms of the shifting tonal and ethical control of the narrative, which is relevant to the move from teasing irony toward more sober closure.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Analyzes Carrasco as a reader-critic whose schemes reflect Cervantes's irony about fiction, criticism, and self-deception.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes Carrasco as part of the novel’s structural machinery, especially the comic manipulation of Don Quixote and the later containment of his story, which aligns with the axis’s end point.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "publication": "Columbia: University of Missouri Press",
+                "url": null,
+                "relevance": "Traces Carrasco's chivalric masquerades and defeat, emphasizing the gap between his intended mastery and his actual humiliation.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "Chapel Hill: University of North Carolina Press",
+                "url": null,
+                "relevance": "Reads Carrasco as an author-like manipulator whose attempted control is exposed and limited by the narrative itself.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford: Oxford University Press",
+                "url": null,
+                "relevance": "Situates Carrasco's pranks within Cervantine comic irony, supporting the reading of a self-fabricating performer who is ultimately humbled.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
-            "verdict": false,
-            "reasoning": "I cannot ground this specific intrapersonal arc for Sansón Carrasco in any real, verifiable published psychological criticism I can confidently cite. Scholarship on Carrasco more often treats him as an external comic foil, agent of deception, or structural device in Don Quixote rather than tracing a documented shift from playful irony to funerary solemnity within his own psyche.",
-            "citations": []
+            "verdict": true,
+            "reasoning": "The axis is grounded in a recognizable critical reading of Sansón Carrasco as a reader-critic who tries to stage-manage Don Quixote and is then humiliated into a secondary, witnessing role. Cervantes scholarship on narrative control, role-playing, and comic irony supports the claim that Carrasco’s cleverness is undercut without his achieving genuine self-knowledge about his own fictionalizing.",
+            "citations": [
+              {
+                "author": "Riley, Edward C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Treats Carrasco as a literary-critical character whose cleverness and role-playing are ironized by Cervantes, supporting the mastermind-to-witness trajectory.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+              },
+              {
+                "author": "El Saffar, Ruth S.",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "Chapel Hill: University of North Carolina Press",
+                "url": null,
+                "relevance": "Analyzes Carrasco's attempts to control narrative and action, and the failure of those attempts, which is relevant to his limited self-awareness.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+S.+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
+                "year": 1982,
+                "publication": "Columbia: University of Missouri Press",
+                "url": null,
+                "relevance": "Discusses Carrasco's chivalric masquerade and humiliation in Part II, supporting the shift from would-be director to humbled witness.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              }
+            ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "Published scholarship does support reading Sansón Carrasco as a figure whose irony is initially playful, performative, and socially controlling, before he is drawn into a more sober register by the novel’s ending. Critics of Don Quixote’s comic social world and of Carrasco’s role as the Knight of the Mirrors / Knight of the White Moon help ground the claim that his wit is not merely external but tied to a changing self-presentation that culminates in restraint and funeral seriousness at the close of the novel.",
+            "reasoning": "The axis is broadly grounded in Cervantine criticism that reads Sansón Carrasco as a reader-critic and author-surrogate whose schemes to manage Don Quixote are ironized and ultimately fail. Scholarship supports the mastermind-to-defeat arc and Cervantes's ironic treatment of Carrasco's controlling fictions, though the precise phrase 'humbled witness' is an interpretive extension rather than a standard critical formula.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel’s comic structure and character dynamics is useful for understanding Carrasco’s early role as a teasing, socially strategic ironist whose interventions are part of the novel’s controlled play.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of his Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close situates Cervantes’s comedy in a culture of wit, disguise, and social performance, which supports reading Carrasco’s irony as a mode of control rather than simple mockery.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+his+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s discussion of the novel’s structural design and Carrasco’s repeated interventions helps support the arc from playful manipulation to the more contained, terminal posture he assumes at the end.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "Cervantes in the Middle: Realism and Reality in Don Quixote",
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
                 "year": 1975,
-                "publication": "University of Delaware Press",
-                "relevance": "Friedman’s account of Cervantes’s balancing of comic play and serious closure supports the idea that Carrasco’s final demeanor participates in the novel’s movement toward sober containment.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Cervantes+in+the+Middle%3A+Realism+and+Reality+in+Don+Quixote+1975"
+                "publication": "University of North Carolina Press",
+                "url": null,
+                "relevance": "Analyzes Part II's narrative control and reader-characters, including Sansón Carrasco's attempts to direct Quixote and the ironic limits of that authorial manipulation.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Discusses Sansón Carrasco as a reader-critic within Part II and Cervantes's irony about fictional control, supporting the mastermind/self-awareness axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+              },
+              {
+                "author": "Allen, John J.",
+                "title": "Don Quixote: Hero or Fool? A Study in Narrative Technique",
+                "year": 1969,
+                "publication": "University of Florida Press",
+                "url": null,
+                "relevance": "Examines Carrasco's role in the narrative's schemes and defeats, relevant to his shift from manipulator to failed executor.",
+                "search_url": "https://scholar.google.com/scholar?q=Allen%2C+John+J.+Don+Quixote%3A+Hero+or+Fool%3F+A+Study+in+Narrative+Technique+1969"
               }
             ]
           }
@@ -619,180 +673,166 @@
       "axis_id": "final_rel_01",
       "source_character": "Sansón Carrasco",
       "target_character": "Don Quixote",
-      "dimension_label": "control-respect",
-      "axis_name": "From manipulative management to chastened respect",
-      "pole_start": "Begins as a clever manipulator who sees Don Quixote as a problem to be managed through disguise, performance, and strategic deception.",
-      "pole_end": "Ends with respect and pity, treating Don Quixote as a dignified, suffering man whose death should be witnessed and honored, even while Carrasco still wants the official story to close on his terms.",
+      "dimension_label": "Trust and Concealment",
+      "axis_name": "From Trusted Confidant to Concealed Adversary to Reconciled Executor",
+      "pole_start": "Mutual trust and intimacy: Don Quixote accepts Carrasco as an admiring friend, literary confidant, and secret adviser, while Carrasco gains access and leverage through flattery and concealed intentions.",
+      "pole_end": "Reconciled trust and posthumous esteem: Don Quixote appoints Carrasco as executor, and Carrasco embraces the role of companion, mourner, and elegist, even though his earlier deceptions remain hidden.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "positive",
+      "arc_direction": "ambivalent",
       "trajectory": [
         {
-          "phase": "Playful manipulation",
+          "phase": "Rapport, confidant, and celebrity curiosity",
           "chapter_range": [
             55,
             60
           ],
-          "position_description": "He flatters and manages Don Quixote, keeping him engaged while secretly advancing a plan.",
+          "position_description": "Carrasco builds trust through theatrical flattery, literary discussion, advice, and secrecy. Don Quixote treats him as a trusted friend and confidant while Carrasco secretly plans to manage the sally.",
           "key_moments": [
-            "Chapters 56-57: witty flattery and conversational steering",
-            "Chapter 60: pretends to encourage the third sally while actually orchestrating it"
+            "Kneels before Don Quixote and extravagantly praises him and the published history.",
+            "Reports the book's critics and draws out Don Quixote's defenses.",
+            "Advises the next sally and is asked to keep the departure secret.",
+            "Accepts the commission to compose acrostic verses for Dulcinea.",
+            "Dismisses the housekeeper's fears while conspiring with the curate and barber."
           ]
         },
         {
-          "phase": "Adversarial correction",
+          "phase": "Concealed antagonism and disguised rival",
           "chapter_range": [
-            67,
-            68
+            65,
+            69
           ],
-          "position_description": "The Knight of the Mirrors scheme turns the relationship openly adversarial, though still framed as correction rather than hatred.",
+          "position_description": "Carrasco becomes a hidden adversary through the Knight of the Mirrors disguise. After defeat, Don Quixote's belief in Carrasco's friendship ironically preserves the mask while Carrasco privately turns toward revenge.",
           "key_moments": [
-            "Chapter 67: Don Quixote recognizes him despite the disguise",
-            "Chapter 68: Carrasco is humiliated and becomes more determined"
+            "As the Knight of the Mirrors, provokes Don Quixote into combat.",
+            "Is defeated and exposed as Carrasco.",
+            "Is forced to confess Dulcinea's superiority and obey Quixote's terms.",
+            "Don Quixote explains the disguise as enchantment in Carrasco's favor, preserving the friendship fiction."
           ]
         },
         {
-          "phase": "Corrective paternalism",
+          "phase": "White Moon concealment",
           "chapter_range": [
-            118,
-            126
+            117,
+            118
           ],
-          "position_description": "He now sees Don Quixote as someone to be cured and returned home, not merely outwitted; his intervention becomes more paternal and containment-oriented.",
+          "position_description": "Carrasco refuses open identity and replaces personal friendship with concealed antagonism managed through chivalric form. He defeats Quixote mercifully but anonymously.",
           "key_moments": [
-            "Chapter 118: the Knight of the White Moon defeat is meant to force retirement",
-            "Chapter 126: he accommodates the pastoral fantasy to keep Don Quixote home"
+            "Challenges Don Quixote as the Knight of the White Moon.",
+            "Defeats him while sparing his body and Dulcinea's honor.",
+            "Leaves without lingering or being identified.",
+            "Reveals his identity only to Don Antonio and asks secrecy."
           ]
         },
         {
-          "phase": "Respectful closure",
+          "phase": "Reconciliation and executorship",
           "chapter_range": [
-            127,
+            126,
             127
           ],
-          "position_description": "At death, the relationship softens into respectful witness. He helps define Don Quixote as Alonso Quixano, sane and finished.",
+          "position_description": "Concealed antagonism gives way to an embrace, shared pastoral play, and finally to Quixote's trust in Carrasco as executor. Carrasco memorializes him after death.",
           "key_moments": [
-            "Chapter 127: bedside presence, will, repentance, and death"
+            "Welcomes the returning Don Quixote with open arms.",
+            "Applauds and joins the pastoral plan as 'Carrascon'.",
+            "Witnesses Quixote's rational confession and is appointed executor.",
+            "Composes Don Quixote's epitaph."
           ]
         }
       ],
-      "evidence_summary": "Carrasco's relationship with Don Quixote moves from covert control to failed correction, then to paternalistic containment and finally respectful memorialization. The final chapters decisively reframe the relationship.",
+      "evidence_summary": "Trust and concealment alternate: Carrasco first earns Quixote's confidence, then hides antagonism under disguise, and finally returns to a trusted companion and executor role after Quixote's oath and death. The reconciliation is real, but the earlier deceptions remain concealed.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sansón Carrasco as a structurally ambivalent agent: critics regularly read him first as a tactical manipulator who uses disguise and staged encounters to control Don Quixote, and later as a figure whose defeat and proximity to death produce pity, admiration, or chastened recognition. The claim that he still seeks to manage the narrative even at the end is also consistent with narratological readings of the novel’s competing frames and interventions.",
+            "reasoning": "The Carrasco–Quixote relationship is a recognized site of Cervantine irony and narrative self-consciousness: criticism treats Sansón Carrasco first as an internal reader/confidant who exploits his knowledge of Part I, then as a masquerading adversary whose deceptions are meant to cure Quixote, and finally as part of the ending’s elegiac closure. The proposed arc is therefore grounded in published scholarship, though the precise 'reconciled executor' formulation is more textual than a standard critical formula.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Sansón Carrasco’s role as a deliberate strategist who enters the plot through disguise and manipulation, while also noting the novel’s later tonal shift toward the tragedy and dignity of Don Quixote’s end.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Treats Sansón Carrasco as an internal reader and critic whose access to the published Part I makes him a literary confidant and manipulator of Don Quixote.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats Carrasco as part of the novel’s adversarial but interpretively serious relation to Don Quixote, useful for the claim that the relationship moves from management and opposition toward a more chastened recognition of Quixote’s dignity.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the Carrasco episodes as narratively engineered confrontations, showing how disguise, performance, and strategic deception function as mechanisms of control within the relationship.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "Unfinished Business: The Endings of Don Quixote",
-                "year": 2007,
-                "publication": "University of Toronto Press",
-                "relevance": "Friedman is relevant to the ending of the axis because he examines how the novel’s conclusion stages Don Quixote’s death as an event that must be witnessed, framed, and managed, preserving Carrasco’s continuing desire to control the official closure.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Unfinished+Business%3A+The+Endings+of+Don+Quixote+2007"
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Analyzes Carrasco's benevolent deceptions and masquerades as comic-therapeutic attempts to discipline Don Quixote, supporting the concealed-adversary phase of the relationship.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sansón Carrasco as a relational foil to Don Quixote: critics repeatedly read him as a strategic manager of Quixote’s delusion who later becomes implicated in the knight’s suffering and mortality. The specific movement from clever manipulation to chastened respect is especially plausible in readings that track Carrasco’s failed attempts at control and the novel’s late emphasis on pity, witness, and dignity around Don Quixote’s death.",
+            "reasoning": "The axis is supported as a critical reading of Sansón Carrasco's role: published scholarship treats him as an ambiguous friend-reader whose flattery and disguised interventions are both manipulative and therapeutic, and who is finally implicated in Don Quixote's death, will, and memorial verses. The 'trusted confidant' pole is somewhat interpretive, since critics stress Carrasco's function as literary mediator and deceiver rather than deep emotional intimacy, but the broader trajectory from confidential access to concealed opposition to reconciling executor/elegist is recognizable in Cervantes criticism.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study discusses Sansón Carrasco’s role in the novel’s plot as an agent who tries to manage and correct Don Quixote through deception, making him a key figure in the evolving power dynamic between the two men.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Márquez Villanueva, Francisco",
+                "title": "Personajes y temas del Quijote",
+                "year": 1975,
+                "publication": "Madrid: Taurus",
+                "url": null,
+                "relevance": "Contains an extended study of Sansón Carrasco that analyzes his role as flattering friend, concealed manipulator, and agent in Don Quixote's cure and final reconciliation.",
+                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Discusses Sansón Carrasco as a reader-critic and literary confidant whose interventions shape Don Quixote's self-understanding and the novel's reflection on fiction and deception.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "Chapel Hill: University of North Carolina Press",
+                "url": null,
+                "relevance": "Treats Carrasco as a reader/author surrogate whose manipulations of Don Quixote blur the line between trusted intimacy and adversarial control.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               },
               {
                 "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close treats Carrasco as part of the comic and corrective machinery surrounding Don Quixote, a framework that supports reading his relationship with Don Quixote as moving from manipulation toward a more chastened awareness of Quixote’s humanity.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes Carrasco’s disguises and interventions as narrative strategies that place him in direct adversarial relation to Don Quixote, which helps ground the axis’s emphasis on disguise, performance, and strategic deception.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroine's Voice: Narrative Discourse and Transformations of the Heroine in Cervantes",
-                "year": 1998,
-                "publication": "University of Missouri Press",
-                "relevance": "Although broader in scope, Friedman’s work on Cervantine narrative dynamics is useful for understanding how characters like Carrasco become entangled in the novel’s late ethical turn toward pity and recognition rather than simple comic correction.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroine%27s+Voice%3A+Narrative+Discourse+and+Transformations+of+the+Heroine+in+Cervantes+1998"
+                "title": "Don Quixote",
+                "year": 1990,
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Provides a critical account of Carrasco's Part II role as therapeutic deceiver and friend, including his final relation to Don Quixote's death and literary memorialization.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Don+Quixote+1990"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sansón Carrasco as a strategic, often comic manipulator who repeatedly tries to control Don Quixote through disguise and staged encounters, while later criticism also notes the pathos of Carrasco’s final dealings with him. The relationship is commonly read as an evolving power struggle that shifts from mockery and management toward a more chastened recognition of Don Quixote’s dignity and mortality, even if Carrasco still wants to manage the narrative outcome.",
+            "reasoning": "The axis is a defensible synthesis of Carrasco's textual roles: Cervantine criticism identifies him as a reader-critic who gains intimacy with Don Quixote's literary project before becoming the disguised Knight of the Mirrors/White Moon, and reference scholarship records his final role as executor. The 'reconciliation' is an interpretive emphasis, but the trust/concealment dynamic is grounded in published commentary on Carrasco's function rather than invented.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "The entry on Sansón Carrasco traces his roles as literary confidant, disguised adversary (Knight of the Mirrors/White Moon), and executor of Don Quixote's will, directly supporting the axis's arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              },
+              {
+                "author": "Riley, E. C.",
                 "title": "Cervantes's Theory of the Novel",
                 "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sansón Carrasco as part of the novel’s self-conscious games of deception and control, helping support the claim that Carrasco initially treats Don Quixote as a problem to be managed.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close analyzes the comic and corrective impulses behind Carrasco’s interventions, including the disguises and stratagems used against Don Quixote, which fits the axis’s starting point.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing treats Carrasco’s repeated interventions as a structured relational contest with Don Quixote, illuminating the shift from manipulation to a more complex, morally shaded final attitude.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "Cervantes in the Middle: Realism, Modernity, and the Baroque",
-                "year": 1998,
-                "publication": "Bucknell University Press",
-                "relevance": "Friedman reads the later Carrasco episodes in terms of the novel’s growing seriousness and pity, supporting the idea that Carrasco’s final relation to Don Quixote includes respect for his suffering and death.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Cervantes+in+the+Middle%3A+Realism%2C+Modernity%2C+and+the+Baroque+1998"
+                "publication": "Clarendon Press",
+                "url": null,
+                "relevance": "Riley's analysis of Part II's reader-critics, including Carrasco, illuminates how literary intimacy and concealed manipulation shape Don Quixote's trust.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               }
             ]
           }
@@ -803,295 +843,186 @@
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "Sansón Carrasco",
-      "target_character": "Sancho Panza",
-      "dimension_label": "teasing-recognition",
-      "axis_name": "From comic patronage to cautious respect",
-      "pole_start": "Initially treats Sancho as a comic subordinate or amusing interlocutor, engaging him with wit and some condescension.",
-      "pole_end": "Ends with cautious, practical respect for Sancho as part of the shared effort to contain Don Quixote, though the relationship remains lightly comic rather than intimate.",
-      "confidence": "medium",
+      "target_character": "Don Quixote",
+      "dimension_label": "Esteem and Antagonism",
+      "axis_name": "From Amused Superiority to Resentful Rivalry to Respectful but Patronizing Memorial",
+      "pole_start": "Playful superiority: Carrasco sees Don Quixote as vain, thin-skinned, credulous, and easy to influence; genuine esteem is low and masked by flattery.",
+      "pole_end": "Warm but patronizing posthumous esteem: Carrasco recognizes Quixote's dignified final lucidity only partially, memorializes him, and resolves antagonism into tribute while still treating him as a pitied patient.",
+      "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Teasing engagement",
+          "phase": "Amused superiority",
           "chapter_range": [
             55,
-            57
+            60
           ],
-          "position_description": "He jokes with Sancho and treats him as a comic equal worth sparring with verbally.",
+          "position_description": "Carrasco enjoys provoking Don Quixote's vanity and manipulating him. He regards Quixote as a vain dupe and himself as intellectually superior.",
           "key_moments": [
-            "Chapters 56-57: good-humored teasing and quick wit"
+            "Flatters Don Quixote while observing his susceptibility to admiration.",
+            "Draws out Don Quixote's defensive literary lecture.",
+            "Encourages the third sally while presenting himself as an oracle."
           ]
         },
         {
-          "phase": "Patronizing surprise",
+          "phase": "Humiliated antagonism",
           "chapter_range": [
-            60,
+            65,
             68
           ],
-          "position_description": "He is surprised by Sancho's bargaining and practical seriousness, which slightly increases his recognition of Sancho's intelligence even while he remains patronizing.",
+          "position_description": "Superiority turns into resentment after defeat. Don Quixote becomes a source of humiliation, and Carrasco's motive shifts from correction to vengeance.",
           "key_moments": [
-            "Chapter 60: surprise at Sancho's comic seriousness",
-            "Chapter 68: aftermath of the scheme keeps Sancho in the orbit of practical maneuvering"
+            "Is defeated and unmasked as the Knight of the Mirrors.",
+            "Is forced to submit to Don Quixote's terms.",
+            "Admits he wants to thrash Don Quixote out of pain and vengeance.",
+            "Meditates revenge after Tom Cecial leaves."
           ]
         },
         {
-          "phase": "Indirect practical respect",
+          "phase": "Offstage grievance and clinical contempt",
           "chapter_range": [
-            103,
+            69,
+            116
+          ],
+          "position_description": "Clinical contempt mixes with resentful rivalry. He wants Quixote humbled and his own theory vindicated.",
+          "key_moments": [
+            "Remains vengeful after his defeat.",
+            "Calls Quixote's world enchantment or delusion.",
+            "Plans another disguised correction."
+          ]
+        },
+        {
+          "phase": "White Moon victory and mercy",
+          "chapter_range": [
+            117,
+            118
+          ],
+          "position_description": "Victory softens contempt into martial courtesy and pity. He treats Don Quixote as an opponent to be corrected rather than destroyed.",
+          "key_moments": [
+            "Defeats Don Quixote as the Knight of the White Moon.",
+            "Spares Quixote's life and leaves Dulcinea's beauty unimpugned.",
+            "Prescribes a year of quiet and asks for secrecy."
+          ]
+        },
+        {
+          "phase": "Respectful but patronizing remembrance",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "Sancho becomes a figure whose letters, governorship, grief, and practical role must be taken seriously, even if Carrasco never becomes emotionally intimate with him.",
+          "position_description": "Carrasco's esteem rises as he witnesses Quixote's oath-bound return and final sanity, but he cannot fully accept Quixote's own account of his lucidity. He ends as a mourner and elegist rather than a rival.",
           "key_moments": [
-            "Chapter 103: investigates Sancho's governorship through letters and testimony",
-            "Chapter 105: continues to doubt the governorship while engaging with it",
-            "Chapter 127: Sancho's grief is part of the shared deathbed scene"
+            "Embraces Don Quixote and proposes a shared pastoral life.",
+            "Urges Quixote to 'be rational' when Quixote announces sanity.",
+            "Hears Quixote renounce chivalric madness.",
+            "Is appointed executor and composes an epitaph honoring Quixote."
           ]
         }
       ],
-      "evidence_summary": "Carrasco's relation to Sancho stays comic and indirect, but it develops from teasing condescension toward practical recognition of Sancho's intelligence and usefulness. This is a modest relational arc, not a deep emotional bond.",
+      "evidence_summary": "Carrasco moves from amused contempt for Don Quixote's vanity, through humiliating rivalry, to restrained correction and finally respectful memorialization. The net direction is positive, though his final esteem remains condescending and he never fully accepts Quixote's sanity.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is grounded in scholarship insofar as Sansón Carrasco is regularly read as a comic, quasi-patronizing interlocutor whose dealings with Sancho shift from mockery and manipulation toward a more pragmatic, strategically allied relation in the second part of the novel. Structural and narratological criticism of Don Quixote often treats their exchanges as part of the novel’s broader play of social hierarchy, comic doubling, and negotiated recognition rather than as a purely static friendship or enmity.",
+            "reasoning": "The proposed arc is grounded in Cervantine criticism that treats Sansón Carrasco as a reader-surrogate and mock-antagonist whose schemes move from comic manipulation to chivalric rivalry and finally to an epitaphic tribute. The exact wording 'patronizing' is an interpretive gloss, but the relational trajectory from amused superiority through resentment to memorializing respect is supported by scholarship on Carrasco's role as Knight of the Mirrors/White Moon and as final commentator on Quixote.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley’s classic study of Cervantes’s narrative method discusses the comic and structural roles of secondary figures such as Sansón Carrasco and Sancho, helping ground the idea of an evolving, strategically inflected relationship rather than a fixed hierarchy.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close analyzes the comic social dynamics of Don Quixote, including the way Sansón Carrasco’s wit and condescension toward Sancho participate in a broader pattern of teasing recognition and practical manipulation.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "The entry on Sansón Carrasco synthesizes his roles as amused manipulator, defeated rival, and final epitaph-writer, directly supporting the relational arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Mancing’s structural reading of the novel attends to the functional interplay among characters, including Sansón Carrasco and Sancho, as part of the novel’s shifting comic alliances and narrative counterweights.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "url": null,
+                "relevance": "Mancing analyzes Carrasco's chivalric disguises and defeats of Quixote, supporting the phase of resentful rivalry and antagonism.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes: Don Quixote",
+                "year": 1990,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Close discusses the novel's comic irony and Carrasco's scheming, including the closing memorial verses, supporting the shift from comic superiority to memorializing tribute.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes%3A+Don+Quixote+1990"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published criticism does support reading Sansón Carrasco and Sancho Panza as moving from comic, condescending exchange toward a more practical alliance in the project of containing Don Quixote. Scholarship on the novel’s social and comic dynamics often treats Sansón’s wit and Sancho’s growing tactical intelligence as part of a shifting relational field rather than a fixed hierarchy, which fits this axis well.",
+            "reasoning": "The broad relational trajectory is recognizable in Cervantes criticism: Sansón Carrasco is repeatedly treated as a reader-critic and mock-friend whose flattering manipulation of Quixote turns into a competitive scheme of knightly combat and finally into elegiac commemoration. However, the middle phase of 'resentful rivalry' is more interpretively contested than the axis implies, since many critics emphasize Carrasco's corrective, if patronizing, benevolence rather than genuine resentment. The axis is therefore grounded but not uniformly supported in its affective labels.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the novel’s comic self-consciousness and the Sansón Carrasco episodes in relation to Sancho’s increasing practical understanding, supporting the idea that their interaction shifts from mockery toward functional cooperation.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Entries on Sansón Carrasco and the Knight of Mirrors/White Moon trace his role as flattering manipulator, rival, and final memorialist of Quixote, supporting the axis's relational arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               },
               {
                 "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close treats the Sansón Carrasco–Sancho exchanges as part of Cervantes’s comic social play, where condescension and wit gradually give way to a more measured recognition of Sancho’s role in the anti-Quixotic enterprise.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Close discusses Carrasco's Part II role as a friend-critic whose schemes against Quixote are both corrective and competitive, illuminating the shift from amused superiority to antagonistic rivalry.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s structural reading of the novel includes the Sansón Carrasco plot as a coordinated effort that depends on Sancho’s participation, implying a relationship that becomes more practical and less purely patronizing over time.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Riley's account of Carrasco as an internal reader and critic helps explain the movement from condescending manipulation of Quixote's fiction to a contest over its control.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "Published scholarship on Don Quixote does support reading Sansón Carrasco’s relation to Sancho as moving from comic manipulation and condescension toward a more practical, tactical respect within the anti-Quixote project. Critics of the novel’s social dynamics often note that Carrasco’s interventions are mediated through wit, performance, and classed comedy, while Sancho increasingly becomes a necessary interlocutor rather than a mere butt of the joke. The relationship remains comic, but scholarship does recognize a shift toward functional cooperation and wary regard.",
+            "reasoning": "The axis is broadly grounded in scholarship on Part II: Sansón Carrasco is routinely analyzed as a reader-critic who begins by flattering and manipulating the already-famous Quixote, then becomes the disguised Knight of the Mirrors/White Moon whose attempts to 'cure' him generate rivalry and antagonism. The final phrase 'warm but patronizing memorial' is more interpretive, but it can be related to Carrasco's closing epitaph and to critical discussions of his condescending benevolence toward Quixote.",
             "citations": [
+              {
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Westport, CT: Greenwood Press",
+                "url": null,
+                "relevance": "The entry on Sansón Carrasco synthesizes his roles as neighbor, university bachelor, reader of Part I, flatterer, and disguised adversary, supporting the movement from amused superiority to rivalry.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Woodbridge: Tamesis",
+                "url": null,
+                "relevance": "Close discusses Part II's character dynamics and Carrasco's schemes to bring Quixote home, which illuminate the bachelor's shifting superiority, rivalry, and condescending benevolence.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
+              },
               {
                 "author": "Riley, Edward C.",
                 "title": "Cervantes's Theory of the Novel",
                 "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley’s discussion of the novel’s internal games of deception and counter-deception helps ground Carrasco’s evolving, strategically comic dealings with Sancho as part of a broader practical effort to manage Don Quixote.",
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Riley treats Carrasco as a knowing reader and critic within the fiction, useful for the axis's opening claim that Carrasco views Quixote with playful literary superiority masked by flattery.",
                 "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats the novel’s comic structures and the shifting social relations among its characters, supporting the view that Carrasco’s stance toward Sancho is initially patronizing but becomes more instrumentally respectful.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 2005,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s analysis of narrative technique and character interplay is relevant to the Carrasco–Sancho dynamic, especially the way Sancho becomes an indispensable participant in the practical containment of Don Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+2005"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "axis_type": "relational",
-      "axis_id": "final_rel_03",
-      "source_character": "Sansón Carrasco",
-      "target_character": "Curate and Barber",
-      "dimension_label": "alliance-coordination",
-      "axis_name": "From conspiratorial alliance to stable coordination",
-      "pole_start": "Begins already aligned with the curate and barber in the project of controlling Don Quixote.",
-      "pole_end": "Ends still aligned, with the alliance remaining stable and functional rather than emotionally deepening.",
-      "confidence": "medium",
-      "source": "psych_only",
-      "arc_direction": "flat",
-      "trajectory": [
-        {
-          "phase": "Shared scheme",
-          "chapter_range": [
-            60,
-            61
-          ],
-          "position_description": "He works with them to stage Don Quixote's departure and maintain the larger plan.",
-          "key_moments": [
-            "Chapter 60: the departure is arranged through a hidden scheme",
-            "Chapter 61: the plan continues offstage"
-          ]
-        },
-        {
-          "phase": "Renewed intervention",
-          "chapter_range": [
-            118,
-            123
-          ],
-          "position_description": "The alliance remains tactically useful as Carrasco returns in disguise to force Don Quixote's retirement.",
-          "key_moments": [
-            "Chapter 118: the Knight of the White Moon defeat",
-            "Chapter 123: retrospective explanation of the duke's plot and Carrasco's role"
-          ]
-        },
-        {
-          "phase": "Final closure",
-          "chapter_range": [
-            127,
-            127
-          ],
-          "position_description": "The broader network of management culminates in the orderly deathbed ending, with Carrasco still socially coordinated with the household's closure.",
-          "key_moments": [
-            "Chapter 127: will, confession, and final witness"
-          ]
-        }
-      ],
-      "evidence_summary": "This relationship is stable rather than transformative, but it matters because it supports Carrasco's agency. The curate and barber remain his practical collaborators throughout the anti-Quixote project.",
-      "literary_validation": {
-        "validation_tag": "valid_axis",
-        "evaluators": {
-          "structuralist": {
-            "label": "Structuralist / Narratologist",
-            "verdict": true,
-            "reasoning": "This relational axis is grounded in scholarship on Don Quixote’s comic counter-plot of surveillance and management, where Sansón Carrasco is not an isolated agent but part of a coordinated household-clerical effort to contain Don Quixote’s actions. Critics of the novel’s social and narrative machinery regularly treat the curate, barber, and Sansón as functionally aligned figures whose collaboration remains stable across the novel, even if the exact degree of intimacy among them is not usually the focus of analysis.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Discusses the novel’s structural management of Don Quixote through coordinated secondary characters, including the curate, barber, and Sansón Carrasco as part of a stable controlling network.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Own Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Reads the curate, barber, and Sansón Carrasco within the comic social logic of the novel, where their alliance functions as an ongoing strategy of correction and containment.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Own+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Analyzes the novel’s narrative structure in terms of coordinated interventions around Don Quixote, supporting the view that Sansón Carrasco remains aligned with the curate and barber in a functional alliance.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              }
-            ]
-          },
-          "psychological": {
-            "label": "Psychological Critic",
-            "verdict": true,
-            "reasoning": "This axis is grounded in scholarship that treats Sansón Carrasco as part of the curate-and-barber conspiracy to manage Don Quixote, with the three figures functioning as a coordinated social/psychological counterforce to Quixote’s delusion. The relationship is usually read less as a deepening intimacy than as a stable tactical alliance that persists across the novel, even as Carrasco’s methods become more elaborate and personally invested.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the curate and barber as organized agents of control around Don Quixote, a framework that supports reading Carrasco as entering an already coordinated alliance rather than forming a new bond from scratch.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close analyzes the curate, barber, and Sansón Carrasco as part of the novel’s practical counter-Quixotic machinery, which supports the idea of a stable functional alliance.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing treats Carrasco’s interventions alongside the curate and barber’s schemes, showing a coordinated strategy that remains structurally consistent across the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              }
-            ]
-          },
-          "historical_cultural": {
-            "label": "Historical / Cultural Critic",
-            "verdict": true,
-            "reasoning": "This axis is broadly grounded in scholarship on Don Quixote’s “friends” and their coordinated management of Don Quixote, especially the curate and barber’s alliance with Sansón Carrasco in the second part. Critics often treat Carrasco as entering an already established household strategy of control rather than forming a newly intimate bond, and the relationship remains functional and tactical rather than emotionally transformative. The specific claim that the alliance stays stable is a defensible reading, though scholarship more often emphasizes shifting tactics and comic rivalry than a fully settled coordination.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the curate and barber as part of the practical social world surrounding Don Quixote and the coordinated efforts to manage him, which supports reading Carrasco’s association with them as an alliance of control.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close analyzes the comic counter-strategies used by the curate, barber, and Carrasco against Don Quixote, showing their relationship as tactical coordination rather than deep personal attachment.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing treats Carrasco’s interventions alongside the curate and barber’s schemes as part of a shared narrative project of containment, which aligns with the axis’s emphasis on stable coordination.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               }
             ]
           }

@@ -4,323 +4,444 @@
     "intrapersonal": {
       "matched": [
         {
-          "set_a_axis": "From self-authoring knight to relationally embedded, chastened man",
-          "set_b_axis": "From self-authorizing knight to reconciled Christian self",
-          "overlap_description": "Both track a movement from self-made, mastery-seeking knightliness toward a more relational, humbled, and morally integrated final self."
+          "set_a_axis": "From self-sovereign heroic agency to repentant interdependence",
+          "set_b_axis": "From sovereign self-assertion to humble interdependence",
+          "overlap_description": "Both trace a movement from self-crowning chivalric agency and instrumental use of others toward dependence, repentance, and communal reconciliation."
         },
         {
-          "set_a_axis": "From total chivalric misreading to partial lucid self-recognition",
-          "set_b_axis": "From impermeable enchantment to lucid renunciation",
-          "overlap_description": "Both describe a gradual loosening of delusion, culminating in explicit renunciation at the end, though B emphasizes final lucidity more strongly."
+          "set_a_axis": "From self-sealing enchantment logic to lucid disenchantment",
+          "set_b_axis": "From enchantment-sustained certainty to lucid self-renunciation",
+          "overlap_description": "Both describe Don Quixote's romance-saturated certitude, his enchantment-based rationalizations, and his final recovery of reason and rejection of knight-errantry."
         },
         {
-          "set_a_axis": "From invulnerable grandeur to wounded but self-restoring dignity",
-          "set_b_axis": "From heroic self-myth to repentant self-knowledge",
-          "overlap_description": "Both capture the collapse of grandiose self-image into a chastened, morally serious self-understanding."
-        },
-        {
-          "set_a_axis": "From impulsive self-invention to disciplined moral obligation",
-          "set_b_axis": "From impulsive justice to disciplined moral judgment",
-          "overlap_description": "Both focus on the increasing formalization of his conduct from impulsive action toward rule-governed, ethically framed judgment and restraint."
+          "set_a_axis": "From invented knight-errant to reconciled mortal self",
+          "set_b_axis": "From honor-seeking renown to repentant Christian humility",
+          "overlap_description": "These are a loose match: A emphasizes the invented chivalric identity and title accumulation, while B emphasizes honor, fame, and public renown. Both end in the rejection of the chivalric self in favor of a humble Christian mortal identity."
         }
       ],
       "unique_to_a": [
         {
-          "axis": "From self-authoring knight to relationally embedded, chastened man",
-          "assessment": "artifact"
-        },
-        {
-          "axis": "From total chivalric misreading to partial lucid self-recognition",
-          "assessment": "artifact"
-        },
-        {
-          "axis": "From invulnerable grandeur to wounded but self-restoring dignity",
+          "axis": "From honor-driven blame-shifting to merciful self-accountability",
           "assessment": "valid_missed"
-        },
-        {
-          "axis": "From impulsive self-invention to disciplined moral obligation",
-          "assessment": "borderline"
         }
       ],
       "unique_to_b": [
         {
-          "axis": "From self-authorizing knight to reconciled Christian self",
-          "assessment": "artifact"
-        },
-        {
-          "axis": "From impermeable enchantment to lucid renunciation",
-          "assessment": "artifact"
-        },
-        {
-          "axis": "From heroic self-myth to repentant self-knowledge",
+          "axis": "From euphoric-volatile self-righteousness to calm resignation",
           "assessment": "valid_missed"
-        },
-        {
-          "axis": "From impulsive justice to disciplined moral judgment",
-          "assessment": "borderline"
         }
       ]
     },
     "relational": {
       "matched": [
         {
-          "set_a_axis": "From patronizing command to mutual dependence and affection",
-          "set_b_axis": "From patronizing recruitment to affectionate mutual dependence",
-          "overlap_description": "Both describe the Don Quixote–Sancho bond evolving from hierarchy into deep mutual reliance and affection."
+          "set_a_axis": "From instrumental command to affectionate reciprocal partnership",
+          "set_b_axis": "From instrumental patronage to grateful, affectionate partnership",
+          "overlap_description": "Both describe the Sancho relationship as moving from patronizing recruitment and instrumental command toward trust, esteem, emotional dependence, apology, and final blessing."
         },
         {
-          "set_a_axis": "From invented courtly admiration to absolute sustaining devotion",
-          "set_b_axis": "From fantasized lady to final moral center",
-          "overlap_description": "Both treat Dulcinea as a stable, idealized center of his identity whose importance deepens and persists to the end."
-        },
-        {
-          "set_a_axis": "From honored guest to manipulated spectacle",
-          "set_b_axis": "From trusting hosts to exploited public spectacle",
-          "overlap_description": "Both see the duke and duchess as shifting from apparent validators of his knightly identity to agents of theatrical manipulation and humiliation."
+          "set_a_axis": "From self-authored ideal to anxious rescue fantasy and final relinquishment",
+          "set_b_axis": "From absolutized lady-fantasy to discarded chivalric illusion",
+          "overlap_description": "Both describe Dulcinea as a self-authored literary ideal that becomes an enchantment-rescue obsession and is finally abandoned when Don Quixote renounces the chivalric frame."
         }
       ],
       "unique_to_a": [
         {
-          "axis": "From household ally to corrective opponent and back to partial reconciliation",
+          "axis": "From impatient evasion to familial reconciliation",
           "assessment": "valid_missed"
-        },
-        {
-          "axis": "From honored guest to manipulated spectacle",
-          "assessment": "artifact"
         }
       ],
-      "unique_to_b": [
-        {
-          "axis": "From friendly informant to hidden corrective adversary",
-          "assessment": "valid_missed"
-        },
-        {
-          "axis": "From trusting hosts to exploited public spectacle",
-          "assessment": "artifact"
-        }
-      ]
+      "unique_to_b": []
     }
   },
   "intrapersonal_axes": [
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "agency-communion",
-      "axis_name": "From self-authorizing knight to reconciled Christian self",
-      "pole_start": "Highly agentic self-assertion: he begins as a self-fashioning, mastery-seeking knight who imposes his will on reality, pursues fame, and treats others as supporting roles in his chivalric mission.",
-      "pole_end": "Communal, relationally embedded selfhood: he ends as Alonso Quixano, oriented toward confession, gratitude, family protection, and peaceful reconciliation with others and with God.",
+      "dimension_label": "Agency–Communion",
+      "axis_name": "From sovereign heroic self-assertion to humble interdependence",
+      "pole_start": "A self-asserting, dominance-oriented fantasist who renames himself, invents Dulcinea, recruits Sancho through promises, imposes chivalric categories on reality, and treats other people chiefly as audience, instruments, or obstacles to his solitary heroic mission.",
+      "pole_end": "A defeated, sane man who relinquishes heroic self-assertion, confesses his madness, apologizes to Sancho, rewards household servants, submits to God and the sacraments, and dies as Alonso Quixano among family, friends, and dependents, recognizing dependence and moral debt.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Self-authorizing emergence",
+          "phase": "Self-crowning mastery",
           "chapter_range": [
             2,
             8
           ],
-          "position_description": "He begins in maximal agency: he renames himself, arms himself, leaves home, recruits a squire, and insists on his own chivalric mission despite ridicule.",
+          "position_description": "Strongly agency-driven: he manufactures a knightly identity, names horse, self, and lady, reads the inn as a castle, demands dubbing, and enlists Sancho as an instrument and audience for his romance script.",
           "key_moments": [
-            "Renames himself Don Quixote and Rocinante",
-            "Secures dubbing and begins sallying forth",
-            "Recruits Sancho Panza",
-            "Treats others as supporting roles in his quest"
+            "Loses his wits reading chivalry books and decides to become a knight-errant.",
+            "Names himself Don Quixote, his horse Rocinante, and invents Dulcinea as Lady of Thoughts.",
+            "Demands to be dubbed a knight and attacks carriers who disturb his armor.",
+            "Recruits Sancho with promises of an island governorship."
           ]
         },
         {
-          "phase": "Defensive self-sealing and social performance",
+          "phase": "Dominant agency sustained by enchantment",
           "chapter_range": [
             9,
-            96
+            58
           ],
-          "position_description": "Agency remains high but becomes increasingly mediated by others: he dominates interpretation, seeks public validation, and uses chivalric identity as a social performance while growing more dependent on Sancho and courtly audiences.",
+          "position_description": "Agency remains dominant but becomes hierarchical and coercive: he commands Sancho, punishes mockery, and explains every contradiction as enchantment. Dependence on Sancho grows, but communion remains patronizing rather than reciprocal.",
           "key_moments": [
-            "Explains defeats as enchantment rather than error",
-            "Defends knight-errantry in long speeches",
-            "Advises Sancho on governance and conduct",
-            "Accepts courtly honors and public staging"
+            "Charges windmills and converts failure into the Sage Freston's malice.",
+            "Frees galley slaves and demands their embassy to Dulcinea.",
+            "Performs the Sierra Morena penance and sends Sancho to Dulcinea.",
+            "Beats or threatens Sancho over Dulcinea and the lashes.",
+            "Is caged and carted home while interpreting captivity as enchantment."
           ]
         },
         {
-          "phase": "Defeat, retirement, and inward reorientation",
+          "phase": "Inflated public agency and staged performance",
           "chapter_range": [
-            117,
-            127
+            59,
+            95
           ],
-          "position_description": "After defeat, his agency is sharply reduced and redirected inward: he submits to retirement, relinquishes the knightly self, and turns toward repentance, confession, and domestic responsibility.",
+          "position_description": "His agency becomes theatrical and literary: he seeks fame, printed history, staged combats, and courtly recognition. He remains commanding, but increasingly depends on Sancho, hosts, and enchanters to sustain his role.",
           "key_moments": [
-            "Defeated by the Knight of the White Moon",
-            "Returns home subdued and reflective",
-            "Makes his will and confesses",
-            "Renounces chivalric books and becomes Alonso Quixano the Good"
-          ]
-        }
-      ],
-      "evidence_summary": "The arc moves from maximal self-assertion to a final state of humility, dependence, and relational repair. The middle of the novel preserves agency but increasingly socializes it, so the ending is best read as a genuine reorientation rather than a simple collapse."
-    },
-    {
-      "axis_type": "intrapersonal",
-      "axis_id": "final_intra_02",
-      "dimension_label": "delusion-reality",
-      "axis_name": "From impermeable enchantment to lucid renunciation",
-      "pole_start": "Fully enclosed in delusion: he treats romances as reality, misreads ordinary objects as enchanted signs, and explains contradiction through magic rather than self-correction.",
-      "pole_end": "Clear-eyed renunciation: he explicitly names his former madness, rejects chivalric books as harmful falsehoods, and recognizes his life as a moral error requiring repentance.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "disillusionment",
-      "trajectory": [
-        {
-          "phase": "Totalized romance perception",
-          "chapter_range": [
-            2,
-            27
-          ],
-          "position_description": "He consistently converts the world into chivalric fantasy, with only tactical flexibility inside the delusion.",
-          "key_moments": [
-            "Inn becomes castle",
-            "Windmills become giants",
-            "Defeats are explained as enchantment",
-            "Sierra Morena penance is treated as literal chivalric performance"
+            "Undertakes the third sally and defends chivalric truth.",
+            "Experiences El Toboso disillusion and the peasant-girl enchantment.",
+            "Defeats the Knight of the Mirrors and confronts the lion.",
+            "Participates in Clavileño and the staged duenna adventures."
           ]
         },
         {
-          "phase": "Managed delusion under social pressure",
+          "phase": "Defeat and enforced dependence",
           "chapter_range": [
-            30,
-            116
+            96,
+            126
           ],
-          "position_description": "He remains deluded, but the delusion is increasingly staged, publicly manipulated, and occasionally tested by practical reality; he sometimes notices facts, but absorbs them back into enchantment.",
+          "position_description": "Defeat by the Knight of the White Moon strips him of active mastery. He accepts retirement, delegates judgment to Sancho, stops Sancho's whipping out of compassion, and returns home subdued and dependent.",
           "key_moments": [
-            "Courtly pranks and staged enchantments at the duke's castle",
-            "Cave of Montesinos and Clavileño intensify wonder without correction",
-            "He can occasionally distinguish local realities from fantasy",
-            "He preserves his worldview by reclassifying contradictions"
+            "Is defeated by the Knight of the White Moon and must retire for a year.",
+            "Endures pig stampede, mock resurrection, and ducal humiliations.",
+            "Stops Sancho's self-flagellation when Sancho cries out in pain.",
+            "Admits his wits are confused and lets Sancho judge the peasants' dispute."
           ]
         },
         {
-          "phase": "Final lucidity",
-          "chapter_range": [
-            117,
-            127
-          ],
-          "position_description": "The delusional system collapses into explicit renunciation; he sees his former self as mad and rejects knight-errantry as deception.",
-          "key_moments": [
-            "Defeat by the Knight of the White Moon",
-            "Melancholy retreat home",
-            "Confession and will-making",
-            "Renounces Don Quixote and becomes Alonso Quixano"
-          ]
-        }
-      ],
-      "evidence_summary": "This is the clearest psychological arc in the material: from complete enchantment-thinking to a final repudiation of that worldview. The middle chapters show resilient, adaptive delusion rather than true realism, making the ending a decisive break."
-    },
-    {
-      "axis_type": "intrapersonal",
-      "axis_id": "final_intra_03",
-      "dimension_label": "grandiosity-humility",
-      "axis_name": "From heroic self-myth to repentant self-knowledge",
-      "pole_start": "Grandiose self-mythologizing: he imagines himself as a legendary knight, equal to or greater than famous heroes, destined for fame and kingship.",
-      "pole_end": "Repentant humility: he sees himself as a sinner who must die as a good Christian and leave behind the vanity of heroic self-invention.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "positive",
-      "trajectory": [
-        {
-          "phase": "Legendary self-inflation",
-          "chapter_range": [
-            6,
-            22
-          ],
-          "position_description": "He repeatedly enlarges himself through comparison to epic and chivalric figures, treating injuries as proof of greatness.",
-          "key_moments": [
-            "Claims kinship with the Twelve Peers and Nine Worthies",
-            "Treats defeats as ordinary knightly setbacks",
-            "Imagines future kingship and marriage to a princess",
-            "Adopts exalted knightly titles"
-          ]
-        },
-        {
-          "phase": "Public self-performance",
-          "chapter_range": [
-            39,
-            116
-          ],
-          "position_description": "Grandiosity becomes more polished and socially legible: he speaks as a public authority, a moral teacher, and a famous knight whose life is already in print.",
-          "key_moments": [
-            "Defends arms over letters",
-            "Argues about his own literary fame",
-            "Uses public recognition in Barcelona as proof of identity",
-            "Accepts courtly honors as confirmation of greatness"
-          ]
-        },
-        {
-          "phase": "Repentant self-revision",
+          "phase": "Repentant communion",
           "chapter_range": [
             127,
             127
           ],
-          "position_description": "He abandons heroic inflation and adopts humility, repentance, and Christian self-assessment.",
+          "position_description": "He surrenders agency to Christian humility and communal obligation. He renounces knight-errantry, asks forgiveness, makes bequests, blesses Sancho, and dies lucid among others.",
           "key_moments": [
-            "Renounces chivalric books",
-            "Calls himself Alonso Quixano the Good",
-            "Makes his will and seeks forgiveness"
+            "Wakes sane and renounces books of chivalry as dark ignorance.",
+            "Asks Sancho's forgiveness for drawing him into mad knight-errantry and cancels his debts.",
+            "Calls his niece and housekeeper his daughters and provides for them in his will.",
+            "Dies calmly as Alonso Quixano the Good."
           ]
         }
       ],
-      "evidence_summary": "Don Quixote begins with inflated heroic self-conception and ends with explicit humility. The middle of the novel does not eliminate grandiosity so much as refine it into a socially performative, publicly validated self-image before the final collapse."
+      "evidence_summary": "The arc begins with a solitary hidalgo imposing a self-authored heroic identity on the world and commanding others as romance figures; it ends with a defeated, sane man acknowledging dependence on Sancho and his household, seeking forgiveness, and dying within ordinary Christian community."
     },
     {
       "axis_type": "intrapersonal",
-      "axis_id": "final_intra_04",
-      "dimension_label": "moral-legal reasoning",
-      "axis_name": "From impulsive justice to disciplined moral judgment",
-      "pole_start": "Impulsive, fantasy-driven justice: he acts immediately on perceived wrongs, with little distinction between appearance and fact.",
-      "pole_end": "Disciplined moral judgment: he becomes capable of practical counsel, legal distinction, and Christian self-governance.",
-      "confidence": "medium",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Delusion–Lucidity",
+      "axis_name": "From self-sealing enchantment logic to lucid disenchantment",
+      "pole_start": "Absolute conviction that chivalric romances are literal truth and that he is a knight-errant; inns are castles, windmills are giants, strangers are knights or enchanters, and every contradiction is the work of hostile enchanters rather than his own error.",
+      "pole_end": "Full lucidity: he admits his madness, calls chivalry books detestable absurdities, rejects the pastoral fantasy, renounces Don Quixote, confesses, makes a Christian will, and dies sane as Alonso Quixano the Good.",
+      "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Immediate chivalric intervention",
+          "phase": "Unbroken delusional certainty",
+          "chapter_range": [
+            2,
+            25
+          ],
+          "position_description": "Reality is wholly assimilated to romance. His identity is unquestioned, and defeats are rationalized rather than doubted.",
+          "key_moments": [
+            "Dubbing at the inn and armor-watching.",
+            "Mistakes windmills for giants and blames the sage Freston.",
+            "Frees galley slaves and interprets their ingratitude as villainy.",
+            "Treats the basin as Mambrino's helmet and rationalizes its appearance."
+          ]
+        },
+        {
+          "phase": "Self-conscious fantasy under humiliation",
+          "chapter_range": [
+            26,
+            64
+          ],
+          "position_description": "He can say that he pictures Dulcinea as he wishes and chooses Amadis-style penance deliberately, yet this insight is absorbed into the chivalric frame. Contradictions become proof of hostile enchantment.",
+          "key_moments": [
+            "Admits poets invent ladies and that he imagines Dulcinea.",
+            "Chooses Amadis-style penance as a deliberate performance.",
+            "Describes the cave of Montesinos vision and insists on its truth.",
+            "Sees a peasant girl as the enchanted Dulcinea and blames enchanters."
+          ]
+        },
+        {
+          "phase": "Cracks and doubling",
+          "chapter_range": [
+            65,
+            97
+          ],
+          "position_description": "Staged courtly adventures validate him outwardly, but the false Second Part, the Knight of the Mirrors, and doubts about the cave vision increasingly destabilize his confidence.",
+          "key_moments": [
+            "Defeats the Knight of the Mirrors and explains Samson's face as an enchanter's transformation.",
+            "Hears the enchanted head and staged Merlin confirm Dulcinea's disenchantment.",
+            "Begins to doubt whether his cave vision was true.",
+            "Accepts Clavileño and Merlin literally despite earlier doubts."
+          ]
+        },
+        {
+          "phase": "Post-defeat rationality and residual fantasy",
+          "chapter_range": [
+            98,
+            126
+          ],
+          "position_description": "After the White Moon defeat he becomes more rational about ordinary matters such as inns and false histories, but still believes in enchantment, Sancho's penance, and omens. Delusion persists alongside genuine self-reproach.",
+          "key_moments": [
+            "Is defeated by the Knight of the White Moon and accepts a year's retirement.",
+            "Recognizes an inn as an inn and admits his wits are confused.",
+            "Reads the hare as an omen despite earlier condemning superstition.",
+            "Still hopes for Dulcinea's disenchantment."
+          ]
+        },
+        {
+          "phase": "Final disenchantment",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "The delusion breaks completely. He recognizes his madness, repents, renounces knight-errantry, and frames his former heroism as dangerous illusion.",
+          "key_moments": [
+            "Wakes from fever with his reason clear and calls chivalry books detestable absurdities.",
+            "Rejects the pastoral plan as nonsense and insists he is no longer Don Quixote.",
+            "Confesses, makes a Christian will, and dies calmly as Alonso Quixano the Good."
+          ]
+        }
+      ],
+      "evidence_summary": "The novel tracks a long, non-linear consolidation of delusional certitude through repeated enchantment rationalizations, followed by late doubts under staged and real mirrors, then a final deathbed recovery of reason."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Self-mythic honor",
+      "axis_name": "From chivalric self-myth and fame to humble mortal salvation",
+      "pole_start": "A modest hidalgo refashions himself as Don Quixote de la Mancha, accumulates chivalric titles, treats identity as a literary script to be proved by fame, and pursues eternal renown, honor, imperial rank, and public recognition through deeds dedicated to Dulcinea and posterity.",
+      "pole_end": "He rejects the Don Quixote identity as madness, insists he is Alonso Quixano, renounces chivalric glory, seeks confession, charity, fidelity, and forgiveness above fame, makes a sane Christian will, and dies as Alonso Quixano the Good.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Naming and self-authoring",
+          "chapter_range": [
+            2,
+            8
+          ],
+          "position_description": "Identity is invented through names and props: Don Quixote, Rocinante, Dulcinea, and the mock dubbing all confirm a new self. Renown is already the explicit goal.",
+          "key_moments": [
+            "Takes the name Don Quixote de La Mancha after naming his horse and lady.",
+            "Believes the innkeeper's mock ceremony makes him a genuine knight.",
+            "Desires to become Emperor of Trebizond and win eternal name.",
+            "Demands the Toledo traders confess Dulcinea's beauty."
+          ]
+        },
+        {
+          "phase": "Title accumulation and public fame",
+          "chapter_range": [
+            20,
+            58
+          ],
+          "position_description": "Identity becomes increasingly public and literary: he adopts titles, treats printed history as proof of his reality, and makes honor legalistic and theatrical.",
+          "key_moments": [
+            "Adopts the nickname Knight of the Rueful Countenance.",
+            "Renames himself Knight of the Lions after confronting the lion.",
+            "Defends fictional Queen Madasima with his life.",
+            "Rejoices that a printed history of his deeds exists and worries about reputation."
+          ]
+        },
+        {
+          "phase": "Counterfeit, staged honor, and defeat",
+          "chapter_range": [
+            59,
+            119
+          ],
+          "position_description": "His authentic identity is challenged by public performance, the false Second Part, and then shattered by the White Moon defeat. He begins to imagine a diminished pastoral alias, Quixotize.",
+          "key_moments": [
+            "Seeks public vindication at Saragossa, in Barcelona, and before the duke and duchess.",
+            "Reads the false Second Part and resolves to disprove it by going to Barcelona.",
+            "Is defeated by the Knight of the White Moon and calls himself the most unfortunate knight.",
+            "Plans a pastoral retirement with the alias Quixotize."
+          ]
+        },
+        {
+          "phase": "Renunciation and salvation",
+          "chapter_range": [
+            126,
+            127
+          ],
+          "position_description": "He rejects the pastoral alias and the entire knightly self. His final identity is the sane, penitent Alonso Quixano, and salvation replaces renown.",
+          "key_moments": [
+            "Calls the pastoral plan nonsense and says he is no longer Don Quixote.",
+            "Insists he is Alonso Quixano, enemy of Amadis and all knight-errantry.",
+            "Makes a will and provides for his household.",
+            "Dies as Alonso Quixano the Good, with the curate testifying to his sanity."
+          ]
+        }
+      ],
+      "evidence_summary": "The identity and honor arc moves from self-naming and title accumulation through public fame and counterfeit doubles to a final deathbed rejection of the invented knight in favor of the ordinary mortal name and Christian humility."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Moral accountability",
+      "axis_name": "From honor-driven blame-shifting to merciful self-accountability",
+      "pole_start": "Moral reasoning is mimetic chivalric honor: violence proves virtue, suffering confers honor, failures are enchanters' fault, and Sancho's body is instrumental to Dulcinea's cure.",
+      "pole_end": "He recognizes harm done to Sancho, stops the whipping when Sancho cries out, apologizes for drawing him into madness, cancels debts, seeks forgiveness, and makes amends in his will.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Scripted chivalric justice",
           "chapter_range": [
             5,
             23
           ],
-          "position_description": "He rushes into moral action on the basis of delusion, often worsening the situation.",
+          "position_description": "He acts from romance scripts, rescues Andres, frees galley slaves, and attacks supposed villains, while rationalizing harmful outcomes as ingratitude or enchantment.",
           "key_moments": [
-            "Forces Juan Haldudo to promise justice",
-            "Attacks the galley slaves",
-            "Intervenes in the sheep and procession episodes"
+            "Forces Juan Haldudo to promise payment to Andres, then leaves him vulnerable.",
+            "Frees the galley slaves and is beaten by them.",
+            "Blames Sancho for warning him about the galley slaves and for contradicting his fantasies."
           ]
         },
         {
-          "phase": "Didactic moralizing",
+          "phase": "Coercive devotion",
           "chapter_range": [
-            39,
-            96
+            24,
+            104
           ],
-          "position_description": "He increasingly speaks as a moral philosopher and practical adviser, especially on arms, governance, and honor.",
+          "position_description": "His devotion to Dulcinea and his honor justifies coercing Sancho and dismissing Sancho's judgment, though protectiveness and gratitude occasionally break through.",
           "key_moments": [
-            "Defense of arms over letters",
-            "Advice to Sancho on governing Barataria",
-            "Long moral counsel on justice, mercy, and prudence"
+            "Threatens to tie Sancho and whip him to disenchant Dulcinea.",
+            "Beats Sancho for disparaging Dulcinea.",
+            "Rescues Sancho during the boar hunt and defends him from the servants' prank."
           ]
         },
         {
-          "phase": "Christian moral clarity",
+          "phase": "Compassion breaks through",
           "chapter_range": [
-            124,
+            117,
+            125
+          ],
+          "position_description": "After defeat, he becomes more capable of restraint and dependence: he delegates judgment to Sancho and stops the penance when Sancho is in pain.",
+          "key_moments": [
+            "Stops Sancho's self-flagellation when Sancho cries out and covers him with his cloak.",
+            "Admits he is unfit to judge and lets Sancho settle the peasants' wager.",
+            "Praises Sancho as a great philosopher and accepts his counsel."
+          ]
+        },
+        {
+          "phase": "Repentance and amends",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "His final state is one of explicit moral accounting: confession, repentance, will-making, and concern for the souls and futures of others.",
+          "position_description": "He accepts responsibility for Sancho and his household, renounces the harmful books, apologizes, and seeks Christian forgiveness.",
           "key_moments": [
-            "Stops Sancho's lashes when they seem excessive",
-            "Makes his will and settles accounts",
-            "Protects niece and household from chivalric corruption"
+            "Asks Sancho's forgiveness for drawing him into knight-errantry.",
+            "Cancels Sancho's debts and promises him rewards in his will.",
+            "Protects his niece from chivalry books and asks forgiveness of the false author."
           ]
         }
       ],
-      "evidence_summary": "This axis captures the increasing seriousness of his ethical life: from reckless intervention to a more disciplined, if still idealized, moral judgment, culminating in Christian repentance and practical responsibility."
+      "evidence_summary": "Moral reasoning evolves from honor-driven violence and external blame toward mercy, restraint, and explicit accountability, culminating in the apology to Sancho and the penitent will."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Emotional volatility",
+      "axis_name": "From euphoric-volatile self-righteousness to calm resignation",
+      "pole_start": "He is emotionally volatile: euphoric in fantasy, anxious about chivalric procedure, furious when contradicted, physically violent toward Sancho and strangers, and prone to self-dramatizing despair or exaltation.",
+      "pole_end": "In his final state he is calm, devout, tender, self-accusing, and resigned to death. The rage and theatrical self-pity are gone, replaced by sober repentance and affection.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Euphoric-volatile fantasy",
+          "chapter_range": [
+            2,
+            23
+          ],
+          "position_description": "Mood swings rapidly from joy to anxiety to rage to self-pity. Violence and rhetoric are immediate responses to contradiction.",
+          "key_moments": [
+            "Euphoria at being dubbed.",
+            "Rage at traders and carriers.",
+            "Beats Sancho over Dulcinea.",
+            "Fulling-mill humiliation and rage."
+          ]
+        },
+        {
+          "phase": "Righteous volatility under a chivalric code",
+          "chapter_range": [
+            24,
+            58
+          ],
+          "position_description": "Anger is often legalistic and self-justifying, but he can also be serene and didactic. Mood remains reactive to honor, Dulcinea, and enchantment.",
+          "key_moments": [
+            "Attacks Cardenio over a fictional queen.",
+            "Threatens violence during Micomicona adventures.",
+            "Delivers the serene Golden Age speech.",
+            "Remains stoic while caged."
+          ]
+        },
+        {
+          "phase": "Theatrical exaltation and humiliation",
+          "chapter_range": [
+            59,
+            95
+          ],
+          "position_description": "He oscillates between exultant performance and humiliation: lions, Clavileño, mock resurrection, and courtly mockery provoke grandiosity, alarm, and self-justification.",
+          "key_moments": [
+            "Lion episode and renaming as Knight of the Lions.",
+            "Dulcinea enchantment despair.",
+            "Castle humiliations.",
+            "Mock resurrection and pressure on Sancho."
+          ]
+        },
+        {
+          "phase": "Defeat and melancholy resignation",
+          "chapter_range": [
+            96,
+            126
+          ],
+          "position_description": "After defeat his volatility cools into melancholy, self-reproach, and resignation. He still has flashes of irritation, but the dominant tone is weary acceptance.",
+          "key_moments": [
+            "Broods over defeat.",
+            "Calls his wits confused.",
+            "Endures pig stampede and abduction.",
+            "Returns home subdued."
+          ]
+        },
+        {
+          "phase": "Final calm and repentance",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "Emotional life is integrated and quiet. He is repentant, grateful, affectionate, and ready for death.",
+          "key_moments": [
+            "Wakes lucid after fever.",
+            "Confesses and makes his will.",
+            "Blesses Sancho.",
+            "Dies calmly."
+          ]
+        }
+      ],
+      "evidence_summary": "Although stable delusion persists for most of the novel, the emotional register shifts from volatile self-righteousness to final resignation and calm."
     }
   ],
   "relational_axes": [
@@ -329,236 +450,226 @@
       "axis_id": "final_rel_01",
       "source_character": "Don Quixote de la Mancha",
       "target_character": "Sancho Panza",
-      "dimension_label": "mastery-intimacy",
-      "axis_name": "From patronizing recruitment to affectionate mutual dependence",
-      "pole_start": "He begins by recruiting Sancho as a subordinate squire, treating him as useful, persuadable, and intellectually inferior within the chivalric hierarchy.",
-      "pole_end": "He ends as a grateful, affectionate companion who recognizes Sancho's fidelity, values his practical wisdom, and rewards him with explicit care and acknowledgment.",
+      "dimension_label": "Hierarchy to partnership",
+      "axis_name": "From instrumental command to affectionate reciprocal partnership",
+      "pole_start": "Recruits Sancho with promises of an island and treats him as a subordinate, ignorant, cowardly, and a tool for witnessing and validating his madness; trust is high but esteem is low, and he punishes or threatens Sancho when contradicted.",
+      "pole_end": "Depends on Sancho emotionally and practically, calls him friend and son, praises his natural wisdom, delegates judgment to him, stops his penance out of compassion, apologizes for leading him into madness, and rewards him in his will.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Instrumental squirehood",
+          "phase": "Recruitment and command",
           "chapter_range": [
-            3,
-            21
+            8,
+            25
           ],
-          "position_description": "Sancho is useful, promising, and subordinate; Don Quixote patronizes him, promises him rewards, and expects obedience.",
+          "position_description": "The bond is hierarchical and transactional: Don Quixote promises rewards, ignores Sancho's warnings, treats him as an inferior witness, and punishes him when Sancho's mockery wounds his dignity.",
           "key_moments": [
-            "Promises Sancho an island or kingdom",
-            "Uses Sancho as messenger and witness",
-            "Rebukes Sancho's skepticism and proverbs"
+            "Persuades Sancho to become his squire with promises of an island.",
+            "Dismisses Sancho's warning about the windmills and about the friars.",
+            "Strikes Sancho after the fulling-mill humiliation.",
+            "Calls Sancho a fool and corrects his speech while relying on his reports."
           ]
         },
         {
-          "phase": "Intimate friction and growing reliance",
+          "phase": "Dependence and conflict",
           "chapter_range": [
-            22,
-            96
+            26,
+            58
           ],
-          "position_description": "Their bond deepens into a mix of affection, irritation, and dependence; Don Quixote increasingly relies on Sancho's practical help while still asserting superiority.",
+          "position_description": "Conflict and dependence coexist: he beats or threatens Sancho over Dulcinea and the lashes, yet increasingly relies on his reports, care, and companionship.",
           "key_moments": [
-            "Sancho becomes a constant companion through courtly and pastoral episodes",
-            "Don Quixote alternates between scolding and praising him",
-            "He entrusts Sancho with governance and moral instruction",
-            "He depends on Sancho for travel, interpretation, and emotional steadiness"
+            "Sends Sancho to Dulcinea with the letter.",
+            "Beats Sancho for disparaging Dulcinea.",
+            "Refuses Sancho's demand for fixed wages and threatens to find another squire.",
+            "Reconciles tearfully with Sancho before the third sally and calls him friend and son."
           ]
         },
         {
-          "phase": "Mutual loyalty under strain",
+          "phase": "Paternal mentorship and rising esteem",
           "chapter_range": [
-            97,
+            59,
+            95
+          ],
+          "position_description": "He recognizes Sancho's worth more often, calls him friend, grieves his absence during the governorship, and writes paternal counsel.",
+          "key_moments": [
+            "Sends Sancho to El Toboso as his trusted intermediary to Dulcinea.",
+            "Warmly welcomes Sancho for the third sally.",
+            "Writes a paternal letter to Sancho as governor.",
+            "Praises Sancho's natural wisdom and defends him from mockery."
+          ]
+        },
+        {
+          "phase": "Shared humiliation and protective gratitude",
+          "chapter_range": [
+            96,
+            110
+          ],
+          "position_description": "The bond is tested by Sancho's governorship, separation, and return. Don Quixote writes affectionately, rescues Sancho from the pit, and values his counsel.",
+          "key_moments": [
+            "Writes to Sancho as friend.",
+            "Rescues Sancho from the pit.",
+            "Leaves the castle with Sancho.",
+            "Accepts Sancho's truthful testimony over the garters."
+          ]
+        },
+        {
+          "phase": "Compassionate reversal and final blessing",
+          "chapter_range": [
+            111,
             127
           ],
-          "position_description": "The relationship becomes more openly tender and reciprocal: Don Quixote blesses Sancho, worries about him, protects him from humiliation, and finally settles accounts while acknowledging his fidelity.",
+          "position_description": "After defeat he becomes openly dependent and tender; he stops Sancho's whipping, values his judgment, apologizes for the whole knight-errantry venture, and provides for him.",
           "key_moments": [
-            "Tears at Sancho's departure for Barataria",
-            "Protects him from excessive self-scourging",
-            "Thanks him and settles accounts at the end",
-            "Final repentance includes concern for Sancho's future"
+            "Stops Sancho's self-flagellation when Sancho cries out in pain.",
+            "Delegates judgment to Sancho at the village wager.",
+            "Asks Sancho's forgiveness and cancels his debts in the final will.",
+            "Blesses Sancho, regrets leading him into madness, and wishes he could give him a kingdom."
           ]
         }
       ],
-      "evidence_summary": "This is the richest relationship arc in the novel: it moves from hierarchy to intimacy, from comic mismatch to genuine mutual attachment. Don Quixote never stops being the master, but by the end he is also deeply dependent on and emotionally attached to Sancho."
+      "evidence_summary": "The master-squire relationship moves from command and punishment toward trust, respect, emotional dependence, and final apology, making it the novel's central relational transformation."
     },
     {
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "Don Quixote de la Mancha",
-      "target_character": "Dulcinea del Toboso",
-      "dimension_label": "idealization-devotion",
-      "axis_name": "From fantasized lady to final moral center",
-      "pole_start": "She begins as a wholly fantasized courtly beloved, an abstract lady who legitimizes his knightly identity.",
-      "pole_end": "She ends as the enduring moral and emotional center of his life, even as he renounces knight-errantry and repents.",
-      "confidence": "high",
+      "target_character": "Dulcinea del Toboso / Aldonza Lorenzo",
+      "dimension_label": "Idealized devotion",
+      "axis_name": "From self-authored ideal to anxious rescue fantasy and final relinquishment",
+      "pole_start": "Constructs Aldonza as Dulcinea, Lady of Thoughts, the sovereign lady and judge of all deeds; devotion is literary, self-ornamental, and confirms his knightly identity rather than responding to a real relationship.",
+      "pole_end": "The ideal becomes a persecuted enchanted lady whose rescue organizes his life; after his recovery of reason he renounces the chivalric frame that sustained her, abandoning the Dulcinea-enchantment quest and pastoral fantasy built around her, with no continuing relation to Aldonza depicted.",
+      "confidence": "medium",
       "source": "both",
-      "arc_direction": "flat",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Foundational idealization",
+          "phase": "Construction and worship",
           "chapter_range": [
             2,
-            15
+            24
           ],
-          "position_description": "Dulcinea is the imagined source of his mission, honor, and courtly language; she is intensely idealized but not yet morally tested.",
+          "position_description": "Dulcinea is invented to complete his knightly self: she is an abstract princess, judge, and motive for deeds, not a person he knows.",
           "key_moments": [
-            "Transforms Aldonza Lorenzo into Dulcinea",
-            "Invokes her in first combats",
-            "Uses her as the standard for all chivalric action"
+            "Selects Aldonza Lorenzo and reinvents her as Dulcinea del Toboso.",
+            "Sends vanquished foes to her.",
+            "Invokes Dulcinea in combat, penance, and romance monologue."
           ]
         },
         {
-          "phase": "Devotional absolutism",
+          "phase": "Candid idealization and defense",
           "chapter_range": [
-            16,
-            116
+            25,
+            58
           ],
-          "position_description": "She becomes the fixed center of his identity, the justification for penance, resistance to temptation, and all public self-presentation.",
+          "position_description": "He admits he has rarely seen Aldonza and invents Dulcinea in imagination, yet still defends her supremacy with violence and devotional rhetoric.",
           "key_moments": [
-            "Sierra Morena penance",
-            "Refusal of Altisidora",
-            "Dulcinea's disenchantment becomes the engine of the later plot",
-            "He repeatedly insists on her exclusivity and beauty"
+            "Tells Sancho that Dulcinea is really Aldonza but that he pictures her as an exalted princess.",
+            "Admits poets invent ladies and that he imagines Dulcinea.",
+            "Strikes Sancho for insulting Dulcinea.",
+            "Corrects Sancho's description of Dulcinea's eyes and mole to preserve her perfection."
           ]
         },
         {
-          "phase": "Final sanctification",
+          "phase": "Enchantment obsession",
           "chapter_range": [
-            117,
+            59,
+            95
+          ],
+          "position_description": "Dulcinea becomes the center of a disenchantment quest. After the El Toboso disillusion he insists she has been enchanted and treats Sancho's lashes as the necessary remedy.",
+          "key_moments": [
+            "Sees a peasant girl on an ass as the enchanted Dulcinea.",
+            "Reports seeing the enchanted Dulcinea in the cave of Montesinos.",
+            "Vows to roam the earth until Dulcinea is disenchanted.",
+            "Accepts the staged Merlin's demand that Sancho whip himself for her release."
+          ]
+        },
+        {
+          "phase": "Defeat and obsessive hope",
+          "chapter_range": [
+            96,
+            126
+          ],
+          "position_description": "Even after defeat, Dulcinea's disenchantment remains his central hope. He scans the road for her and ties his redemption to Sancho's fake lashes.",
+          "key_moments": [
+            "Rejoices at the enchanted head's promise of Dulcinea's disenchantment.",
+            "Watches the road for Dulcinea after Sancho completes the lashes.",
+            "Counts the fake lashes on his rosary.",
+            "Sees omens that he will never see her."
+          ]
+        },
+        {
+          "phase": "Renunciation with chivalry",
+          "chapter_range": [
+            127,
             127
           ],
-          "position_description": "Even as he renounces chivalry, Dulcinea remains the beloved whose memory structures his repentance and final moral order.",
+          "position_description": "With the collapse of his chivalric identity, the enchantment project and pastoral fantasy around Dulcinea are discarded as part of his former illusion.",
           "key_moments": [
-            "Refuses to deny her beauty in the duel",
-            "Continues to seek her disenchantment after defeat",
-            "Dies as Alonso Quixano while still honoring her place in his life"
+            "Renounces books of chivalry.",
+            "Abandons knight-errantry and its Dulcinea project.",
+            "Dies as Alonso Quixano rather than as Dulcinea's knight."
           ]
         }
       ],
-      "evidence_summary": "Dulcinea never becomes a real interpersonal relationship, but she becomes the deepest organizing attachment in his psyche. The arc is less about change in feeling than about increasing moral centrality, surviving even the collapse of his knightly identity."
+      "evidence_summary": "Dulcinea is the most intense object of Don Quixote's imaginative devotion, but the relationship is one-sided and literary; it intensifies into a rescue obsession and then fades as the chivalric worldview collapses."
     },
     {
       "axis_type": "relational",
       "axis_id": "final_rel_03",
       "source_character": "Don Quixote de la Mancha",
-      "target_character": "The Duke and Duchess",
-      "dimension_label": "honor-mockery",
-      "axis_name": "From honored guest to manipulated spectacle",
-      "pole_start": "He initially experiences the duke and duchess as noble patrons who recognize and elevate his knightly identity.",
-      "pole_end": "He ends as a guest who still receives courtesy, but who increasingly understands, at least dimly, that their hospitality is also theatrical manipulation and mockery.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "ambivalent",
-      "trajectory": [
-        {
-          "phase": "Courtly validation",
-          "chapter_range": [
-            83,
-            84
-          ],
-          "position_description": "The duke and duchess stage elaborate honors that make Don Quixote feel authentically knightly and socially visible.",
-          "key_moments": [
-            "Ceremonial reception at the castle",
-            "Public honors and deference",
-            "Don Quixote feels truly recognized"
-          ]
-        },
-        {
-          "phase": "Managed spectacle",
-          "chapter_range": [
-            85,
-            99
-          ],
-          "position_description": "Their hospitality becomes increasingly prankish: Sancho is mocked, Altisidora is staged, and Don Quixote is repeatedly made part of a comic performance.",
-          "key_moments": [
-            "Pranks on Sancho",
-            "Altisidora's mock love",
-            "Clavileño and other staged marvels"
-          ]
-        },
-        {
-          "phase": "Growing suspicion and fatigue",
-          "chapter_range": [
-            101,
-            123
-          ],
-          "position_description": "He remains courteous, but the courtly environment now feels more conditional and cruel. He is humiliated, confined, and increasingly aware that noble hospitality can mask exploitation.",
-          "key_moments": [
-            "Doña Rodriguez episode",
-            "Public humiliation and confinement",
-            "Departure from the castle after defeat"
-          ]
-        }
-      ],
-      "evidence_summary": "This relationship is not a simple betrayal arc; it is a shift from sincere-seeming honor to elaborate social theater. Don Quixote remains deferential, but the emotional tone moves from validation to wary endurance."
-    },
-    {
-      "axis_type": "relational",
-      "axis_id": "final_rel_04",
-      "source_character": "Don Quixote de la Mancha",
-      "target_character": "The Curate",
-      "dimension_label": "trust-correction",
-      "axis_name": "From household ally to corrective opponent and back to partial reconciliation",
-      "pole_start": "He begins with the curate as a familiar village authority, not yet an enemy, though already outside his fantasy world.",
-      "pole_end": "He ends with a more cordial, socially integrated relation, even though the curate remains a manager of his sanity and narrative.",
-      "confidence": "high",
-      "source": "both",
+      "target_character": "Niece and Housekeeper",
+      "dimension_label": "Familial reconciliation",
+      "axis_name": "From impatient evasion to tender familial reconciliation",
+      "pole_start": "He dismisses their warnings, secrets his plans, rebukes his niece for criticizing chivalry, and leaves home despite their distress, treating the household as an obstacle to his sallies.",
+      "pole_end": "He calls them his daughters, reassures them, accepts their care in illness, protects his niece's inheritance from chivalry books in his will, and dies under their household care.",
+      "confidence": "medium",
+      "source": "event_only",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Early domestic familiarity",
+          "phase": "Evasion and rebuke",
           "chapter_range": [
             6,
-            7
+            60
           ],
-          "position_description": "The curate is still part of the household circle, but his role shifts sharply when he helps burn the books and diagnose Don Quixote's madness.",
+          "position_description": "The household is an obstacle to his sallies: he hides his plans, dismisses their fears, and treats their anti-chivalric concerns as ignorance or blasphemy.",
           "key_moments": [
-            "Household diagnoses his condition",
-            "Curate resolves to burn the books",
-            "Book-burning begins"
+            "Accepts the housekeeper and niece's story of an enchanter taking his library.",
+            "Threatens his niece for calling chivalry histories fables.",
+            "Departs secretly or despite the niece's lamentation."
           ]
         },
         {
-          "phase": "Active corrective authority",
+          "phase": "Return and renewed fantasy",
           "chapter_range": [
-            30,
-            48
+            54,
+            59
           ],
-          "position_description": "The curate becomes a visible agent of containment, judgment, and manipulation. Don Quixote senses condemnation, especially when his galley-slave episode and madness are discussed.",
+          "position_description": "Brief lucid conversation raises their hopes, but he reasserts knight-errantry and treats domestic opposition as a failure to understand his calling.",
           "key_moments": [
-            "Curate mentions the galley slaves",
-            "Public discussion of his madness",
-            "Curate participates in the cage deception"
+            "Speaks so sensibly that the curate and barber hope he is cured.",
+            "Insists he will die a knight-errant.",
+            "Dismisses the housekeeper's threat to complain to the king."
           ]
         },
         {
-          "phase": "Intellectual adversary",
-          "chapter_range": [
-            50,
-            56
-          ],
-          "position_description": "The curate is now a learned interlocutor whose skepticism Don Quixote resists, though the exchange is often courteous and serious rather than openly hostile.",
-          "key_moments": [
-            "Canon and curate criticize chivalric books",
-            "Don Quixote defends knight-errantry",
-            "The curate listens and sometimes validates his reasoning"
-          ]
-        },
-        {
-          "phase": "Partial reconciliation",
+          "phase": "Illness and reconciliation",
           "chapter_range": [
             126,
             127
           ],
-          "position_description": "By the end, the curate is again a trusted village figure. Don Quixote greets him affectionately and accepts his care, even as he renounces the old fantasy life.",
+          "position_description": "Weakened and finally sane, he becomes affectionate and dependent, addressing the women as daughters and accepting their care.",
           "key_moments": [
-            "Warm return to the village",
-            "Accepts advice and care",
-            "Dies reconciled within the household"
+            "Calls his niece and housekeeper his daughters and reassures them of his care.",
+            "Asks to be helped to bed because he does not feel well.",
+            "Makes a will protecting his niece's inheritance from chivalry books.",
+            "Dies under their household care."
           ]
         }
       ],
-      "evidence_summary": "The curate's relationship with Don Quixote moves from domestic familiarity to corrective antagonism and then to a softened, reintegrated ending. He is one of the main external forces trying to cure him, but the final chapters restore social trust."
+      "evidence_summary": "The domestic relationship shifts from evasive rebellion against family concern to tender dependence and reconciliation in illness and death."
     }
   ]
 }

@@ -4,312 +4,283 @@
     "intrapersonal": {
       "matched": [
         {
-          "set_a_axis": "From aristocratic spectatorship to collaborative theatrical mastery",
-          "set_b_axis": "From aristocratic mastery to slightly chastened but still dominant spectacle-management",
-          "overlap_description": "Both describe a stable core of aristocratic control and theatrical manipulation, with only a modest shift toward caution and entanglement after their games produce harm."
+          "set_a_axis": "From Dominant Hospitality to Entrenched Manipulative Control",
+          "set_b_axis": "From bored dominative control to consolidated instrumental dominance",
+          "overlap_description": "Both axes use the Agency vs Communion dimension and describe the same trajectory: aristocratic hospitality is a performative mask for control, which escalates from playful staging through elaborate hoaxes to abduction and dismissal. Both conclude that the communion pole never becomes genuine and that agency merely becomes more systematized."
         },
         {
-          "set_a_axis": "From carefree prankery to uneasy moral self-consciousness",
-          "set_b_axis": "From aristocratic mastery to slightly chastened but still dominant spectacle-management",
-          "overlap_description": "Both register that the pranks are not wholly harmless; Set A emphasizes moral awareness and unease, while Set B treats this as brief practical caution rather than deep ethical change."
-        },
-        {
-          "set_a_axis": "From harmless connoisseurs to compromised directors",
-          "set_b_axis": "From aristocratic mastery to slightly chastened but still dominant spectacle-management",
-          "overlap_description": "Both capture a damaged self-concept: they remain proud directors, but their confidence in being clever, harmless aesthetes is punctured by consequences."
+          "set_a_axis": "From Oblivious Amusement to Momentary Remorse then Rationalized Persistence",
+          "set_b_axis": "From unexamined cruelty to still-unexamined cruelty",
+          "overlap_description": "Both track moral accountability/self-awareness and agree that the pair treats suffering as comic material, that the only check is the brief grief after the ch.99 cat prank, and that this regret is practical rather than ethical. Both conclude there is no moral learning; B additionally locates the moral judgment in the narrator rather than the characters."
         }
       ],
       "unique_to_a": [
         {
-          "axis": "From entertainment without limits to entertainment with consequences",
-          "assessment": "valid_missed"
+          "axis": "From Benevolent Hosts to Entitled Gamemasters (Self-Image as Host)",
+          "assessment": "borderline"
         }
       ],
-      "unique_to_b": [
-        {
-          "axis": "From aristocratic mastery to slightly chastened but still dominant spectacle-management",
-          "assessment": "artifact"
-        }
-      ]
+      "unique_to_b": []
     },
     "relational": {
       "matched": [
         {
-          "set_a_axis": "From amused hospitality to controlling patronage",
-          "set_b_axis": "From delighted exploitation to slightly cautious but still exploitative management",
-          "overlap_description": "Both track the same relationship: Don Quixote is welcomed as a comic object, then increasingly managed and manipulated, with only slight caution added after injury."
+          "set_a_axis": "From Celebrated Guest to Staged Plaything (Don Quixote)",
+          "set_b_axis": "From mock-revered guest to disposable captive spectacle (Don Quixote)",
+          "overlap_description": "Both describe ceremonial, mock-reverent reception of Quixote as a famous knight-performer that degrades into instrumentalization. B adds the final stage absent from A: the night abduction at lance-point, the catafalque pageant, and the coldly easy dismissal, which sharpen the endpoint from 'plaything' to 'disposable captive'."
         },
         {
-          "set_a_axis": "From rustic amusement to complicated respect",
-          "set_b_axis": "From amused patronage to warmer, more engaged amusement",
-          "overlap_description": "Both describe a warming relation to Sancho: he remains subordinate, but his wit, competence, and moral seriousness force more respect and engagement."
-        },
-        {
-          "set_a_axis": "From co-hosting to conspiratorial partnership",
-          "set_b_axis": "From aligned co-conspirators to fully synchronized theatrical partners",
-          "overlap_description": "Both present the Duke and Duchess as a highly aligned pair whose collaboration in spectacle and manipulation remains strong and largely unchanged."
+          "set_a_axis": "From Amusing Companion to Exploited Comic Dependent (Sancho Panza)",
+          "set_b_axis": "From patronized clown to prized comic specimen (Sancho Panza)",
+          "overlap_description": "Both describe real fondness and amusement that function as leverage: the island promise, the Barataria hoax, Clavileño, and the culminating physical torment in the resurrection pageant. They diverge in emphasis: A stresses deepening exploitation, B stresses a slight rise in esteem ('marvel at his simplicity and sharpness') while noting trust and moral respect never rise and debts go unpaid. Merged, the axis is warm amusement plus persistent instrumentalization."
         }
       ],
       "unique_to_a": [
         {
-          "axis": "From managed courtesy to punitive humiliation",
+          "axis": "From Flattered Servant to Punished Intruder (Doña Rodriguez)",
           "assessment": "valid_missed"
         }
       ],
-      "unique_to_b": [
-        {
-          "axis": "From delighted exploitation to slightly cautious but still exploitative management",
-          "assessment": "artifact"
-        }
-      ]
+      "unique_to_b": []
     }
   },
   "intrapersonal_axes": [
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "agency communion",
-      "axis_name": "From aristocratic mastery to chastened spectacle-management",
-      "pole_start": "They begin as socially superior, highly agentic aristocrats who control events from above, treating others as material for amusement and theatrical display.",
-      "pole_end": "They end still dominant and controlling, but more cautious, self-monitoring, and aware that their performances create real harm and entanglement.",
+      "dimension_label": "Agency vs Communion",
+      "axis_name": "From Dominant Hospitality to Consolidated Instrumental Dominance",
+      "pole_start": "Aristocratic self-assertion masked as hospitality: they welcome Don Quixote and Sancho with ceremony while privately treating them as material for amusement; any communion is staged, patronizing warmth.",
+      "pole_end": "Agentic control is fully consolidated and systematized: control exercised through proxies, abduction, punishment, and theatrical cruelty, with communion entirely simulated and instrumental.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "ambivalent",
+      "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Detached control",
+          "phase": "Offstage antecedent",
+          "chapter_range": [
+            1,
+            82
+          ],
+          "position_description": "Absent throughout the First Part and early Second Part; framed only as aristocratic patrons whose introduction will serve spectacle.",
+          "key_moments": [
+            "No appearance before ch.83; their acquaintance with the heroes is owed to the narrative's convenience."
+          ]
+        },
+        {
+          "phase": "Mock-chivalric reception",
           "chapter_range": [
             83,
-            84
+            86
           ],
-          "position_description": "They enter as amused directors of the scene, staging hospitality and ceremony while remaining emotionally detached from the people they manipulate.",
+          "position_description": "Firmly on the agency pole: they resolve to fall in with Quixote's humor, stage a reverent reception, and treat guests as raw material; warmth is performative.",
           "key_moments": [
-            "They plan to indulge Don Quixote's delusion",
-            "They supervise a lavish ceremonial reception"
+            "They decide to humor Don Quixote's madness as entertainment.",
+            "Mock-reverent reception of Quixote as 'Knight of the Lions'; seating him at the head of the table.",
+            "The Duchess enjoys Sancho's drollery, invites him to ride beside her, and promises the island.",
+            "The Duke laughs off the ecclesiastic's moral rebuke and the pair conspire to devise new pranks."
           ]
         },
         {
-          "phase": "Expanded performance",
+          "phase": "Industrialized spectacle",
           "chapter_range": [
-            85,
-            98
+            87,
+            100
           ],
-          "position_description": "Their control becomes more collaborative and immersive: they co-author pranks, sustain household theater, and fold Sancho into the spectacle.",
+          "position_description": "Agency intensifies into elaborate stage-management and proxy control; communion with both guests is entirely instrumental.",
           "key_moments": [
-            "The Duchess endorses enchantment narratives",
-            "They jointly plan and execute new deceptions",
-            "Sancho's governorship becomes part of their managed performance"
+            "Staged supernatural hunt and Merlin's demand for Dulcinea's disenchantment.",
+            "Pressure on Sancho to accept the 3,300 lashes; the Clavileño flight hoax.",
+            "Barataria puppet government with a majordomo instructed to deceive.",
+            "Forged warning of assassins and poison to keep the guests dependent."
           ]
         },
         {
-          "phase": "Caution after overreach",
+          "phase": "Coercion, cracks, and repair",
           "chapter_range": [
-            99,
+            101,
             110
           ],
-          "position_description": "Injury, surprise, and resistance force them to recognize limits; they remain dominant, but their agency is now tempered by practical caution and partial remorse.",
+          "position_description": "Control remains the governing mode but must be repaired through punishment, substitution, and containment when servants or guests act off-script; a brief check after the cat prank does not alter the pattern.",
           "key_moments": [
-            "Don Quixote is injured and they are startled",
-            "Sancho proves harder to control than expected",
-            "They manage fallout through ceremony and patronage"
+            "The cat prank injures Don Quixote and they are briefly grieved.",
+            "The Duchess flogs Doña Rodriguez and torments Quixote out of wounded vanity.",
+            "The Duke substitutes the counterfeit knight Tosilos, then has him flogged.",
+            "Mock theft quarrel over garters at the departure."
           ]
         },
         {
-          "phase": "Managed dominance",
+          "phase": "Abduction and afterglow",
           "chapter_range": [
-            119,
+            121,
             123
           ],
-          "position_description": "They settle back into stable hierarchy, but now with a more administrative and self-conscious style of control rather than pure amusement.",
+          "position_description": "Agency peaks in silent capture and staged resurrection; the pair preside over torment and then dismiss Quixote with easy courtesy. Communion is absent.",
           "key_moments": [
-            "They continue presiding over staged spectacles",
-            "Household discipline replaces open prank escalation"
+            "Quixote and Sancho abducted at lance-point and held as captive audience.",
+            "Catafalque pageant with Altisidora's staged resurrection and Sancho's ritual humiliation.",
+            "The Duke deliberately orchestrates the final hoax for his own amusement; Quixote released 'very readily.'"
+          ]
+        },
+        {
+          "phase": "Frozen residue",
+          "chapter_range": [
+            124,
+            127
+          ],
+          "position_description": "Offstage and unchanged; their props and unpaid promises linger while their psychology remains fixed on the agency pole.",
+          "key_moments": [
+            "Altisidora's promised smocks remain unpaid.",
+            "The flame-painted robe and mitre become village comedy.",
+            "Quixote dies without them; Cide Hamete implies the contrivers are as foolish as the victims."
           ]
         }
       ],
-      "evidence_summary": "The strongest consensus is that their core agency never changes: they remain masters of the social frame. What shifts is the degree of communion and self-awareness embedded in that mastery, which becomes more entangled and cautious after repeated consequences."
+      "evidence_summary": "Across every appearance from ch.83 onward, the Duke and Duchess seek mastery rather than mutuality. Hospitality is stagecraft, gifts are levers, and the culmination is abduction and dismissal. The communion pole never becomes genuine at any point; agency only becomes more systematized and better resourced, making this an entrenching (negative) rather than transformative arc."
     },
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_02",
-      "dimension_label": "moral awareness",
-      "axis_name": "From carefree prankery to uneasy moral self-consciousness",
-      "pole_start": "They begin treating deception as harmless aristocratic entertainment, with little concern for the ethics of exploiting Don Quixote and Sancho.",
-      "pole_end": "They end still manipulating others, but with a more persistent awareness that their games can cause real harm and cannot be fully defended as innocent amusement.",
+      "dimension_label": "Moral Self-Awareness",
+      "axis_name": "From Unexamined Cruelty to Still-Unexamined Cruelty (Brief Regret Without Reflection)",
+      "pole_start": "No awareness that making madness and credulity into entertainment is cruel; exploitation is framed as hospitality, wit, and aristocratic sport.",
+      "pole_end": "Still no moral self-knowledge. Brief regret after the cat prank and repeated exposure of consequences produce no ethical reflection; the narrator, not the characters, delivers judgment.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "positive",
+      "arc_direction": "flat",
       "trajectory": [
         {
-          "phase": "Moral blindness",
+          "phase": "Unchallenged amusement",
           "chapter_range": [
             83,
-            85
+            98
           ],
-          "position_description": "They initially experience the whole affair as witty spectacle; external rebukes do not yet alter their conduct.",
+          "position_description": "Self-aware only as impresarios, never as exploiters; laughter at humiliation is treated as proof of clever hosting, and external moral challenge is dismissed.",
           "key_moments": [
-            "They plan to indulge Don Quixote for fun",
-            "The ecclesiastic condemns their conduct"
+            "The ecclesiastic rebukes the Duke; the rebuke is laughed off.",
+            "Clavileño and Distressed Duenna hoaxes staged without self-critique.",
+            "Delight in Sancho's letter and credulity; resolve to continue because 'no reality amuses them more.'"
           ]
         },
         {
-          "phase": "Partial conscience",
-          "chapter_range": [
-            86,
-            91
-          ],
-          "position_description": "They begin to recognize the ethical problem, especially the Duchess, but this awareness is absorbed into sophistication and self-justification rather than restraint.",
-          "key_moments": [
-            "The Duchess notes the moral implication of exploiting Sancho",
-            "They acknowledge cruelty without stopping"
-          ]
-        },
-        {
-          "phase": "Harm becomes concrete",
+          "phase": "Momentary regret without reflection",
           "chapter_range": [
             99,
-            106
+            99
           ],
-          "position_description": "Injury and humiliation make the cruelty harder to deny; they feel shock and regret, though not enough to abandon the pattern.",
+          "position_description": "The bell-and-cat prank injures Quixote, producing alarm and grief, but no examination of the ethics of the game.",
           "key_moments": [
-            "Don Quixote is badly injured",
-            "Sancho's battered condition forces recognition of harm",
-            "Sancho's dignity sharpens their sense of his seriousness"
+            "Quixote wounded and bedridden by the night-time cat prank.",
+            "The Duke and Duchess are 'greatly grieved' that the joke fell heavily on him, then quickly resume plotting."
           ]
         },
         {
-          "phase": "Compromised awareness",
+          "phase": "Escalation without conscience",
           "chapter_range": [
-            108,
+            100,
+            106
+          ],
+          "position_description": "They intensify pressure and humiliation; when the Barataria joke overshoots, servants feel the pity the masters lack.",
+          "key_moments": [
+            "Forged assassin-and-poison warning.",
+            "Sancho faints under mock justice; the jokers are 'sorry they had pushed it so far' but the principals do not reflect.",
+            "The Duchess punishes Doña Rodriguez and torments Quixote out of wounded vanity."
+          ]
+        },
+        {
+          "phase": "Punishment and containment",
+          "chapter_range": [
+            107,
+            110
+          ],
+          "position_description": "Tosilos's conscience is an inconvenience, Doña Rodriguez's grievance is comic material, and violence is administered to preserve the script.",
+          "key_moments": [
+            "Tosilos exposed as counterfeit, flogged, and sent on an errand.",
+            "The Duke turns a deaf ear to Doña Rodriguez's grievance during the Tosilos disruption.",
+            "Altisidora's outburst managed as jest."
+          ]
+        },
+        {
+          "phase": "Narrator's indictment, characters blind",
+          "chapter_range": [
+            121,
             123
           ],
-          "position_description": "They do not reform, but they increasingly manage fallout through rescue, provision, and household discipline, showing a residual moral awareness that remains partial and compromised.",
+          "position_description": "They stage abduction and mock resurrection; the narrator judges the contrivers as mad as the victims, while they remain unaware of any moral problem.",
           "key_moments": [
-            "They organize Sancho's rescue",
-            "They offer future provision",
-            "They manage Altisidora's distress as a practical problem"
+            "Silent night abduction at lance-point.",
+            "Sancho pinched, pricked, and smacked in the catafalque pageant.",
+            "Cide Hamete says the Duke and Duchess are 'not two fingers' breadth' from folly."
+          ]
+        },
+        {
+          "phase": "No further reflection",
+          "chapter_range": [
+            124,
+            127
+          ],
+          "position_description": "Offstage to the end; no self-scrutiny occurs and their unpaid debts and discarded props go unacknowledged.",
+          "key_moments": [
+            "Altisidora's smocks left unpaid.",
+            "The buckram robe and mitre kept as village relics.",
+            "No appearance at Quixote's death."
           ]
         }
       ],
-      "evidence_summary": "This axis is one of the clearest internal developments: they do not become virtuous, but they do become harder to imagine as fully innocent pranksters. Moral self-consciousness grows, even if it never defeats their appetite for control."
+      "evidence_summary": "The pair never moves from ethical blindness to insight. The single clear opportunity is ch.99, but the regret is practical rather than moral, and it does not change behavior. Later chapters repeatedly display consequences—Sancho's fainting, Tosilos's beating, Doña Rodriguez's punishment—without altering the ducal self-image. Moral reasoning is flat: amusement repeatedly overrides accountability, and any judgment comes from the narrator rather than the characters."
     },
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_03",
-      "dimension_label": "self image",
-      "axis_name": "From harmless connoisseurs to compromised directors",
-      "pole_start": "They initially see themselves as witty, elegant hosts who can aestheticize absurdity and remain above the moral consequences.",
-      "pole_end": "They end as still-proud orchestrators, but with a damaged self-image: they know their cleverness has produced real suffering and unpredictable consequences.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "ambivalent",
-      "trajectory": [
-        {
-          "phase": "Elegant superiority",
-          "chapter_range": [
-            83,
-            84
-          ],
-          "position_description": "They imagine themselves as refined connoisseurs of romance and ceremony, capable of turning reality into tasteful entertainment.",
-          "key_moments": [
-            "They plan the encounter as controlled social theater",
-            "They see themselves as directors of an elaborate reception"
-          ]
-        },
-        {
-          "phase": "Mastery as identity",
-          "chapter_range": [
-            85,
-            98
-          ],
-          "position_description": "Their self-concept hardens into that of expert manipulators and stage-managers, reinforced by successful deceptions and the apparent pliability of others.",
-          "key_moments": [
-            "Don Quixote's elaborate reasoning delights them",
-            "The Clavileño deception confirms their stage-manager identity",
-            "Sancho's governorship becomes a gratifying spectacle"
-          ]
-        },
-        {
-          "phase": "Punctured confidence",
-          "chapter_range": [
-            99,
-            106
-          ],
-          "position_description": "Injury, surprise, and Sancho's competence puncture their self-image. They preserve pride, but the fantasy of harmless cleverness is no longer secure.",
-          "key_moments": [
-            "Don Quixote's injury shocks them",
-            "Sancho proves unexpectedly capable",
-            "They realize the experiment is harder to control"
-          ]
-        },
-        {
-          "phase": "Defensive self-repair",
-          "chapter_range": [
-            108,
-            123
-          ],
-          "position_description": "They recover by reframing themselves as benevolent patrons and careful managers, preserving status while softening the appearance of cruelty.",
-          "key_moments": [
-            "They promise Sancho another post",
-            "The Duke preserves illusion rather than confronting fraud",
-            "The Duchess acts as household arbiter"
-          ]
-        }
-      ],
-      "evidence_summary": "Their self-image changes less in kind than in stability. They remain proud directors of the spectacle, but the novel steadily exposes the cost of that identity, leaving it more defensive and less innocent."
-    },
-    {
-      "axis_type": "intrapersonal",
-      "axis_id": "final_intra_04",
-      "dimension_label": "spectacle ethics",
-      "axis_name": "From entertainment without limits to entertainment with consequences",
-      "pole_start": "They treat pranks as self-justifying courtly play, where wit and elegance excuse manipulation.",
-      "pole_end": "They increasingly recognize that spectacle can produce bodily harm, social disruption, and moral residue, even if they still continue to enjoy it.",
+      "dimension_label": "Self-Image as Host",
+      "axis_name": "From Benevolent Hosts to Entitled Gamemasters",
+      "pole_start": "They see themselves as sophisticated, generous, playful hosts indulging a harmless fantasy, and as patrons rewarding a deserving squire.",
+      "pole_end": "They see themselves as master illusionists entitled to stage guests' lives for amusement; benevolence survives only as a veneer and as self-justification.",
       "confidence": "medium",
       "source": "event_only",
-      "arc_direction": "positive",
+      "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Unlimited amusement",
+          "phase": "Benevolent host self-narrative",
           "chapter_range": [
             83,
-            88
+            85
           ],
-          "position_description": "Early pranks are experienced as clever, bounded, and harmless; their pleasure depends on the assumption that the game is only a game.",
+          "position_description": "They understand themselves as gracious hosts and playful patrons; their self-story is flattering and internally coherent.",
           "key_moments": [
-            "They delight in Sancho's wit at table",
-            "They resolve to continue the joke"
+            "They welcome Don Quixote with chivalric ceremony and seat him at the head of the table.",
+            "The Duke grants Sancho a government in front of the ecclesiastic.",
+            "The Duke protects Don Quixote from discovering the beard-washing prank."
           ]
         },
         {
-          "phase": "Consequences intrude",
+          "phase": "Ingenious directors",
           "chapter_range": [
-            89,
-            106
+            86,
+            98
           ],
-          "position_description": "Repeated moral pressure and physical harm make the costs of the game harder to deny. Their amusement persists, but it is increasingly contaminated by awareness of damage.",
+          "position_description": "Self-image hardens around clever stage-management and control of spectacle.",
           "key_moments": [
-            "The Duchess briefly acknowledges cruelty",
-            "Don Quixote is badly injured",
-            "The Duchess turns insult into revenge",
-            "Sancho's battered exit forces regret"
+            "They plot new knight-errantry jokes after Sancho's confession.",
+            "Staging of fake disenchantment, Merlin, the Distressed Duenna, and Clavileño.",
+            "They resolve to prolong the deception through Sancho's governorship."
           ]
         },
         {
-          "phase": "Managed aftermath",
+          "phase": "Entitled gamemasters",
           "chapter_range": [
-            108,
+            99,
             123
           ],
-          "position_description": "They do not renounce spectacle, but they become more careful about framing, rescue, and patronage. Entertainment is now shadowed by the need to manage fallout.",
+          "position_description": "After a brief check, they reassert themselves as entitled directors of guest lives; benevolence persists only as a rhetorical cover for humiliation.",
           "key_moments": [
-            "They rescue Sancho from the pit",
-            "They offer a new post",
-            "They redirect Altisidora's distress into needlework"
+            "The Duchess avenges her wounded vanity through humiliation.",
+            "The Duke converts Tosilos's disruption into another controlled game.",
+            "They stage the final resurrection spectacle and Sancho's humiliation, then grant him the robe and mitre as a mock memento."
           ]
         }
       ],
-      "evidence_summary": "This axis captures the gradual contamination of amusement by consequence. It is best retained as a distinct event-driven refinement of their moral awareness and self-image."
+      "evidence_summary": "Their self-perception does not transform; it hardens. Manipulation is continuously justified through a self-image of generous, ingenious hospitality, and the language of gift and patronage survives to the end as the covering for spectacle. This axis is closely related to the Agency vs Communion axis—it is the internal narrative that licenses the agentic behavior—and should be treated as a supporting facet rather than an independent psychological change."
     }
   ],
   "relational_axes": [
@@ -318,216 +289,224 @@
       "axis_id": "final_rel_01",
       "source_character": "The Duke and Duchess",
       "target_character": "Don Quixote",
-      "dimension_label": "respect control",
-      "axis_name": "From amused hospitality to controlled patronage",
-      "pole_start": "They begin with playful curiosity and performative hospitality, treating Don Quixote as an entertaining curiosity whom they can safely indulge.",
-      "pole_end": "They end as still-courteous but clearly controlling patrons who manage his departures, beliefs, and humiliations while preserving the appearance of respect.",
+      "dimension_label": "Instrumental Esteem",
+      "axis_name": "From Mock-Revered Guest-Performer to Disposable Captive Spectacle",
+      "pole_start": "Condescending fascination masked as profound respect: Quixote is a prized guest-performer and famous knight whose illusion is ceremonially protected, though esteem is genuinely low and intimacy theatrical.",
+      "pole_end": "Quixote is a discarded anecdote and captive prop: abducted at lance-point, tormented as a captive audience, then released with easy courtesy; esteem, trust, and intimacy are all low.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Welcoming the curiosity",
+          "phase": "Mock-reverent reception",
           "chapter_range": [
             83,
-            84
+            85
           ],
-          "position_description": "Their relation starts as amused welcome: they embrace him, stage ceremonies, and treat him as a living romance figure.",
+          "position_description": "Exaggerated chivalric courtesy combined with private condescension; they honor his knightly identity and preserve his dignity because the illusion is useful.",
           "key_moments": [
-            "They plan to indulge his knight-errantry",
-            "They stage a lavish ceremonial reception"
+            "They await Don Quixote with delight and decide to humor his delusions.",
+            "Embrace and title 'Sir Knight of the Lions'; seating him at the head of the table.",
+            "The Duke suppresses laughter and protects the illusion during the beard-washing prank."
           ]
         },
         {
-          "phase": "Deepening manipulation",
+          "phase": "Exploited performer",
           "chapter_range": [
-            85,
-            94
+            86,
+            98
           ],
-          "position_description": "They move from hospitality to active orchestration. Don Quixote becomes the center of a managed fantasy in which they direct his interpretations and responses.",
+          "position_description": "They flatter and stage him in increasingly elaborate hoaxes; his credulity is useful and amusing rather than respected.",
           "key_moments": [
-            "His defense of Dulcinea confirms his delusion",
-            "The Duchess endorses the enchantment narrative",
-            "They stage the nighttime deception",
-            "They engineer the Clavileño flight"
+            "Staged disenchantment of Dulcinea and Merlin's demand.",
+            "The Distressed Duenna and Clavileño spectacles.",
+            "They flatter him as a famous knight whose aid is sought; Altisidora's serenade."
           ]
         },
         {
-          "phase": "Control under strain",
+          "phase": "Brief solicitude, then neglect",
           "chapter_range": [
-            95,
-            109
+            99,
+            104
           ],
-          "position_description": "Their relation remains exploitative, but injuries, surprises, and improvisations reveal that their control is not absolute. They continue to manage him, now with more awareness of risk.",
+          "position_description": "The cat prank wounds him and they briefly worry over a damaged plaything, then ignore his hints of departure and absorb him into new games.",
           "key_moments": [
-            "Don Quixote is injured and they feel remorse",
-            "The Duke stages himself as arbiter of justice",
-            "Tosilos's refusal destabilizes the script",
-            "The Duke preserves the illusion rather than confronting it"
+            "Bell-and-cat injury leaves Quixote bedridden; they are briefly grieved.",
+            "Quixote's letter hints he may leave; new diversions displace him.",
+            "The Duchess torments him after Doña Rodriguez's indiscretion."
           ]
         },
         {
-          "phase": "Courteous departure",
+          "phase": "Court entertainment and departure",
           "chapter_range": [
-            110,
+            105,
+            110
+          ],
+          "position_description": "He is pointed at staged combat and mocked at departure; courtesy remains performative and control remains theirs.",
+          "key_moments": [
+            "Tosilos combat staged for Quixote's benefit.",
+            "Mock quarrel over garters and mock accusation at his leaving.",
+            "Polite but shallow farewell."
+          ]
+        },
+        {
+          "phase": "Abduction and disposal",
+          "chapter_range": [
+            121,
             123
           ],
-          "position_description": "They end by framing his departure as gracious and by continuing to manage his image from a distance. The relationship remains hierarchical, but the overt prank cycle is winding down.",
+          "position_description": "They reverse earlier indifference, capture him at night, hold him as captive audience, and then release him 'very readily'; intimacy falls to its lowest point.",
           "key_moments": [
-            "They perform regret at his leaving",
-            "The Duchess still treats him as a subject of observation"
+            "Silent abduction at lance-point.",
+            "Catafalque pageant in which he is forced to witness Sancho's torment.",
+            "Dismissal with easy courtesy; the Duke deliberately orchestrates the final hoax."
           ]
         }
       ],
-      "evidence_summary": "This is the central relationship arc: it moves from amused hospitality to sustained manipulation, with occasional flashes of concern that never undo the asymmetry. Respect is mostly ceremonial; control is the stable endpoint."
+      "evidence_summary": "The relationship moves from apparent honor to open instrumentalization. Esteem never becomes genuine, and intimacy declines from theatrical closeness to cold disposal. Outward courtesy persists throughout as a shell, but the endpoint—night abduction, captive audience, casual release—confirms that Quixote is a consumable spectacle rather than a guest."
     },
     {
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "The Duke and Duchess",
       "target_character": "Sancho Panza",
-      "dimension_label": "comic esteem",
-      "axis_name": "From amused patronage to warmer, more engaged amusement",
-      "pole_start": "They begin with superficial amusement and low esteem, treating Sancho as a comic subordinate useful for entertainment.",
-      "pole_end": "They end still patronizing him, but with noticeably warmer appreciation for his wit, bargaining, and verbal resourcefulness.",
+      "dimension_label": "Condescending Affection",
+      "axis_name": "From Patronized Comic Dependent to Tormented, Marveled-At Specimen",
+      "pole_start": "Sancho is a beloved buffoon: the Duchess delights in his drollery, calls him 'discreet,' invites him into intimacy, and promises him an island, while trust and esteem remain low.",
+      "pole_end": "Sancho is still instrumentalized and physically tormented for spectacle, though the pair now marvel at his blend of simplicity and sharpness; esteem rises to medium while trust, equality, and paid debts do not.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "positive",
+      "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Initial comic interest",
+          "phase": "Fond welcome",
           "chapter_range": [
             83,
-            85
+            86
           ],
-          "position_description": "Sancho is first treated as a lively subordinate and comic foil; they are amused by him but still clearly above him.",
+          "position_description": "Positive intimacy and condescending esteem; Sancho is a valued but comic guest whose credulity is already being harvested.",
           "key_moments": [
-            "They show interest in Sancho as comic wit",
-            "They enjoy his improprieties and verbal boldness"
+            "The Duchess enjoys Sancho's drollery, calls him 'very discreet,' and invites him to ride beside her.",
+            "The Duchess questions him about Dulcinea and professes belief to soothe Don Quixote.",
+            "She privately receives Sancho's confession and reaffirms the promised island."
           ]
         },
         {
-          "phase": "Warmening through wit and bargaining",
+          "phase": "Coercive scripting and puppet governorship",
           "chapter_range": [
-            86,
-            91
-          ],
-          "position_description": "They increasingly flatter and engage Sancho, valuing his intelligence and proverbs as part of the performance while still controlling him.",
-          "key_moments": [
-            "They actively cultivate Sancho’s trust",
-            "They use his reactions and letters as entertainment"
-          ]
-        },
-        {
-          "phase": "Instrumental affection during governorship",
-          "chapter_range": [
-            92,
+            87,
             100
           ],
-          "position_description": "They remain amused by his governorship and practical resistance, showing a warmer surface regard but no real equality.",
+          "position_description": "Affection mixes with exploitation as Sancho becomes the central comic engine of the hoaxes; his fears and proverbs are harvested for laughter.",
           "key_moments": [
-            "Barataria mock government unfolds",
-            "They continue the joke despite unintended harm",
-            "They manage him from afar through letters"
+            "They exploit his fear during the staged disenchantment and pressure him toward the 3,300 lashes.",
+            "The Duke and Duchess steer him onto Clavileño.",
+            "They despatch him to the fake island of Barataria with a majordomo instructed to deceive him.",
+            "They are greatly amused by reports of his misadventures."
           ]
         },
         {
-          "phase": "Stable but warmer patronage",
+          "phase": "Dignified exit denied them",
           "chapter_range": [
-            103,
+            101,
+            106
+          ],
+          "position_description": "Sancho governs more wisely than scripted and leaves Barataria with dignity; the intended submission scene is denied, though their esteem does not yet openly rise.",
+          "key_moments": [
+            "Sancho out-talks the jesters and refuses to account to anyone but the Duke.",
+            "He faints under mock justice; the jokers, not the principals, feel the pity."
+          ]
+        },
+        {
+          "phase": "Fond welcome and renewed use",
+          "chapter_range": [
+            107,
             110
           ],
-          "position_description": "They continue to find him entertaining and useful, with the Duchess especially showing performative friendliness and the Duke treating him as a comic subject worth managing.",
+          "position_description": "They welcome him back with embraces and vague promises of another post, still treating him as a beloved clown and comic witness.",
           "key_moments": [
-            "The Duchess sends gifts and letters to Teresa Panza",
-            "Correspondence and social management continue",
-            "The farewell scene preserves the comic bond"
+            "Ropes haul Sancho and Dapple from the pit.",
+            "Promise of a less onerous post; the majordomo secretly gives him money."
+          ]
+        },
+        {
+          "phase": "Humiliation as spectacle, then marvel",
+          "chapter_range": [
+            121,
+            124
+          ],
+          "position_description": "Negative exploitation intensifies as mock benevolence accompanies ritual humiliation; simultaneously their curiosity about him deepens into grudging admiration, though nothing is repaid.",
+          "key_moments": [
+            "Sancho receives smacks, pinches, and pinpricks to revive Altisidora.",
+            "The Duchess grants him the flame robe and mitre as a mock memento.",
+            "The Duke and Duchess marvel at his 'simplicity' and 'sharpness.'",
+            "Altisidora's promised smocks remain unpaid."
           ]
         }
       ],
-      "evidence_summary": "Sancho is the relationship that most clearly warms over time. The Duke and Duchess never stop being superior, but they increasingly enjoy his wit and treat him as a more valuable comic participant."
+      "evidence_summary": "Their fondness for Sancho is real but instrumental, and it grows warmer as his comic value grows. The two analyses diverge only in emphasis: the event graph stresses deepening exploitation, the psychological summary stresses a slight rise in esteem. Both are true—amusement and admiration increase while trust, moral respect, and reciprocity never do—and the relationship culminates in physical torment staged as court entertainment, with debts left unpaid. The shift is from simple patronized clown to prized and wondered-at specimen, not toward equality."
     },
     {
       "axis_type": "relational",
       "axis_id": "final_rel_03",
       "source_character": "The Duke and Duchess",
-      "target_character": "Each other",
-      "dimension_label": "shared complicity",
-      "axis_name": "From aligned co-conspirators to fully synchronized theatrical partners",
-      "pole_start": "They begin as mutually reinforcing aristocratic partners, already sharing the same taste for spectacle, wit, and manipulation.",
-      "pole_end": "They end in the same basic alignment, with no meaningful rupture; their complicity remains high and stable throughout.",
-      "confidence": "medium",
-      "source": "both",
-      "arc_direction": "flat",
-      "trajectory": [
-        {
-          "phase": "Established partnership",
-          "chapter_range": [
-            83,
-            110
-          ],
-          "position_description": "Their relationship is consistently collaborative, with high trust, high esteem, and high intimacy in the sense of shared project and mutual reinforcement.",
-          "key_moments": [
-            "They jointly stage the major deceptions",
-            "They coordinate responses to household complications",
-            "They continue to manage staged conflict and departure"
-          ]
-        },
-        {
-          "phase": "No meaningful change",
-          "chapter_range": [
-            119,
-            123
-          ],
-          "position_description": "Even when the narrative criticizes them, their partnership remains intact and operational; there is no evidence of internal conflict between them.",
-          "key_moments": [
-            "They continue presiding over spectacles together"
-          ]
-        }
-      ],
-      "evidence_summary": "Their marriage functions as a stable engine of the prank structure. The arc is essentially one of consolidation and continuity rather than transformation."
-    },
-    {
-      "axis_type": "relational",
-      "axis_id": "final_rel_04",
-      "source_character": "The Duke and Duchess",
       "target_character": "Doña Rodriguez",
-      "dimension_label": "patronizing power",
-      "axis_name": "From managed courtesy to punitive humiliation",
-      "pole_start": "They initially treat Doña Rodriguez as a social subordinate whose complaints can be absorbed into their courtly performance.",
-      "pole_end": "They end by using her as an object of rank manipulation and punishment, with courtesy serving as a mask for domination.",
+      "dimension_label": "Patronizing Favor vs Punishment",
+      "axis_name": "From Flattered Servant to Punished Intruder",
+      "pole_start": "The Duchess flatters Doña Rodriguez and manages her grievance as manageable social theater, treating her with condescending favor.",
+      "pole_end": "The Duchess punishes her for indiscretion and the Duke shows indifference to her grievance, subordinating her entirely to the joke.",
       "confidence": "medium",
       "source": "event_only",
       "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Managed complaint",
+          "phase": "Flattery and control",
           "chapter_range": [
             90,
-            105
+            90
           ],
-          "position_description": "Doña Rodriguez is handled as part of the castle's social theater, with her status acknowledged only insofar as it can be controlled.",
+          "position_description": "Condescending favor; the Duchess manages the duenna dispute through flattery and redirection toward Sancho's anti-duenna prejudice.",
           "key_moments": [
-            "The Duchess acknowledges the cruelty of the prank but continues",
-            "They punish her after her indiscretion",
-            "The Duke stages himself as arbiter of justice"
+            "The Duchess flatters Doña Rodriguez and redirects the dispute toward Sancho's prejudice against duennas."
           ]
         },
         {
-          "phase": "Reframed subordination",
+          "phase": "Punitive rage",
+          "chapter_range": [
+            103,
+            103
+          ],
+          "position_description": "Wounded vanity turns favor into open hostility and physical punishment.",
+          "key_moments": [
+            "The Duchess overhears Doña Rodriguez's indiscretion and is enraged.",
+            "She bursts into Don Quixote's room, torments him, and flogs the duenna."
+          ]
+        },
+        {
+          "phase": "Ambivalent special treatment",
           "chapter_range": [
             105,
-            123
+            105
           ],
-          "position_description": "The Duchess gives her and her daughter special rooms and the title of 'lady adventurers,' but this honor is patronizing and keeps them under control.",
+          "position_description": "Astonishment and patronizing indulgence replace simple contempt, but respect remains absent.",
           "key_moments": [
-            "The Duchess reclassifies them as lady adventurers",
-            "She privately monitors the consequences",
-            "The Duchess continues to manage household emotions"
+            "The Duke and Duchess are astonished by Doña Rodriguez's bold plea.",
+            "The Duchess orders the women treated as lady adventurers rather than servants."
+          ]
+        },
+        {
+          "phase": "Indifference",
+          "chapter_range": [
+            109,
+            109
+          ],
+          "position_description": "The Duke ignores her grievance to sustain the joke, confirming punitive disregard.",
+          "key_moments": [
+            "The Duke turns a deaf ear to Doña Rodriguez's grievance and humiliation during the Tosilos disruption."
           ]
         }
       ],
-      "evidence_summary": "This relationship shows how the Duchess converts social rank into theatrical domination. There is no real reconciliation; courtesy and humiliation remain interchangeable tools."
+      "evidence_summary": "The relationship moves from condescending favor to punitive control. Doña Rodriguez is valued only insofar as she serves the household spectacle; when her grievance threatens the script she is beaten, then ignored. This axis was present only in the event-graph analysis and remains a valid but secondary relationship, consistent with the pair's treatment of all subordinates as stage property."
     }
   ]
 }

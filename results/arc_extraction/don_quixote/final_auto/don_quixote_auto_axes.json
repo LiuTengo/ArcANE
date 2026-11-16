@@ -5,183 +5,216 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "agency-communion",
-      "axis_name": "From self-authorizing knight to reconciled Christian self",
-      "pole_start": "Highly agentic self-assertion: he begins as a self-fashioning, mastery-seeking knight who imposes his will on reality, pursues fame, and treats others as supporting roles in his chivalric mission.",
-      "pole_end": "Communal, relationally embedded selfhood: he ends as Alonso Quixano, oriented toward confession, gratitude, family protection, and peaceful reconciliation with others and with God.",
+      "dimension_label": "Agency–Communion",
+      "axis_name": "From sovereign heroic self-assertion to humble interdependence",
+      "pole_start": "A self-asserting, dominance-oriented fantasist who renames himself, invents Dulcinea, recruits Sancho through promises, imposes chivalric categories on reality, and treats other people chiefly as audience, instruments, or obstacles to his solitary heroic mission.",
+      "pole_end": "A defeated, sane man who relinquishes heroic self-assertion, confesses his madness, apologizes to Sancho, rewards household servants, submits to God and the sacraments, and dies as Alonso Quixano among family, friends, and dependents, recognizing dependence and moral debt.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Self-authorizing emergence",
+          "phase": "Self-crowning mastery",
           "chapter_range": [
             2,
             8
           ],
-          "position_description": "He begins in maximal agency: he renames himself, arms himself, leaves home, recruits a squire, and insists on his own chivalric mission despite ridicule.",
+          "position_description": "Strongly agency-driven: he manufactures a knightly identity, names horse, self, and lady, reads the inn as a castle, demands dubbing, and enlists Sancho as an instrument and audience for his romance script.",
           "key_moments": [
-            "Renames himself Don Quixote and Rocinante",
-            "Secures dubbing and begins sallying forth",
-            "Recruits Sancho Panza",
-            "Treats others as supporting roles in his quest"
+            "Loses his wits reading chivalry books and decides to become a knight-errant.",
+            "Names himself Don Quixote, his horse Rocinante, and invents Dulcinea as Lady of Thoughts.",
+            "Demands to be dubbed a knight and attacks carriers who disturb his armor.",
+            "Recruits Sancho with promises of an island governorship."
           ]
         },
         {
-          "phase": "Defensive self-sealing and social performance",
+          "phase": "Dominant agency sustained by enchantment",
           "chapter_range": [
             9,
-            96
+            58
           ],
-          "position_description": "Agency remains high but becomes increasingly mediated by others: he dominates interpretation, seeks public validation, and uses chivalric identity as a social performance while growing more dependent on Sancho and courtly audiences.",
+          "position_description": "Agency remains dominant but becomes hierarchical and coercive: he commands Sancho, punishes mockery, and explains every contradiction as enchantment. Dependence on Sancho grows, but communion remains patronizing rather than reciprocal.",
           "key_moments": [
-            "Explains defeats as enchantment rather than error",
-            "Defends knight-errantry in long speeches",
-            "Advises Sancho on governance and conduct",
-            "Accepts courtly honors and public staging"
+            "Charges windmills and converts failure into the Sage Freston's malice.",
+            "Frees galley slaves and demands their embassy to Dulcinea.",
+            "Performs the Sierra Morena penance and sends Sancho to Dulcinea.",
+            "Beats or threatens Sancho over Dulcinea and the lashes.",
+            "Is caged and carted home while interpreting captivity as enchantment."
           ]
         },
         {
-          "phase": "Defeat, retirement, and inward reorientation",
+          "phase": "Inflated public agency and staged performance",
           "chapter_range": [
-            117,
+            59,
+            95
+          ],
+          "position_description": "His agency becomes theatrical and literary: he seeks fame, printed history, staged combats, and courtly recognition. He remains commanding, but increasingly depends on Sancho, hosts, and enchanters to sustain his role.",
+          "key_moments": [
+            "Undertakes the third sally and defends chivalric truth.",
+            "Experiences El Toboso disillusion and the peasant-girl enchantment.",
+            "Defeats the Knight of the Mirrors and confronts the lion.",
+            "Participates in Clavileño and the staged duenna adventures."
+          ]
+        },
+        {
+          "phase": "Defeat and enforced dependence",
+          "chapter_range": [
+            96,
+            126
+          ],
+          "position_description": "Defeat by the Knight of the White Moon strips him of active mastery. He accepts retirement, delegates judgment to Sancho, stops Sancho's whipping out of compassion, and returns home subdued and dependent.",
+          "key_moments": [
+            "Is defeated by the Knight of the White Moon and must retire for a year.",
+            "Endures pig stampede, mock resurrection, and ducal humiliations.",
+            "Stops Sancho's self-flagellation when Sancho cries out in pain.",
+            "Admits his wits are confused and lets Sancho judge the peasants' dispute."
+          ]
+        },
+        {
+          "phase": "Repentant communion",
+          "chapter_range": [
+            127,
             127
           ],
-          "position_description": "After defeat, his agency is sharply reduced and redirected inward: he submits to retirement, relinquishes the knightly self, and turns toward repentance, confession, and domestic responsibility.",
+          "position_description": "He surrenders agency to Christian humility and communal obligation. He renounces knight-errantry, asks forgiveness, makes bequests, blesses Sancho, and dies lucid among others.",
           "key_moments": [
-            "Defeated by the Knight of the White Moon",
-            "Returns home subdued and reflective",
-            "Makes his will and confesses",
-            "Renounces chivalric books and becomes Alonso Quixano the Good"
+            "Wakes sane and renounces books of chivalry as dark ignorance.",
+            "Asks Sancho's forgiveness for drawing him into mad knight-errantry and cancels his debts.",
+            "Calls his niece and housekeeper his daughters and provides for them in his will.",
+            "Dies calmly as Alonso Quixano the Good."
           ]
         }
       ],
-      "evidence_summary": "The arc moves from maximal self-assertion to a final state of humility, dependence, and relational repair. The middle of the novel preserves agency but increasingly socializes it, so the ending is best read as a genuine reorientation rather than a simple collapse.",
+      "evidence_summary": "The arc begins with a solitary hidalgo imposing a self-authored heroic identity on the world and commanding others as romance figures; it ends with a defeated, sane man acknowledging dependence on Sancho and his household, seeking forgiveness, and dying within ordinary Christian community.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship that reads Don Quixote as a movement from self-fashioning delusion toward self-knowledge, humility, and Christian reconciliation. Critics have long treated the novel’s ending—especially Alonso Quixano’s renunciation, confession, and death—as a meaningful ethical and spiritual reorientation rather than mere plot closure.",
+            "reasoning": "The axis is a recognizable critical construction: Cervantine scholarship has long described Don Quixote's trajectory from self-invented heroic identity and imposed chivalric fantasy to disillusioned sanity, confession, and Christian humility. The specific vocabulary of 'agency–communion' is modern, but the underlying intrapersonal change is supported by psychological and psychoanalytic readings of the character.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Don Quixote as a novel of self-deception and eventual recovery of sanity, which supports the arc from autonomous chivalric self-assertion to reconciled self-knowledge.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "A foundational psychological study that traces Quixote's self-dramatizing heroism and his eventual return to sanity.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytic Approach to Don Quixote",
+                "year": 1983,
+                "publication": "Berkeley: University of California Press",
+                "url": null,
+                "relevance": "Psychoanalytic account of Quixote's identity formation and the collapse of his fantasy, supporting the shift from grandiose self-assertion toward social reality.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytic+Approach+to+Don+Quixote+1983"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that treats the knight’s final renunciation as a return from imaginative self-assertion to social and moral embeddedness.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford: Oxford University Press",
+                "url": null,
+                "relevance": "Situates Quixote's madness and final disenchantment within Cervantes's comic art, including the hero's return to sanity and death as Alonso Quixano.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how the narrative frames Don Quixote’s chivalric self-fashioning and its eventual collapse, making room for the ending’s quieter, relational identity as Alonso Quixano.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Cervantes Saavedra, Miguel de",
-                "title": "Don Quixote",
-                "year": 1605,
-                "publication": "Part II, chapters 74 and final deathbed scene in the novel itself",
-                "relevance": "The primary text explicitly stages Alonso Quixano’s renunciation of knight-errantry, confession, gratitude, and peaceful reconciliation with family and God at the end of the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Cervantes+Saavedra%2C+Miguel+de+Don+Quixote+1605"
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Discusses Cervantes's interest in disillusionment and self-knowledge, which underwrites the arc from imposed chivalric fiction to sober self-recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship that reads Don Quixote’s arc as a movement from delusive self-fashioning and heroic self-assertion toward self-knowledge, humility, and Christian reconciliation. Critics have long noted that the ending’s return to Alonso Quijano is not merely a plot reversal but a psychological and moral reconstitution of the self in relation to family, community, and God.",
+            "reasoning": "The axis is well grounded in psychological and character-centered criticism of Don Quixote: scholars have long analyzed his self-invention and narcissistic chivalric projection, as well as the ending’s recovery of sanity, confession, and reintegration into household and community. The agency–communion terminology is modern, but the underlying trajectory from self-assertive fantasy to humbled interdependence is a recognizable critical topic.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the novel’s movement from Quixotic illusion toward disillusionment and self-knowledge, which supports the claim that Don Quixote ends in a more reconciled, inwardly clarified state.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente; English translation as Don Quixote: An Introductory Essay in Psychology, Oxford University Press, 1935",
+                "url": null,
+                "relevance": "Early psychological reading of Quixote’s idealizing self-projection, delusion, and gradual disillusionment.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close traces critical traditions that emphasize Don Quixote’s final renunciation of fantasy and recovery of sanity, aligning with the axis from self-authorizing knight to reconciled self.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how the chivalric pose structures Don Quixote’s identity and how the ending dismantles that pose, making room for a more socially and morally integrated self.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "El Saffar, Ruth",
-                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
-                "year": 1984,
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
                 "publication": "University of California Press",
-                "relevance": "Although broader than Don Quixote alone, El Saffar’s psychoanalytic-inflected reading treats Cervantine selfhood as moving beyond fantasy toward relational recovery, which fits the axis’s communal endpoint.",
-                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+                "url": null,
+                "relevance": "Psychoanalytic study of Quixote’s narcissistic self-construction, desire, and identity, supporting the axis’s starting pole of self-assertion.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "Márquez Villanueva examines the ending’s moral and spiritual dimensions, including Don Quixote’s final lucidity, repentance, and return to Alonso Quijano.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "Riley, E. C.",
+                "title": "Don Quixote",
+                "year": 1990,
+                "publication": "Cambridge University Press, Landmarks of World Literature",
+                "url": null,
+                "relevance": "Critical study of character and narrative ending, including Quixote’s recovery of sanity and renunciation of his chivalric identity.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1990"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship that reads Don Quixote’s arc as moving from self-fashioning fantasy and willful authoring of the self toward renunciation, humility, and Christian reconciliation. Critics of Cervantes repeatedly note the novel’s final movement from the knightly persona back to Alonso Quixano, especially in the deathbed scenes where confession, repentance, and restored social bonds replace chivalric self-assertion.",
+            "reasoning": "The proposed arc is well supported by character-centered and psychoanalytic Cervantine criticism: scholars read Quixote's self-renaming, Dulcinea-invention, and chivalric role-play as an identity formation whose narcissistic investments are progressively exposed and dismantled. The final chapters' return to sanity, confession, and domestic dependence are commonly treated as a conversion or disillusionment, though critics disagree about how ironic or complete that change is.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the novel’s movement from illusion and self-deception toward disillusion and the final recovery of Alonso Quixano, supporting the claim that Don Quixote ends in a more reconciled selfhood.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys interpretations that contrast Don Quixote’s early self-authorizing idealism with the ending’s return to sanity, mortality, and social embeddedness.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Psychoanalytic study of Quixote's narcissistic self-fashioning and fantasy investment, directly relevant to the internal movement from heroic self-assertion toward disillusioned self-knowledge.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
               },
               {
                 "author": "Mancing, Howard",
                 "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how the chivalric persona is progressively dismantled, culminating in the protagonist’s final renunciation of knight-errantry and reversion to Alonso Quixano.",
+                "url": null,
+                "relevance": "Traces the construction and eventual dismantling of Quixote's chivalric self-image and his relation to the fictional world he imposes on others.",
                 "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               },
               {
-                "author": "Cascardi, Anthony J.",
-                "title": "The Subject of Modernity",
-                "year": 1992,
-                "publication": "Cambridge University Press",
-                "relevance": "Cascardi treats Don Quixote as a key figure in the history of modern subjectivity, including the tension between self-authorizing identity and the eventual limits imposed by community, mortality, and moral reckoning.",
-                "search_url": "https://scholar.google.com/scholar?q=Cascardi%2C+Anthony+J.+The+Subject+of+Modernity+1992"
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Ínsula",
+                "url": null,
+                "relevance": "Reads the Quijote's structure and ending in terms of Quixote's spiritual trajectory, including his final sanity, confession, and Christian death.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
+              },
+              {
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "The chapter on the enchanted Dulcinea analyzes the interplay of Quixote's madness and lucidity, supporting the axis's sanity/madness and self-perception dimension.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Examines Cervantine comic self-fashioning and the novel's disillusioning ending, relevant to the shift from sovereign fantasy to social reintegration.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               }
             ]
           }
@@ -191,175 +224,259 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_02",
-      "dimension_label": "delusion-reality",
-      "axis_name": "From impermeable enchantment to lucid renunciation",
-      "pole_start": "Fully enclosed in delusion: he treats romances as reality, misreads ordinary objects as enchanted signs, and explains contradiction through magic rather than self-correction.",
-      "pole_end": "Clear-eyed renunciation: he explicitly names his former madness, rejects chivalric books as harmful falsehoods, and recognizes his life as a moral error requiring repentance.",
+      "dimension_label": "Delusion–Lucidity",
+      "axis_name": "From self-sealing enchantment logic to lucid disenchantment",
+      "pole_start": "Absolute conviction that chivalric romances are literal truth and that he is a knight-errant; inns are castles, windmills are giants, strangers are knights or enchanters, and every contradiction is the work of hostile enchanters rather than his own error.",
+      "pole_end": "Full lucidity: he admits his madness, calls chivalry books detestable absurdities, rejects the pastoral fantasy, renounces Don Quixote, confesses, makes a Christian will, and dies sane as Alonso Quixano the Good.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "disillusionment",
+      "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Totalized romance perception",
+          "phase": "Unbroken delusional certainty",
           "chapter_range": [
             2,
-            27
+            25
           ],
-          "position_description": "He consistently converts the world into chivalric fantasy, with only tactical flexibility inside the delusion.",
+          "position_description": "Reality is wholly assimilated to romance. His identity is unquestioned, and defeats are rationalized rather than doubted.",
           "key_moments": [
-            "Inn becomes castle",
-            "Windmills become giants",
-            "Defeats are explained as enchantment",
-            "Sierra Morena penance is treated as literal chivalric performance"
+            "Dubbing at the inn and armor-watching.",
+            "Mistakes windmills for giants and blames the sage Freston.",
+            "Frees galley slaves and interprets their ingratitude as villainy.",
+            "Treats the basin as Mambrino's helmet and rationalizes its appearance."
           ]
         },
         {
-          "phase": "Managed delusion under social pressure",
+          "phase": "Self-conscious fantasy under humiliation",
           "chapter_range": [
-            30,
-            116
+            26,
+            64
           ],
-          "position_description": "He remains deluded, but the delusion is increasingly staged, publicly manipulated, and occasionally tested by practical reality; he sometimes notices facts, but absorbs them back into enchantment.",
+          "position_description": "He can say that he pictures Dulcinea as he wishes and chooses Amadis-style penance deliberately, yet this insight is absorbed into the chivalric frame. Contradictions become proof of hostile enchantment.",
           "key_moments": [
-            "Courtly pranks and staged enchantments at the duke's castle",
-            "Cave of Montesinos and Clavileño intensify wonder without correction",
-            "He can occasionally distinguish local realities from fantasy",
-            "He preserves his worldview by reclassifying contradictions"
+            "Admits poets invent ladies and that he imagines Dulcinea.",
+            "Chooses Amadis-style penance as a deliberate performance.",
+            "Describes the cave of Montesinos vision and insists on its truth.",
+            "Sees a peasant girl as the enchanted Dulcinea and blames enchanters."
           ]
         },
         {
-          "phase": "Final lucidity",
+          "phase": "Cracks and doubling",
           "chapter_range": [
-            117,
+            65,
+            97
+          ],
+          "position_description": "Staged courtly adventures validate him outwardly, but the false Second Part, the Knight of the Mirrors, and doubts about the cave vision increasingly destabilize his confidence.",
+          "key_moments": [
+            "Defeats the Knight of the Mirrors and explains Samson's face as an enchanter's transformation.",
+            "Hears the enchanted head and staged Merlin confirm Dulcinea's disenchantment.",
+            "Begins to doubt whether his cave vision was true.",
+            "Accepts Clavileño and Merlin literally despite earlier doubts."
+          ]
+        },
+        {
+          "phase": "Post-defeat rationality and residual fantasy",
+          "chapter_range": [
+            98,
+            126
+          ],
+          "position_description": "After the White Moon defeat he becomes more rational about ordinary matters such as inns and false histories, but still believes in enchantment, Sancho's penance, and omens. Delusion persists alongside genuine self-reproach.",
+          "key_moments": [
+            "Is defeated by the Knight of the White Moon and accepts a year's retirement.",
+            "Recognizes an inn as an inn and admits his wits are confused.",
+            "Reads the hare as an omen despite earlier condemning superstition.",
+            "Still hopes for Dulcinea's disenchantment."
+          ]
+        },
+        {
+          "phase": "Final disenchantment",
+          "chapter_range": [
+            127,
             127
           ],
-          "position_description": "The delusional system collapses into explicit renunciation; he sees his former self as mad and rejects knight-errantry as deception.",
+          "position_description": "The delusion breaks completely. He recognizes his madness, repents, renounces knight-errantry, and frames his former heroism as dangerous illusion.",
           "key_moments": [
-            "Defeat by the Knight of the White Moon",
-            "Melancholy retreat home",
-            "Confession and will-making",
-            "Renounces Don Quixote and becomes Alonso Quixano"
+            "Wakes from fever with his reason clear and calls chivalry books detestable absurdities.",
+            "Rejects the pastoral plan as nonsense and insists he is no longer Don Quixote.",
+            "Confesses, makes a Christian will, and dies calmly as Alonso Quixano the Good."
           ]
         }
       ],
-      "evidence_summary": "This is the clearest psychological arc in the material: from complete enchantment-thinking to a final repudiation of that worldview. The middle chapters show resilient, adaptive delusion rather than true realism, making the ending a decisive break.",
+      "evidence_summary": "The novel tracks a long, non-linear consolidation of delusional certitude through repeated enchantment rationalizations, followed by late doubts under staged and real mirrors, then a final deathbed recovery of reason.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Published scholarship does support a late movement in Don Quixote from delusive chivalric self-enclosure toward lucid self-recognition and renunciation. Structural and narratological readings of the novel regularly treat the ending as a reversal in which the knight explicitly repudiates his books, names his madness, and reenters ordinary moral reality, even if critics differ on how complete or stable that lucidity is.",
+            "reasoning": "The axis is strongly grounded in published Cervantine criticism: Quixote's madness has long been read as intermittent, rhetorically self-sealing, and dependent on 'enchantment' as a defense that postpones but does not prevent disillusion. Psychoanalytic and character-centered studies especially support the trajectory from projective chivalric fantasy to the deathbed recovery of lucidity and renunciation.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel’s structure and meaning discusses the ending as Don Quixote’s return from chivalric delusion to self-knowledge and renunciation.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Offers a psychoanalytic account of Quixote's delusional idealization and psychic investment in chivalric fantasy, directly supporting the delusion-to-lucidity axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that reads the final chapters as Don Quixote’s recovery of sanity and explicit rejection of the romances that sustained his madness.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Forcione, Alban K.",
-                "title": "Cervantes and the Humanist Vision: A Study of Four Exemplary Novels",
-                "year": 1982,
-                "publication": "Princeton University Press",
-                "relevance": "Forcione’s humanist reading of Cervantes treats Don Quixote’s final self-recognition and repentance as a morally meaningful closure to his deluded life.",
-                "search_url": "https://scholar.google.com/scholar?q=Forcione%2C+Alban+K.+Cervantes+and+the+Humanist+Vision%3A+A+Study+of+Four+Exemplary+Novels+1982"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote: ensayo psicológico sobre el Quijote",
+                "year": 1926,
+                "publication": "Madrid: Editorial Mundo Latino",
+                "url": null,
+                "relevance": "An early psychological reading that treats Quixote's madness as alternating with lucidity and shaped by his relation to Sancho, supporting the internal character arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote%3A+ensayo+psicol%C3%B3gico+sobre+el+Quijote+1926"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "Cervantes' Don Quixote: A Reference Guide",
-                "year": 2004,
-                "publication": "Greenwood Press",
-                "relevance": "This reference work indexes scholarship on Don Quixote’s final disillusionment, including discussions of his explicit renunciation of chivalric fiction and acknowledgment of past error.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes%27+Don+Quixote%3A+A+Reference+Guide+2004"
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
+                "year": 1982,
+                "publication": "University of Missouri Press",
+                "url": null,
+                "relevance": "Examines how chivalric literature structures Quixote's perception and how the narrative stages his progressive disenchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Don Quixote",
+                "year": 1986,
+                "publication": "London: Allen & Unwin",
+                "url": null,
+                "relevance": "A standard critical study of Quixote's character, madness, and narrative epistemology, including the movement toward final sanity.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Situates Quixote's delusion and intermittent lucidity within Cervantine comic psychology and early modern mentalities.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in Don Quixote scholarship: a major critical tradition reads the novel’s ending as a movement from delusive self-enclosure toward lucid self-recognition and repentance. Cervantes’s final chapters, where Alonso Quijano renounces chivalric books and names his former madness, have been repeatedly treated as a psychologically legible reversal rather than a mere plot device.",
+            "reasoning": "The proposed arc is a standard and well-supported reading in Don Quixote criticism: psychoanalytic and character-centered studies treat Don Quixote's chivalric delusion as a coherent internal system and trace its collapse into self-recognition. Scholarship on the ending likewise reads the deathbed renunciation as a lucid disenchantment or conversion rather than a mere plot device.",
             "citations": [
               {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Discusses Don Quixote’s movement from comic delusion toward a final, chastened self-awareness, making the ending relevant to renunciation and lucid moral judgment.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Offers a psychoanalytic account of Don Quixote's delusional system and its psychic investments, supporting the internal movement from self-sealing fantasy toward collapse.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente",
+                "url": null,
+                "relevance": "Classic character study distinguishes Quixote's madness from his lucid intervals and analyzes his self-understanding, directly supporting the delusion–lucidity axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
                 "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "A classic study that treats the novel’s closing self-recognition as central to Don Quixote’s psychological and moral trajectory.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "title": "Don Quixote",
+                "year": 1986,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Reads Quixote's self-conception and the novel's ending as a movement from illusion to disillusion, including the final rejection of chivalric identity.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "Examines the protagonist’s inward development, including the final repudiation of chivalric fantasy and the ethical significance of his return to sanity.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
-              },
-              {
-                "author": "Auerbach, Erich",
-                "title": "Mimesis: The Representation of Reality in Western Literature",
-                "year": 1946,
-                "publication": "Princeton University Press",
-                "relevance": "Although broader than Cervantes alone, Auerbach’s reading of Don Quixote is foundational for understanding the novel’s tension between delusion and reality and the protagonist’s eventual exposure to truth.",
-                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+                "author": "Girard, René",
+                "title": "Deceit, Desire, and the Novel: Self and Other in Literary Structure",
+                "year": 1965,
+                "publication": "Johns Hopkins University Press",
+                "url": null,
+                "relevance": "Analyzes Quixote's imitative/metaphysical desire and the novel's concluding renunciation as a conversion from illusory identity, supporting the disenchantment pole.",
+                "search_url": "https://scholar.google.com/scholar?q=Girard%2C+Ren%C3%A9+Deceit%2C+Desire%2C+and+the+Novel%3A+Self+and+Other+in+Literary+Structure+1965"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s movement from delusional self-enclosure toward late self-recognition and repudiation of chivalric fiction. Critics have long treated the ending as a scene of lucid renunciation, in which Alonso Quijano names his madness, rejects romances, and reenters moral reality, even if they differ on how complete or stable that recovery is.",
+            "reasoning": "The trajectory from self-sealing enchantment logic to final lucidity (the deathbed recantation, the will, the repudiation of the books) is one of the most heavily discussed problems in Cervantine criticism, and it is central rather than incidental: critics have read it psychologically (Johnson, El Saffar), philosophically as a desengaño structure (Maravall, Durán, Bandera), and historically as an erasmian 'cura' or ironic authorial imposition (Close, Riley). The main scholarly dispute is precisely whether the ending constitutes genuine self-knowledge or a final fiction imposed from outside, which confirms the axis is a recognized interpretive locus rather than a readerly projection. Relevant works by Madariaga, Riley, Durán, Johnson, El Saffar and Maravall all treat the same internal dimension of the character.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel’s structure and meanings treats the final renunciation as a decisive return from fantasy to self-knowledge, directly matching the axis’s end point.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Sustained psychoanalytic account of Quixote's delusional system and its collapse, directly the intrapersonal delusion–lucidity dynamic.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Revista de Occidente (later Ensayos y estudios)",
+                "url": null,
+                "relevance": "Classic formulation of the 'two Quixotes' — the mad knight and the lucid Alonso Quijano — and of the gradual ascendancy of the latter.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
+              },
+              {
+                "author": "Durán, Manuel",
+                "title": "La ambigüedad en el Quijote",
+                "year": 1960,
+                "publication": "Xalapa: Universidad Veracruzana",
+                "url": null,
+                "relevance": "Analyzes the oscillation between madness and lucidity as the structural ambiguity of the character's inner life.",
+                "search_url": "https://scholar.google.com/scholar?q=Dur%C3%A1n%2C+Manuel+La+ambig%C3%BCedad+en+el+Quijote+1960"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Treats Cervantes' handling of Quixote's belief in romance as literal truth and the deliberate dismantling of that belief, including the deathbed disenchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "Chapel Hill: University of North Carolina Press (North Carolina Studies in the Romance Languages and Literatures)",
+                "url": null,
+                "relevance": "Examines the progressive separation of the protagonist from his own fiction, an ego/identity reading of the madness-to-self-knowledge arc.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Maravall, José Antonio",
+                "title": "Utopia and Counterutopia in the 'Quixote'",
+                "year": 1991,
+                "publication": "Detroit: Wayne State University Press (trans. Robert Royal; Spanish original 1976)",
+                "url": null,
+                "relevance": "Frames the ending as desengaño — the withdrawal from utopian fantasy into disillusioned lucidity and Christian resignation.",
+                "search_url": "https://scholar.google.com/scholar?q=Maravall%2C+Jos%C3%A9+Antonio+Utopia+and+Counterutopia+in+the+%27Quixote%27+1991"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
+                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in Quixote Criticism",
                 "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that reads Don Quixote’s ending as a movement from delusion toward lucid recognition, especially in relation to the hero’s explicit rejection of chivalric books.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Situates and interrogates the reading of the deathbed recantation as either genuine lucidity or ironic authorial cure, showing the axis's centrality in criticism.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how the novel stages Don Quixote’s persistent misreading of reality and the eventual collapse of that interpretive system at the end.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Eisenberg, Daniel",
-                "title": "La interpretación cervantina del Quijote",
-                "year": 1995,
-                "publication": "Editorial Complutense",
-                "relevance": "Eisenberg discusses the ending as a repudiation of the books of chivalry and a return to sanity, making him directly relevant to the axis of renunciation.",
-                "search_url": "https://scholar.google.com/scholar?q=Eisenberg%2C+Daniel+La+interpretaci%C3%B3n+cervantina+del+Quijote+1995"
+                "author": "Bandera, Cesáreo",
+                "title": "Mimesis conflictiva: Ficción literaria y violencia en Cervantes y Calderón",
+                "year": 1975,
+                "publication": "Madrid: Gredos",
+                "url": null,
+                "relevance": "Reads Quixote's desire-driven delusion and its dissolution as an internal crisis of belief and identity.",
+                "search_url": "https://scholar.google.com/scholar?q=Bandera%2C+Ces%C3%A1reo+Mimesis+conflictiva%3A+Ficci%C3%B3n+literaria+y+violencia+en+Cervantes+y+Calder%C3%B3n+1975"
               }
             ]
           }
@@ -369,174 +486,219 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_03",
-      "dimension_label": "grandiosity-humility",
-      "axis_name": "From heroic self-myth to repentant self-knowledge",
-      "pole_start": "Grandiose self-mythologizing: he imagines himself as a legendary knight, equal to or greater than famous heroes, destined for fame and kingship.",
-      "pole_end": "Repentant humility: he sees himself as a sinner who must die as a good Christian and leave behind the vanity of heroic self-invention.",
+      "dimension_label": "Self-mythic honor",
+      "axis_name": "From chivalric self-myth and fame to humble mortal salvation",
+      "pole_start": "A modest hidalgo refashions himself as Don Quixote de la Mancha, accumulates chivalric titles, treats identity as a literary script to be proved by fame, and pursues eternal renown, honor, imperial rank, and public recognition through deeds dedicated to Dulcinea and posterity.",
+      "pole_end": "He rejects the Don Quixote identity as madness, insists he is Alonso Quixano, renounces chivalric glory, seeks confession, charity, fidelity, and forgiveness above fame, makes a sane Christian will, and dies as Alonso Quixano the Good.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Legendary self-inflation",
+          "phase": "Naming and self-authoring",
           "chapter_range": [
-            6,
-            22
+            2,
+            8
           ],
-          "position_description": "He repeatedly enlarges himself through comparison to epic and chivalric figures, treating injuries as proof of greatness.",
+          "position_description": "Identity is invented through names and props: Don Quixote, Rocinante, Dulcinea, and the mock dubbing all confirm a new self. Renown is already the explicit goal.",
           "key_moments": [
-            "Claims kinship with the Twelve Peers and Nine Worthies",
-            "Treats defeats as ordinary knightly setbacks",
-            "Imagines future kingship and marriage to a princess",
-            "Adopts exalted knightly titles"
+            "Takes the name Don Quixote de La Mancha after naming his horse and lady.",
+            "Believes the innkeeper's mock ceremony makes him a genuine knight.",
+            "Desires to become Emperor of Trebizond and win eternal name.",
+            "Demands the Toledo traders confess Dulcinea's beauty."
           ]
         },
         {
-          "phase": "Public self-performance",
+          "phase": "Title accumulation and public fame",
           "chapter_range": [
-            39,
-            116
+            20,
+            58
           ],
-          "position_description": "Grandiosity becomes more polished and socially legible: he speaks as a public authority, a moral teacher, and a famous knight whose life is already in print.",
+          "position_description": "Identity becomes increasingly public and literary: he adopts titles, treats printed history as proof of his reality, and makes honor legalistic and theatrical.",
           "key_moments": [
-            "Defends arms over letters",
-            "Argues about his own literary fame",
-            "Uses public recognition in Barcelona as proof of identity",
-            "Accepts courtly honors as confirmation of greatness"
+            "Adopts the nickname Knight of the Rueful Countenance.",
+            "Renames himself Knight of the Lions after confronting the lion.",
+            "Defends fictional Queen Madasima with his life.",
+            "Rejoices that a printed history of his deeds exists and worries about reputation."
           ]
         },
         {
-          "phase": "Repentant self-revision",
+          "phase": "Counterfeit, staged honor, and defeat",
           "chapter_range": [
-            127,
+            59,
+            119
+          ],
+          "position_description": "His authentic identity is challenged by public performance, the false Second Part, and then shattered by the White Moon defeat. He begins to imagine a diminished pastoral alias, Quixotize.",
+          "key_moments": [
+            "Seeks public vindication at Saragossa, in Barcelona, and before the duke and duchess.",
+            "Reads the false Second Part and resolves to disprove it by going to Barcelona.",
+            "Is defeated by the Knight of the White Moon and calls himself the most unfortunate knight.",
+            "Plans a pastoral retirement with the alias Quixotize."
+          ]
+        },
+        {
+          "phase": "Renunciation and salvation",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "He abandons heroic inflation and adopts humility, repentance, and Christian self-assessment.",
+          "position_description": "He rejects the pastoral alias and the entire knightly self. His final identity is the sane, penitent Alonso Quixano, and salvation replaces renown.",
           "key_moments": [
-            "Renounces chivalric books",
-            "Calls himself Alonso Quixano the Good",
-            "Makes his will and seeks forgiveness"
+            "Calls the pastoral plan nonsense and says he is no longer Don Quixote.",
+            "Insists he is Alonso Quixano, enemy of Amadis and all knight-errantry.",
+            "Makes a will and provides for his household.",
+            "Dies as Alonso Quixano the Good, with the curate testifying to his sanity."
           ]
         }
       ],
-      "evidence_summary": "Don Quixote begins with inflated heroic self-conception and ends with explicit humility. The middle of the novel does not eliminate grandiosity so much as refine it into a socially performative, publicly validated self-image before the final collapse.",
+      "evidence_summary": "The identity and honor arc moves from self-naming and title accumulation through public fame and counterfeit doubles to a final deathbed rejection of the invented knight in favor of the ordinary mortal name and Christian humility.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Published scholarship on Don Quixote repeatedly treats the knight’s self-fashioning as a delusional heroic identity that is later counterposed with moments of lucid self-knowledge and Christian resignation. The novel’s ending, in particular, has been read as a movement from chivalric grandiosity toward penitence, humility, and a morally serious death, so the proposed axis is well grounded in the critical tradition.",
+            "reasoning": "The arc from self-mythic chivalric identity to humble Christian self-recognition is a well-established topic in Quixote criticism. Psychological and Christian-humanist readings trace Don Quixote's self-invention, his pursuit of fame, and his final recovery of sanity, confession, will, and death as Alonso Quixano the Good. The cited works support this intrapersonal transformation even when they use different terminology.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Don Quixote’s self-conscious fiction-making and the tension between heroic illusion and moments of corrective self-awareness, which supports the axis from self-mythologizing to self-knowledge.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote: ensayo psicológico sobre el Quijote",
+                "year": 1926,
+                "publication": "Editorial Calpe",
+                "url": null,
+                "relevance": "Early psychological study of Don Quixote's character, tracing his quixotic self-fashioning and eventual return to sanity.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote%3A+ensayo+psicol%C3%B3gico+sobre+el+Quijote+1926"
+              },
+              {
+                "author": "Castro, Américo",
+                "title": "El pensamiento de Cervantes",
+                "year": 1925,
+                "publication": "Librería y Casa Editorial Hernando",
+                "url": null,
+                "relevance": "Christian-humanist reading of Cervantes that illuminates the final confession, will, and moral conversion of Alonso Quixano.",
+                "search_url": "https://scholar.google.com/scholar?q=Castro%2C+Am%C3%A9rico+El+pensamiento+de+Cervantes+1925"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
+                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in Quixote Criticism",
                 "year": 1978,
                 "publication": "Cambridge University Press",
-                "relevance": "Close traces critical traditions that read Don Quixote as both exalted self-creation and a figure whose final disillusionment invites humility and moral seriousness.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "url": null,
+                "relevance": "Analyzes the tension between heroic/romantic self-myth and Cervantes's comic-Christian ending, supporting the arc toward humility and sanity.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how the novel constructs and then undermines Don Quixote’s chivalric self-image, making room for the late recognition of his own condition.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Avalle-Arce, Juan Bautista",
-                "title": "Don Quijote como forma de vida",
-                "year": 1976,
-                "publication": "Editorial Gredos",
-                "relevance": "Avalle-Arce treats Don Quixote as a lived identity rather than a mere parody, including the trajectory by which that identity is finally relinquished in favor of a more humble self-understanding.",
-                "search_url": "https://scholar.google.com/scholar?q=Avalle-Arce%2C+Juan+Bautista+Don+Quijote+como+forma+de+vida+1976"
+                "author": "Johnson, Carroll B.",
+                "title": "Don Quixote: The Quest for Modern Fiction",
+                "year": 1990,
+                "publication": "Twayne Publishers",
+                "url": null,
+                "relevance": "Studies Don Quixote's identity as a literary self-project and the novel's psychological trajectory.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Don+Quixote%3A+The+Quest+for+Modern+Fiction+1990"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published criticism does support this axis, though with an important caveat: Don Quixote’s arc is usually read less as a clean moral conversion than as a late-stage lucidity in which fantasy, honor, and self-authorship give way to penitence and Christian resignation. Scholarship on the novel’s ending and on Quixote’s self-consciousness repeatedly notes his final renunciation of knight-errantry, his recognition of his delusion, and the humility of his deathbed repentance.",
+            "reasoning": "The axis is strongly grounded in character-centered and psychoanalytic criticism of Don Quixote. Critics have long read Quixote’s chivalric self-fashioning as a psychological and literary self-myth, and his final disenchantment, confession, and death as Alonso Quixano as a meaningful internal return to sanity and Christian humility. The deathbed abjuration is treated not merely as plot closure but as the culmination of an identity crisis and moral conversion.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Don Quixote’s late recovery of sanity and the novel’s movement from imaginative self-fashioning toward sober self-knowledge, which supports the humility end of the axis.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "A foundational psychological reading of Quixote’s self-invention, madness, and eventual return to sanity, directly supporting the arc from chivalric self-myth to humble self-recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Auerbach, Erich",
-                "title": "Mimesis: The Representation of Reality in Western Literature",
-                "year": 1946,
-                "publication": "Princeton University Press",
-                "relevance": "Auerbach’s reading of Cervantes emphasizes the tension between exalted self-interpretation and the exposure of delusion, illuminating Quixote’s grandiose self-myth and its eventual collapse into self-knowledge.",
-                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "Berkeley: University of California Press",
+                "url": null,
+                "relevance": "Offers a psychoanalytic account of Quixote’s identity formation, desire, and disillusionment, including the significance of his final renunciation of the Don Quixote persona.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Avalle-Arce, Juan Bautista",
+                "title": "Don Quijote como forma de vida",
+                "year": 1976,
+                "publication": "Madrid: Fundación Juan March / Castalia",
+                "url": null,
+                "relevance": "Treats Don Quixote’s life as a deliberately adopted literary form and examines the final conversion back to Alonso Quixano as a moral and existential resolution.",
+                "search_url": "https://scholar.google.com/scholar?q=Avalle-Arce%2C+Juan+Bautista+Don+Quijote+como+forma+de+vida+1976"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "Chapel Hill: University of North Carolina, Department of Romance Languages",
+                "url": null,
+                "relevance": "Analyzes the construction and destabilization of Quixote’s identity through narrative perspective, supporting the reading of his self-myth as a script that collapses into final self-knowledge.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               },
               {
                 "author": "Close, Anthony",
                 "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
                 "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that treats Quixote’s ending as a movement away from heroic delusion toward humility, repentance, and moral seriousness.",
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Clarifies Cervantes’s ironic treatment of Quixote’s self-dramatizing honor and fame, providing critical context for the final rejection of chivalric glory in favor of sane Christian humility.",
                 "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Quixote’s chivalric self-mythology is progressively undermined, making room for the final recognition of his own limits and the abandonment of vanity.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in Don Quixote scholarship: critics have long treated the knight’s self-fashioning as a delusional heroic identity that is progressively tested, revised, and finally brought into relation with Christian repentance and lucid self-knowledge. The ending of Part II, where Alonso Quijano renounces chivalric vanity and dies as a good Christian, is a standard focus of reception-oriented and psychological readings of the novel’s moral arc.",
+            "reasoning": "The axis is strongly grounded in published criticism: psychoanalytic and philosophical readings of Don Quixote treat his chivalric identity as a literary self-fashioning that is eventually dismantled, and studies of the ending regularly read the deathbed return to Alonso Quixano as a crisis of self-knowledge and Christian resignation. The exact evaluative valence of that ending is debated, but the internal movement from self-mythic fame to humble mortal salvation is a recognizable scholarly interpretation.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Don Quixote",
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Provides a psychoanalytic account of Don Quixote's self-fashioning, desire, and psychic investment in his chivalric identity, supporting the axis's internal psychological dimension.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Girard, René",
+                "title": "Deceit, Desire, and the Novel: Self and Other in Literary Structure",
+                "year": 1965,
+                "publication": "Johns Hopkins University Press",
+                "url": null,
+                "relevance": "Analyzes Don Quixote's identity as mediated by literary models such as Amadís, directly supporting the pole of chivalric self-myth and borrowed literary script.",
+                "search_url": "https://scholar.google.com/scholar?q=Girard%2C+Ren%C3%A9+Deceit%2C+Desire%2C+and+the+Novel%3A+Self+and+Other+in+Literary+Structure+1965"
+              },
+              {
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "Discusses Don Quixote's self-mythic interpretation of reality and the novel's interplay of illusion and disenchantment, relevant to the movement between the two poles.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Offers a psychological and narrative reading of Cervantine identity, loss, and recovery that bears on Don Quixote's internal transformation and final self-recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              },
+              {
+                "author": "Cascardi, Anthony J.",
+                "title": "The Bounds of Reason: Cervantes, Dostoevsky, Flaubert",
                 "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Don Quixote’s sustained self-mythologizing as a knight-errant and the novel’s movement toward disillusionment and final renunciation, which directly matches the axis from heroic grandiosity to humility.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study treats Don Quixote’s identity as a constructed persona and emphasizes the late novel’s moral and spiritual self-recognition, supporting the shift from vanity to repentant self-knowledge.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that reads Don Quixote as moving from deluded heroic aspiration toward a chastened awareness of reality, including the significance of his deathbed repentance.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Cervantes, Miguel de",
-                "title": "Don Quixote",
-                "year": 1605,
-                "publication": "Novel; especially Part II, chapter 74",
-                "relevance": "The primary text itself culminates in Alonso Quijano’s rejection of knight-errantry and explicit repentance, the clearest textual basis for the humility pole of the axis.",
-                "search_url": "https://scholar.google.com/scholar?q=Cervantes%2C+Miguel+de+Don+Quixote+1605"
+                "publication": "Columbia University Press",
+                "url": null,
+                "relevance": "Treats Cervantes's construction of modern subjectivity and the limits of quixotic reason, supporting scholarly analysis of Don Quixote's internal identity crisis.",
+                "search_url": "https://scholar.google.com/scholar?q=Cascardi%2C+Anthony+J.+The+Bounds+of+Reason%3A+Cervantes%2C+Dostoevsky%2C+Flaubert+1986"
               }
             ]
           }
@@ -546,164 +708,397 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_04",
-      "dimension_label": "moral-legal reasoning",
-      "axis_name": "From impulsive justice to disciplined moral judgment",
-      "pole_start": "Impulsive, fantasy-driven justice: he acts immediately on perceived wrongs, with little distinction between appearance and fact.",
-      "pole_end": "Disciplined moral judgment: he becomes capable of practical counsel, legal distinction, and Christian self-governance.",
-      "confidence": "medium",
-      "source": "both",
+      "dimension_label": "Moral accountability",
+      "axis_name": "From honor-driven blame-shifting to merciful self-accountability",
+      "pole_start": "Moral reasoning is mimetic chivalric honor: violence proves virtue, suffering confers honor, failures are enchanters' fault, and Sancho's body is instrumental to Dulcinea's cure.",
+      "pole_end": "He recognizes harm done to Sancho, stops the whipping when Sancho cries out, apologizes for drawing him into madness, cancels debts, seeks forgiveness, and makes amends in his will.",
+      "confidence": "high",
+      "source": "event_only",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Immediate chivalric intervention",
+          "phase": "Scripted chivalric justice",
           "chapter_range": [
             5,
             23
           ],
-          "position_description": "He rushes into moral action on the basis of delusion, often worsening the situation.",
+          "position_description": "He acts from romance scripts, rescues Andres, frees galley slaves, and attacks supposed villains, while rationalizing harmful outcomes as ingratitude or enchantment.",
           "key_moments": [
-            "Forces Juan Haldudo to promise justice",
-            "Attacks the galley slaves",
-            "Intervenes in the sheep and procession episodes"
+            "Forces Juan Haldudo to promise payment to Andres, then leaves him vulnerable.",
+            "Frees the galley slaves and is beaten by them.",
+            "Blames Sancho for warning him about the galley slaves and for contradicting his fantasies."
           ]
         },
         {
-          "phase": "Didactic moralizing",
+          "phase": "Coercive devotion",
           "chapter_range": [
-            39,
-            96
+            24,
+            104
           ],
-          "position_description": "He increasingly speaks as a moral philosopher and practical adviser, especially on arms, governance, and honor.",
+          "position_description": "His devotion to Dulcinea and his honor justifies coercing Sancho and dismissing Sancho's judgment, though protectiveness and gratitude occasionally break through.",
           "key_moments": [
-            "Defense of arms over letters",
-            "Advice to Sancho on governing Barataria",
-            "Long moral counsel on justice, mercy, and prudence"
+            "Threatens to tie Sancho and whip him to disenchant Dulcinea.",
+            "Beats Sancho for disparaging Dulcinea.",
+            "Rescues Sancho during the boar hunt and defends him from the servants' prank."
           ]
         },
         {
-          "phase": "Christian moral clarity",
+          "phase": "Compassion breaks through",
           "chapter_range": [
-            124,
+            117,
+            125
+          ],
+          "position_description": "After defeat, he becomes more capable of restraint and dependence: he delegates judgment to Sancho and stops the penance when Sancho is in pain.",
+          "key_moments": [
+            "Stops Sancho's self-flagellation when Sancho cries out and covers him with his cloak.",
+            "Admits he is unfit to judge and lets Sancho settle the peasants' wager.",
+            "Praises Sancho as a great philosopher and accepts his counsel."
+          ]
+        },
+        {
+          "phase": "Repentance and amends",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "His final state is one of explicit moral accounting: confession, repentance, will-making, and concern for the souls and futures of others.",
+          "position_description": "He accepts responsibility for Sancho and his household, renounces the harmful books, apologizes, and seeks Christian forgiveness.",
           "key_moments": [
-            "Stops Sancho's lashes when they seem excessive",
-            "Makes his will and settles accounts",
-            "Protects niece and household from chivalric corruption"
+            "Asks Sancho's forgiveness for drawing him into knight-errantry.",
+            "Cancels Sancho's debts and promises him rewards in his will.",
+            "Protects his niece from chivalry books and asks forgiveness of the false author."
           ]
         }
       ],
-      "evidence_summary": "This axis captures the increasing seriousness of his ethical life: from reckless intervention to a more disciplined, if still idealized, moral judgment, culminating in Christian repentance and practical responsibility.",
+      "evidence_summary": "Moral reasoning evolves from honor-driven violence and external blame toward mercy, restraint, and explicit accountability, culminating in the apology to Sancho and the penitent will.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is supportable, though it should be understood as a qualified and often ironic development rather than a straightforward moral maturation. Scholarship on Don Quixote repeatedly notes the novel’s movement from deluded, impulsive action toward episodes of prudential speech, ethical discernment, and self-governing reflection, especially in the later parts where Don Quixote can offer counsel even while remaining structurally unstable as a judge of reality. The claim fits published criticism that treats his arc as a tension between fantasy-driven justice and emergent moral intelligence.",
+            "reasoning": "The axis is supported by established Cervantine criticism on Don Quixote’s psychological and moral evolution, especially readings of his relationship with Sancho, his progressive desengaño, and the ethical closure of his deathbed testament. Scholarship on his chivalric self-fashioning and final self-recognition provides a real critical basis for the claimed shift from honor-driven blame-shifting to merciful self-accountability.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study tracks the novel’s development of Don Quixote’s conduct and judgment, including the shift from impulsive chivalric intervention to more reflective and ethically inflected speech in the later narrative.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Espasa-Calpe",
+                "url": null,
+                "relevance": "Classic psychological study of the reciprocal influence between Don Quixote and Sancho, including Don Quixote’s moral development and growing awareness of Sancho’s role.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close discusses how critics have read Don Quixote as moving toward greater inwardness and moral seriousness, which supports the axis’s emphasis on disciplined judgment rather than mere comic delusion.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "Berkeley: University of California Press",
+                "url": null,
+                "relevance": "Traces Cervantes’s protagonists’ movement beyond self-enclosed fantasy toward recognition of others, supporting Don Quixote’s late self-accountability toward Sancho.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "Cervantes Encyclopedia",
-                "year": 2004,
-                "publication": "Greenwood Press",
-                "relevance": "Mancing’s entries on Don Quixote and related themes summarize scholarship on his ethical reasoning, self-knowledge, and the novel’s later emphasis on prudence and Christian resignation.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes+Encyclopedia+2004"
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
+                "year": 1982,
+                "publication": "Columbia: University of Missouri Press",
+                "url": null,
+                "relevance": "Analyzes Don Quixote’s chivalric self-fashioning and its gradual correction, supporting the shift from honor-driven blame-shifting to self-recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               },
               {
-                "author": "Foucault, Michel",
-                "title": "The Order of Things: An Archaeology of the Human Sciences",
-                "year": 1966,
-                "publication": "Pantheon Books",
-                "relevance": "Although not a character study in the narrow sense, Foucault’s famous reading of Don Quixote as a figure whose relation to signs changes across the novel underwrites structuralist accounts of his movement from immediate, fantasy-bound action toward more mediated judgment.",
-                "search_url": "https://scholar.google.com/scholar?q=Foucault%2C+Michel+The+Order+of+Things%3A+An+Archaeology+of+the+Human+Sciences+1966"
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "New Haven: Yale University Press",
+                "url": null,
+                "relevance": "Examines legal and moral obligation in Cervantes, offering a framework for reading Don Quixote’s testamentary amends and restitution to Sancho.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Woodbridge: Tamesis",
+                "url": null,
+                "relevance": "Surveys critical discussions of Don Quixote’s desengaño and the ethical closure of Part II, including his final repentance and apologies.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published scholarship on Don Quixote often treats the knight’s moral consciousness as developing from rash, delusion-driven intervention toward a more reflective, socially legible ethic. Critics of Cervantes have especially noted the late novel’s movement toward self-knowledge, prudential judgment, and Christian resignation, which fits the axis’s endpoint even if the starting pole is more interpretive than doctrinal. The axis is therefore grounded in scholarship, though it is best understood as a broad psycho-moral trajectory rather than a strict legal education.",
+            "reasoning": "The axis is grounded in psychological and character-centered criticism of Don Quixote that traces his movement from self-deceiving chivalric fantasy toward lucid self-judgment, remorse, and ethical responsibility. Psychoanalytic and moral-philosophical readings of the novel discuss Quixote's narcissistic idealization, disillusionment, and final repentance, even when they do not use the exact language of blame-shifting and self-accountability.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
                 "publication": "Oxford University Press",
-                "relevance": "Riley discusses the development of Don Quixote’s self-knowledge and the novel’s ethical intelligence, supporting the claim that the character moves toward more disciplined judgment.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "url": null,
+                "relevance": "Madariaga offers an early psychological study of Quixote's character, tracing the interplay between his chivalric delusion, moral idealism, and moments of self-awareness.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Auerbach, Erich",
-                "title": "Mimesis: The Representation of Reality in Western Literature",
-                "year": 1946,
-                "publication": "Princeton University Press",
-                "relevance": "Auerbach’s reading of Don Quixote emphasizes the tension between fantasy and reality and the novel’s gradual correction of delusive action through practical experience.",
-                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Johnson's psychoanalytic reading examines Quixote's narcissistic fantasy structure and its collapse, supporting the axis's account of a shift from self-justifying illusion toward internal reckoning.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that tracks Don Quixote’s movement from comic delusion toward moral seriousness and reflective self-governance.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "González Echevarría, Roberto",
+                "title": "Love and Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "González Echevarría analyzes the ethical and legal dimensions of Cervantes's characters, including Quixote's final self-judgment and the moral implications of his will and repentance.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+Law+in+Cervantes+2005"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship that treats Don Quixote’s arc as moving from impulsive, delusion-driven action toward a more reflective, morally legible self-understanding. Critics have long noted that the novel’s late stages give him moments of practical counsel, ethical discernment, and Christian resignation, even if these are brief and shadowed by defeat rather than full transformation. The claim is therefore plausible as an interpretive summary of a recognized trajectory in the character’s moral reasoning.",
+            "reasoning": "The axis is broadly grounded in Cervantine criticism that tracks Don Quixote's movement from self-enclosed chivalric fantasy toward desengaño, ethical reckoning, and concern for Sancho. Scholarship on the novel's ending and testament supports the idea of a final self-accounting, though the precise sequence of stopping the whipping, apologizing, and making amends is an interpretive synthesis rather than a standard named critical schema.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Don Quixote’s development within Cervantes’s narrative design, including the movement from comic impulsiveness toward moments of lucid self-knowledge and ethical seriousness.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "University of North Carolina Press",
+                "url": null,
+                "relevance": "Analyzes Don Quixote's evolving self-awareness and the narrative control of his illusions, supporting the internal shift toward self-knowledge and accountability.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study addresses the novel’s moral and ideological dimensions, including Don Quixote’s shifting relation to justice, prudence, and self-governance.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "González Echevarría, Roberto",
+                "title": "Cervantes' Don Quixote",
+                "year": 2010,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Close reading of the novel's ending and testament as Quixote's recovery of reason and ethical reckoning with those around him.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote+2010"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Examines the material and bodily consequences of Quixote's fantasies, including the Sancho/Dulcinea whipping motif, supporting the axis's concern with harm and accountability.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Emotional volatility",
+      "axis_name": "From euphoric-volatile self-righteousness to calm resignation",
+      "pole_start": "He is emotionally volatile: euphoric in fantasy, anxious about chivalric procedure, furious when contradicted, physically violent toward Sancho and strangers, and prone to self-dramatizing despair or exaltation.",
+      "pole_end": "In his final state he is calm, devout, tender, self-accusing, and resigned to death. The rage and theatrical self-pity are gone, replaced by sober repentance and affection.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Euphoric-volatile fantasy",
+          "chapter_range": [
+            2,
+            23
+          ],
+          "position_description": "Mood swings rapidly from joy to anxiety to rage to self-pity. Violence and rhetoric are immediate responses to contradiction.",
+          "key_moments": [
+            "Euphoria at being dubbed.",
+            "Rage at traders and carriers.",
+            "Beats Sancho over Dulcinea.",
+            "Fulling-mill humiliation and rage."
+          ]
+        },
+        {
+          "phase": "Righteous volatility under a chivalric code",
+          "chapter_range": [
+            24,
+            58
+          ],
+          "position_description": "Anger is often legalistic and self-justifying, but he can also be serene and didactic. Mood remains reactive to honor, Dulcinea, and enchantment.",
+          "key_moments": [
+            "Attacks Cardenio over a fictional queen.",
+            "Threatens violence during Micomicona adventures.",
+            "Delivers the serene Golden Age speech.",
+            "Remains stoic while caged."
+          ]
+        },
+        {
+          "phase": "Theatrical exaltation and humiliation",
+          "chapter_range": [
+            59,
+            95
+          ],
+          "position_description": "He oscillates between exultant performance and humiliation: lions, Clavileño, mock resurrection, and courtly mockery provoke grandiosity, alarm, and self-justification.",
+          "key_moments": [
+            "Lion episode and renaming as Knight of the Lions.",
+            "Dulcinea enchantment despair.",
+            "Castle humiliations.",
+            "Mock resurrection and pressure on Sancho."
+          ]
+        },
+        {
+          "phase": "Defeat and melancholy resignation",
+          "chapter_range": [
+            96,
+            126
+          ],
+          "position_description": "After defeat his volatility cools into melancholy, self-reproach, and resignation. He still has flashes of irritation, but the dominant tone is weary acceptance.",
+          "key_moments": [
+            "Broods over defeat.",
+            "Calls his wits confused.",
+            "Endures pig stampede and abduction.",
+            "Returns home subdued."
+          ]
+        },
+        {
+          "phase": "Final calm and repentance",
+          "chapter_range": [
+            127,
+            127
+          ],
+          "position_description": "Emotional life is integrated and quiet. He is repentant, grateful, affectionate, and ready for death.",
+          "key_moments": [
+            "Wakes lucid after fever.",
+            "Confesses and makes his will.",
+            "Blesses Sancho.",
+            "Dies calmly."
+          ]
+        }
+      ],
+      "evidence_summary": "Although stable delusion persists for most of the novel, the emotional register shifts from volatile self-righteousness to final resignation and calm.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The proposed axis corresponds to a well-established critical narrative of Don Quixote's psychological trajectory: his volatile, fantasy-driven affect in the main action gives way, especially in the final chapters, to lucid repentance, tenderness, and calm resignation to death. Psychoanalytic and formalist studies of Cervantes's character construction and narrative closure support this internal transformation, even when they use different terminology such as madness, disenchantment, or recovery of sanity.",
+            "citations": [
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "A psychoanalytic study of Quixote's psychic conflicts, idealizing fantasies, and eventual return to lucidity, directly supporting the axis's internal emotional trajectory.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Ínsula",
+                "url": null,
+                "relevance": "A formalist-structural study that traces the novel's movement from illusion and chivalric fantasy toward disillusion and final resignation.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
+                "year": 1982,
+                "publication": "University of Missouri Press",
+                "url": null,
+                "relevance": "Analyzes the construction and dismantling of Quixote's chivalric persona, including his final disenchantment and sober self-recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
+                "title": "Don Quixote",
+                "year": 1990,
                 "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that reads Don Quixote as moving beyond mere madness into a more morally and spiritually intelligible figure, which aligns with the axis’s end point.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "url": null,
+                "relevance": "A critical introduction that discusses Quixote's movement from comic delusion and volatile behavior to final lucidity and resignation.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Don+Quixote+1990"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in psychological and character-centered criticism of Don Quixote, especially work on his melancholic/humoral temperament, psychoanalytic readings of his madness, and critical discussions of his final recovery of sanity and deathbed repentance. These studies treat his emotional extremes and later resignation as part of a coherent internal psychological trajectory rather than mere episodic comedy.",
+            "citations": [
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "This psychoanalytic study interprets Don Quixote's madness and inner conflicts as a structured psychological condition, supporting the axis's focus on volatile affect and its transformation.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
               },
               {
-                "author": "Avalle-Arce, Juan Bautista",
-                "title": "Don Quijote como forma de vida",
-                "year": 1976,
-                "publication": "Editorial Gredos",
-                "relevance": "Avalle-Arce treats Don Quixote as a lived ethical form, supporting readings of the character’s late-stage capacity for counsel, judgment, and disciplined self-regulation.",
-                "search_url": "https://scholar.google.com/scholar?q=Avalle-Arce%2C+Juan+Bautista+Don+Quijote+como+forma+de+vida+1976"
+                "author": "Soufas, Teresa Scott",
+                "title": "Melancholy and the Secular Mind in Spanish Golden Age Literature",
+                "year": 1990,
+                "publication": "University of Missouri Press",
+                "url": null,
+                "relevance": "Soufas examines melancholy and humoral psychology in Golden Age literature, including Don Quixote, providing scholarly grounding for reading his emotional volatility as a psychologically marked trait.",
+                "search_url": "https://scholar.google.com/scholar?q=Soufas%2C+Teresa+Scott+Melancholy+and+the+Secular+Mind+in+Spanish+Golden+Age+Literature+1990"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes: Don Quixote",
+                "year": 1990,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Close's critical study addresses the characterization of Don Quixote, including the movement from comic self-dramatization and delusion toward the novel's final sobering treatment of his sanity and death.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes%3A+Don+Quixote+1990"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in psychological and characterological criticism of Don Quixote: scholarship reads his fantasy-driven euphoria, aggression, self-dramatization, and anxiety as an unstable psychic pattern, while the ending is often treated as a deliberate movement toward sanity, repentance, and resigned death. Works on melancholy, psychoanalytic criticism, and the comic ending support both poles and the transition between them.",
+            "citations": [
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Analyzes Quixote's narcissistic fantasy, aggression, and psychic conflict, supporting the volatile and self-righteous pole of the axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Reads Don Quixote's character in psychological terms, emphasizing the interplay of madness, lucidity, and emotional transformation.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Discusses the comic and moral logic of Don Quixote's final recovery of sanity and resignation, supporting the axis's endpoint.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+              },
+              {
+                "author": "Soufas, Teresa Scott",
+                "title": "Melancholy and the Secular Mind in Spanish Golden Age Literature",
+                "year": 1990,
+                "publication": "University of Missouri Press",
+                "url": null,
+                "relevance": "Situates Quixote's emotional temperament within early modern melancholy, supporting the volatility and eventual sober resignation described by the axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Soufas%2C+Teresa+Scott+Melancholy+and+the+Secular+Mind+in+Spanish+Golden+Age+Literature+1990"
               }
             ]
           }
@@ -717,182 +1112,224 @@
       "axis_id": "final_rel_01",
       "source_character": "Don Quixote de la Mancha",
       "target_character": "Sancho Panza",
-      "dimension_label": "mastery-intimacy",
-      "axis_name": "From patronizing recruitment to affectionate mutual dependence",
-      "pole_start": "He begins by recruiting Sancho as a subordinate squire, treating him as useful, persuadable, and intellectually inferior within the chivalric hierarchy.",
-      "pole_end": "He ends as a grateful, affectionate companion who recognizes Sancho's fidelity, values his practical wisdom, and rewards him with explicit care and acknowledgment.",
+      "dimension_label": "Hierarchy to partnership",
+      "axis_name": "From instrumental command to affectionate reciprocal partnership",
+      "pole_start": "Recruits Sancho with promises of an island and treats him as a subordinate, ignorant, cowardly, and a tool for witnessing and validating his madness; trust is high but esteem is low, and he punishes or threatens Sancho when contradicted.",
+      "pole_end": "Depends on Sancho emotionally and practically, calls him friend and son, praises his natural wisdom, delegates judgment to him, stops his penance out of compassion, apologizes for leading him into madness, and rewards him in his will.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Instrumental squirehood",
+          "phase": "Recruitment and command",
           "chapter_range": [
-            3,
-            21
+            8,
+            25
           ],
-          "position_description": "Sancho is useful, promising, and subordinate; Don Quixote patronizes him, promises him rewards, and expects obedience.",
+          "position_description": "The bond is hierarchical and transactional: Don Quixote promises rewards, ignores Sancho's warnings, treats him as an inferior witness, and punishes him when Sancho's mockery wounds his dignity.",
           "key_moments": [
-            "Promises Sancho an island or kingdom",
-            "Uses Sancho as messenger and witness",
-            "Rebukes Sancho's skepticism and proverbs"
+            "Persuades Sancho to become his squire with promises of an island.",
+            "Dismisses Sancho's warning about the windmills and about the friars.",
+            "Strikes Sancho after the fulling-mill humiliation.",
+            "Calls Sancho a fool and corrects his speech while relying on his reports."
           ]
         },
         {
-          "phase": "Intimate friction and growing reliance",
+          "phase": "Dependence and conflict",
           "chapter_range": [
-            22,
-            96
+            26,
+            58
           ],
-          "position_description": "Their bond deepens into a mix of affection, irritation, and dependence; Don Quixote increasingly relies on Sancho's practical help while still asserting superiority.",
+          "position_description": "Conflict and dependence coexist: he beats or threatens Sancho over Dulcinea and the lashes, yet increasingly relies on his reports, care, and companionship.",
           "key_moments": [
-            "Sancho becomes a constant companion through courtly and pastoral episodes",
-            "Don Quixote alternates between scolding and praising him",
-            "He entrusts Sancho with governance and moral instruction",
-            "He depends on Sancho for travel, interpretation, and emotional steadiness"
+            "Sends Sancho to Dulcinea with the letter.",
+            "Beats Sancho for disparaging Dulcinea.",
+            "Refuses Sancho's demand for fixed wages and threatens to find another squire.",
+            "Reconciles tearfully with Sancho before the third sally and calls him friend and son."
           ]
         },
         {
-          "phase": "Mutual loyalty under strain",
+          "phase": "Paternal mentorship and rising esteem",
           "chapter_range": [
-            97,
+            59,
+            95
+          ],
+          "position_description": "He recognizes Sancho's worth more often, calls him friend, grieves his absence during the governorship, and writes paternal counsel.",
+          "key_moments": [
+            "Sends Sancho to El Toboso as his trusted intermediary to Dulcinea.",
+            "Warmly welcomes Sancho for the third sally.",
+            "Writes a paternal letter to Sancho as governor.",
+            "Praises Sancho's natural wisdom and defends him from mockery."
+          ]
+        },
+        {
+          "phase": "Shared humiliation and protective gratitude",
+          "chapter_range": [
+            96,
+            110
+          ],
+          "position_description": "The bond is tested by Sancho's governorship, separation, and return. Don Quixote writes affectionately, rescues Sancho from the pit, and values his counsel.",
+          "key_moments": [
+            "Writes to Sancho as friend.",
+            "Rescues Sancho from the pit.",
+            "Leaves the castle with Sancho.",
+            "Accepts Sancho's truthful testimony over the garters."
+          ]
+        },
+        {
+          "phase": "Compassionate reversal and final blessing",
+          "chapter_range": [
+            111,
             127
           ],
-          "position_description": "The relationship becomes more openly tender and reciprocal: Don Quixote blesses Sancho, worries about him, protects him from humiliation, and finally settles accounts while acknowledging his fidelity.",
+          "position_description": "After defeat he becomes openly dependent and tender; he stops Sancho's whipping, values his judgment, apologizes for the whole knight-errantry venture, and provides for him.",
           "key_moments": [
-            "Tears at Sancho's departure for Barataria",
-            "Protects him from excessive self-scourging",
-            "Thanks him and settles accounts at the end",
-            "Final repentance includes concern for Sancho's future"
+            "Stops Sancho's self-flagellation when Sancho cries out in pain.",
+            "Delegates judgment to Sancho at the village wager.",
+            "Asks Sancho's forgiveness and cancels his debts in the final will.",
+            "Blesses Sancho, regrets leading him into madness, and wishes he could give him a kingdom."
           ]
         }
       ],
-      "evidence_summary": "This is the richest relationship arc in the novel: it moves from hierarchy to intimacy, from comic mismatch to genuine mutual attachment. Don Quixote never stops being the master, but by the end he is also deeply dependent on and emotionally attached to Sancho.",
+      "evidence_summary": "The master-squire relationship moves from command and punishment toward trust, respect, emotional dependence, and final apology, making it the novel's central relational transformation.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Don Quixote–Sancho dyad. Structuralist and narratological criticism repeatedly treats their relation as a dynamic of hierarchy, reciprocity, and mutual transformation: Sancho begins as a recruited subordinate but increasingly becomes Don Quixote’s indispensable interlocutor, practical corrector, and emotional counterpart. The ending of the novel, especially in Part II, is commonly read as a movement toward affectionate dependence and recognition rather than simple master-servant hierarchy.",
+            "reasoning": "The proposed arc is strongly grounded in canonical Cervantine criticism: the Don Quixote–Sancho relationship is routinely read as moving from master-servant utility toward mutual dependence, affection, and moral partnership. Madariaga’s classic account of the pair’s reciprocal 'quixotization' and 'sanchification' directly supports the axis, while Close and Johnson provide further scholarly discussion of the evolving dynamic, Don Quixote’s growing reliance on Sancho, and the emotional bond between them.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "A foundational study that discusses the evolving Don Quixote–Sancho relationship as central to the novel's narrative design and comic-ethical structure.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "Analyzes the Quixote–Sancho pairing as a relational system in which hierarchy, companionship, and mutual influence complicate the initial master-squire arrangement.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
-              },
-              {
-                "author": "Eisenberg, Daniel",
-                "title": "Romances of Chivalry in the Spanish Golden Age",
-                "year": 1982,
-                "publication": "Juan de la Cuesta",
-                "relevance": "Situates Sancho as a structurally important counterpart to Don Quixote, emphasizing how the squire's practical intelligence and loyalty reshape the knight's self-understanding over the course of the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Eisenberg%2C+Daniel+Romances+of+Chivalry+in+the+Spanish+Golden+Age+1982"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente / Espasa-Calpe",
+                "url": null,
+                "relevance": "Classic study that formulates the mutual transformation of Don Quixote and Sancho, supporting the shift from hierarchical mastery to reciprocal partnership.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
                 "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Discusses the comic interplay between Don Quixote and Sancho as a relationship that develops from domination and instruction into reciprocity and affection.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Surveys the development of the Don Quixote–Sancho relationship and the increasing affection, trust, and dependence between them.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Examines the pair as a narrative engine, showing how Sancho's growing autonomy and Don Quixote's dependence on him alter the power balance across the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Johnson, Carroll B.",
+                "title": "Don Quixote: The Quest for Modern Fiction",
+                "year": 1990,
+                "publication": "Twayne Publishers",
+                "url": null,
+                "relevance": "Discusses Sancho as Don Quixote’s necessary interlocutor and the pair’s evolving reciprocal bond, supporting the axis’s relational trajectory.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Don+Quixote%3A+The+Quest+for+Modern+Fiction+1990"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote, because critics repeatedly treat the Quixote–Sancho bond as an evolving relation of hierarchy, reciprocity, and mutual influence rather than a static master-servant pairing. The novel’s trajectory from recruitment and patronage to affection, gratitude, and practical dependence is a standard critical theme in studies of their companionship and co-formation.",
+            "reasoning": "The proposed arc is strongly grounded in canonical criticism on Don Quixote: scholars have long described the Don–Sancho relationship as mutually transformative, moving from comic hierarchy and instrumental use toward emotional dependence, shared judgment, and affection. Madariaga’s classic psychological essay is especially direct, while Auerbach and González Echevarría treat the pair’s dialogue and interdependence as central to the novel’s representation of reality and character.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
                 "publication": "Oxford University Press",
-                "relevance": "Riley discusses the centrality of the Don Quixote–Sancho relationship to the novel’s structure and the way their interaction develops into a reciprocal companionship rather than a one-way hierarchy.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "url": null,
+                "relevance": "Argues for the mutual transformation of Don Quixote and Sancho ('quixotification' and 'sanchification'), directly supporting the shift from command to affectionate reciprocal partnership.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that emphasizes the pair’s mutual dependence and the softening of their initial master-squire relation into a more affectionate and collaborative bond.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "Analyzes the dialogic interdependence of Don Quixote and Sancho, supporting the relational dynamic in which the knight comes to depend on his squire's practical judgment and speech.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Cervantes uses the Quixote–Sancho dyad to dramatize shifting power relations, practical wisdom, and emotional attachment across the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Riley, E. C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin / Twayne",
-                "relevance": "This study treats Sancho as more than a subordinate, showing how Don Quixote comes to value Sancho’s fidelity and judgment, which supports the axis’s end-point of affectionate mutual dependence.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
+                "author": "González Echevarría, Roberto",
+                "title": "Cervantes' Don Quixote",
+                "year": 2015,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Reads Sancho as Don Quixote's indispensable companion and charts the novel's movement toward shared judgment, emotional intimacy, and mutual affection.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote+2015"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s evolving partnership with Sancho Panza. Critics repeatedly note that the relationship moves from master-servant hierarchy toward mutual dependence, with Sancho’s practical intelligence increasingly acknowledged and Don Quixote’s affection and gratitude becoming explicit by the end of the novel.",
+            "reasoning": "This axis tracks one of the most thoroughly documented dynamics in Cervantine criticism: the gradual 'Sanchification' of Don Quixote and 'Quixotification' of Sancho, in which the knight's initial lordly instrumentalization of his squire (the promised ínsula, threats of blows) gives way to genuine affection, praise of Sancho's natural wit, and even abdication of authority (the rebuke at the end of the Sierra Morena penance episodes, the 'amigo Sancho' of Part II, and the bequest in the final will). The arc from hierarchical command to reciprocal, quasi-familial partnership is a standard interpretive through-line from Madariaga's mutual-influence thesis through mid-century and late-twentieth-century studies of the pair's psychology and social dynamics. Only the precise wording 'friend and son' and the specific inventory of episodes are the axis's own construction; the trajectory itself is well attested.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the Don Quixote–Sancho relationship as a central structural and comic dynamic that develops through reciprocal influence rather than fixed hierarchy.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Revista de Occidente (later Madrid: Espasa-Calpe)",
+                "url": null,
+                "relevance": "Foundational statement of the mutual transformation thesis — Don Quixote 'Sanchifying' and Sancho 'Quixotifying' — which underwrites the shift from command to partnership.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
+              },
+              {
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature (chapter 'The Enchanted Dulcinea')",
+                "year": 1946,
+                "publication": "Bern: A. Francke; English trans. Princeton University Press, 1953",
+                "url": null,
+                "relevance": "Analyzes the Don Quixote–Sancho dialogue as a genuinely reciprocal exchange in which each shapes the other's worldview and speech.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+%28chapter+%27The+Enchanted+Dulcinea%27%29+1946"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in 'Quixote' Criticism",
+                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in Quixote Criticism",
                 "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that treats Don Quixote and Sancho as increasingly intimate companions whose bond complicates the initial master-squire relation.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Traces and critiques the critical tradition reading the pair's relationship as an evolving affectionate bond rather than a static master-servant hierarchy.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del 'Quijote'",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study addresses the pair as a relational unit and emphasizes the progressive convergence of idealism and pragmatism between Don Quixote and Sancho.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+%27Quijote%27+1975"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "Berkeley: University of California Press",
+                "url": null,
+                "relevance": "Reads Don Quixote's mounting emotional dependence on Sancho and his need for the squire's validating presence in psychological terms.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Don Quixote",
+                "year": 1986,
+                "publication": "Boston: Twayne Publishers",
+                "url": null,
+                "relevance": "Standard critical introduction documenting the development of the pair's relationship across Parts I and II, including the shift toward affectionate companionship.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               },
               {
                 "author": "González Echevarría, Roberto",
-                "title": "Cervantes' Don Quixote: A New Reading of the Novel",
+                "title": "Love and the Law in Cervantes",
                 "year": 2005,
-                "publication": "Yale University Press",
-                "relevance": "González Echevarría reads the novel’s central pair as a relationship of mutual transformation, highlighting Sancho’s growing authority and Don Quixote’s recognition of him.",
-                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote%3A+A+New+Reading+of+the+Novel+2005"
+                "publication": "New Haven: Yale University Press",
+                "url": null,
+                "relevance": "Discusses friendship, obligation, and the ethical bond between Don Quixote and Sancho as a relation of love and mutual dependency rather than mere command.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "Cervantes' Don Quixote: A Reference Guide",
+                "year": 2006,
+                "publication": "Westport, CT: Greenwood Press",
+                "url": null,
+                "relevance": "Surveys the critical consensus on the Don Quixote–Sancho relationship arc, including the movement from the promised ínsula toward the 'amigo Sancho' of Part II.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes%27+Don+Quixote%3A+A+Reference+Guide+2006"
               }
             ]
           }
@@ -903,174 +1340,214 @@
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "Don Quixote de la Mancha",
-      "target_character": "Dulcinea del Toboso",
-      "dimension_label": "idealization-devotion",
-      "axis_name": "From fantasized lady to final moral center",
-      "pole_start": "She begins as a wholly fantasized courtly beloved, an abstract lady who legitimizes his knightly identity.",
-      "pole_end": "She ends as the enduring moral and emotional center of his life, even as he renounces knight-errantry and repents.",
-      "confidence": "high",
+      "target_character": "Dulcinea del Toboso / Aldonza Lorenzo",
+      "dimension_label": "Idealized devotion",
+      "axis_name": "From self-authored ideal to anxious rescue fantasy and final relinquishment",
+      "pole_start": "Constructs Aldonza as Dulcinea, Lady of Thoughts, the sovereign lady and judge of all deeds; devotion is literary, self-ornamental, and confirms his knightly identity rather than responding to a real relationship.",
+      "pole_end": "The ideal becomes a persecuted enchanted lady whose rescue organizes his life; after his recovery of reason he renounces the chivalric frame that sustained her, abandoning the Dulcinea-enchantment quest and pastoral fantasy built around her, with no continuing relation to Aldonza depicted.",
+      "confidence": "medium",
       "source": "both",
-      "arc_direction": "flat",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Foundational idealization",
+          "phase": "Construction and worship",
           "chapter_range": [
             2,
-            15
+            24
           ],
-          "position_description": "Dulcinea is the imagined source of his mission, honor, and courtly language; she is intensely idealized but not yet morally tested.",
+          "position_description": "Dulcinea is invented to complete his knightly self: she is an abstract princess, judge, and motive for deeds, not a person he knows.",
           "key_moments": [
-            "Transforms Aldonza Lorenzo into Dulcinea",
-            "Invokes her in first combats",
-            "Uses her as the standard for all chivalric action"
+            "Selects Aldonza Lorenzo and reinvents her as Dulcinea del Toboso.",
+            "Sends vanquished foes to her.",
+            "Invokes Dulcinea in combat, penance, and romance monologue."
           ]
         },
         {
-          "phase": "Devotional absolutism",
+          "phase": "Candid idealization and defense",
           "chapter_range": [
-            16,
-            116
+            25,
+            58
           ],
-          "position_description": "She becomes the fixed center of his identity, the justification for penance, resistance to temptation, and all public self-presentation.",
+          "position_description": "He admits he has rarely seen Aldonza and invents Dulcinea in imagination, yet still defends her supremacy with violence and devotional rhetoric.",
           "key_moments": [
-            "Sierra Morena penance",
-            "Refusal of Altisidora",
-            "Dulcinea's disenchantment becomes the engine of the later plot",
-            "He repeatedly insists on her exclusivity and beauty"
+            "Tells Sancho that Dulcinea is really Aldonza but that he pictures her as an exalted princess.",
+            "Admits poets invent ladies and that he imagines Dulcinea.",
+            "Strikes Sancho for insulting Dulcinea.",
+            "Corrects Sancho's description of Dulcinea's eyes and mole to preserve her perfection."
           ]
         },
         {
-          "phase": "Final sanctification",
+          "phase": "Enchantment obsession",
           "chapter_range": [
-            117,
+            59,
+            95
+          ],
+          "position_description": "Dulcinea becomes the center of a disenchantment quest. After the El Toboso disillusion he insists she has been enchanted and treats Sancho's lashes as the necessary remedy.",
+          "key_moments": [
+            "Sees a peasant girl on an ass as the enchanted Dulcinea.",
+            "Reports seeing the enchanted Dulcinea in the cave of Montesinos.",
+            "Vows to roam the earth until Dulcinea is disenchanted.",
+            "Accepts the staged Merlin's demand that Sancho whip himself for her release."
+          ]
+        },
+        {
+          "phase": "Defeat and obsessive hope",
+          "chapter_range": [
+            96,
+            126
+          ],
+          "position_description": "Even after defeat, Dulcinea's disenchantment remains his central hope. He scans the road for her and ties his redemption to Sancho's fake lashes.",
+          "key_moments": [
+            "Rejoices at the enchanted head's promise of Dulcinea's disenchantment.",
+            "Watches the road for Dulcinea after Sancho completes the lashes.",
+            "Counts the fake lashes on his rosary.",
+            "Sees omens that he will never see her."
+          ]
+        },
+        {
+          "phase": "Renunciation with chivalry",
+          "chapter_range": [
+            127,
             127
           ],
-          "position_description": "Even as he renounces chivalry, Dulcinea remains the beloved whose memory structures his repentance and final moral order.",
+          "position_description": "With the collapse of his chivalric identity, the enchantment project and pastoral fantasy around Dulcinea are discarded as part of his former illusion.",
           "key_moments": [
-            "Refuses to deny her beauty in the duel",
-            "Continues to seek her disenchantment after defeat",
-            "Dies as Alonso Quixano while still honoring her place in his life"
+            "Renounces books of chivalry.",
+            "Abandons knight-errantry and its Dulcinea project.",
+            "Dies as Alonso Quixano rather than as Dulcinea's knight."
           ]
         }
       ],
-      "evidence_summary": "Dulcinea never becomes a real interpersonal relationship, but she becomes the deepest organizing attachment in his psyche. The arc is less about change in feeling than about increasing moral centrality, surviving even the collapse of his knightly identity.",
+      "evidence_summary": "Dulcinea is the most intense object of Don Quixote's imaginative devotion, but the relationship is one-sided and literary; it intensifies into a rescue obsession and then fades as the chivalric worldview collapses.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "Published scholarship does support reading Dulcinea as more than a mere initial fiction: critics repeatedly treat her as the organizing ideal of Don Quixote’s identity and as a figure whose symbolic force persists through the novel’s end, especially in relation to renunciation, repentance, and the collapse of knight-errantry. That said, the axis slightly overstates her as a fully developed “final moral center” in a psychological sense; scholarship more often frames her as an enduring imaginative and ethical reference point than as an independently dramatized endpoint of mutual intimacy.",
+            "reasoning": "The axis is grounded in published Cervantes criticism: scholars have extensively analyzed Dulcinea as a literary construct produced by Don Quixote's chivalric reading, the gap between that ideal and the absent Aldonza Lorenzo, and the enchantment/disenchantment plot as a crisis of his idealized devotion. The final renunciation is also consistent with criticism on Don Quixote's recovery of reason and abandonment of the chivalric frame, though the specific 'anxious rescue fantasy' phrasing is an interpretive synthesis rather than a standard critical label.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study repeatedly emphasizes Dulcinea as the indispensable ideal that structures Don Quixote’s self-conception and persists as a governing presence through the novel’s conclusion.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Analyzes Don Quixote's literary self-fashioning and idealization, including Dulcinea as a fiction generated by chivalric reading rather than a real relationship.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This classic study treats Dulcinea as a central symbolic and relational construct in the Quixote–Dulcinea dynamic, showing how the fantasy of the lady underwrites the knightly persona and its later disillusionment.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Madrid: Ínsula",
+                "url": null,
+                "relevance": "Provides a structural account of the novel's idealizing patterns and the place of Dulcinea within Don Quixote's imaginative world.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "Urbana: University of Illinois Press",
+                "url": null,
+                "relevance": "Examines the Aldonza/Dulcinea divide and the social and material stakes of Don Quixote's idealization, supporting the axis's contrast between constructed lady and real woman.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
                 "author": "González Echevarría, Roberto",
-                "title": "Cervantes' Don Quixote: A Casebook",
+                "title": "Love and the Law in Cervantes",
                 "year": 2005,
-                "publication": "Oxford University Press",
-                "relevance": "The casebook gathers criticism on Dulcinea’s function as the absent yet enduring center of Don Quixote’s desire, including essays that connect her to the novel’s ending and the hero’s renunciation.",
-                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote%3A+A+Casebook+2005"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroine's Voice: Narrative Discourse and Transformations of the Female in Cervantes",
-                "year": 1998,
-                "publication": "University of Missouri Press",
-                "relevance": "Friedman’s gender-focused study helps ground the relational axis by analyzing how female figures, especially Dulcinea, are transformed from idealized projection into a persistent moral and narrative reference point.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroine%27s+Voice%3A+Narrative+Discourse+and+Transformations+of+the+Female+in+Cervantes+1998"
+                "publication": "New Haven: Yale University Press",
+                "url": null,
+                "relevance": "Discusses idealization, love, and social framing in Cervantes, including Dulcinea as a figure of Don Quixote's erotic and chivalric imagination.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship: critics repeatedly note that Dulcinea begins as an idealized, imaginary courtly construct and later becomes the emotional and moral anchor of Don Quixote’s identity, especially in the novel’s closing movement toward renunciation and repentance. Psychoanalytic and gender-oriented readings also stress that the relationship is less a conventional romance than a sustaining fantasy that organizes his ego, desire, and ethical self-understanding across the novel.",
+            "reasoning": "The proposed arc is broadly grounded in Cervantes criticism: Dulcinea is widely read as a literary self-projection of Don Quixote, later transformed into an enchanted lady whose disenchantment becomes a plot-driving obsession in Part II, and finally abandoned when Quixote recovers his reason and renounces chivalric fiction. The exact wording 'anxious rescue fantasy' is critical rather than authorial, but the movement from self-authored ideal to disenchantment and relinquishment is a recognized interpretive trajectory.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Dulcinea as an idealized fiction central to Don Quixote’s self-construction, and the novel’s ending as a collapse of that fantasy into repentance and disillusionment.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in Quixote Criticism",
+                "year": 1978,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Close analyzes Don Quixote's idealization of Dulcinea as a literary/romantic construct and situates later disenchantment within Cervantes's critique of self-authored ideals.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Dulcinea functions as the organizing center of Don Quixote’s knightly identity, making her relationship to him structurally central rather than merely decorative.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "El Saffar examines the split between Dulcinea and Aldonza and the psychic/relational significance of Don Quixote's devotion, enchantment, and disenchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroic Impulse: Don Quixote and the Novel",
-                "year": 1981,
-                "publication": "University of Missouri Press",
-                "relevance": "Friedman treats Dulcinea as the fantasy object that sustains Don Quixote’s heroic self-image and helps explain the emotional force of his final renunciation.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroic+Impulse%3A+Don+Quixote+and+the+Novel+1981"
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "This study discusses Don Quixote's love for Dulcinea as a legally and literarily mediated ideal rather than a relation to the historical Aldonza.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
               },
               {
-                "author": "Weber, Alison",
-                "title": "Tirant lo Blanc and Don Quixote: From Courtly Love to the Novel",
-                "year": 1997,
-                "publication": "University of North Carolina Press",
-                "relevance": "Weber’s discussion of courtly-love conventions in Don Quixote supports the view that Dulcinea begins as an abstract beloved and remains the key affective reference point even as the chivalric frame breaks down.",
-                "search_url": "https://scholar.google.com/scholar?q=Weber%2C+Alison+Tirant+lo+Blanc+and+Don+Quixote%3A+From+Courtly+Love+to+the+Novel+1997"
+                "author": "Quint, David",
+                "title": "Cervantes's Novel of Modern Times: A New Reading of Don Quijote",
+                "year": 2003,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "Quint treats Dulcinea's enchantment and disenchantment as central to Part II and to Quixote's eventual disillusionment and renunciation of the chivalric frame.",
+                "search_url": "https://scholar.google.com/scholar?q=Quint%2C+David+Cervantes%27s+Novel+of+Modern+Times%3A+A+New+Reading+of+Don+Quijote+2003"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "The axis is broadly grounded in scholarship, but it slightly overstates the ending: critics regularly show that Dulcinea functions as an imagined, sustaining ideal throughout the novel, and that her role becomes morally and emotionally central to Don Quixote’s identity even as his chivalric project collapses. However, scholarship also emphasizes the irony that Dulcinea remains absent, mediated, and constructed rather than simply becoming a fully realized personal center in any straightforward realist sense.",
+            "reasoning": "The axis is grounded in a well-established critical conversation about Dulcinea/Aldonza as a literary construct rather than a lived relationship. Cervantes criticism tracks Don Quixote's initial self-ornamental idealization, the enchantment/rescue motif, and the dismantling of that chivalric frame at the end, even when it disputes the coherence of a continuous 'relationship arc.'",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as a literary and psychological construct central to Don Quixote's self-fashioning, helping support the claim that she legitimizes his knightly identity and remains crucial to his inner life.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Márquez Villanueva, Francisco",
+                "title": "Personajes y temas del Quijote",
+                "year": 1975,
+                "publication": "Madrid: Taurus",
+                "url": null,
+                "relevance": "Studies Dulcinea del Toboso as a central character/theme and examines the literary construction of Don Quixote's ideal.",
+                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Dulcinea is sustained as an organizing ideal across the novel, showing the evolving but persistent dependence of Don Quixote's identity on her imagined presence.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Riley, E. C.",
+                "title": "Don Quixote",
+                "year": 1986,
+                "publication": "London: Allen & Unwin",
+                "url": null,
+                "relevance": "Analyzes Don Quixote's self-authored chivalric identity and Dulcinea as a projection of that identity.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               },
               {
-                "author": "El Saffar, Ruth",
+                "author": "El Saffar, Ruth S.",
                 "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
                 "year": 1975,
-                "publication": "University of North Carolina Press",
-                "relevance": "El Saffar's account of mediation and distance in the novel is useful for understanding Dulcinea as both absent fantasy and emotional center, especially in the later movement toward disillusion and renunciation.",
-                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+                "publication": "Chapel Hill: University of North Carolina Press",
+                "url": null,
+                "relevance": "Discusses the narrative construction of Dulcinea and Don Quixote's relation to his own fictional ideal.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+S.+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               },
               {
-                "author": "Auerbach, Erich",
-                "title": "Mimesis: The Representation of Reality in Western Literature",
-                "year": 1946,
-                "publication": "Princeton University Press",
-                "relevance": "Auerbach's influential reading of Don Quixote treats the knight's devotion to Dulcinea as part of the novel's larger transformation of idealized romance into modern psychological realism, which supports the axis's emphasis on her enduring significance.",
-                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to Don Quixote",
+                "year": 1978,
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Examines the idealizing and disenchanting movements in Don Quixote's conception of Dulcinea.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote+1978"
               }
             ]
           }
@@ -1081,339 +1558,159 @@
       "axis_type": "relational",
       "axis_id": "final_rel_03",
       "source_character": "Don Quixote de la Mancha",
-      "target_character": "The Duke and Duchess",
-      "dimension_label": "honor-mockery",
-      "axis_name": "From honored guest to manipulated spectacle",
-      "pole_start": "He initially experiences the duke and duchess as noble patrons who recognize and elevate his knightly identity.",
-      "pole_end": "He ends as a guest who still receives courtesy, but who increasingly understands, at least dimly, that their hospitality is also theatrical manipulation and mockery.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "ambivalent",
-      "trajectory": [
-        {
-          "phase": "Courtly validation",
-          "chapter_range": [
-            83,
-            84
-          ],
-          "position_description": "The duke and duchess stage elaborate honors that make Don Quixote feel authentically knightly and socially visible.",
-          "key_moments": [
-            "Ceremonial reception at the castle",
-            "Public honors and deference",
-            "Don Quixote feels truly recognized"
-          ]
-        },
-        {
-          "phase": "Managed spectacle",
-          "chapter_range": [
-            85,
-            99
-          ],
-          "position_description": "Their hospitality becomes increasingly prankish: Sancho is mocked, Altisidora is staged, and Don Quixote is repeatedly made part of a comic performance.",
-          "key_moments": [
-            "Pranks on Sancho",
-            "Altisidora's mock love",
-            "Clavileño and other staged marvels"
-          ]
-        },
-        {
-          "phase": "Growing suspicion and fatigue",
-          "chapter_range": [
-            101,
-            123
-          ],
-          "position_description": "He remains courteous, but the courtly environment now feels more conditional and cruel. He is humiliated, confined, and increasingly aware that noble hospitality can mask exploitation.",
-          "key_moments": [
-            "Doña Rodriguez episode",
-            "Public humiliation and confinement",
-            "Departure from the castle after defeat"
-          ]
-        }
-      ],
-      "evidence_summary": "This relationship is not a simple betrayal arc; it is a shift from sincere-seeming honor to elaborate social theater. Don Quixote remains deferential, but the emotional tone moves from validation to wary endurance.",
-      "literary_validation": {
-        "validation_tag": "valid_axis",
-        "evaluators": {
-          "structuralist": {
-            "label": "Structuralist / Narratologist",
-            "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duke and Duchess episodes as a sustained scene of aristocratic manipulation: critics regularly read the pair as staging Don Quixote’s knighthood for their own amusement. The proposed arc is also plausible narratologically, since the novel lets Don Quixote begin by accepting their patronage as recognition and later register, however dimly, that their courtesy is theatrical and mocking rather than genuinely honorific.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the Duke and Duchess episodes as a major instance of aristocratic play-acting that turns Don Quixote into an object of staged entertainment, supporting the idea of hospitality as manipulation.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close treats the Duke and Duchess as emblematic of the novel's comic cruelty, where noble courtesy masks mockery and social domination.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Fuentes literarias cervantinas",
-                "year": 1973,
-                "publication": "Gredos",
-                "relevance": "This study situates Cervantes's aristocratic episodes within broader literary traditions of mock-heroic play, helping support the reading of the Duke and Duchess as patrons who convert Don Quixote into spectacle.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Fuentes+literarias+cervantinas+1973"
-              }
-            ]
-          },
-          "psychological": {
-            "label": "Psychological Critic",
-            "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duke and Duchess episodes, which are widely read as a sustained experiment in aristocratic manipulation: at first they appear to validate Don Quixote’s knightly self-image, but the relationship increasingly reveals itself as staged amusement at his expense. Critics of the novel’s social and psychological dynamics regularly treat these scenes as a shift from apparent patronage to theatrical mockery, making the proposed relational arc plausible and textually supported.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the Duke and Duchess episodes as part of Cervantes's larger strategy of exposing the gap between idealized chivalric identity and the social performance staged around Don Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study treats the Duke and Duchess as aristocratic manipulators whose hospitality becomes a form of mockery, directly supporting the idea that Don Quixote gradually perceives the theatricality of their welcome.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close situates the Duke and Duchess material within criticism of social cruelty and comic degradation, illuminating the shift from seeming recognition to humiliating spectacle.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "El Saffar, Ruth",
-                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
-                "year": 1975,
-                "publication": "University of North Carolina Press",
-                "relevance": "El Saffar's account of narrative control and distancing helps explain how the Duke and Duchess episodes turn hospitality into a managed performance that Don Quixote only dimly understands as manipulation.",
-                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
-              }
-            ]
-          },
-          "historical_cultural": {
-            "label": "Historical / Cultural Critic",
-            "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duke and Duchess episodes in Don Quixote, which are widely read as scenes of aristocratic performance, cruelty, and staged mockery that both flatter and expose Don Quixote. Critics have repeatedly treated the pair’s hospitality as a theatrical apparatus that converts the knight into an object of entertainment, while also noting that he only gradually registers the manipulation behind their courtesy.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the Duke and Duchess episodes as central to the novel’s exploration of illusion, performance, and the social humiliation of Don Quixote, supporting the idea that their courtesy is also manipulation.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats the Duke and Duchess as emblematic of aristocratic mockery and the novel’s exposure of social power, which aligns with the axis’s movement from honored guest to manipulated spectacle.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Cervantes Encyclopedia",
-                "year": 2004,
-                "publication": "Greenwood Press",
-                "relevance": "The encyclopedia’s entries on the Duke and Duchess episodes summarize the pair’s role in staging elaborate practical jokes and theatrical humiliations for Don Quixote, directly supporting the relational arc described.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
-              },
-              {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel emphasizes the Duke and Duchess as aristocratic manipulators whose hospitality becomes a form of spectacle, reinforcing the axis’s claim about Don Quixote’s growing awareness of mockery.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "axis_type": "relational",
-      "axis_id": "final_rel_04",
-      "source_character": "Don Quixote de la Mancha",
-      "target_character": "The Curate",
-      "dimension_label": "trust-correction",
-      "axis_name": "From household ally to corrective opponent and back to partial reconciliation",
-      "pole_start": "He begins with the curate as a familiar village authority, not yet an enemy, though already outside his fantasy world.",
-      "pole_end": "He ends with a more cordial, socially integrated relation, even though the curate remains a manager of his sanity and narrative.",
-      "confidence": "high",
-      "source": "both",
+      "target_character": "Niece and Housekeeper",
+      "dimension_label": "Familial reconciliation",
+      "axis_name": "From impatient evasion to tender familial reconciliation",
+      "pole_start": "He dismisses their warnings, secrets his plans, rebukes his niece for criticizing chivalry, and leaves home despite their distress, treating the household as an obstacle to his sallies.",
+      "pole_end": "He calls them his daughters, reassures them, accepts their care in illness, protects his niece's inheritance from chivalry books in his will, and dies under their household care.",
+      "confidence": "medium",
+      "source": "event_only",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Early domestic familiarity",
+          "phase": "Evasion and rebuke",
           "chapter_range": [
             6,
-            7
+            60
           ],
-          "position_description": "The curate is still part of the household circle, but his role shifts sharply when he helps burn the books and diagnose Don Quixote's madness.",
+          "position_description": "The household is an obstacle to his sallies: he hides his plans, dismisses their fears, and treats their anti-chivalric concerns as ignorance or blasphemy.",
           "key_moments": [
-            "Household diagnoses his condition",
-            "Curate resolves to burn the books",
-            "Book-burning begins"
+            "Accepts the housekeeper and niece's story of an enchanter taking his library.",
+            "Threatens his niece for calling chivalry histories fables.",
+            "Departs secretly or despite the niece's lamentation."
           ]
         },
         {
-          "phase": "Active corrective authority",
+          "phase": "Return and renewed fantasy",
           "chapter_range": [
-            30,
-            48
+            54,
+            59
           ],
-          "position_description": "The curate becomes a visible agent of containment, judgment, and manipulation. Don Quixote senses condemnation, especially when his galley-slave episode and madness are discussed.",
+          "position_description": "Brief lucid conversation raises their hopes, but he reasserts knight-errantry and treats domestic opposition as a failure to understand his calling.",
           "key_moments": [
-            "Curate mentions the galley slaves",
-            "Public discussion of his madness",
-            "Curate participates in the cage deception"
+            "Speaks so sensibly that the curate and barber hope he is cured.",
+            "Insists he will die a knight-errant.",
+            "Dismisses the housekeeper's threat to complain to the king."
           ]
         },
         {
-          "phase": "Intellectual adversary",
-          "chapter_range": [
-            50,
-            56
-          ],
-          "position_description": "The curate is now a learned interlocutor whose skepticism Don Quixote resists, though the exchange is often courteous and serious rather than openly hostile.",
-          "key_moments": [
-            "Canon and curate criticize chivalric books",
-            "Don Quixote defends knight-errantry",
-            "The curate listens and sometimes validates his reasoning"
-          ]
-        },
-        {
-          "phase": "Partial reconciliation",
+          "phase": "Illness and reconciliation",
           "chapter_range": [
             126,
             127
           ],
-          "position_description": "By the end, the curate is again a trusted village figure. Don Quixote greets him affectionately and accepts his care, even as he renounces the old fantasy life.",
+          "position_description": "Weakened and finally sane, he becomes affectionate and dependent, addressing the women as daughters and accepting their care.",
           "key_moments": [
-            "Warm return to the village",
-            "Accepts advice and care",
-            "Dies reconciled within the household"
+            "Calls his niece and housekeeper his daughters and reassures them of his care.",
+            "Asks to be helped to bed because he does not feel well.",
+            "Makes a will protecting his niece's inheritance from chivalry books.",
+            "Dies under their household care."
           ]
         }
       ],
-      "evidence_summary": "The curate's relationship with Don Quixote moves from domestic familiarity to corrective antagonism and then to a softened, reintegrated ending. He is one of the main external forces trying to cure him, but the final chapters restore social trust.",
+      "evidence_summary": "The domestic relationship shifts from evasive rebellion against family concern to tender dependence and reconciliation in illness and death.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s village network and the curate’s role as a corrective, managerial, and socially stabilizing presence. Structuralist and narratological readings often treat the curate not as a static antagonist but as part of the novel’s shifting regime of mediation, where he moves between neighborly familiarity, disciplinary opposition, and partial accommodation by the end. The proposed arc from familiar authority to corrective opponent and back to a more integrated relation is therefore defensible.",
+            "reasoning": "The axis is broadly grounded in scholarship on the domestic/feminine sphere in Don Quixote: critics read the niece and housekeeper as representatives of household authority against whom Quixote's chivalric evasion is measured, and the ending's return to sanity, will-making, and household care is treated as a restoration of domestic order. The specific phrase 'tender familial reconciliation' is interpretive, but the relational movement from evasion to dependence and testamentary protection is supported by feminist, materialist, and legal-familial readings of the novel.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the curate as one of the key village figures who attempts to regulate Don Quixote’s madness, illuminating the relationship as one of corrective social management rather than simple enmity.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "El Saffar's feminist-narratological study treats feminine figures in Cervantes as forces that reclaim and reintegrate the male protagonist, supporting a reading of the niece and housekeeper as domestic agents in Quixote's final return.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Forcione, Alban K.",
-                "title": "Cervantes, Aristotle, and the Persiles",
-                "year": 1970,
-                "publication": "Princeton University Press",
-                "relevance": "Although broader than Don Quixote alone, Forcione’s structural account of Cervantine mediation helps explain how clerical figures like the curate function as stabilizing correctives within the narrative economy.",
-                "search_url": "https://scholar.google.com/scholar?q=Forcione%2C+Alban+K.+Cervantes%2C+Aristotle%2C+and+the+Persiles+1970"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson analyzes the household economy and material dependencies in Don Quixote, which ground the relation between Quixote and the women who manage his domestic life and inheritance.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s narratological approach treats the curate as part of the village counter-force that repeatedly interrupts and redirects Don Quixote, supporting the idea of a relationship that moves from familiarity to correction and partial reintegration.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Cruz, Anne J.",
+                "title": "Cervantes and the Woman Question",
+                "year": 2002,
+                "publication": "The Cambridge Companion to Cervantes, edited by Anthony J. Cascardi, Cambridge University Press",
+                "url": null,
+                "relevance": "Cruz discusses Cervantes's female characters and domestic authority, supporting the axis's claim that the niece and housekeeper function as a domestic counterweight to Quixote's chivalric sallies.",
+                "search_url": "https://scholar.google.com/scholar?q=Cruz%2C+Anne+J.+Cervantes+and+the+Woman+Question+2002"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "González Echevarría examines marriage, inheritance, and legal-familial closure in Cervantes, including the will's protection of the niece, which supports the endpoint of the axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded: the curate is one of the village authorities who first functions as a familiar corrective presence rather than a pure antagonist, and the novel repeatedly stages his role as manager, censor, and occasional ally in Don Quixote’s social reintegration. Scholarship on the curate’s interventions in the library-burning, the household’s containment of Don Quixote, and the later attempts to shepherd him home supports the idea of a relationship that moves from local authority and opposition toward a qualified, socially mediated reconciliation.",
+            "reasoning": "The axis is broadly grounded in published Cervantes criticism that treats the niece and housekeeper as domestic figures guarding the household and inheritance, and that reads the ending as a return to domestic order. El Saffar’s feminist psychoanalytic study of Cervantes’s feminine figures and Johnson’s materialist reading of Don Quixote’s household, property, and will both support the relational arc, even if they do not use the exact phrase 'tender familial reconciliation.'",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the curate as a central village authority who helps regulate Don Quixote’s delusions, illuminating the curate’s role as corrective opponent rather than simple enemy.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "This study examines Cervantes’s feminine and domestic figures, including the household women around Don Quixote, as part of the novel’s movement toward reintegration and recovery.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study treats the curate as part of the novel’s social and ideological network, useful for understanding the shifting balance between household familiarity, correction, and partial accommodation.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close analyzes the curate’s function within the social management of Don Quixote, including the way village figures attempt to contain and redirect him back toward communal norms.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "Cervantes in the Middle: Realism and Reality in the Spanish Novel from Lazarillo to Galdós",
-                "year": 1978,
-                "publication": "Bucknell University Press",
-                "relevance": "Friedman’s broader account of Cervantes’s social realism helps support readings of the curate as a mediating, corrective presence whose relation to Don Quixote is not purely hostile.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Cervantes+in+the+Middle%3A+Realism+and+Reality+in+the+Spanish+Novel+from+Lazarillo+to+Gald%C3%B3s+1978"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson’s materialist analysis of Don Quixote’s household, estate, and testament provides a scholarly basis for reading the niece and housekeeper as central to the novel’s final domestic and inheritance concerns.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "The axis is well grounded in scholarship: the curate is repeatedly treated as a village authority figure who first participates in, then actively manages, Don Quixote’s delusions, and later becomes part of the novel’s more socially negotiated ending. Critics of the novel’s social and narrative structure regularly note this shift from familiar clerical ally to corrective opponent and, by the end, to a more integrated if still supervisory relation. ",
+            "reasoning": "The axis is broadly grounded in criticism on the domestic women of Don Quixote: the niece and housekeeper are read as the household from which the protagonist flees and to which he returns in illness and death, and the novel's closure is often treated as domestic reintegration. The exact wording 'daughters' is a critical paraphrase, but the relational movement from evasive dismissal to dependence and testamentary care is a recognizable interpretive pattern in Cervantes scholarship.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "A standard scholarly study of the novel that discusses the curate as one of the key village figures who helps contain and redirect Don Quixote, supporting the idea of a relationship that moves from familiarity to correction.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Analyzes Cervantes's feminine and domestic figures as part of a movement from dispersal to recovery, supporting the reading of the niece and housekeeper as the household pole of Don Quixote's arc.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
                 "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close analyzes the curate’s role in the social management of Don Quixote, including the clerical interventions that make the curate a corrective opponent rather than a simple enemy.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Treats the household, housekeeper, and niece within the material social world Don Quixote rejects and finally re-enters, grounding the relational shift from evasion to dependence.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "This study addresses the curate’s function within the novel’s narrative and social structure, including his evolving relation to Don Quixote as a manager of sanity and plot.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Close, Anthony (ed.)",
+                "title": "The Cambridge Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Provides critical overview of the novel's female and domestic characters and its closure, where the protagonist's return to sanity is also a return to household care.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+%28ed.%29+The+Cambridge+Companion+to+Don+Quixote+2008"
               }
             ]
           }

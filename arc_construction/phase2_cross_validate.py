@@ -162,9 +162,9 @@ async def cross_validate_character(
     """Cross-validate axes for a single character."""
     char_dir = os.path.join(OUTPUTS_DIR, CHARACTER_DIRS[character_name])
 
-    with open(os.path.join(char_dir, "axes_from_events.json"), "r") as f:
+    with open(os.path.join(char_dir, "axes_from_events.json"), "r", encoding="utf-8") as f:
         axes_events = json.load(f)
-    with open(os.path.join(char_dir, "axes_from_psych.json"), "r") as f:
+    with open(os.path.join(char_dir, "axes_from_psych.json"), "r", encoding="utf-8") as f:
         axes_psych = json.load(f)
 
     prompt = build_merge_prompt(

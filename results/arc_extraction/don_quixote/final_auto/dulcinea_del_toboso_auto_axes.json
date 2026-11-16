@@ -5,164 +5,388 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "agency-communion",
-      "axis_name": "From absent projection to mediated relational symbol",
-      "pole_start": "Purely an externally constructed ideal: no independent agency, no self-assertion, and no direct consciousness; she exists only as a projected beloved.",
-      "pole_end": "Still largely non-agentic, but increasingly framed as a relational symbol with a mediated social function in Don Quixote's fantasies and the courtly prank machinery.",
+      "dimension_label": "Agency–Communion Objecthood",
+      "axis_name": "From Nominal Sovereign to Staged Mouthpiece: agency remains counterfeit, communion remains unilateral",
+      "pole_start": "A pure object of Don Quixote's projective communion, invented as a lady with no independent agency or reciprocal relational warmth; her 'agency' is grammatical only.",
+      "pole_end": "Still a relational object, never an agent; her one apparent agentic scene (the ducal masque) is ventriloquized, and by the end even her objecthood dissolves into pastoral pretext and omission from Quixote's dying words.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "flat",
       "trajectory": [
         {
-          "phase": "Initial idealization and absence",
+          "phase": "Pure nominal object",
           "chapter_range": [
             1,
-            27
+            6
           ],
-          "position_description": "Dulcinea is introduced only through Don Quixote's renaming and devotion. She has no direct speech, action, or self-awareness, and remains an absent object of projection rather than a participating subject.",
+          "position_description": "Dulcinea exists as an invoked name in prefatory verse and then as Quixote's fabrication laid over Aldonza Lorenzo. She initiates nothing and reciprocates nothing; her 'agency' is grammatical only.",
           "key_moments": [
-            "Aldonza Lorenzo is renamed Dulcinea del Toboso",
-            "She is repeatedly invoked as the recipient of vows and praise",
-            "No independent interiority is shown"
+            "Chapter 1: named in commendatory verse as an absent lady.",
+            "Chapter 2: invented by Quixote as a name 'musical, uncommon, and significant.'",
+            "Chapter 3: invoked as scornful princess who 'drove him forth.'",
+            "Chapter 6: renamed into borrowed literary fictions such as Xarifa."
           ]
         },
         {
-          "phase": "Mediated social function",
+          "phase": "Functional talisman and ventriloquized will",
           "chapter_range": [
-            28,
-            87
+            7,
+            39
           ],
-          "position_description": "Her image becomes more socially embedded as Sancho, the duke and duchess, and Don Quixote use her name strategically. She is still non-agentic, but now functions as a shared symbolic reference point in comic and chivalric performance.",
+          "position_description": "Her name acquires operative force: prayed to before combat, used as legal receipt, destination for defeated men, forged in letters. Agency belongs entirely to Quixote, Sancho, the curate, and the barber.",
           "key_moments": [
-            "Sancho fabricates replies and uses her name pragmatically",
-            "The duke and duchess exploit her image in courtly deception",
-            "Don Quixote's enchantment narrative makes her a public symbol"
+            "Chapter 11: Sancho uses her name as a brake on Quixote's oath.",
+            "Chapter 21: Quixote commends himself to her beside God before the fulling hammers.",
+            "Chapter 23: freed convicts refuse the errand to El Toboso and commute it to Ave Marias.",
+            "Chapter 26: Quixote admits he pictures her as he would have her be.",
+            "Chapter 28: the curate invents a command in her name.",
+            "Chapter 31: Sancho confesses the embassy was invented.",
+            "Chapter 32: Sancho invents a laughing Dulcinea and a torn letter."
           ]
         },
         {
-          "phase": "Enchanted embodiment and final fixation",
+          "phase": "Admitted fiction and displacement",
           "chapter_range": [
-            88,
+            31,
+            62
+          ],
+          "position_description": "Her non-agency becomes explicit: letters undelivered or reconstructed, Sancho confesses he never truly saw her, Quixote concedes she may be imaginary. She is a destination, legal condition, and forgery, not a subject. Dorothea displaces her as addressee of knightly deeds.",
+          "key_moments": [
+            "Chapter 31: Sancho confesses the embassy was invented.",
+            "Chapter 32: Sancho invents a laughing Dulcinea and a torn letter.",
+            "Chapter 47: she becomes a prophecy's cipher: white dove, womb, future whelps.",
+            "Chapter 49: her name is reduced to a conjuring formula Quixote silences.",
+            "Chapter 52: Leandra is given speech, desire, error, and consequence; Dulcinea is given none.",
+            "Chapter 61: Quixote forbids the wheat-sifting memory and relocates her to a palace.",
+            "Chapter 62: Quixote admits he loves her 'solely by hearsay.'"
+          ]
+        },
+        {
+          "phase": "Counterfeit body and staged voice",
+          "chapter_range": [
+            53,
+            94
+          ],
+          "position_description": "She acquires a grave, a counterfeit peasant body, and finally a speaking role in the ducal masque. Yet every apparent act is authored by others: the epitaph by academicians, the peasant body by Sancho, the voice and tears by the duke and duchess.",
+          "key_moments": [
+            "Chapter 53: an epitaph declares 'Here Dulcinea lies,' assigning her a death she never chose.",
+            "Chapter 61: El Toboso is reached, but she does not appear.",
+            "Chapter 63: Sancho stages a peasant girl as the enchanted Dulcinea.",
+            "Chapter 76: in the cave she flees and begs by proxy for six reals.",
+            "Chapter 84: Quixote publicly testifies she is enchanted into 'the most ill-favoured peasant wench'.",
+            "Chapter 85: the Duchess proposes she may be 'an imaginary lady'; belief in her becomes a household policy.",
+            "Chapter 88: she speaks in Merlin's masque, demanding Sancho's lashes.",
+            "Chapter 89: the masque is revealed as a ducal drollery; Merlin is a majordomo."
+          ]
+        },
+        {
+          "phase": "Deferred debt and final erasure",
+          "chapter_range": [
+            94,
             127
           ],
-          "position_description": "She is briefly given a performed voice in the disenchantment pageant, but this remains externally scripted. The novel ends with her still fundamentally dependent on others' projections and not truly agentic.",
+          "position_description": "She is almost wholly offstage: a postponed whipping, a curse, a pastoral name, an unpaid score. The fraudulent 'disenchantment' is announced without her presence, and Quixote's recovery of reason dissolves the world that housed her. She neither acts nor is granted a final word.",
           "key_moments": [
-            "Merlin's pageant voices a distressed Dulcinea",
-            "The disenchantment plot makes her the object of Sancho's penance",
-            "Later chapters continue to invoke her as Don Quixote's final ideal"
+            "Chapter 93: her disenchantment is scheduled for 'leisure hours.'",
+            "Chapter 103: Sancho is said to have forgotten the disenchantment entirely.",
+            "Chapter 110: Altisidora curses her to remain enchanted forever.",
+            "Chapter 113: attempted coerced flogging; sworn promise of voluntary penance; disenchantment deferred again.",
+            "Chapter 125: Sancho's lashes are counted against trees; her cure is declared accomplished by fraud.",
+            "Chapter 126: she becomes a pastoral pretext rather than a woman to be found.",
+            "Chapter 127: Quixote dies sane; Dulcinea is absent from his confession, will, and dying words."
           ]
         }
       ],
-      "evidence_summary": "Dulcinea shows almost no genuine intrapersonal development because she is not sustained as an interior consciousness in the novel. Across the text, she remains overwhelmingly communion-defined and relationally constructed, with no independent agency emerging.",
+      "evidence_summary": "Dulcinea has no interiority in the text. On the agency–communion axis she never becomes an agent and never enters reciprocal communion; she is only the object of others' projections, errands, forgeries, and staged performances. The apparent 'voice' in Chapter 88 is counterfeit, so the arc remains flat.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
-            "verdict": true,
-            "reasoning": "The axis is well grounded in scholarship on Dulcinea as a structurally absent figure whose function is produced by Don Quixote’s discourse and by the novel’s social prank economy. Critics consistently treat her less as a psychologically developed person than as a mediated sign, an idealized projection that becomes socially operative within the novel’s games, which matches the proposed movement from pure projection to relational symbol. Because Dulcinea’s “development” is largely a shift in narrative framing rather than interior agency, the axis is best understood as a narratological function rather than an intrapsychic arc in the strict sense.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as an idealized construction within Don Quixote’s imaginative system, supporting the claim that she begins as an externally projected beloved rather than an autonomous consciousness.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Dulcinea functions narratively as a mediated emblem in the courtly and comic machinery of the novel, aligning with the axis’s end point.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Rico, Francisco",
-                "title": "Don Quixote",
-                "year": 2007,
-                "publication": "Penguin Classics",
-                "relevance": "Rico’s editorial and critical framing emphasizes Dulcinea’s status as a textual and social construct, useful for understanding her as a relational symbol rather than an independent agent.",
-                "search_url": "https://scholar.google.com/scholar?q=Rico%2C+Francisco+Don+Quixote+2007"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroine's Voice: Narrative Discourse and Transformations of the Female in Cervantes",
-                "year": 1998,
-                "publication": "University of Missouri Press",
-                "relevance": "Friedman treats female figures in Cervantes as shaped by narrative discourse, which supports reading Dulcinea as an identity produced through mediation and social function.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroine%27s+Voice%3A+Narrative+Discourse+and+Transformations+of+the+Female+in+Cervantes+1998"
-              }
-            ]
+            "verdict": false,
+            "reasoning": "The axis explicitly denies Dulcinea any interiority or independent agency, so it cannot function as an intrapersonal psychological change; it is instead a narratological claim about objecthood, projection, and ventriloquism. Scholarship on Dulcinea generally treats her as an absent ideal, a name, or a structural function in Quixote's imagination, not as a character whose beliefs, self-perception, or moral reasoning develop. I cannot recall a real published work that supports this as an intrapersonal axis for Dulcinea.",
+            "citations": []
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "The axis is well grounded in scholarship on Don Quixote, though the emphasis is less on Dulcinea’s interiority than on her function as a constructed, mediated figure within Quixote’s fantasy economy. Critics repeatedly note that she begins as an absent projection and becomes socially operative through naming, narration, and the prank structures that circulate her image, which fits the proposed movement from pure idealization to relational symbol. Because Dulcinea is never granted independent consciousness, the scholarship supports the axis as a study of her symbolic mediation rather than a conventional psychological development.",
+            "reasoning": "The axis is grounded in a strong critical consensus that Dulcinea is less a psychologically autonomous character than a projective fiction generated by Don Quixote's imagination. Scholarship on Cervantes's narrative technique and on love/fiction in the novel supports the claim that her agency is nominal or ventriloquized and that her 'communion' with Quixote remains unilateral.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
+                "author": "Riley, E. C.",
                 "title": "Cervantes's Theory of the Novel",
                 "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as a product of Don Quixote's imagination and a key element in the novel's play between fiction and social reality, supporting the idea that she functions first as projection and then as a mediated narrative symbol.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Riley's account of Cervantes's fictional theory helps establish Dulcinea as a product of Quixote's imaginative projection rather than an independent psychological agent.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Don Quijote: una nueva lectura",
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
                 "year": 1975,
-                "publication": "Castalia",
-                "relevance": "This study treats Dulcinea as an invented ideal whose social life depends on the novel's ironic and performative structures, aligning with the axis's movement toward mediated relational function.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Don+Quijote%3A+una+nueva+lectura+1975"
+                "publication": "Chapel Hill: University of North Carolina Press",
+                "url": null,
+                "relevance": "El Saffar's narratological study supports reading Dulcinea as an absent or mediated construct whose interiority and agency are not dramatized.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               },
               {
                 "author": "González Echevarría, Roberto",
-                "title": "Cervantes's Don Quixote: The Quest for Modern Fiction",
+                "title": "Love and the Law in Cervantes",
                 "year": 2005,
-                "publication": "Yale University Press",
-                "relevance": "González Echevarría emphasizes how Dulcinea is produced and circulated through the narrative machinery of the novel, especially in scenes where others manipulate her image for Don Quixote's delusion.",
-                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27s+Don+Quixote%3A+The+Quest+for+Modern+Fiction+2005"
+                "publication": "New Haven: Yale University Press",
+                "url": null,
+                "relevance": "This work treats Dulcinea within Cervantes's analysis of love and fiction as an object of Quixote's desire and idealization, not as a reciprocal agent.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
+                "year": 1978,
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Close's critique of Romantic idealization is relevant to the axis's claim that Dulcinea's apparent sovereignty is a critical illusion rather than genuine agency.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "The axis is well grounded in scholarship on Don Quixote, though it should be understood as describing Dulcinea as a textual and psychological construct rather than a fully developed interior consciousness. Critics repeatedly note that she begins as an absent, purely projected beloved and later functions as a socially mediated emblem within Don Quixote’s fantasies and the prank structures organized around them. That makes the proposed shift from idealized projection to mediated relational symbol a defensible scholarly reading of her role.",
+            "reasoning": "The axis is grounded in scholarship that treats Dulcinea less as a psychologically autonomous character than as an absent, constructed sign of Don Quixote's desire and male fantasy. Studies of Cervantine irony, illusion, and the feminine in Part II support the claim that her apparent agency is ventriloquized and that her 'inner life' is largely a projection or narrative pretext rather than an independent character arc.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as a fiction generated by Don Quixote and shows how her function in the novel is mediated through narrative and social play rather than independent agency.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Welles, Marcia L.",
+                "title": "Dulcinea del Toboso: On the Discourse of Illusion",
+                "year": 1982,
+                "publication": "Cervantes: Bulletin of the Cervantes Society of America 2.1, 33-51",
+                "url": null,
+                "relevance": "Analyzes Dulcinea as a discursive illusion and projection, supporting the reading that her agency and relational warmth are counterfeit and unilateral.",
+                "search_url": "https://scholar.google.com/scholar?q=Welles%2C+Marcia+L.+Dulcinea+del+Toboso%3A+On+the+Discourse+of+Illusion+1982"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close traces critical traditions that treat Dulcinea as an idealized projection and examines how later episodes turn her into a relational figure within the comic and courtly machinery of the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "title": "Don Quixote's Love for Dulcinea: A Study of Cervantine Irony",
+                "year": 1973,
+                "publication": "Bulletin of Hispanic Studies 50, 237-255",
+                "url": null,
+                "relevance": "Examines Quixote's idealization of Dulcinea through Cervantine irony, supporting the view that she functions as an object of projective love rather than an autonomous agent.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Don+Quixote%27s+Love+for+Dulcinea%3A+A+Study+of+Cervantine+Irony+1973"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Discusses Dulcinea and feminine representation/absence in Cervantes, supporting the axis's claim that her objecthood is staged and ultimately dissolved into narrative pretext.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Non-Self-Awareness",
+      "axis_name": "From Unwitting Construct to Unwitting Construct: self-knowledge never develops",
+      "pole_start": "Dulcinea begins with no interiority, no beliefs of her own, and no awareness that she has been named, invented, or loved by hearsay.",
+      "pole_end": "She ends exactly as unaware: she never learns that she is a fiction, never learns of Sancho's fraud, never learns that the disenchantment was staged, and never learns that Quixote's recovery of reason dissolves her. The text closes without granting her a single moment of self-recognition.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "No interior to know with",
+          "chapter_range": [
+            1,
+            26
+          ],
+          "position_description": "She is a name and a fabricated beloved. The narrative never enters her, so self-awareness is not merely absent but structurally impossible.",
+          "key_moments": [
+            "Chapter 2: Aldonza Lorenzo 'never knew it nor gave a thought to the matter.'",
+            "Chapter 10: her first concrete attribute is a marginal joke about salting pigs.",
+            "Chapter 14: Quixote admits he 'cannot say positively' whether she is pleased.",
+            "Chapter 26: she is identified as Aldonza Lorenzo, illiterate and unaware of Quixote's gaze."
+          ]
+        },
+        {
+          "phase": "Documented without knowledge",
+          "chapter_range": [
+            27,
+            52
+          ],
+          "position_description": "Facts accumulate around her—illiteracy, a letter she cannot read, forged commands, an epitaph—but none reaches her consciousness. Knowledge about her grows; her knowledge of herself does not.",
+          "key_moments": [
+            "Chapter 27: Quixote appends 'del Toboso' and later admits the verse would be unintelligible without it.",
+            "Chapter 28: the curate supplies her with a forged command and confirms she cannot read.",
+            "Chapter 38: she survives only as the phrase 'his lady's scorn.'",
+            "Chapter 47: she is given a prophetic womb and future without being consulted."
+          ]
+        },
+        {
+          "phase": "Performed interiority, no self-knowledge",
+          "chapter_range": [
+            53,
+            90
+          ],
+          "position_description": "She receives a body, an epitaph, a counterfeit peasant double, and a speaking masque role, but she never knows that these are performances. Her apparent feelings are authored by others.",
+          "key_moments": [
+            "Chapter 53: strangers bury her in verse and epitaph without her consent.",
+            "Chapter 63: a peasant girl is enthroned as her and speaks only to refuse.",
+            "Chapter 76: she flees from being addressed in the cave.",
+            "Chapter 88: she voices scripted grief and demands lashes from Sancho.",
+            "Chapter 89: the reader learns Merlin is the duke's majordomo; she never does."
+          ]
+        },
+        {
+          "phase": "Erasure without recognition",
+          "chapter_range": [
+            91,
+            127
+          ],
+          "position_description": "Her disenchantment is postponed, forgotten, fraudulently completed, and finally voided by Quixote's sanity. She never appears to learn any of it. The book ends without giving her a final scene or a moment of insight.",
+          "key_moments": [
+            "Chapter 103: Sancho has 'forgotten all about' the disenchantment.",
+            "Chapter 110: Altisidora wishes her permanently enchanted.",
+            "Chapter 125: her cure is certified by lashes laid on trees.",
+            "Chapter 126: an omen says she will never be seen; the pastoral scheme replaces rescue with verse.",
+            "Chapter 127: Quixote dies sane and does not mention her in his will or final confession."
+          ]
+        }
+      ],
+      "evidence_summary": "Across the summaries Dulcinea is repeatedly described as having no interiority, no beliefs, no desires, and no self-awareness. Even when she is given scripted speech and staged emotion, the text withholds any moment in which she knows herself or her situation. This axis is therefore flat by design.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is well grounded in a broad critical consensus that Dulcinea del Toboso exists in the text only as an object of Quixote's discourse and Sancho's fraud — a name without a psyche. Structuralist and feminist-narratological readings of Cervantes routinely observe that Aldonza Lorenzo never learns she has been renamed, idealized, enchanted, or disenchanted, and that the novel grants her no scene of interiority or recognition; the 'Dulcinea effect' is precisely her status as a construct who is never a subject. A minor caveat: El Saffar's later work on the 'recovery of the feminine' argues for a muted counter-movement toward female presence, but she too treats Dulcinea as a projection rather than a self-knowing character, so the axis's no-development pole survives.",
+            "citations": [
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Argues that Dulcinea is constituted by Quixote's desire and literary projection rather than by any autonomous interior life, supporting the claim that she never becomes a self-aware subject.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Reads Aldonza Lorenzo as a laboring peasant whose concrete social identity is erased by Quixote's idealizing renaming, underscoring that she remains unwitting of the fiction imposed on her.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Classic analysis of the Aldonza/Dulcinea discrepancy as a purely literary and perspectival construct, i.e. a fiction that exists in others' minds and never in her own.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Woodbridge: Tamesis",
+                "url": null,
+                "relevance": "Treats Dulcinea as a figure of Quixote's idealizing imagination and of Sancho's later mystification, with no access on her part to either the naming or the fraud.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes Dulcinea’s narrative function as a constructed beloved whose meaning depends on Don Quixote’s imagination and on the social performances staged around her.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Westport, CT: Greenwood Press",
+                "url": null,
+                "relevance": "Synthesizes criticism on Dulcinea del Toboso as an absent, never-speaking construct, documenting the critical consensus that the novel grants her no moment of self-recognition.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in a well-established critical view of Dulcinea as an absent, textual construct rather than a psychologically developed character. Scholarship on the genesis of Dulcinea as a literary myth, together with psychoanalytic and Girardian readings of her as a projection or object of Quixote's desire, supports the claim that she never acquires interiority or self-recognition.",
+            "citations": [
+              {
+                "author": "Avalle-Arce, Juan Bautista",
+                "title": "Dulcinea del Toboso: A Study in the Genesis of a Literary Myth",
+                "year": 1960,
+                "publication": "Hispanic Review",
+                "url": null,
+                "relevance": "Traces Dulcinea as a literary myth and constructed name rather than an autonomous character with interiority.",
+                "search_url": "https://scholar.google.com/scholar?q=Avalle-Arce%2C+Juan+Bautista+Dulcinea+del+Toboso%3A+A+Study+in+the+Genesis+of+a+Literary+Myth+1960"
               },
               {
-                "author": "Friedman, Edward H.",
-                "title": "Unfinished Business: The Case of Don Quixote",
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
                 "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Psychoanalytic reading treats Dulcinea as a fantasy object or lack produced by Quixote's desire, not as a self-aware subject.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Girard, René",
+                "title": "Deceit, Desire, and the Novel: Self and Other in Literary Structure",
+                "year": 1965,
+                "publication": "Johns Hopkins University Press",
+                "url": null,
+                "relevance": "Analyzes Dulcinea as an object of mediated desire constructed through Quixote's chivalric imagination, supporting her status as an unwitting construct.",
+                "search_url": "https://scholar.google.com/scholar?q=Girard%2C+Ren%C3%A9+Deceit%2C+Desire%2C+and+the+Novel%3A+Self+and+Other+in+Literary+Structure+1965"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in a well-established line of Cervantes criticism that treats Dulcinea as a name and fiction produced by Quixote and Sancho rather than as an autonomous psychological subject. Scholars emphasize her absent, textual, and constructed status, so her lack of self-recognition is not a developmental omission but the character's ontological condition. The closing dissolution of Quixote's fiction leaves Dulcinea untouched as a fiction, matching the axis's claim.",
+            "citations": [
+              {
+                "author": "Márquez Villanueva, Francisco",
+                "title": "Personajes y temas del Quijote",
+                "year": 1975,
+                "publication": "Taurus",
+                "url": null,
+                "relevance": "Studies Dulcinea as a literary name and invention in Don Quijote, stressing her fictional construction over any independent interior life.",
+                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Reads Dulcinea within Cervantes's analysis of love as legal and erotic fiction, supporting the claim that she exists as a construct rather than a self-aware subject.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Quint, David",
+                "title": "Cervantes's Novel of Modern Times: A New Reading of Don Quijote",
+                "year": 2003,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "Treats Dulcinea as a fiction whose status depends on Quixote's and Sancho's inventions, aligning with the axis's unwitting-construct claim.",
+                "search_url": "https://scholar.google.com/scholar?q=Quint%2C+David+Cervantes%27s+Novel+of+Modern+Times%3A+A+New+Reading+of+Don+Quijote+2003"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
                 "publication": "University of North Carolina Press",
-                "relevance": "Friedman treats Dulcinea as a central absence that organizes Don Quixote’s desire and later becomes embedded in the novel’s mediated social and comic relations.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Unfinished+Business%3A+The+Case+of+Don+Quixote+1983"
+                "url": null,
+                "relevance": "Analyzes the narrative distance and control that make characters such as Dulcinea functions of perspective and invention rather than autonomous consciousness.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
               }
             ]
           }
@@ -176,156 +400,218 @@
       "axis_id": "final_rel_01",
       "source_character": "Dulcinea del Toboso",
       "target_character": "Don Quixote",
-      "dimension_label": "devotional mediation",
-      "axis_name": "From imagined beloved to narrated cause of action",
-      "pole_start": "A purely idealized beloved who exists only as the object of Don Quixote's devotion and fantasy.",
-      "pole_end": "A more elaborately mediated symbolic partner whose name organizes his vows, penance, suffering, and final renunciation, though still without reciprocal consciousness.",
+      "dimension_label": "Reciprocity/Intimacy",
+      "axis_name": "From Presumed Mutual Bond to Confessed Soliloquy",
+      "pole_start": "An ostensibly reciprocal courtship: embassies are planned, letters written, a reply awaited, a love of twelve years' standing with four modest encounters behind it.",
+      "pole_end": "An openly unilateral devotion: the lover confesses he has never seen her or crossed her threshold and loves her 'solely by hearsay,' while weeping over an enchanted peasant he cannot restore.",
       "confidence": "high",
-      "source": "both",
-      "arc_direction": "flat",
+      "source": "event_only",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Foundational ideal and naming",
+          "phase": "Courtship assumed",
           "chapter_range": [
-            1,
-            27
+            22,
+            26
           ],
-          "position_description": "Dulcinea is entirely a projection of Don Quixote's chivalric imagination; the relationship is one-way devotion with no evidence of her own response.",
+          "position_description": "The relation is treated by Quixote as a functioning bond with a real addressee; he plans to send her a verse letter and speaks of their modest glances as a shared history.",
           "key_moments": [
-            "Her name is created and elevated by Don Quixote",
-            "She is invoked as the source of his courage and suffering",
-            "No direct reciprocity is shown"
+            "Chapter 22: she is the standard against which Helen is measured.",
+            "Chapter 24: a verse letter to her is promised to Sancho as messenger.",
+            "Chapter 26: the four sightings in twelve years and the admission that he imagines her as he would have her be."
           ]
         },
         {
-          "phase": "Instrument of vows, penance, and public action",
+          "phase": "Embassy and forgery",
           "chapter_range": [
             28,
-            87
+            32
           ],
-          "position_description": "Her role expands as Don Quixote uses her name to authorize actions, justify penance, and interpret enchantment. She becomes the organizing center of his self-conception and public conduct.",
+          "position_description": "Contact is simulated entirely: a forged spoken command, then a fabricated visit, an undelivered letter and an unread one. The correspondence that appeared to constitute intimacy is shown never to have existed.",
           "key_moments": [
-            "Letters and messages are addressed to her",
-            "Her supposed enchantment motivates schemes involving Don Quixote and Sancho",
-            "Courtly figures exploit her name in staged deceptions"
+            "Chapter 28: a reply and a summons are authored for her.",
+            "Chapter 31: the letter was never carried; no reply can ever have existed.",
+            "Chapter 32: the invented embassy of wheat, sweat and cheese which Quixote transfigures into pearls."
           ]
         },
         {
-          "phase": "Enchantment, rescue fantasy, and final reaffirmation",
+          "phase": "Rhetorical displacement",
           "chapter_range": [
-            88,
-            127
+            30,
+            47
           ],
-          "position_description": "She remains the final and exclusive beloved, now tied to disenchantment, suffering, and deathbed renunciation. The relationship is still one-sided but more emotionally charged and terminal.",
+          "position_description": "She is honoured as a clause, a battle-cry and an oracle while Quixote's obedience migrates to Micomicona; the relation is conducted in her name by others.",
           "key_moments": [
-            "The pageant and disenchantment plot center on her",
-            "Sancho's lashes are meant to restore her",
-            "Don Quixote's final vows and renunciation still orbit her name"
+            "Chapter 30: she becomes a legal reservation on the Micomicona boon.",
+            "Chapter 45: her name is absent entirely; permission is sought of Dorothea.",
+            "Chapter 47: a false prophecy of marriage and sons is read as her guarantee."
+          ]
+        },
+        {
+          "phase": "Hearsay confessed",
+          "chapter_range": [
+            61,
+            62
+          ],
+          "position_description": "At her own doorstep the fiction of reciprocity is dismantled by Quixote himself; the bond is declared to rest on reputation alone, and Sancho withdraws his corroboration.",
+          "key_moments": [
+            "Chapter 61: her real employment is overruled as an enchanter's fraud.",
+            "Chapter 62: 'I have never seen her in my life... enamoured solely by hearsay'."
+          ]
+        },
+        {
+          "phase": "Fidelity without presence",
+          "chapter_range": [
+            84,
+            113
+          ],
+          "position_description": "Devotion reaches maximum intensity at maximum distance: he testifies publicly that she is enchanted into a hideous peasant, vows endless tears, and finally attempts to coerce Sancho's flogging to restore her.",
+          "key_moments": [
+            "Chapter 84: he confesses she is 'turned into the most ill-favoured peasant wench'.",
+            "Chapter 85: 'daughter of her own works' — he defends her being rather than her person.",
+            "Chapter 113: attempted forced flagellation to end her enchantment fails; the rescue is deferred."
           ]
         }
       ],
-      "evidence_summary": "The relationship with Don Quixote is the only one with sustained significance, but it is structurally one-sided throughout. Dulcinea never becomes an autonomous partner; she remains the imagined beloved whose symbolic function deepens over time.",
+      "evidence_summary": "This is the novel's cleanest trackable relational decline: every apparent channel of contact (letter, messenger, forged reply, embassy, visit) is exposed as fabricated or void, and Quixote himself names the relation hearsay at ch62. The trajectory is one-directional — intimacy thins as rhetoric inflates — which is why confidence is high.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote: Dulcinea is repeatedly analyzed not as a reciprocal character but as a narrative construct that organizes Don Quixote’s vows, penance, and self-fashioning. Structuralist and narratological readings of the novel commonly treat her as a mediating sign or absent center whose function intensifies from idealized object to the symbolic cause of action and eventual disillusionment.",
+            "reasoning": "The shift from the fictive reciprocity of the Palomeque embassy and letters (Part I) to the openly unilateral 'de oídas' devotion and the enchanted, un-restorable peasant of Part II is one of the most thoroughly analysed relational arcs in Cervantine criticism, treated under rubrics such as idealisation, absence, self-fashioning, and the 'sweet enemy' of chivalric love. Structuralist and narratological readings of Dulcinea as a purely textual, constructed lady — the beloved who exists only in the lover's discourse and in the deeds meant to be performed for her — ground precisely the move the axis describes. The axis is therefore well supported, though scholars typically describe it as an erotics of absence rather than phrasing it as a reciprocity-to-soliloquy curve.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as a central imaginative fiction in Don Quixote, showing how her absence and idealization structure the knight's actions and self-understanding.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Herrero, Javier",
+                "title": "Dulcinea and Her Critics",
+                "year": 1982,
+                "publication": "Cervantes: Bulletin of the Cervantes Society of America 2.1, pp. 23-42",
+                "url": "https://www.h-net.org/~cervantes/csa/artics82/herrero.htm",
+                "relevance": "Directly traces Don Quixote's shift from a chivalric beloved-in-embassy to a woman he has barely seen and cannot reach, examining the critics' constructions of Dulcinea as object of an increasingly one-sided devotion.",
+                "search_url": "https://scholar.google.com/scholar?q=Herrero%2C+Javier+Dulcinea+and+Her+Critics+1982"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Analyses erotic discourse in Don Quixote including amorous 'de oídas' and the Dulcinea episodes, showing how Quixote's love becomes a matter of hearsay and literary formula rather than reciprocal exchange.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "University of North Carolina Studies in Romance Languages and Literatures (=North Carolina Studies in the Romance Languages and Literatures 147)",
+                "url": null,
+                "relevance": "Argues that Dulcinea is a fiction generated by the protagonist and layered by other characters' inventions, which grounds the unilateral, soliloquising character of the bond by Part II.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Biblioteca Nueva",
+                "url": null,
+                "relevance": "Classic reading of Dulcinea as the projection of Quixote's idealised desire, a beloved who is never actually present to the lover and whose 'relationship' is sustained entirely by his own rhetoric.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
+              },
+              {
+                "author": "Castro, Américo",
+                "title": "El pensamiento de Cervantes",
+                "year": 1925,
+                "publication": "Madrid: Imprenta de la Librería y Casa Editorial Hernando",
+                "url": null,
+                "relevance": "Foundational discussion of Quixote's idealising love and of Dulcinea as the empty placeholder of the chivalric ideal, supporting the shift from presumed reciprocity to confessed illusion.",
+                "search_url": "https://scholar.google.com/scholar?q=Castro%2C+Am%C3%A9rico+El+pensamiento+de+Cervantes+1925"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in Quixote Criticism",
+                "year": 1978,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Frames the Dulcinea theme as a comic refraction of literary love conventions, useful for the claim that the 'twelve years' courtship' is a fiction of reciprocity dissolving into the Part II enchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Mancing treats Dulcinea as a narrative and structural device that organizes Don Quixote's conduct, especially his vows, penance, and interpretive delusions.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroine's Voice: Narrative Discourse in Don Quixote",
-                "year": 1998,
-                "publication": "University of Missouri Press",
-                "relevance": "Friedman analyzes the Dulcinea complex as part of the novel's mediation of desire and narration, supporting the claim that she becomes a symbolic partner in Don Quixote's action without gaining reciprocal consciousness.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroine%27s+Voice%3A+Narrative+Discourse+in+Don+Quixote+1998"
+                "url": null,
+                "relevance": "Shows how Dulcinea functions within Quixote's chivalric schemata and how the enchantment of Dulcinea in Part II exposes the solipsistic, non-reciprocal nature of his devotion.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published criticism does support this axis: Dulcinea is not merely a static fantasy object but a narrative device through which Don Quixote organizes vows, penance, humiliation, and self-authorship. Scholarship on the novel repeatedly shows that her absence/presence is mediated through Don Quixote’s discourse, making her a symbolic partner whose name structures action even while remaining psychologically non-reciprocal.",
+            "reasoning": "The axis is strongly grounded in Cervantine criticism: scholars routinely analyze Dulcinea as a fictional construct through which Don Quixote's supposed courtship is exposed as unilateral idealization, especially in the Part II enchantment episodes. The movement from imagined reciprocity to confessed love 'by hearsay' is a recognized feature of the novel's treatment of Dulcinea/Aldonza and Quixote's erotic imagination.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel treats Dulcinea as central to Don Quixote’s chivalric self-fashioning, showing how her name becomes the organizing fiction behind his vows, suffering, and conduct.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "El Saffar's feminist psychoanalytic reading treats Dulcinea/Aldonza as a split figure central to Quixote's fantasy life, supporting the claim that his devotion is projected rather than reciprocal.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "González Echevarría analyzes Quixote's love for Dulcinea as a legalistic and literary fiction, illuminating the shift from presumed courtship to openly unilateral devotion.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
                 "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close discusses Dulcinea as a mediated construct in Don Quixote’s imagination, useful for understanding how she functions as a narrative cause of action rather than a reciprocal character.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroine's Voice: Narrative Discourse and Transformations of the Female in Early Modern Spanish Literature",
-                "year": 2009,
-                "publication": "University of Missouri Press",
-                "relevance": "Friedman’s broader discussion of female figures in early modern Spanish narrative includes Dulcinea as a case of symbolic femininity shaped by male desire and textual mediation.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroine%27s+Voice%3A+Narrative+Discourse+and+Transformations+of+the+Female+in+Early+Modern+Spanish+Literature+2009"
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson's materialist criticism discusses Dulcinea/Aldonza and the social and imaginative construction of Quixote's lady, supporting the axis's account of a relationship grounded in hearsay and fantasy.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote. Critics repeatedly note that Dulcinea begins as an imagined, idealized construction and becomes, over the course of the novel, a narrative device that organizes Don Quixote’s vows, penances, and self-fashioning, even though she never acquires reciprocal consciousness within the fiction. The relational claim is therefore supported by published criticism on the Dulcinea–Don Quixote dynamic.",
+            "reasoning": "The axis matches a well-established critical account of Dulcinea as an absent, idealized construct and of Don Quixote's love as 'amor de oídas'—a devotion sustained by hearsay and literary convention rather than reciprocity. Scholarship on Dulcinea's idealization and on love in Cervantes traces precisely the movement from imagined courtship to acknowledged unilateral fantasy.",
             "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as a central imaginative construction in Don Quixote and shows how she functions as a narrative and devotional force in Don Quixote's actions.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
-              },
-              {
-                "author": "Forcione, Alban K.",
-                "title": "Cervantes, Aristotle, and the Persiles",
-                "year": 1970,
-                "publication": "Princeton University Press",
-                "relevance": "Although broader than Don Quixote alone, Forcione's analysis of Cervantes's fiction helps frame Dulcinea as a mediated symbolic figure whose meaning is produced through Don Quixote's discourse and suffering.",
-                "search_url": "https://scholar.google.com/scholar?q=Forcione%2C+Alban+K.+Cervantes%2C+Aristotle%2C+and+the+Persiles+1970"
-              },
               {
                 "author": "Márquez Villanueva, Francisco",
                 "title": "Personajes y temas del Quijote",
                 "year": 1975,
                 "publication": "Taurus",
-                "relevance": "This study treats Dulcinea as a structurally decisive presence in the novel, emphasizing how her invented status nonetheless governs Don Quixote's conduct, vows, and renunciations.",
+                "url": null,
+                "relevance": "Includes a foundational study of Dulcinea del Toboso that treats her as a literary idealization and analyzes Quixote's relation to her as imaginary rather than reciprocal.",
                 "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
               },
               {
-                "author": "Beverley, John",
-                "title": "Cervantes and the Politics of Style",
-                "year": 1987,
-                "publication": "University of Texas Press",
-                "relevance": "Beverley reads Don Quixote's literary self-fashioning as socially and ideologically mediated, a framework that supports understanding Dulcinea as the symbolic partner organizing his actions without reciprocal agency.",
-                "search_url": "https://scholar.google.com/scholar?q=Beverley%2C+John+Cervantes+and+the+Politics+of+Style+1987"
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
+                "year": 1978,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Discusses the idealizing, Petrarchan construction of Dulcinea and the gap between Quixote's imagined lady and the rural Aldonza Lorenzo.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Analyzes Cervantine love, including Don Quixote's devotion to Dulcinea, as a literary-juridical fiction that is confessed as unilateral and mediated by fictions.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
               }
             ]
           }
@@ -336,165 +622,206 @@
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "Dulcinea del Toboso",
-      "target_character": "Sancho Panza",
-      "dimension_label": "comic mediation",
-      "axis_name": "From absent ideal to manipulated emblem",
-      "pole_start": "An absent, unknown lady whose existence is only meaningful through Don Quixote's fantasy.",
-      "pole_end": "A heavily manipulated emblem used by Sancho for practical jokes, bargaining, and the disenchantment plot, still without any direct reciprocal relation.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "flat",
+      "target_character": "Don Quixote",
+      "dimension_label": "Esteem (Reverent vs Defensive)",
+      "axis_name": "From Celebrated Beauty to Militantly Defended Abstraction",
+      "pole_start": "Esteem expressed as lyric celebration: her beauty is the measure of all beauty, her name a synonym for the peerless, offered freely and with pleasure.",
+      "pole_end": "Esteem expressed as ideology under siege: she must be vindicated by blows, by forced confessions from rivals, by 'all comparisons are odious,' and by the assertion that her virtue 'rectifies blood' — worship as enforcement.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Background absence and indirect awareness",
+          "phase": "Lyric hyperbole",
           "chapter_range": [
-            1,
+            22,
             27
           ],
-          "position_description": "Sancho knows her only as Don Quixote's lady; she is a distant name with no direct relational content.",
+          "position_description": "Her superlative status is asserted for pleasure and ornament, requiring no defence because no one contests it.",
           "key_moments": [
-            "Sancho hears and repeats her name",
-            "He contrasts her with Aldonza Lorenzo",
-            "No direct relationship exists"
+            "Chapter 22: Helen would not be so famous had Dulcinea lived then.",
+            "Chapter 27: her name becomes a verse refrain on tree bark."
           ]
         },
         {
-          "phase": "Practical manipulation and coerced responsibility",
+          "phase": "Blows for her name",
           "chapter_range": [
-            28,
-            87
+            31,
+            32
           ],
-          "position_description": "Sancho increasingly uses her name in letters, lies, and bargaining, while also being drawn into responsibility for her supposed condition. She becomes a tool within his comic pragmatism and a burden imposed by the enchantment story.",
+          "position_description": "Esteem becomes combative for the first time: Sancho's comparison with Dorothea earns a beating, and her worth is declared the efficient cause of Quixote's valour.",
           "key_moments": [
-            "Sancho fabricates replies",
-            "He leverages her name to manage Don Quixote",
-            "Merlin frames her restoration as dependent on Sancho's penance"
+            "Chapter 31: Sancho says she is 'not half as fair' as Dorothea.",
+            "Chapter 31: 'she fights in me and conquers in me' — esteem converted to doctrine.",
+            "Chapter 32: every coarse detail alchemised into proof of perfection."
           ]
         },
         {
-          "phase": "Disenchantment instrument and persistent leverage",
+          "phase": "Worship of the enchanted",
           "chapter_range": [
-            88,
-            127
+            61,
+            84
           ],
-          "position_description": "She becomes the explicit justification for Sancho's lashes and the central token in the enchantment/disenchantment bargain. The connection remains external, coercive, and non-mutual, even as it is used for comic pressure and narrative leverage.",
+          "position_description": "His esteem must now survive his own reports of her degradation: an enchanter is blamed for the wheat, and he publicly testifies to her hideous peasant form while maintaining her peerlessness.",
           "key_moments": [
-            "Merlin's pageant speaks in her name",
-            "Sancho is pressured to scourge himself for her restoration",
-            "Her name remains a practical and comic lever"
+            "Chapter 61: the wheat-sifting attributed to an envious enchanter.",
+            "Chapter 76: 'all comparisons are odious' — Montesinos must retract a comparison.",
+            "Chapter 84: peerless lady publicly confessed to be enchanted into a wench."
+          ]
+        },
+        {
+          "phase": "Enforcement",
+          "chapter_range": [
+            85,
+            113
+          ],
+          "position_description": "Esteem is legalistic and defensive: she is defended against doubters as 'the daughter of her own works,' her lineage argued at a ducal table, and her standing finally pursued through a coerced flogging.",
+          "key_moments": [
+            "Chapter 85: 'virtues rectify blood'; vow of ceaseless tears.",
+            "Chapter 86: ducal decree reinstates her beauty and eventual proper form.",
+            "Chapter 113: an attempted forced penance undertaken on her behalf."
           ]
         }
       ],
-      "evidence_summary": "Sancho's relation to Dulcinea is not intimate but instrumental. Over time, he moves from merely repeating her name to actively manipulating it, yet this is a change in use rather than in mutual relationship.",
+      "evidence_summary": "The level of Quixote's esteem never falls — it is the *character* of that esteem that changes, from spontaneous lyric praise to a creed requiring violence, legal argument and ducal ratification. Confidence is medium because the shift is tonal and rhetorical rather than a change in rank on the dimension.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s comic mediation of Dulcinea through Sancho’s practical joking, especially in the episodes where Sancho fabricates, stages, and monetizes Dulcinea’s presence. Structural and narratological criticism repeatedly treats Dulcinea less as a stable character than as an emblem whose meaning is produced and manipulated within Sancho’s and Don Quixote’s competing games of belief, deception, and disenchantment.",
+            "reasoning": "The axis is grounded in a recognizable critical account of Dulcinea as a constructed chivalric ideal whose worship in Don Quixote shifts from lyric idealization to defensive enforcement. Scholarship on Dulcinea and on Don Quixote's relation to her repeatedly treats her as an absent or contested ideal that the knight feels compelled to vindicate, even if critics do not use this exact binary. The cited works support the relational dynamic and the idealization/defense pattern, though the axis's neat two-pole formulation is a critical synthesis rather than a quotation from a single source.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of Cervantes discusses Dulcinea as a fictional construct whose comic afterlife depends on Sancho’s manipulation in the second part, especially in the disenchantment episodes.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "The entry on Dulcinea del Toboso surveys her function as a constructed chivalric ideal and the ways Don Quixote's devotion to her becomes a matter of defended reputation.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "El Saffar analyzes Dulcinea as a feminine ideal in Don Quixote's psychic and narrative economy, supporting the claim that his esteem for her evolves into a defended abstraction.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close analyzes how Dulcinea functions as an emblem within the novel’s comic structure and how Sancho’s interventions reshape her into an object of practical joking and narrative control.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Close contextualizes Don Quixote's idealizing rhetoric about Dulcinea and the comic-ideological stakes of his insistence on her peerless beauty and virtue.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Mancing’s narratological account treats Dulcinea as a structurally mediated figure and shows how Sancho’s comic handling of her advances the novel’s play with illusion and disenchantment.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Rico, Francisco",
-                "title": "El pequeño mundo del hombre: Varia fortuna de una idea en las letras españolas",
-                "year": 1970,
-                "publication": "Editorial Castalia",
-                "relevance": "Rico’s Cervantine criticism is relevant for the way it frames characters as functions within a comic system, including Dulcinea’s transformation into a manipulable sign in Sancho’s hands.",
-                "search_url": "https://scholar.google.com/scholar?q=Rico%2C+Francisco+El+peque%C3%B1o+mundo+del+hombre%3A+Varia+fortuna+de+una+idea+en+las+letras+espa%C3%B1olas+1970"
+                "url": null,
+                "relevance": "Mancing shows how Dulcinea functions within Don Quixote's chivalric code as the lady whose beauty must be confessed and whose honor must be defended by force.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s comic economy: critics repeatedly note that Dulcinea becomes a manipulable sign within Sancho’s practical joking, especially in the episodes where he stages, bargains over, or weaponizes her image for the disenchantment plot. The relationship is not reciprocal in any direct psychological sense, but scholarship does support the claim that Sancho increasingly mediates Dulcinea as an emblem of comic power, social negotiation, and disillusionment.",
+            "reasoning": "The axis captures a recognized critical trajectory: Don Quixote's Dulcinea begins as a chivalric lyric sovereign and, especially in Part II, becomes a fictional ideal whose peerless status must be defended against enchanters, mockers, and rival claims. Cervantine criticism on idealization, love, and the Dulcinea enchantment treats this as a relational dynamic between knight and constructed lady, even when it uses terms such as irony, projection, or fictionalization rather than esteem.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the comic and structural role of Dulcinea in relation to Sancho’s interventions, including how the lady is transformed into a practical fiction within the novel’s joke economy.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
+                "year": 1978,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Traces the Romantic idealization of Dulcinea and the ironic counter-reading of Don Quixote's devotion, providing a critical frame for worship turning into defensiveness.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Dulcinea functions as a narrative construct that Sancho can manipulate for comic and strategic purposes, especially in the later disenchantment material.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "url": null,
+                "relevance": "Analyzes the chivalric conventions through which Don Quixote elevates Dulcinea and then must maintain her peerless status.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
               },
               {
-                "author": "Cascardi, Anthony J.",
-                "title": "The Subject of Modernity",
-                "year": 1992,
-                "publication": "Cambridge University Press",
-                "relevance": "Cascardi treats Don Quixote’s social and symbolic relations as mediated through unstable emblems like Dulcinea, with Sancho’s handling of her image central to the novel’s comic critique.",
-                "search_url": "https://scholar.google.com/scholar?q=Cascardi%2C+Anthony+J.+The+Subject+of+Modernity+1992"
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Examines Don Quixote's love for Dulcinea as a structured construct that requires vindication and defense.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Don Quixote: The Quest for Modern Fiction",
+                "year": 1990,
+                "publication": "Twayne Publishers",
+                "url": null,
+                "relevance": "Offers a psychological reading of Don Quixote's need to defend Dulcinea's ideal status against the world's mockery.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Don+Quixote%3A+The+Quest+for+Modern+Fiction+1990"
+              },
+              {
+                "author": "Unamuno, Miguel de",
+                "title": "Vida de Don Quijote y Sancho",
+                "year": 1905,
+                "publication": "Madrid: Librería de Fernando Fe",
+                "url": null,
+                "relevance": "Foundational essay reads Dulcinea as the object of Don Quixote's faith and militant devotion.",
+                "search_url": "https://scholar.google.com/scholar?q=Unamuno%2C+Miguel+de+Vida+de+Don+Quijote+y+Sancho+1905"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s comic mediation of Dulcinea, especially the way Sancho turns her into a practical instrument for jokes, bargaining, and the disenchantment episode. Critics repeatedly note that Dulcinea’s status shifts from Quixotic absence to a manipulable sign within Sancho’s pragmatic and comic economy, even though she never becomes a reciprocal presence in any direct sense.",
+            "reasoning": "The axis is broadly grounded in Cervantine criticism that treats Dulcinea less as a stable character than as a projection of Don Quixote's chivalric self-fashioning, whose idealization becomes increasingly defensive and coercive in Part II. Scholars discuss his praise of Dulcinea alongside his demands that others confess her beauty and his rhetorical enforcement of her supremacy. The exact 'lyric to militant' chronology is somewhat simplified—Part I already includes violent enforcement, as with the Toledo merchants—but the relational dynamic is a recognized critical topic.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Dulcinea as a fictional construct whose comic function is intensified through Sancho’s handling of her name and image, making this directly relevant to the axis of manipulation and disenchantment.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "El Saffar, Ruth Anthony",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Analyzes Dulcinea as an absent, idealized feminine construct central to Don Quixote's fantasy and narrative self-definition, supporting the axis's account of idealization and its defensive consequences.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Anthony+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the Dulcinea/Sancho dynamic as part of the novel’s comic structure, including Sancho’s use of Dulcinea in bargaining and practical joking.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Eisenberg, Daniel",
-                "title": "Romances of Chivalry in the Spanish Golden Age",
-                "year": 1982,
-                "publication": "Juan de la Cuesta",
-                "relevance": "Eisenberg treats Dulcinea as a literary fiction whose social and comic value is mediated by Sancho, supporting the claim that she becomes a manipulable emblem rather than a reciprocal relationship.",
-                "search_url": "https://scholar.google.com/scholar?q=Eisenberg%2C+Daniel+Romances+of+Chivalry+in+the+Spanish+Golden+Age+1982"
+                "author": "El Saffar, Ruth Anthony; de Armas Wilson, Diana (eds.)",
+                "title": "Quixotic Desire: Psychoanalytic Perspectives on Cervantes",
+                "year": 1993,
+                "publication": "Cornell University Press",
+                "url": null,
+                "relevance": "Essays in this collection examine Don Quixote's desire for Dulcinea as a psycho-literary construct, including the idealizing and defensive dimensions of his devotion.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Anthony%3B+de+Armas+Wilson%2C+Diana+%28eds.%29+Quixotic+Desire%3A+Psychoanalytic+Perspectives+on+Cervantes+1993"
               },
               {
                 "author": "Close, Anthony",
                 "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
                 "year": 1978,
                 "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism on Dulcinea’s function in the novel and includes discussion of Sancho’s role in the comic disenchantment plot, which aligns with the axis’s end point.",
+                "url": null,
+                "relevance": "Critiques the Romantic idealization of Dulcinea and Don Quixote's idealizing rhetoric, helping ground the axis's movement from celebration to ideological defense.",
                 "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Provides a scholarly overview of Dulcinea's role as Don Quixote's imagined lady and the changing narrative treatment of his devotion, supporting the relational arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               }
             ]
           }
@@ -505,144 +832,844 @@
       "axis_type": "relational",
       "axis_id": "final_rel_03",
       "source_character": "Dulcinea del Toboso",
-      "target_character": "Duke and Duchess",
-      "dimension_label": "courtly exploitation",
-      "axis_name": "From literary reference to theatrical prop",
-      "pole_start": "A literary and chivalric reference point known only through Don Quixote's story.",
-      "pole_end": "A theatrical prop in the duke and duchess's elaborate mockery, used to stage enchantment, rivalry, and social performance.",
+      "target_character": "Don Quixote",
+      "dimension_label": "Devotional Centrality",
+      "axis_name": "From Sole Devotional Object to Dispensable Literary Pretext",
+      "pole_start": "Dulcinea begins as Quixote's invented, singular lady: the absent beloved whose name licenses knight-errantry and whose imagined scorn or favor organizes his quest. She is relationally central, but entirely as an object of his devotion.",
+      "pole_end": "She ends as a dissolved pretext. Quixote's recovery of reason folds her into the 'dark shadows' of his madness; he does not renounce her with contempt, but he omits her from his confession, will, and dying words. The relation is not broken by her but dissolved with the fiction that housed it.",
       "confidence": "medium",
       "source": "psych_only",
-      "arc_direction": "flat",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Reference point and social amusement",
+          "phase": "Invented lady",
           "chapter_range": [
-            83,
-            87
+            1,
+            6
           ],
-          "position_description": "The duke and duchess treat Dulcinea as part of the Don Quixote legend, using her name to frame their amusement and courtly play.",
+          "position_description": "She is created in Quixote's mind and invoked in borrowed literary forms. Her centrality is absolute in rhetoric but abstract in fact.",
           "key_moments": [
-            "They discuss and praise her in conversation",
-            "Her identity is folded into their knowledge of Don Quixote",
-            "She becomes a topic for social performance"
+            "Chapter 2: Quixote invents Dulcinea as his lady.",
+            "Chapter 3: he calls her 'Princess Dulcinea' and accuses her of scorn.",
+            "Chapter 5: her beauty becomes an article of faith to be confessed without seeing her.",
+            "Chapter 6: she is renamed into the ballad and Moorish Xarifa."
           ]
         },
         {
-          "phase": "Theatrical prop and staged manipulation",
+          "phase": "Patron, tribunal, and destination",
           "chapter_range": [
-            88,
+            7,
+            30
+          ],
+          "position_description": "Her name is used to bless combat, judge defeated men, and serve as a legal receipt. Quixote's relation to her is functionally central but increasingly administrative.",
+          "key_moments": [
+            "Chapter 9: he commends himself to her before the windmills and Biscayan.",
+            "Chapter 10: the Biscayan is sent to her as judge.",
+            "Chapter 11: Sancho uses her name to stop Quixote's oath.",
+            "Chapter 21: Quixote commends himself to her beside God.",
+            "Chapter 23: freed convicts are ordered to El Toboso and refuse."
+          ]
+        },
+        {
+          "phase": "Admitted authorship and mediated devotion",
+          "chapter_range": [
+            31,
+            52
+          ],
+          "position_description": "Quixote admits he pictures her as he would have her be, and her name is handled through forged letters, invented replies, and legal conditions. She remains central, but the relation is openly mediated by fraud and literary convention.",
+          "key_moments": [
+            "Chapter 26: Quixote says, 'I picture her in my imagination as I would have her to be.'",
+            "Chapter 31: Sancho confesses the embassy was invented.",
+            "Chapter 32: Sancho invents a Dulcinea who laughs at the Knight of the Rueful Countenance.",
+            "Chapter 47: Quixote decodes a prophecy into her womb and future sons.",
+            "Chapter 49: her name becomes a conjuration he silences."
+          ]
+        },
+        {
+          "phase": "Search, counterfeit, and enchantment",
+          "chapter_range": [
+            53,
+            76
+          ],
+          "position_description": "She becomes a problem to be solved: an epitaph, a searched-for address, a counterfeit peasant, and an enchantment to be undone. Quixote's devotion remains absolute, but it is increasingly directed at a condition rather than a person.",
+          "key_moments": [
+            "Chapter 53: academicians bury her in epitaph.",
+            "Chapter 61: Quixote forbids the wheat-sifting memory and relocates her to a palace.",
+            "Chapter 63: he kneels to a peasant girl as the enchanted Dulcinea.",
+            "Chapter 64: he proposes an experiment to test who can see her.",
+            "Chapter 76: in the cave she flees from him and begs by proxy."
+          ]
+        },
+        {
+          "phase": "Theatrical and economic disenchantment",
+          "chapter_range": [
+            77,
+            125
+          ],
+          "position_description": "Her cure becomes a ducal entertainment and then a negotiated payment in Sancho's lashes. Quixote defends her name, but his devotion becomes elegiac, pastoral, and finally fraudulent in its 'completion.'",
+          "key_moments": [
+            "Chapter 85: Quixote concedes 'God knows whether there be any Dulcinea or not.'",
+            "Chapter 88: she appears in Merlin's masque demanding Sancho's lashes.",
+            "Chapter 110: Altisidora curses her to remain enchanted.",
+            "Chapter 117: Quixote is defeated while defending her beauty and bound to a year of peace.",
+            "Chapter 125: Sancho's tree-whipping is counted as her cure."
+          ]
+        },
+        {
+          "phase": "Dissolution",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "Her image is staged, impersonated, and weaponized in the enchantment/disenchantment plot, making her a tool of aristocratic manipulation rather than a person.",
+          "position_description": "She becomes a pastoral name to be carved on trees rather than a woman to be found. When Quixote recovers reason and dies, she is absent from his will and final words; the relation ends not by rejection but by the collapse of the fiction that sustained it.",
           "key_moments": [
-            "Merlin's pageant presents a voiced Dulcinea",
-            "The duchess uses her name to sustain the prank",
-            "Her supposed condition becomes part of the court's spectacle"
+            "Chapter 126: Quixote plans a pastoral life and verse; an omen says Dulcinea will never be seen.",
+            "Chapter 127: Quixote says he was mad and is now sane; Dulcinea is omitted from his confession, will, and death."
           ]
         }
       ],
-      "evidence_summary": "The duke and duchess do not relate to Dulcinea as a person but as a narrative device. Their interaction is best understood as exploitation of her symbolic value for entertainment and control.",
+      "evidence_summary": "The relation is trackable chiefly from Quixote's side, since Dulcinea has no reciprocal interiority. It moves from singular devotional object to legal/tribunal instrument, to enchantment problem, to theatrical/economic cipher, to final omission. Because her own attitude is never represented, confidence is medium.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duke and Duchess episodes as a staged social performance that converts Dulcinea from an absent chivalric ideal into an instrument of aristocratic mockery. Structural and narratological criticism repeatedly treats the pair’s treatment of Dulcinea as a theatricalization of fiction-making, power, and classed amusement rather than as a stable interpersonal relationship. The axis accurately captures that shift from textual reference to manipulated prop within the novel’s embedded spectacle.",
+            "reasoning": "The axis is grounded in published Cervantes scholarship that treats Dulcinea as a fictional construct generated by Quixote’s devotion and as a figure whose imagined authority organizes his knight-errantry while remaining ontologically absent. Auerbach’s analysis of “The Enchanted Dulcinea” and broader studies of love, madness, and fictionality in Cervantes support the movement from devotional center to literary pretext dissolved with Quixote’s recovery of reason.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Discusses how Cervantes uses the Duke and Duchess episodes to turn chivalric illusion, including Dulcinea, into a self-conscious performance and social game.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "Princeton University Press (English trans. 1953)",
+                "url": "https://press.princeton.edu/books/paperback/9780691160221/mimesis",
+                "relevance": "The chapter “The Enchanted Dulcinea” analyzes Dulcinea as an absent, imaginary lady whose enchantment structures Quixote’s reality, supporting her role as an invented devotional object.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Frames the Duke and Duchess material as aristocratic mockery that instrumentalizes Dulcinea and other chivalric fictions for theatrical amusement.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "This study examines Dulcinea within Cervantes’s treatment of love and fictional authority, supporting the claim that her relation to Quixote is a literary construction rather than a stable romance.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Analyzes the Duke and Duchess as agents who stage elaborate deceptions, making Dulcinea part of a narrative spectacle rather than a remote ideal.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroine's Voice: Narrative Discourse and Transformations of the Female in Cervantes",
-                "year": 1992,
-                "publication": "University of Missouri Press",
-                "relevance": "Useful for the gendered dimension of Dulcinea's transformation into a manipulated figure within aristocratic play, especially in relation to the Duke and Duchess's performative control.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroine%27s+Voice%3A+Narrative+Discourse+and+Transformations+of+the+Female+in+Cervantes+1992"
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytical Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Johnson discusses Dulcinea as an object of Quixote’s desire and madness, helping ground the axis’s account of her devotional centrality and its eventual dissolution.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytical+Approach+to+Don+Quixote+1983"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duke and Duchess episodes as a sustained social performance that converts Dulcinea from an absent ideal into a manipulable stage object within aristocratic mockery. Critics of the novel’s courtly games and metatheatrical cruelty have repeatedly treated the pair’s treatment of Dulcinea as part of a broader economy of spectacle, power, and enchantment rather than as a mere isolated joke.",
+            "reasoning": "The axis is grounded in major Cervantine criticism that treats Dulcinea as a fiction generated by Quixote's desire and as the absent center of his chivalric identity. Auerbach's analysis of the 'enchanted Dulcinea' and González Echevarría's account of love and law make her constructed relational status clear, while El Saffar and Johnson support the broader reading of her as a narrative/material pretext whose function is bound to Quixote's fiction. The precise endpoint — her omission from confession, will, and dying words — is an interpretive synthesis rather than a discrete thesis in every cited work, so medium confidence is appropriate.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the Duke and Duchess episodes as central to the novel's self-conscious manipulation of fiction, which includes their staging of Dulcinea as an object of aristocratic play.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "A. Francke; English translation Princeton University Press",
+                "url": null,
+                "relevance": "The chapter 'The Enchanted Dulcinea' analyzes Quixote's insistence on Dulcinea as a fiction that reorganizes reality, grounding the axis's starting claim and its later enchantment/disillusionment dynamic.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close treats the Duke and Duchess as agents of cruel aristocratic parody, a framework that directly supports reading Dulcinea's shift from chivalric ideal to theatrical prop.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Examines Dulcinea as the central love-object of Quixote's juridical-erotic fiction, supporting the claim that her relational centrality depends on his invented chivalric frame.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the Duke and Duchess's elaborate practical jokes and their exploitation of Quixote's fantasies, including the instrumentalization of Dulcinea in staged enchantment.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "University of North Carolina Press",
+                "url": null,
+                "relevance": "Analyzes the novel's construction of desire through absence and narrative distance, relevant to reading Dulcinea as an absent beloved whose function is tied to Quixote's fiction.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Discusses Dulcinea/Aldonza in relation to material and social realities, supporting the reading that the ideal lady is a literary construct that cannot survive Quixote's return to ordinary reality.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "The axis is well grounded in scholarship on the Duke and Duchess episodes in Don Quixote, where Dulcinea is transformed from an absent chivalric ideal into a staged object of aristocratic ridicule and theatrical manipulation. Critics of Cervantes’s courtly satire and the Duke/Duchess’s performative cruelty regularly treat Dulcinea as a prop in their mock enchantments, mock rivalries, and social games rather than as an autonomous character.",
+            "reasoning": "The axis is grounded in Cervantes criticism that treats Dulcinea as a chivalric fiction generated by Don Quixote and as the rhetorical center of his errantry, while also reading the novel's ending as a dismantling of that fiction. Scholars emphasize both her idealizing centrality and her status as a literary construct, which supports the claimed movement from devotional object to dissolved pretext.",
             "citations": [
               {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Analyzes Dulcinea as the idealized lady whose fictional authority organizes Don Quixote's desire and whose demystification is bound up with the novel's ending.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
                 "year": 1982,
                 "publication": "University of Missouri Press",
-                "relevance": "Discusses how the Duke and Duchess exploit Don Quixote’s belief in Dulcinea to stage elaborate practical jokes and courtly performances, making her a theatrical instrument of their mockery.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "url": null,
+                "relevance": "Treats Dulcinea as a literary construct central to Quixote's chivalric role and to the novel's eventual dismantling of that role.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Examines Dulcinea as a feminine ideal/construct within Quixote's fiction and the narrative's movement beyond that fiction.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Sancho Panza",
+      "dimension_label": "Testimonial Trust/Fraud",
+      "axis_name": "From Trusted Envoy to Confessed Fabricator and Unpaid Debtor",
+      "pole_start": "He is her knowledgeable neighbour and appointed ambassador: he can name her parents, describe her strength and voice, and is trusted to carry a letter and return her reply.",
+      "pole_end": "He is the confessed inventor of her enchantment and her wheat-sifting, whose word about her is worthless and whose last link to her is a debt of lashes he keeps deferring.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Trusted envoy and familiar witness",
+          "chapter_range": [
+            11,
+            30
+          ],
+          "position_description": "Sancho uses Dulcinea's name as a limit on Quixote's behavior and as the destination of errands. He is functionally her courier and speaks of her with earthy affection and rough praise.",
+          "key_moments": [
+            "Chapter 11: Sancho calls her 'my lady Dulcinea del Toboso' and uses her name to stop Quixote's oath.",
+            "Chapter 21: Sancho is designated her messenger in the event of Quixote's death.",
+            "Chapter 23: her errand is refused and converted into prayers.",
+            "Chapter 26: Sancho reveals her as Aldonza Lorenzo, a farm girl he knows."
+          ]
+        },
+        {
+          "phase": "Fabrication and first breach",
+          "chapter_range": [
+            27,
+            35
+          ],
+          "position_description": "Sancho becomes the chief fabricator of her responses: he loses the letter, reconstructs it from memory, invents her reply, and confesses he never truly viewed her. Her relation to him becomes mediated by forgery.",
+          "key_moments": [
+            "Chapter 27: Sancho misremembers and reconstructs the letter.",
+            "Chapter 31: he confesses the embassy was invented and that he never saw her.",
+            "Chapter 32: he invents a Dulcinea who laughs and tears the letter.",
+            "Chapter 35: he admits he never saw her 'at my leisure.'"
+          ]
+        },
+        {
+          "phase": "Counterfeit body and enchantment",
+          "chapter_range": [
+            61,
+            69
+          ],
+          "position_description": "Sancho stages a peasant girl as Dulcinea and invents her physical charms. Her 'body' in the text becomes his improvisation, while she remains unaware.",
+          "key_moments": [
+            "Chapter 61: Sancho dreads locating her house in El Toboso.",
+            "Chapter 62: he confesses his earlier 'sighting' was hearsay.",
+            "Chapter 63: he presents a village girl as the enchanted Dulcinea.",
+            "Chapter 64: Quixote corrects Sancho's description of her eyes and teeth."
+          ]
+        },
+        {
+          "phase": "Debtor and evader",
+          "chapter_range": [
+            70,
+            90
+          ],
+          "position_description": "Her disenchantment becomes dependent on Sancho's lashes. He refuses, evades, and treats the debt as an imposition, while the ducal masque turns her demand into a staged coercion of his body.",
+          "key_moments": [
+            "Chapter 70: Quixote commends himself to her before the lions and makes Sancho her legatee.",
+            "Chapter 76: she flees in the cave while Sancho laughs at his own invention.",
+            "Chapter 88: the masque-Dulcinea demands 3,300 lashes from Sancho.",
+            "Chapter 89: Sancho gives himself only five strokes with his bare hand."
+          ]
+        },
+        {
+          "phase": "Haggling, tree-whipping, and final refusal",
+          "chapter_range": [
+            91,
+            127
+          ],
+          "position_description": "Sancho converts her release into a transaction, haggles over the price, and finally 'pays' by whipping trees. Her cure is fraudulently completed in name while she remains absent. He remains the only character still promising her restoration, but his promise is a habit of fidelity to Quixote rather than a working cure.",
+          "key_moments": [
+            "Chapter 93: he postpones her whipping to 'leisure hours.'",
+            "Chapter 103: he is said to have forgotten the disenchantment.",
+            "Chapter 124: he haggles at 825 reals and whips beech trees.",
+            "Chapter 125: he claims to be 'very well whipped'; Quixote counts the fraud as triumph.",
+            "Chapter 126: Sancho turns an omen into a joke and presses a hare into Quixote's arms as Dulcinea.",
+            "Chapter 127: Sancho promises they may find Dulcinea disenchanted behind a bush; Quixote declines the fantasy and dies sane."
+          ]
+        }
+      ],
+      "evidence_summary": "Trust is measurably destroyed by explicit authorial statement: the narrator flatly reports that Sancho 'had never seen her in all his life,' and Sancho later confesses the enchantment and the wheat-sifting were his inventions. What survives is not testimony but a transactional debt. Confidence high because the disclosures are overt and dated.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is grounded in Cervantes criticism that treats Sancho as the mediating inventor of Dulcinea, especially in the Part II enchantment episode, and as the comic debtor of the lashes required for her disenchantment. Scholarship on Dulcinea as fiction and on Sancho's material/economic relation to her supports the shift from trusted envoy to confessed fabricator and deferring debtor.",
+            "citations": [
+              {
+                "author": "Friedman, Edward H.",
+                "title": "Dulcinea del Toboso: The Poetics of Fiction",
+                "year": 1989,
+                "publication": "Cervantes: Bulletin of the Cervantes Society of America",
+                "url": null,
+                "relevance": "Analyzes Dulcinea as a fiction constructed through Sancho's reports and inventions, supporting the axis's move from envoy to fabricator.",
+                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Dulcinea+del+Toboso%3A+The+Poetics+of+Fiction+1989"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Discusses the enchanted Dulcinea episode and Sancho's role in the fiction, including the lashes as a comic juridical/economic obligation.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Offers a materialist reading of Sancho's relation to Dulcinea, including the wheat-sifting fiction and the deferred debt of lashes.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis tracks a well-recognized narrative and relational shift: Sancho moves from plausible witness and envoy for Aldonza/Dulcinea in Part I to the inventor of the enchanted peasant girl in Part II, and his deferred lashes become the comic currency of that fabrication. Scholarship on the 'enchanted Dulcinea' episode and on Sancho's role as mediator repeatedly treats this as a problem of testimony, fiction, and self-interest.",
+            "citations": [
+              {
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "Princeton University Press (English trans. 1953)",
+                "url": "https://press.princeton.edu/books/paperback/9780691163366/mimesis",
+                "relevance": "The chapter 'The Enchanted Dulcinea' analyzes Sancho's invented report of the enchanted Dulcinea as a decisive scene of perspectival fiction and unreliable testimony.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Its entries on Dulcinea and Sancho Panza document the shift from knowledgeable neighbour and envoy to confessed fabricator of the enchantment and debtor of the three thousand lashes.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Don Quixote: The Quest for Modern Fiction",
+                "year": 1990,
+                "publication": "Twayne Publishers",
+                "url": null,
+                "relevance": "Johnson's study treats Sancho's mediation between Quixote and Dulcinea/Aldonza as central to the novel's construction of fiction and social aspiration.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Don+Quixote%3A+The+Quest+for+Modern+Fiction+1990"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in the Part II episodes that Cervantes criticism regularly treats as a decisive transformation: Sancho first acts as a village informant and letter-carrier for Dulcinea/Aldonza, then stages the peasant-girl “enchantment” and later admits his fabrication while owing the lashes that would disenchant her. Scholarship on Dulcinea, Sancho, and Part II narrative deception supports reading this as a relational arc from trusted envoy to confessed fabricator and debtor.",
+            "citations": [
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Surveys the Part II Dulcinea episodes, including Sancho's staged enchantment and the deferred lashes, as central to the novel's play with trust and fabrication.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Feminist and narrative analysis of Dulcinea as a figure constructed by male characters, including Sancho's inventions and his changing relation to her.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Discusses Sancho's social and material ties to Aldonza/Dulcinea and the economy of deception surrounding her enchantment and disenchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Sancho Panza",
+      "dimension_label": "Esteem (Concrete vs Comparative)",
+      "axis_name": "From Earthy Affection to Fluctuating Comparison",
+      "pole_start": "Esteem grounded in concrete familiarity: a strong, loud, funny woman he has known all his life and praises for real qualities.",
+      "pole_end": "Esteem expressed only as a comparative ranking that swings with circumstance — demoted below Dorothea, equated with the Duchess, restored to 'fairest creature in the world' when it suits a defence.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Concrete praise",
+          "chapter_range": [
+            26,
+            26
+          ],
+          "position_description": "He values her as a person he knows: her crowbar-throw, her voice from the belfry, her joking.",
+          "key_moments": [
+            "Chapter 26: the farm-girl description offered as rough affection."
+          ]
+        },
+        {
+          "phase": "Demotion",
+          "chapter_range": [
+            31,
+            32
+          ],
+          "position_description": "He measures her against Dorothea and finds her wanting, then reduces her to a caricature of sweat and cheese in the very act of praising her industry.",
+          "key_moments": [
+            "Chapter 31: 'not half as fair' — publicly demoted from peerless.",
+            "Chapter 32: the winnowing, illiterate, cheese-giving peasant of his invention."
+          ]
+        },
+        {
+          "phase": "Reinstatement by comparison",
+          "chapter_range": [
+            83,
+            84
+          ],
+          "position_description": "Her rank is again set by comparison — equated with the Duchess, then asserted as supreme in a court that has just called her enchanted and hideous.",
+          "key_moments": [
+            "Chapter 83: 'the Duchess is in no way behind her'.",
+            "Chapter 84: 'the fairest creature in the world' — leaping onto an ass like a cat."
+          ]
+        }
+      ],
+      "evidence_summary": "Esteem is real but volatile and entirely comparative; it moves from the texture of acquaintance to the arithmetic of ranking, losing all content beyond 'fairer' or 'not so fair.' Confidence medium because the oscillation could also be read as constant, merely inarticulate, affection.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is broadly grounded in Cervantine criticism: scholars consistently discuss Sancho's relation to Dulcinea/Aldonza as a comic and socially grounded negotiation between village familiarity and the chivalric ideal he helps construct. His descriptions and his invention of Dulcinea's enchantment are read as shifting, instrumental representations rather than stable devotion, so the axis is supportable even if 'esteem' is an interpretive label.",
+            "citations": [
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente",
+                "url": null,
+                "relevance": "Classic analysis of Sancho's earthy realism against Quixote's idealization, including the Aldonza/Dulcinea contrast that grounds the axis's starting pole.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Materialist reading of Sancho's role in inventing and enchanting Dulcinea, and of the social comparisons shaping his descriptions of her.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
+                "year": 1982,
+                "publication": "University of Missouri Press",
+                "url": null,
+                "relevance": "Narrative-technical study of how Sancho constructs and manipulates Dulcinea in dialogue, supporting the fluctuating comparative framing.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+              },
+              {
+                "author": "Percas de Ponseti, Helena",
+                "title": "Cervantes y su concepto del arte",
+                "year": 1975,
+                "publication": "Gredos",
+                "url": null,
+                "relevance": "Close reading of the Dulcinea episodes, including Sancho's comic and strategic representations of her, relevant to the relational arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Percas+de+Ponseti%2C+Helena+Cervantes+y+su+concepto+del+arte+1975"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in canonical criticism on the Dulcinea enchantment, which foregrounds Sancho's concrete knowledge of Aldonza Lorenzo as the basis for his initial esteem and his later inventive, situational descriptions of Dulcinea. While no single study phrases the arc exactly as 'fluctuating comparative ranking,' Auerbach's analysis of Sancho's role in staging the enchanted Dulcinea establishes the relational dynamic from earthy familiarity to rhetorical manipulation.",
+            "citations": [
+              {
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "Princeton University Press (chapter 'The Enchanted Dulcinea')",
+                "url": null,
+                "relevance": "Auerbach analyzes Sancho's concrete familiarity with Aldonza Lorenzo and his active role in inventing the enchanted Dulcinea, supporting the axis's starting pole of earthy, familiar esteem and its later inventive manipulation.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in a recognized critical topic: Sancho’s concrete knowledge of Aldonza Lorenzo and his later rhetorical construction and 'enchantment' of Dulcinea. Scholarship on the enchanted Dulcinea and on Dulcinea as a myth generated through Sancho’s speech supports a shift from familiar, earthy praise to situational, invented representation, though the precise language of 'comparative ranking' is the axis’s own extrapolation.",
+            "citations": [
+              {
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "The chapter 'The Enchanted Dulcinea' analyzes Sancho’s role in the peasant-girl episode and the tension between his concrete knowledge of Aldonza and the invented Dulcinea.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+              },
+              {
+                "author": "Avalle-Arce, Juan Bautista",
+                "title": "Dulcinea del Toboso: función de un mito",
+                "year": 1975,
+                "publication": "Nuevos deslindes cervantinos (Barcelona: Ariel)",
+                "url": null,
+                "relevance": "Traces Dulcinea as a myth generated in dialogue with Sancho, including Sancho’s changing representations of her.",
+                "search_url": "https://scholar.google.com/scholar?q=Avalle-Arce%2C+Juan+Bautista+Dulcinea+del+Toboso%3A+funci%C3%B3n+de+un+mito+1975"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Offers a materialist reading of Sancho’s bodily, concrete knowledge of Aldonza/Dulcinea, supporting the axis’s starting pole of earthy familiarity.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Dorothea (Princess Micomicona)",
+      "dimension_label": "Rival Displacement",
+      "axis_name": "From Unwitting Usurper to Self-Styled Servant: homage as erasure",
+      "pole_start": "A stranger who, costumed as a princess in distress, takes over the functional role of the lady who commands knightly service — without ever knowing Dulcinea's name.",
+      "pole_end": "The usurper publicly styles herself Dulcinea's servant and well-wisher, a deference that seals rather than repairs the displacement, since she commands the oath and the knees.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Functional usurpation",
+          "chapter_range": [
+            30,
+            31
+          ],
+          "position_description": "Dorothea receives the boon, the vow and the service that Dulcinea's name had formerly commanded, and is openly judged the fairer of the two.",
+          "key_moments": [
+            "Chapter 30: the Micomicona boon displaces her as addressee of knightly deeds.",
+            "Chapter 31: Sancho measures them and finds Dorothea superior."
+          ]
+        },
+        {
+          "phase": "Homage as erasure",
+          "chapter_range": [
+            31,
+            38
+          ],
+          "position_description": "Dorothea declares herself Dulcinea's servant and prays for her behalf while occupying the saddle and the story; her own queenship is shown to be a costume she can wear and drop.",
+          "key_moments": [
+            "Chapter 31: 'I know nothing of that lady Toboso save that she is her servant'.",
+            "Chapter 38: invented sovereignty worn and re-worn at will, undercutting Dulcinea's imagined rank."
+          ]
+        }
+      ],
+      "evidence_summary": "The axis is one of structural antagonism without contact: Dorothea performs the lady-function more effectively than the lady herself and cheapens aristocratic identity in the process. Confidence medium because the rivalry is never acknowledged by either woman.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is a defensible structuralist/narratological reading: Dorotea’s Micomicona impersonation occupies the functional slot of the lady who commands knightly service while Dulcinea remains absent, and her later deference toward Dulcinea can be read as reinforcing rather than undoing that displacement. Published Cervantes criticism on gender, disguise, and feminine doubling supports analyzing Dorotea and Dulcinea in these terms, even though the ‘relationship arc’ is a critical construction rather than a literal on-stage relationship.",
+            "citations": [
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "El Saffar’s feminist narratological study treats Cervantes’s female figures, including Dulcinea and Dorotea, as paired doubles/projections, supporting the reading of Dorotea’s princess role as a displacement of Dulcinea.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              },
+              {
+                "author": "Fuchs, Barbara",
+                "title": "Passing for Spain: Cervantes and the Fictions of Identity",
+                "year": 2003,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Fuchs analyzes Dorotea’s disguise and performance as Princess Micomicona as an identity fiction that manipulates chivalric roles, supporting the axis’s usurpation pole.",
+                "search_url": "https://scholar.google.com/scholar?q=Fuchs%2C+Barbara+Passing+for+Spain%3A+Cervantes+and+the+Fictions+of+Identity+2003"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "University of North Carolina Press",
+                "url": null,
+                "relevance": "This study of narrative role-playing and embedded fictions in Part I provides a basis for reading Dorotea’s invented princess role as a structural substitute for the absent beloved lady.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in Cervantine criticism that treats Dorotea's Princess Micomicona performance as a gendered narrative takeover of the absent Dulcinea's functional role, and in feminist readings that contrast Dulcinea and Dorotea as competing constructions of femininity. The scholarship does not always frame this as a literal two-person relationship arc, but it supports the displacement-and-erasure dynamic the axis describes.",
+            "citations": [
+              {
+                "author": "El Saffar, Ruth",
+                "title": "The Three Doroteas of Don Quixote",
+                "year": 1985,
+                "publication": "Cervantes: Bulletin of the Cervantes Society of America 5.2",
+                "url": null,
+                "relevance": "Analyzes Dorotea's successive identities, including Princess Micomicona, as self-conscious role-playing that occupies the lady's place in Quixote's service.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+The+Three+Doroteas+of+Don+Quixote+1985"
+              },
+              {
+                "author": "Sears, Theresa Ann",
+                "title": "Sacrificial Lambs and Domestic Goddesses: Women in Cervantes' Don Quixote",
+                "year": 1994,
+                "publication": "Cervantes: Bulletin of the Cervantes Society of America 14.1",
+                "url": null,
+                "relevance": "Discusses Dulcinea and Dorotea as competing constructions of femininity, supporting the reading of Dorotea's deference as reinforcing rather than repairing displacement.",
+                "search_url": "https://scholar.google.com/scholar?q=Sears%2C+Theresa+Ann+Sacrificial+Lambs+and+Domestic+Goddesses%3A+Women+in+Cervantes%27+Don+Quixote+1994"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "The axis is an interpretively plausible close-reading of Dorotea's Micomicona performance and her later deferential language toward Dulcinea, but I cannot recall a verifiable published study that treats this as an evolving Dulcinea–Dorotea relationship. Existing scholarship I know treats Dorotea's theatrical self-fashioning and Dulcinea's absent idealization separately, rather than tracking a 'usurper-to-self-styled-servant' relational arc between them.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "the Duchess",
+      "dimension_label": "Instrumental Notoriety",
+      "axis_name": "From Printed Name to Staged Spectacle",
+      "pole_start": "A name the Duchess knows only from the printed First Part — a catalogue entry in another man's story, discussed as a curiosity.",
+      "pole_end": "A theatrical property: the Duchess pledges household-wide 'belief' in her, reinstates her enchantment as fact, and stages her triumphal arrival in a pageant of devils and cars.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Printed acquaintance",
+          "chapter_range": [
+            83,
+            84
+          ],
+          "position_description": "She enters the Duchess's world as literary reputation; the Duchess asks for trophies and treats her as a fixture of a story to be played with.",
+          "key_moments": [
+            "Chapter 83: 'a certain Dulcinea del Toboso' — the name confirmed from print.",
+            "Chapter 84: the Duchess asks what presents of vanquished giants she has lately received."
+          ]
+        },
+        {
+          "phase": "Belief as policy",
+          "chapter_range": [
+            85,
+            86
+          ],
+          "position_description": "The Duchess proposes that Dulcinea may be imaginary, then converts belief in her into an amused decree, and finally re-imposes the enchantment as authoritative truth after Sancho's confession.",
+          "key_moments": [
+            "Chapter 85: 'an imaginary lady... begot in his own brain'; promise that all her household will 'believe'.",
+            "Chapter 86: 'knowledge from good authority' that the wench on the ass is Dulcinea, enchanted through no fault of her own."
+          ]
+        },
+        {
+          "phase": "Staged apotheosis",
+          "chapter_range": [
+            87,
+            87
+          ],
+          "position_description": "Her condition and her cure are absorbed into a ducal spectacle: she is announced as enchanted cargo on a triumphal car, delivered to Quixote for instruction.",
+          "key_moments": [
+            "Chapter 87: a demon-courier announces her arrival; her fate is scripted entirely by the ducal pair."
+          ]
+        }
+      ],
+      "evidence_summary": "This is the sharpest late-stage relational change: a stranger acquires near-total authorial control over Dulcinea's public being — deciding whether she exists, whether she is enchanted, and how she shall appear. Confidence high because the Duchess's interventions are explicit, sequential and self-consciously theatrical.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is grounded in Part II criticism that reads the Duchess as a reader of the printed First Part who becomes a producer of fictions, with Dulcinea as the prime example of a name converted into staged spectacle. Friedman's study of Dulcinea's construction and El Saffar's analysis of reader-authorship in Part II support this relational shift from catalogue entry to theatrical property.",
+            "citations": [
+              {
+                "author": "Friedman, Edward H.",
+                "title": "Dulcinea del Toboso: The Construction of a Character",
+                "year": 1997,
+                "publication": "Cervantes: Bulletin of the Cervantes Society of America 17.2",
+                "url": null,
+                "relevance": "Analyzes how Dulcinea is constituted through others' discourse and fictions, directly grounding the move from a printed name to a character manipulated by Part II's aristocratic readers.",
+                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Dulcinea+del+Toboso%3A+The+Construction+of+a+Character+1997"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "University of North Carolina Press",
+                "url": null,
+                "relevance": "Studies the Duke and Duchess as reader-authors who stage fictions in Part II, supporting the claim that the Duchess turns Dulcinea into theatrical property.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is supported by criticism on Part II's ducal episodes, which reads the Duchess as a sophisticated reader who turns Dulcinea from a name in the printed First Part into a courtly theatrical property. Scholars analyze the staged disenchantment/pageant as an exercise in fictional authority and mock-belief, exactly the shift from catalogue entry to spectacle.",
+            "citations": [
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis / Boydell & Brewer",
+                "url": null,
+                "relevance": "Close discusses the Duke and Duchess's literary games and the staged enchantment of Dulcinea as a hallmark of Part II's fiction-making.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
+              },
+              {
+                "author": "Sullivan, Henry W.",
+                "title": "Grotesque Purgatory: A Study of Cervantes's Don Quixote, Part II",
+                "year": 1996,
+                "publication": "Pennsylvania State University Press",
+                "url": null,
+                "relevance": "Sullivan analyzes the ducal palace as a theatrical space where Dulcinea's enchantment is manipulated and performed for mocking belief.",
+                "search_url": "https://scholar.google.com/scholar?q=Sullivan%2C+Henry+W.+Grotesque+Purgatory%3A+A+Study+of+Cervantes%27s+Don+Quixote%2C+Part+II+1996"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "El Saffar treats Dulcinea and the Duchess as competing constructions of feminine fiction, illuminating the Duchess's appropriation of Dulcinea's name.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis describes a transition that is genuinely visible in Part II (the Duke and Duchess's household turns the printed Dulcinea of 1605 into the staged, 'enchanted' figure of the Merlin/devils pageant), and Cervantine criticism on Part II's metafictional play, on the Duke and Duchess as aristocratic stage-managers, and on Dulcinea as a fiction produced by others' reading supports it. However, the support is largely indirect: I know of no monograph or article devoted specifically to the Dulcinea–Duchess dyad, so the axis rests on broader scholarship about the Duchess as an impresario of belief and about Dulcinea as a literary/theatrical construct.",
+            "citations": [
+              {
+                "author": "Close, Anthony",
+                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
+                "year": 1978,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Analyzes Part II's structures of play-acting and make-believe, including the Duke and Duchess's games, which underpin the Duchess's staged 'belief' in Dulcinea.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
               },
               {
                 "author": "Riley, E. C.",
                 "title": "Cervantes's Theory of the Novel",
                 "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Provides foundational analysis of the Duke and Duchess episodes as a self-conscious performance of fiction that turns Dulcinea into a manipulated chivalric reference within aristocratic entertainment.",
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Foundational account of Part II's self-conscious fictionality, where characters who have read Part I convert its names into spectacles.",
                 "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Situates the Duke and Duchess’s treatment of Dulcinea within the novel’s broader irony and social satire, where the imagined lady becomes an object of staged deception and class-based ridicule.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Discusses the aristocratic idleness and wealth of the Duke and Duchess that enable their elaborate staging of episodes such as Dulcinea's enchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Treats Dulcinea as a constructed beloved and examines how Part II theatricalizes and re-legislates her enchantment.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              },
+              {
+                "author": "El Saffar, Ruth",
+                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
+                "year": 1975,
+                "publication": "North Carolina Studies in the Romance Languages and Literatures, UNC",
+                "url": null,
+                "relevance": "Traces how Dulcinea functions as a fiction generated by other characters' narratives, a process the Duchess later dramatizes.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Reference entries on Dulcinea and on the Duchess summarize their textual relation and the Part II pageant in which Dulcinea is performed.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               }
             ]
           }

@@ -1,0 +1,317 @@
+{
+  "n_novels": 18,
+  "n_axes_scored": 72,
+  "n_axes_with_arc": 72,
+  "n_stories_with_arc": 18,
+  "mean_best_axis_score": 86.472,
+  "total_cost_usd": 0.3277,
+  "scope": "arcane_extraction_only",
+  "rows": [
+    {
+      "story": "don_quixote",
+      "protagonist": "Don Quixote de la Mancha",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 91.0,
+      "dimension_means": {
+        "action_progression": 89.0,
+        "reasoning_progression": 88.5,
+        "reasoning_action_entailment": 83.25,
+        "trajectory_coherence": 90.0
+      },
+      "run_cost_usd": 0.0232,
+      "summary_path": "results\\generated_arc\\don_quixote_arcane_selected_Don-Quixote-de-la-Mancha\\summary.json",
+      "rank": 1
+    },
+    {
+      "story": "Dorian Gray",
+      "protagonist": "Dorian Gray",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 89.25,
+      "dimension_means": {
+        "action_progression": 89.25,
+        "reasoning_progression": 87.25,
+        "reasoning_action_entailment": 84.5,
+        "trajectory_coherence": 88.0
+      },
+      "run_cost_usd": 0.0171,
+      "summary_path": "results\\generated_arc\\Dorian-Gray_arcane_selected_Dorian-Gray\\summary.json",
+      "rank": 2
+    },
+    {
+      "story": "Lady Audley's Secret",
+      "protagonist": "Lady Audley",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 88.75,
+      "dimension_means": {
+        "action_progression": 85.0,
+        "reasoning_progression": 84.0,
+        "reasoning_action_entailment": 81.0,
+        "trajectory_coherence": 87.0
+      },
+      "run_cost_usd": 0.015,
+      "summary_path": "results\\generated_arc\\Lady-Audley-s-Secret_arcane_selected_Lady-Audley\\summary.json",
+      "rank": 3
+    },
+    {
+      "story": "Monte_Cristo",
+      "protagonist": "Edmond Dantès",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 88.5,
+      "dimension_means": {
+        "action_progression": 85.5,
+        "reasoning_progression": 87.75,
+        "reasoning_action_entailment": 83.25,
+        "trajectory_coherence": 89.25
+      },
+      "run_cost_usd": 0.0179,
+      "summary_path": "results\\generated_arc\\Monte_Cristo_arcane_selected_Edmond-Dant-s\\summary.json",
+      "rank": 4
+    },
+    {
+      "story": "Anne of Green Gables",
+      "protagonist": "Anne Shirley",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 88.25,
+      "dimension_means": {
+        "action_progression": 87.0,
+        "reasoning_progression": 87.0,
+        "reasoning_action_entailment": 83.25,
+        "trajectory_coherence": 88.0
+      },
+      "run_cost_usd": 0.0197,
+      "summary_path": "results\\generated_arc\\Anne-of-Green-Gables_arcane_selected_Anne-Shirley\\summary.json",
+      "rank": 5
+    },
+    {
+      "story": "Jane_Eyre",
+      "protagonist": "Jane Eyre",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 88.25,
+      "dimension_means": {
+        "action_progression": 84.5,
+        "reasoning_progression": 83.5,
+        "reasoning_action_entailment": 79.75,
+        "trajectory_coherence": 85.75
+      },
+      "run_cost_usd": 0.0167,
+      "summary_path": "results\\generated_arc\\Jane_Eyre_arcane_selected_Jane-Eyre\\summary.json",
+      "rank": 6
+    },
+    {
+      "story": "pride_and_prejudice",
+      "protagonist": "Elizabeth Bennet",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 88.0,
+      "dimension_means": {
+        "action_progression": 84.5,
+        "reasoning_progression": 89.0,
+        "reasoning_action_entailment": 81.25,
+        "trajectory_coherence": 87.0
+      },
+      "run_cost_usd": 0.0168,
+      "summary_path": "results\\generated_arc\\pride_and_prejudice_arcane_selected_Elizabeth-Bennet\\summary.json",
+      "rank": 7
+    },
+    {
+      "story": "Persuasion",
+      "protagonist": "Anne Elliot",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 87.0,
+      "dimension_means": {
+        "action_progression": 75.0,
+        "reasoning_progression": 85.75,
+        "reasoning_action_entailment": 78.5,
+        "trajectory_coherence": 86.0
+      },
+      "run_cost_usd": 0.0208,
+      "summary_path": "results\\generated_arc\\Persuasion_arcane_selected_Anne-Elliot\\summary.json",
+      "rank": 8
+    },
+    {
+      "story": "The Odd Women",
+      "protagonist": "Rhoda Nunn",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 87.0,
+      "dimension_means": {
+        "action_progression": 80.5,
+        "reasoning_progression": 82.5,
+        "reasoning_action_entailment": 80.0,
+        "trajectory_coherence": 87.0
+      },
+      "run_cost_usd": 0.017,
+      "summary_path": "results\\generated_arc\\The-Odd-Women_arcane_selected_Rhoda-Nunn\\summary.json",
+      "rank": 9
+    },
+    {
+      "story": "Little Women",
+      "protagonist": "Josephine March",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 86.5,
+      "dimension_means": {
+        "action_progression": 79.25,
+        "reasoning_progression": 82.25,
+        "reasoning_action_entailment": 77.25,
+        "trajectory_coherence": 86.25
+      },
+      "run_cost_usd": 0.0156,
+      "summary_path": "results\\generated_arc\\Little-Women_arcane_selected_Josephine-March\\summary.json",
+      "rank": 10
+    },
+    {
+      "story": "Anna_Kareina",
+      "protagonist": "Anna Arkadyevna Karenina",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 86.0,
+      "dimension_means": {
+        "action_progression": 83.5,
+        "reasoning_progression": 87.25,
+        "reasoning_action_entailment": 81.5,
+        "trajectory_coherence": 86.25
+      },
+      "run_cost_usd": 0.0182,
+      "summary_path": "results\\generated_arc\\Anna_Kareina_arcane_selected_Anna-Arkadyevna-Karenina\\summary.json",
+      "rank": 11
+    },
+    {
+      "story": "Benjamin_Franklin",
+      "protagonist": "Benjamin Franklin",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 86.0,
+      "dimension_means": {
+        "action_progression": 78.5,
+        "reasoning_progression": 80.75,
+        "reasoning_action_entailment": 75.75,
+        "trajectory_coherence": 82.5
+      },
+      "run_cost_usd": 0.0161,
+      "summary_path": "results\\generated_arc\\Benjamin_Franklin_arcane_selected_Benjamin-Franklin\\summary.json",
+      "rank": 12
+    },
+    {
+      "story": "He Knew He Was Right",
+      "protagonist": "Louis Trevelyan",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 86.0,
+      "dimension_means": {
+        "action_progression": 86.75,
+        "reasoning_progression": 83.75,
+        "reasoning_action_entailment": 79.0,
+        "trajectory_coherence": 86.0
+      },
+      "run_cost_usd": 0.0262,
+      "summary_path": "results\\generated_arc\\He-Knew-He-Was-Right_arcane_selected_Louis-Trevelyan\\summary.json",
+      "rank": 13
+    },
+    {
+      "story": "East Lynne",
+      "protagonist": "Lady Isabel Vane",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 85.5,
+      "dimension_means": {
+        "action_progression": 78.0,
+        "reasoning_progression": 85.5,
+        "reasoning_action_entailment": 80.5,
+        "trajectory_coherence": 87.25
+      },
+      "run_cost_usd": 0.0181,
+      "summary_path": "results\\generated_arc\\East-Lynne_arcane_selected_Lady-Isabel-Vane\\summary.json",
+      "rank": 14
+    },
+    {
+      "story": "Great Expectations",
+      "protagonist": "Philip Pirrip (Pip)",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 85.5,
+      "dimension_means": {
+        "action_progression": 82.0,
+        "reasoning_progression": 87.5,
+        "reasoning_action_entailment": 82.25,
+        "trajectory_coherence": 86.0
+      },
+      "run_cost_usd": 0.0181,
+      "summary_path": "results\\generated_arc\\Great-Expectations_arcane_selected_Philip-Pirrip-Pip\\summary.json",
+      "rank": 15
+    },
+    {
+      "story": "Treasure Island",
+      "protagonist": "Jim Hawkins",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 83.5,
+      "dimension_means": {
+        "action_progression": 81.0,
+        "reasoning_progression": 80.25,
+        "reasoning_action_entailment": 77.75,
+        "trajectory_coherence": 83.5
+      },
+      "run_cost_usd": 0.0153,
+      "summary_path": "results\\generated_arc\\Treasure-Island_arcane_selected_Jim-Hawkins\\summary.json",
+      "rank": 16
+    },
+    {
+      "story": "Olaudah Equiano",
+      "protagonist": "Olaudah Equiano",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 81.5,
+      "dimension_means": {
+        "action_progression": 75.5,
+        "reasoning_progression": 75.5,
+        "reasoning_action_entailment": 72.0,
+        "trajectory_coherence": 79.0
+      },
+      "run_cost_usd": 0.0167,
+      "summary_path": "results\\generated_arc\\Olaudah-Equiano_arcane_selected_Olaudah-Equiano\\summary.json",
+      "rank": 17
+    },
+    {
+      "story": "The Underdogs",
+      "protagonist": "Demetrio Macias",
+      "axes_scored": 4,
+      "axes_with_arc": 4,
+      "story_has_arc": true,
+      "mean_best_axis_score": 80.0,
+      "dimension_means": {
+        "action_progression": 79.0,
+        "reasoning_progression": 77.5,
+        "reasoning_action_entailment": 76.0,
+        "trajectory_coherence": 82.75
+      },
+      "run_cost_usd": 0.0192,
+      "summary_path": "results\\generated_arc\\The-Underdogs_arcane_selected_Demetrio-Macias\\summary.json",
+      "rank": 18
+    }
+  ]
+}

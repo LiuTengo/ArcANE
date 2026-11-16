@@ -25,6 +25,9 @@ from typing import Optional
 
 from openai import OpenAI
 
+from evaluation._judge_format import (
+    effective_response_format, ensure_json_prompt,
+    note_response_format_rejection)
 from evaluation.scoring import EvaluationRunError, scores_with_average, validate_scale
 from inference import config
 from inference.config import MAX_RETRIES, RETRY_BACKOFF_BASE
@@ -121,11 +124,13 @@ def _judge_chat(client: OpenAI, model: str, system: str, user: str,
             kwargs: dict = {
                 "model": model,
                 "messages": [
-                    {"role": "system", "content": system},
+                    {"role": "system", "content": ensure_json_prompt(system)},
                     {"role": "user",   "content": user},
                 ],
-                "response_format": response_format,
             }
+            fmt = effective_response_format(model, response_format)
+            if fmt is not None:
+                kwargs["response_format"] = fmt
             if cur_temp is not None:
                 kwargs["temperature"] = cur_temp
             # Apply the configured OpenRouter routing and reasoning settings.
@@ -154,6 +159,11 @@ def _judge_chat(client: OpenAI, model: str, system: str, user: str,
                 )
             return content, usage
         except Exception as e:                       # noqa: BLE001
+            if note_response_format_rejection(model, response_format, e):
+                logger.info(
+                    f"[judge] {model} rejected response_format; "
+                    "retrying with a compatible fallback")
+                continue
             if "temperature" in str(e) and cur_temp is not None:
                 _MODELS_REJECT_TEMPERATURE.add(model)
                 logger.info(f"[judge] {model} rejects custom temperature; dropping")

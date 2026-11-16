@@ -4,20 +4,24 @@
     "intrapersonal": {
       "matched": [
         {
-          "set_a_axis": "From absent object to externally imposed symbolic communion",
-          "set_b_axis": "From absent projection to mediated relational symbol",
-          "overlap_description": "Both describe Dulcinea as lacking independent interiority and becoming increasingly defined through others' projections, especially as a symbolic relational figure rather than an autonomous self."
+          "set_a_axis": "Agency–Communion (attributed)",
+          "set_b_axis": "Agency–Communion Objecthood",
+          "overlap_description": "Both track Dulcinea's status as an object of projection with no independent agency or reciprocal communion, from a nominal sovereign/object to a staged mouthpiece/erased referent. Both note the flat intrapsychic arc due to lack of interiority."
         }
       ],
       "unique_to_a": [
         {
-          "axis": "From absent object to externally imposed symbolic communion",
+          "axis": "Ontological solidity",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "Authority of her virtue",
           "assessment": "valid_missed"
         }
       ],
       "unique_to_b": [
         {
-          "axis": "From absent projection to mediated relational symbol",
+          "axis": "Non-Self-Awareness",
           "assessment": "valid_missed"
         }
       ]
@@ -25,25 +29,36 @@
     "relational": {
       "matched": [
         {
-          "set_a_axis": "From unknown woman to totalized object of chivalric fusion",
-          "set_b_axis": "From imagined beloved to narrated cause of action",
-          "overlap_description": "Both track the same Don Quixote relation: a one-sided idealization that grows from simple projection into a structuring symbolic bond governing vows, suffering, and identity."
-        },
-        {
-          "set_a_axis": "From no relation to coerced symbolic dependence",
-          "set_b_axis": "From absent ideal to manipulated emblem",
-          "overlap_description": "Both describe Sancho's indirect, instrumental engagement with Dulcinea, shifting from mere awareness to coercive or pragmatic use of her name in the disenchantment plot."
+          "set_a_axis": "Testimonial trust",
+          "set_b_axis": "Fraudulent Dependence",
+          "overlap_description": "Both track Sancho's role from trusted envoy/familiar witness to confessed fabricator and unpaid debtor, with trust destroyed and replaced by fraudulent dependence."
         }
       ],
       "unique_to_a": [
         {
-          "axis": "From no relation to coerced symbolic dependence",
+          "axis": "Reciprocity / intimacy (to Quixote)",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "Esteem (reverent vs. defensive) (to Quixote)",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "Esteem (concrete vs. comparative) (to Sancho)",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "Rival displacement (to Dorothea)",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "Instrumental notoriety (to Duchess)",
           "assessment": "valid_missed"
         }
       ],
       "unique_to_b": [
         {
-          "axis": "From literary reference to theatrical prop",
+          "axis": "Devotional Centrality (to Quixote)",
           "assessment": "valid_missed"
         }
       ]
@@ -53,55 +68,312 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "agency-communion",
-      "axis_name": "From absent projection to mediated relational symbol",
-      "pole_start": "Purely an externally constructed ideal: no independent agency, no self-assertion, and no direct consciousness; she exists only as a projected beloved.",
-      "pole_end": "Still largely non-agentic, but increasingly framed as a relational symbol with a mediated social function in Don Quixote's fantasies and the courtly prank machinery.",
+      "dimension_label": "Agency–Communion Objecthood",
+      "axis_name": "From Nominal Sovereign to Staged Mouthpiece: agency remains counterfeit, communion remains unilateral",
+      "pole_start": "A pure object of Don Quixote's projective communion, invented as a lady with no independent agency or reciprocal relational warmth; her 'agency' is grammatical only.",
+      "pole_end": "Still a relational object, never an agent; her one apparent agentic scene (the ducal masque) is ventriloquized, and by the end even her objecthood dissolves into pastoral pretext and omission from Quixote's dying words.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "flat",
       "trajectory": [
         {
-          "phase": "Initial idealization and absence",
+          "phase": "Pure nominal object",
           "chapter_range": [
             1,
-            27
+            6
           ],
-          "position_description": "Dulcinea is introduced only through Don Quixote's renaming and devotion. She has no direct speech, action, or self-awareness, and remains an absent object of projection rather than a participating subject.",
+          "position_description": "Dulcinea exists as an invoked name in prefatory verse and then as Quixote's fabrication laid over Aldonza Lorenzo. She initiates nothing and reciprocates nothing; her 'agency' is grammatical only.",
           "key_moments": [
-            "Aldonza Lorenzo is renamed Dulcinea del Toboso",
-            "She is repeatedly invoked as the recipient of vows and praise",
-            "No independent interiority is shown"
+            "Chapter 1: named in commendatory verse as an absent lady.",
+            "Chapter 2: invented by Quixote as a name 'musical, uncommon, and significant.'",
+            "Chapter 3: invoked as scornful princess who 'drove him forth.'",
+            "Chapter 6: renamed into borrowed literary fictions such as Xarifa."
           ]
         },
         {
-          "phase": "Mediated social function",
+          "phase": "Functional talisman and ventriloquized will",
           "chapter_range": [
-            28,
-            87
+            7,
+            39
           ],
-          "position_description": "Her image becomes more socially embedded as Sancho, the duke and duchess, and Don Quixote use her name strategically. She is still non-agentic, but now functions as a shared symbolic reference point in comic and chivalric performance.",
+          "position_description": "Her name acquires operative force: prayed to before combat, used as legal receipt, destination for defeated men, forged in letters. Agency belongs entirely to Quixote, Sancho, the curate, and the barber.",
           "key_moments": [
-            "Sancho fabricates replies and uses her name pragmatically",
-            "The duke and duchess exploit her image in courtly deception",
-            "Don Quixote's enchantment narrative makes her a public symbol"
+            "Chapter 11: Sancho uses her name as a brake on Quixote's oath.",
+            "Chapter 21: Quixote commends himself to her beside God before the fulling hammers.",
+            "Chapter 23: freed convicts refuse the errand to El Toboso and commute it to Ave Marias.",
+            "Chapter 26: Quixote admits he pictures her as he would have her be.",
+            "Chapter 28: the curate invents a command in her name.",
+            "Chapter 31: Sancho confesses the embassy was invented.",
+            "Chapter 32: Sancho invents a laughing Dulcinea and a torn letter."
           ]
         },
         {
-          "phase": "Enchanted embodiment and final fixation",
+          "phase": "Admitted fiction and displacement",
           "chapter_range": [
-            88,
+            31,
+            62
+          ],
+          "position_description": "Her non-agency becomes explicit: letters undelivered or reconstructed, Sancho confesses he never truly saw her, Quixote concedes she may be imaginary. She is a destination, legal condition, and forgery, not a subject. Dorothea displaces her as addressee of knightly deeds.",
+          "key_moments": [
+            "Chapter 31: Sancho confesses the embassy was invented.",
+            "Chapter 32: Sancho invents a laughing Dulcinea and a torn letter.",
+            "Chapter 47: she becomes a prophecy's cipher: white dove, womb, future whelps.",
+            "Chapter 49: her name is reduced to a conjuring formula Quixote silences.",
+            "Chapter 52: Leandra is given speech, desire, error, and consequence; Dulcinea is given none.",
+            "Chapter 61: Quixote forbids the wheat-sifting memory and relocates her to a palace.",
+            "Chapter 62: Quixote admits he loves her 'solely by hearsay.'"
+          ]
+        },
+        {
+          "phase": "Counterfeit body and staged voice",
+          "chapter_range": [
+            53,
+            94
+          ],
+          "position_description": "She acquires a grave, a counterfeit peasant body, and finally a speaking role in the ducal masque. Yet every apparent act is authored by others: the epitaph by academicians, the peasant body by Sancho, the voice and tears by the duke and duchess.",
+          "key_moments": [
+            "Chapter 53: an epitaph declares 'Here Dulcinea lies,' assigning her a death she never chose.",
+            "Chapter 61: El Toboso is reached, but she does not appear.",
+            "Chapter 63: Sancho stages a peasant girl as the enchanted Dulcinea.",
+            "Chapter 76: in the cave she flees and begs by proxy for six reals.",
+            "Chapter 84: Quixote publicly testifies she is enchanted into 'the most ill-favoured peasant wench'.",
+            "Chapter 85: the Duchess proposes she may be 'an imaginary lady'; belief in her becomes a household policy.",
+            "Chapter 88: she speaks in Merlin's masque, demanding Sancho's lashes.",
+            "Chapter 89: the masque is revealed as a ducal drollery; Merlin is a majordomo."
+          ]
+        },
+        {
+          "phase": "Deferred debt and final erasure",
+          "chapter_range": [
+            94,
             127
           ],
-          "position_description": "She is briefly given a performed voice in the disenchantment pageant, but this remains externally scripted. The novel ends with her still fundamentally dependent on others' projections and not truly agentic.",
+          "position_description": "She is almost wholly offstage: a postponed whipping, a curse, a pastoral name, an unpaid score. The fraudulent 'disenchantment' is announced without her presence, and Quixote's recovery of reason dissolves the world that housed her. She neither acts nor is granted a final word.",
           "key_moments": [
-            "Merlin's pageant voices a distressed Dulcinea",
-            "The disenchantment plot makes her the object of Sancho's penance",
-            "Later chapters continue to invoke her as Don Quixote's final ideal"
+            "Chapter 93: her disenchantment is scheduled for 'leisure hours.'",
+            "Chapter 103: Sancho is said to have forgotten the disenchantment entirely.",
+            "Chapter 110: Altisidora curses her to remain enchanted forever.",
+            "Chapter 113: attempted coerced flogging; sworn promise of voluntary penance; disenchantment deferred again.",
+            "Chapter 125: Sancho's lashes are counted against trees; her cure is declared accomplished by fraud.",
+            "Chapter 126: she becomes a pastoral pretext rather than a woman to be found.",
+            "Chapter 127: Quixote dies sane; Dulcinea is absent from his confession, will, and dying words."
           ]
         }
       ],
-      "evidence_summary": "Dulcinea shows almost no genuine intrapersonal development because she is not sustained as an interior consciousness in the novel. Across the text, she remains overwhelmingly communion-defined and relationally constructed, with no independent agency emerging."
+      "evidence_summary": "Dulcinea has no interiority in the text. On the agency–communion axis she never becomes an agent and never enters reciprocal communion; she is only the object of others' projections, errands, forgeries, and staged performances. The apparent 'voice' in Chapter 88 is counterfeit, so the arc remains flat."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Ontological Solidity",
+      "axis_name": "From Corporeal Neighbour to Vanished Referent: the erosion of Aldonza into a pure name",
+      "pole_start": "A real, locatable person with body, labour, lineage and a loud voice — Aldonza Lorenzo, daughter of Lorenzo Corchuelo and Aldonza Nogales, who flings a crowbar, hackles flax, threshes grain and jokes with everybody (Sancho's testimony, ch26 and ch32).",
+      "pole_end": "A reputation with no verifiable referent: 'nothing in the world but an imaginary lady' (ch85), whose only documentary form by ch94 is the phrase 'white dove' on a placard, and whose existence is something a household agrees to 'believe.'",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Earthy particularity",
+          "chapter_range": [
+            26,
+            26
+          ],
+          "position_description": "Highest ontological solidity: Sancho names her family, her strength, her voice, her work. The ideal and the person are still visibly the same woman, and Quixote's refusal to let the facts alter the ideal is the first crack.",
+          "key_moments": [
+            "Chapter 26: Sancho identifies her as Aldonza Lorenzo and describes her concretely; Quixote insists she is 'as good as the most exalted princess on earth'."
+          ]
+        },
+        {
+          "phase": "Documentary failure",
+          "chapter_range": [
+            31,
+            32
+          ],
+          "position_description": "Her paper existence is annihilated: the letter is torn unread, she can neither read nor write, no reply ever existed, and her messenger has never seen her. The narration states flatly that 'Dulcinea' has no empirical referent.",
+          "key_moments": [
+            "Chapter 31: Sancho confesses he carried no letter and forgot the memorized text.",
+            "Chapter 32: invented embassy — wheat-sifting, illiteracy, cheese over the yard wall — which Quixote transfigures into pearls and Sabaean odour.",
+            "Chapter 32: 'Sancho knew Dulcinea to be a peasant girl... and had never seen her in all his life'.",
+            "Chapter 32: her silence is redefined as decorum, so her interiority need never be consulted."
+          ]
+        },
+        {
+          "phase": "Hearsay confessed",
+          "chapter_range": [
+            61,
+            62
+          ],
+          "position_description": "The referent dissolves at her own doorstep: Sancho's eyewitness wheat-sifting is classed as an enchanter's fraud, and Quixote admits he has never seen her house or her face. She is now constituted by circulating report.",
+          "key_moments": [
+            "Chapter 61: the wheat-sifting is reclassified as diabolical distortion; she 'must have been' at needlework.",
+            "Chapter 62: 'enamoured solely by hearsay'; Sancho retracts his eyewitness claim."
+          ]
+        },
+        {
+          "phase": "Contested existence",
+          "chapter_range": [
+            83,
+            87
+          ],
+          "position_description": "Her being becomes a proposition to be voted on: printed fame brings her to a ducal drawing room where she is called possibly imaginary, denied outright by a churchman, confessed a hoax by Sancho, and then re-imposed as true by ducal decree and staged pageantry.",
+          "key_moments": [
+            "Chapter 83: the Duchess knows her from the printed First Part as a catalogue entry.",
+            "Chapter 84: the ecclesiastic names 'enchanted Dulcineas' among things that do not exist.",
+            "Chapter 85: 'an imaginary lady... begot in his own brain'; Quixote's counter-claim that she is 'the daughter of her own works'.",
+            "Chapter 86: Sancho confesses the enchantment was his invention — 'no more truth in it than over the hills of Úbeda'.",
+            "Chapter 86: the Duchess restores her reality by fiat."
+          ]
+        },
+        {
+          "phase": "Pure sign",
+          "chapter_range": [
+            94,
+            113
+          ],
+          "position_description": "She survives only as inscription and memory: a placard's 'white dove,' and a remembered image of a country wench on a she-ass that Quixote cannot reconcile with the lady he worships.",
+          "key_moments": [
+            "Chapter 94: Merlin's decree names her only as 'the white dove'.",
+            "Chapter 113: Quixote broods on her as last 'seen' in the cave, skipping on her ass."
+          ]
+        }
+      ],
+      "evidence_summary": "The novel systematically subtracts every empirical warrant for her: no letter delivered, no reading, no reply, no sighting by her own envoy, no sighting even by her lover. What begins as a named peasant woman with a family and a threshing floor ends as a phrase on a lance and a thing a duchess promises to 'believe.' A flat interior arc — she never learns she is being invented — recorded as steady ontological erosion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Authority of Virtue",
+      "axis_name": "From Doctrinal Chastity to Contested Costume: the ideal's moral authority deflating into performance",
+      "pole_start": "Her virtue is unquestionable doctrine: she is incapable of betrayal, 'as the mother that bore her,' and her silence is decorous modesty that others must respect and never question.",
+      "pole_end": "Her virtue is legible as a role authored by men and worn like a costume — publicly mocked as 'prudery' by ordinary women, demonstrated as improvisable by Dorothea, doubted as a fiction by a duchess, and formally reduced to a squire's lie about pearls and wheat.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Inviolable decorum",
+          "chapter_range": [
+            27,
+            32
+          ],
+          "position_description": "Her chastity functions as a premise that forecloses any interior life and licenses speaking for her: modesty explains silence, and silence excuses the absence of consent.",
+          "key_moments": [
+            "Chapter 27: her fidelity asserted as absolute, used to select Quixote's role.",
+            "Chapter 32: 'Dulcinea is so decorous that she does not wish her thoughts to be known'."
+          ]
+        },
+        {
+          "phase": "Domestic critique",
+          "chapter_range": [
+            33,
+            38
+          ],
+          "position_description": "Ordinary women judge the archetype heartless; Dorothea wears and drops queenship at will; the Moorish lady insists on her own name. The ideal is measured against living women and found to be a performance.",
+          "key_moments": [
+            "Chapter 33: the landlord's daughter condemns 'cruel ladies' as pointless prudery — 'if it is for honour's sake, why not marry them?'",
+            "Chapter 38: Dorothea sustains and discards invented sovereignty to manage a madman.",
+            "Chapter 38: María's tearful insistence on her own name stands as a foil to Dulcinea's imposed one."
+          ]
+        },
+        {
+          "phase": "Public contestation",
+          "chapter_range": [
+            83,
+            86
+          ],
+          "position_description": "Her virtue's authority becomes a debating point at court: her lineage is mocked, her existence doubted, her enchantment confessed a hoax, and her 'good name' legally injured by a squire's fabrication — then repaired only as a game.",
+          "key_moments": [
+            "Chapter 85: the duke scorns her lineage; the duchess proposes 'belief' in her as a household policy.",
+            "Chapter 86: the duchess charges that Sancho's wheat-sifting report prejudiced 'the peerless Dulcinea's good name'.",
+            "Chapter 86: Sancho admits the enchantment was invented to escape a scolding."
+          ]
+        },
+        {
+          "phase": "Theatrical virtue",
+          "chapter_range": [
+            87,
+            87
+          ],
+          "position_description": "Her condition and her restoration are absorbed into a staged pageant with devils and triumphal cars: the ideal's moral seriousness is fully converted into aristocratic entertainment.",
+          "key_moments": [
+            "Chapter 87: she is announced as enchanted cargo on a triumphal car, her remedy scripted by the duke and duchess."
+          ]
+        }
+      ],
+      "evidence_summary": "No inward moral change is possible for a character given no consciousness; what changes is the standing of the virtue she embodies. Quixote's decorum is successively translated by other women into prudery, by Dorothea into costume, by a duke into bad lineage and by a duchess into 'belief' — a doctrine becomes a performance. Confidence is medium because the axis is carried by the novel's surrounding commentary rather than by anything Dulcinea says or does."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Non-Self-Awareness",
+      "axis_name": "From Unwitting Construct to Unwitting Construct: self-knowledge never develops",
+      "pole_start": "Dulcinea begins with no interiority, no beliefs of her own, and no awareness that she has been named, invented, or loved by hearsay.",
+      "pole_end": "She ends exactly as unaware: she never learns that she is a fiction, never learns of Sancho's fraud, never learns that the disenchantment was staged, and never learns that Quixote's recovery of reason dissolves her. The text closes without granting her a single moment of self-recognition.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "No interior to know with",
+          "chapter_range": [
+            1,
+            26
+          ],
+          "position_description": "She is a name and a fabricated beloved. The narrative never enters her, so self-awareness is not merely absent but structurally impossible.",
+          "key_moments": [
+            "Chapter 2: Aldonza Lorenzo 'never knew it nor gave a thought to the matter.'",
+            "Chapter 10: her first concrete attribute is a marginal joke about salting pigs.",
+            "Chapter 14: Quixote admits he 'cannot say positively' whether she is pleased.",
+            "Chapter 26: she is identified as Aldonza Lorenzo, illiterate and unaware of Quixote's gaze."
+          ]
+        },
+        {
+          "phase": "Documented without knowledge",
+          "chapter_range": [
+            27,
+            52
+          ],
+          "position_description": "Facts accumulate around her—illiteracy, a letter she cannot read, forged commands, an epitaph—but none reaches her consciousness. Knowledge about her grows; her knowledge of herself does not.",
+          "key_moments": [
+            "Chapter 27: Quixote appends 'del Toboso' and later admits the verse would be unintelligible without it.",
+            "Chapter 28: the curate supplies her with a forged command and confirms she cannot read.",
+            "Chapter 38: she survives only as the phrase 'his lady's scorn.'",
+            "Chapter 47: she is given a prophetic womb and future without being consulted."
+          ]
+        },
+        {
+          "phase": "Performed interiority, no self-knowledge",
+          "chapter_range": [
+            53,
+            90
+          ],
+          "position_description": "She receives a body, an epitaph, a counterfeit peasant double, and a speaking masque role, but she never knows that these are performances. Her apparent feelings are authored by others.",
+          "key_moments": [
+            "Chapter 53: strangers bury her in verse and epitaph without her consent.",
+            "Chapter 63: a peasant girl is enthroned as her and speaks only to refuse.",
+            "Chapter 76: she flees from being addressed in the cave.",
+            "Chapter 88: she voices scripted grief and demands lashes from Sancho.",
+            "Chapter 89: the reader learns Merlin is the duke's majordomo; she never does."
+          ]
+        },
+        {
+          "phase": "Erasure without recognition",
+          "chapter_range": [
+            91,
+            127
+          ],
+          "position_description": "Her disenchantment is postponed, forgotten, fraudulently completed, and finally voided by Quixote's sanity. She never appears to learn any of it. The book ends without giving her a final scene or a moment of insight.",
+          "key_moments": [
+            "Chapter 103: Sancho has 'forgotten all about' the disenchantment.",
+            "Chapter 110: Altisidora wishes her permanently enchanted.",
+            "Chapter 125: her cure is certified by lashes laid on trees.",
+            "Chapter 126: an omen says she will never be seen; the pastoral scheme replaces rescue with verse.",
+            "Chapter 127: Quixote dies sane and does not mention her in his will or final confession."
+          ]
+        }
+      ],
+      "evidence_summary": "Across the summaries Dulcinea is repeatedly described as having no interiority, no beliefs, no desires, and no self-awareness. Even when she is given scripted speech and staged emotion, the text withholds any moment in which she knows herself or her situation. This axis is therefore flat by design."
     }
   ],
   "relational_axes": [
@@ -110,152 +382,479 @@
       "axis_id": "final_rel_01",
       "source_character": "Dulcinea del Toboso",
       "target_character": "Don Quixote",
-      "dimension_label": "devotional mediation",
-      "axis_name": "From imagined beloved to narrated cause of action",
-      "pole_start": "A purely idealized beloved who exists only as the object of Don Quixote's devotion and fantasy.",
-      "pole_end": "A more elaborately mediated symbolic partner whose name organizes his vows, penance, suffering, and final renunciation, though still without reciprocal consciousness.",
+      "dimension_label": "Reciprocity/Intimacy",
+      "axis_name": "From Presumed Mutual Bond to Confessed Soliloquy",
+      "pole_start": "An ostensibly reciprocal courtship: embassies are planned, letters written, a reply awaited, a love of twelve years' standing with four modest encounters behind it.",
+      "pole_end": "An openly unilateral devotion: the lover confesses he has never seen her or crossed her threshold and loves her 'solely by hearsay,' while weeping over an enchanted peasant he cannot restore.",
       "confidence": "high",
-      "source": "both",
-      "arc_direction": "flat",
+      "source": "event_only",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Foundational ideal and naming",
+          "phase": "Courtship assumed",
           "chapter_range": [
-            1,
-            27
+            22,
+            26
           ],
-          "position_description": "Dulcinea is entirely a projection of Don Quixote's chivalric imagination; the relationship is one-way devotion with no evidence of her own response.",
+          "position_description": "The relation is treated by Quixote as a functioning bond with a real addressee; he plans to send her a verse letter and speaks of their modest glances as a shared history.",
           "key_moments": [
-            "Her name is created and elevated by Don Quixote",
-            "She is invoked as the source of his courage and suffering",
-            "No direct reciprocity is shown"
+            "Chapter 22: she is the standard against which Helen is measured.",
+            "Chapter 24: a verse letter to her is promised to Sancho as messenger.",
+            "Chapter 26: the four sightings in twelve years and the admission that he imagines her as he would have her be."
           ]
         },
         {
-          "phase": "Instrument of vows, penance, and public action",
+          "phase": "Embassy and forgery",
           "chapter_range": [
             28,
-            87
+            32
           ],
-          "position_description": "Her role expands as Don Quixote uses her name to authorize actions, justify penance, and interpret enchantment. She becomes the organizing center of his self-conception and public conduct.",
+          "position_description": "Contact is simulated entirely: a forged spoken command, then a fabricated visit, an undelivered letter and an unread one. The correspondence that appeared to constitute intimacy is shown never to have existed.",
           "key_moments": [
-            "Letters and messages are addressed to her",
-            "Her supposed enchantment motivates schemes involving Don Quixote and Sancho",
-            "Courtly figures exploit her name in staged deceptions"
+            "Chapter 28: a reply and a summons are authored for her.",
+            "Chapter 31: the letter was never carried; no reply can ever have existed.",
+            "Chapter 32: the invented embassy of wheat, sweat and cheese which Quixote transfigures into pearls."
           ]
         },
         {
-          "phase": "Enchantment, rescue fantasy, and final reaffirmation",
+          "phase": "Rhetorical displacement",
           "chapter_range": [
-            88,
-            127
+            30,
+            47
           ],
-          "position_description": "She remains the final and exclusive beloved, now tied to disenchantment, suffering, and deathbed renunciation. The relationship is still one-sided but more emotionally charged and terminal.",
+          "position_description": "She is honoured as a clause, a battle-cry and an oracle while Quixote's obedience migrates to Micomicona; the relation is conducted in her name by others.",
           "key_moments": [
-            "The pageant and disenchantment plot center on her",
-            "Sancho's lashes are meant to restore her",
-            "Don Quixote's final vows and renunciation still orbit her name"
+            "Chapter 30: she becomes a legal reservation on the Micomicona boon.",
+            "Chapter 45: her name is absent entirely; permission is sought of Dorothea.",
+            "Chapter 47: a false prophecy of marriage and sons is read as her guarantee."
+          ]
+        },
+        {
+          "phase": "Hearsay confessed",
+          "chapter_range": [
+            61,
+            62
+          ],
+          "position_description": "At her own doorstep the fiction of reciprocity is dismantled by Quixote himself; the bond is declared to rest on reputation alone, and Sancho withdraws his corroboration.",
+          "key_moments": [
+            "Chapter 61: her real employment is overruled as an enchanter's fraud.",
+            "Chapter 62: 'I have never seen her in my life... enamoured solely by hearsay'."
+          ]
+        },
+        {
+          "phase": "Fidelity without presence",
+          "chapter_range": [
+            84,
+            113
+          ],
+          "position_description": "Devotion reaches maximum intensity at maximum distance: he testifies publicly that she is enchanted into a hideous peasant, vows endless tears, and finally attempts to coerce Sancho's flogging to restore her.",
+          "key_moments": [
+            "Chapter 84: he confesses she is 'turned into the most ill-favoured peasant wench'.",
+            "Chapter 85: 'daughter of her own works' — he defends her being rather than her person.",
+            "Chapter 113: attempted forced flagellation to end her enchantment fails; the rescue is deferred."
           ]
         }
       ],
-      "evidence_summary": "The relationship with Don Quixote is the only one with sustained significance, but it is structurally one-sided throughout. Dulcinea never becomes an autonomous partner; she remains the imagined beloved whose symbolic function deepens over time."
+      "evidence_summary": "This is the novel's cleanest trackable relational decline: every apparent channel of contact (letter, messenger, forged reply, embassy, visit) is exposed as fabricated or void, and Quixote himself names the relation hearsay at ch62. The trajectory is one-directional — intimacy thins as rhetoric inflates — which is why confidence is high."
     },
     {
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "Dulcinea del Toboso",
-      "target_character": "Sancho Panza",
-      "dimension_label": "comic mediation",
-      "axis_name": "From absent ideal to manipulated emblem",
-      "pole_start": "An absent, unknown lady whose existence is only meaningful through Don Quixote's fantasy.",
-      "pole_end": "A heavily manipulated emblem used by Sancho for practical jokes, bargaining, and the disenchantment plot, still without any direct reciprocal relation.",
-      "confidence": "high",
-      "source": "both",
-      "arc_direction": "flat",
+      "target_character": "Don Quixote",
+      "dimension_label": "Esteem (Reverent vs Defensive)",
+      "axis_name": "From Celebrated Beauty to Militantly Defended Abstraction",
+      "pole_start": "Esteem expressed as lyric celebration: her beauty is the measure of all beauty, her name a synonym for the peerless, offered freely and with pleasure.",
+      "pole_end": "Esteem expressed as ideology under siege: she must be vindicated by blows, by forced confessions from rivals, by 'all comparisons are odious,' and by the assertion that her virtue 'rectifies blood' — worship as enforcement.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
       "trajectory": [
         {
-          "phase": "Background absence and indirect awareness",
+          "phase": "Lyric hyperbole",
           "chapter_range": [
-            1,
+            22,
             27
           ],
-          "position_description": "Sancho knows her only as Don Quixote's lady; she is a distant name with no direct relational content.",
+          "position_description": "Her superlative status is asserted for pleasure and ornament, requiring no defence because no one contests it.",
           "key_moments": [
-            "Sancho hears and repeats her name",
-            "He contrasts her with Aldonza Lorenzo",
-            "No direct relationship exists"
+            "Chapter 22: Helen would not be so famous had Dulcinea lived then.",
+            "Chapter 27: her name becomes a verse refrain on tree bark."
           ]
         },
         {
-          "phase": "Practical manipulation and coerced responsibility",
+          "phase": "Blows for her name",
           "chapter_range": [
-            28,
-            87
+            31,
+            32
           ],
-          "position_description": "Sancho increasingly uses her name in letters, lies, and bargaining, while also being drawn into responsibility for her supposed condition. She becomes a tool within his comic pragmatism and a burden imposed by the enchantment story.",
+          "position_description": "Esteem becomes combative for the first time: Sancho's comparison with Dorothea earns a beating, and her worth is declared the efficient cause of Quixote's valour.",
           "key_moments": [
-            "Sancho fabricates replies",
-            "He leverages her name to manage Don Quixote",
-            "Merlin frames her restoration as dependent on Sancho's penance"
+            "Chapter 31: Sancho says she is 'not half as fair' as Dorothea.",
+            "Chapter 31: 'she fights in me and conquers in me' — esteem converted to doctrine.",
+            "Chapter 32: every coarse detail alchemised into proof of perfection."
           ]
         },
         {
-          "phase": "Disenchantment instrument and persistent leverage",
+          "phase": "Worship of the enchanted",
           "chapter_range": [
-            88,
-            127
+            61,
+            84
           ],
-          "position_description": "She becomes the explicit justification for Sancho's lashes and the central token in the enchantment/disenchantment bargain. The connection remains external, coercive, and non-mutual, even as it is used for comic pressure and narrative leverage.",
+          "position_description": "His esteem must now survive his own reports of her degradation: an enchanter is blamed for the wheat, and he publicly testifies to her hideous peasant form while maintaining her peerlessness.",
           "key_moments": [
-            "Merlin's pageant speaks in her name",
-            "Sancho is pressured to scourge himself for her restoration",
-            "Her name remains a practical and comic lever"
+            "Chapter 61: the wheat-sifting attributed to an envious enchanter.",
+            "Chapter 76: 'all comparisons are odious' — Montesinos must retract a comparison.",
+            "Chapter 84: peerless lady publicly confessed to be enchanted into a wench."
+          ]
+        },
+        {
+          "phase": "Enforcement",
+          "chapter_range": [
+            85,
+            113
+          ],
+          "position_description": "Esteem is legalistic and defensive: she is defended against doubters as 'the daughter of her own works,' her lineage argued at a ducal table, and her standing finally pursued through a coerced flogging.",
+          "key_moments": [
+            "Chapter 85: 'virtues rectify blood'; vow of ceaseless tears.",
+            "Chapter 86: ducal decree reinstates her beauty and eventual proper form.",
+            "Chapter 113: an attempted forced penance undertaken on her behalf."
           ]
         }
       ],
-      "evidence_summary": "Sancho's relation to Dulcinea is not intimate but instrumental. Over time, he moves from merely repeating her name to actively manipulating it, yet this is a change in use rather than in mutual relationship."
+      "evidence_summary": "The level of Quixote's esteem never falls — it is the *character* of that esteem that changes, from spontaneous lyric praise to a creed requiring violence, legal argument and ducal ratification. Confidence is medium because the shift is tonal and rhetorical rather than a change in rank on the dimension."
     },
     {
       "axis_type": "relational",
       "axis_id": "final_rel_03",
       "source_character": "Dulcinea del Toboso",
-      "target_character": "Duke and Duchess",
-      "dimension_label": "courtly exploitation",
-      "axis_name": "From literary reference to theatrical prop",
-      "pole_start": "A literary and chivalric reference point known only through Don Quixote's story.",
-      "pole_end": "A theatrical prop in the duke and duchess's elaborate mockery, used to stage enchantment, rivalry, and social performance.",
+      "target_character": "Don Quixote",
+      "dimension_label": "Devotional Centrality",
+      "axis_name": "From Sole Devotional Object to Dispensable Literary Pretext",
+      "pole_start": "Dulcinea begins as Quixote's invented, singular lady: the absent beloved whose name licenses knight-errantry and whose imagined scorn or favor organizes his quest. She is relationally central, but entirely as an object of his devotion.",
+      "pole_end": "She ends as a dissolved pretext. Quixote's recovery of reason folds her into the 'dark shadows' of his madness; he does not renounce her with contempt, but he omits her from his confession, will, and dying words. The relation is not broken by her but dissolved with the fiction that housed it.",
       "confidence": "medium",
       "source": "psych_only",
-      "arc_direction": "flat",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Reference point and social amusement",
+          "phase": "Invented lady",
           "chapter_range": [
-            83,
-            87
+            1,
+            6
           ],
-          "position_description": "The duke and duchess treat Dulcinea as part of the Don Quixote legend, using her name to frame their amusement and courtly play.",
+          "position_description": "She is created in Quixote's mind and invoked in borrowed literary forms. Her centrality is absolute in rhetoric but abstract in fact.",
           "key_moments": [
-            "They discuss and praise her in conversation",
-            "Her identity is folded into their knowledge of Don Quixote",
-            "She becomes a topic for social performance"
+            "Chapter 2: Quixote invents Dulcinea as his lady.",
+            "Chapter 3: he calls her 'Princess Dulcinea' and accuses her of scorn.",
+            "Chapter 5: her beauty becomes an article of faith to be confessed without seeing her.",
+            "Chapter 6: she is renamed into the ballad and Moorish Xarifa."
           ]
         },
         {
-          "phase": "Theatrical prop and staged manipulation",
+          "phase": "Patron, tribunal, and destination",
           "chapter_range": [
-            88,
+            7,
+            30
+          ],
+          "position_description": "Her name is used to bless combat, judge defeated men, and serve as a legal receipt. Quixote's relation to her is functionally central but increasingly administrative.",
+          "key_moments": [
+            "Chapter 9: he commends himself to her before the windmills and Biscayan.",
+            "Chapter 10: the Biscayan is sent to her as judge.",
+            "Chapter 11: Sancho uses her name to stop Quixote's oath.",
+            "Chapter 21: Quixote commends himself to her beside God.",
+            "Chapter 23: freed convicts are ordered to El Toboso and refuse."
+          ]
+        },
+        {
+          "phase": "Admitted authorship and mediated devotion",
+          "chapter_range": [
+            31,
+            52
+          ],
+          "position_description": "Quixote admits he pictures her as he would have her be, and her name is handled through forged letters, invented replies, and legal conditions. She remains central, but the relation is openly mediated by fraud and literary convention.",
+          "key_moments": [
+            "Chapter 26: Quixote says, 'I picture her in my imagination as I would have her to be.'",
+            "Chapter 31: Sancho confesses the embassy was invented.",
+            "Chapter 32: Sancho invents a Dulcinea who laughs at the Knight of the Rueful Countenance.",
+            "Chapter 47: Quixote decodes a prophecy into her womb and future sons.",
+            "Chapter 49: her name becomes a conjuration he silences."
+          ]
+        },
+        {
+          "phase": "Search, counterfeit, and enchantment",
+          "chapter_range": [
+            53,
+            76
+          ],
+          "position_description": "She becomes a problem to be solved: an epitaph, a searched-for address, a counterfeit peasant, and an enchantment to be undone. Quixote's devotion remains absolute, but it is increasingly directed at a condition rather than a person.",
+          "key_moments": [
+            "Chapter 53: academicians bury her in epitaph.",
+            "Chapter 61: Quixote forbids the wheat-sifting memory and relocates her to a palace.",
+            "Chapter 63: he kneels to a peasant girl as the enchanted Dulcinea.",
+            "Chapter 64: he proposes an experiment to test who can see her.",
+            "Chapter 76: in the cave she flees from him and begs by proxy."
+          ]
+        },
+        {
+          "phase": "Theatrical and economic disenchantment",
+          "chapter_range": [
+            77,
+            125
+          ],
+          "position_description": "Her cure becomes a ducal entertainment and then a negotiated payment in Sancho's lashes. Quixote defends her name, but his devotion becomes elegiac, pastoral, and finally fraudulent in its 'completion.'",
+          "key_moments": [
+            "Chapter 85: Quixote concedes 'God knows whether there be any Dulcinea or not.'",
+            "Chapter 88: she appears in Merlin's masque demanding Sancho's lashes.",
+            "Chapter 110: Altisidora curses her to remain enchanted.",
+            "Chapter 117: Quixote is defeated while defending her beauty and bound to a year of peace.",
+            "Chapter 125: Sancho's tree-whipping is counted as her cure."
+          ]
+        },
+        {
+          "phase": "Dissolution",
+          "chapter_range": [
+            126,
             127
           ],
-          "position_description": "Her image is staged, impersonated, and weaponized in the enchantment/disenchantment plot, making her a tool of aristocratic manipulation rather than a person.",
+          "position_description": "She becomes a pastoral name to be carved on trees rather than a woman to be found. When Quixote recovers reason and dies, she is absent from his will and final words; the relation ends not by rejection but by the collapse of the fiction that sustained it.",
           "key_moments": [
-            "Merlin's pageant presents a voiced Dulcinea",
-            "The duchess uses her name to sustain the prank",
-            "Her supposed condition becomes part of the court's spectacle"
+            "Chapter 126: Quixote plans a pastoral life and verse; an omen says Dulcinea will never be seen.",
+            "Chapter 127: Quixote says he was mad and is now sane; Dulcinea is omitted from his confession, will, and death."
           ]
         }
       ],
-      "evidence_summary": "The duke and duchess do not relate to Dulcinea as a person but as a narrative device. Their interaction is best understood as exploitation of her symbolic value for entertainment and control."
+      "evidence_summary": "The relation is trackable chiefly from Quixote's side, since Dulcinea has no reciprocal interiority. It moves from singular devotional object to legal/tribunal instrument, to enchantment problem, to theatrical/economic cipher, to final omission. Because her own attitude is never represented, confidence is medium."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_04",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Sancho Panza",
+      "dimension_label": "Testimonial Trust/Fraud",
+      "axis_name": "From Trusted Envoy to Confessed Fabricator and Unpaid Debtor",
+      "pole_start": "He is her knowledgeable neighbour and appointed ambassador: he can name her parents, describe her strength and voice, and is trusted to carry a letter and return her reply.",
+      "pole_end": "He is the confessed inventor of her enchantment and her wheat-sifting, whose word about her is worthless and whose last link to her is a debt of lashes he keeps deferring.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Trusted envoy and familiar witness",
+          "chapter_range": [
+            11,
+            30
+          ],
+          "position_description": "Sancho uses Dulcinea's name as a limit on Quixote's behavior and as the destination of errands. He is functionally her courier and speaks of her with earthy affection and rough praise.",
+          "key_moments": [
+            "Chapter 11: Sancho calls her 'my lady Dulcinea del Toboso' and uses her name to stop Quixote's oath.",
+            "Chapter 21: Sancho is designated her messenger in the event of Quixote's death.",
+            "Chapter 23: her errand is refused and converted into prayers.",
+            "Chapter 26: Sancho reveals her as Aldonza Lorenzo, a farm girl he knows."
+          ]
+        },
+        {
+          "phase": "Fabrication and first breach",
+          "chapter_range": [
+            27,
+            35
+          ],
+          "position_description": "Sancho becomes the chief fabricator of her responses: he loses the letter, reconstructs it from memory, invents her reply, and confesses he never truly viewed her. Her relation to him becomes mediated by forgery.",
+          "key_moments": [
+            "Chapter 27: Sancho misremembers and reconstructs the letter.",
+            "Chapter 31: he confesses the embassy was invented and that he never saw her.",
+            "Chapter 32: he invents a Dulcinea who laughs and tears the letter.",
+            "Chapter 35: he admits he never saw her 'at my leisure.'"
+          ]
+        },
+        {
+          "phase": "Counterfeit body and enchantment",
+          "chapter_range": [
+            61,
+            69
+          ],
+          "position_description": "Sancho stages a peasant girl as Dulcinea and invents her physical charms. Her 'body' in the text becomes his improvisation, while she remains unaware.",
+          "key_moments": [
+            "Chapter 61: Sancho dreads locating her house in El Toboso.",
+            "Chapter 62: he confesses his earlier 'sighting' was hearsay.",
+            "Chapter 63: he presents a village girl as the enchanted Dulcinea.",
+            "Chapter 64: Quixote corrects Sancho's description of her eyes and teeth."
+          ]
+        },
+        {
+          "phase": "Debtor and evader",
+          "chapter_range": [
+            70,
+            90
+          ],
+          "position_description": "Her disenchantment becomes dependent on Sancho's lashes. He refuses, evades, and treats the debt as an imposition, while the ducal masque turns her demand into a staged coercion of his body.",
+          "key_moments": [
+            "Chapter 70: Quixote commends himself to her before the lions and makes Sancho her legatee.",
+            "Chapter 76: she flees in the cave while Sancho laughs at his own invention.",
+            "Chapter 88: the masque-Dulcinea demands 3,300 lashes from Sancho.",
+            "Chapter 89: Sancho gives himself only five strokes with his bare hand."
+          ]
+        },
+        {
+          "phase": "Haggling, tree-whipping, and final refusal",
+          "chapter_range": [
+            91,
+            127
+          ],
+          "position_description": "Sancho converts her release into a transaction, haggles over the price, and finally 'pays' by whipping trees. Her cure is fraudulently completed in name while she remains absent. He remains the only character still promising her restoration, but his promise is a habit of fidelity to Quixote rather than a working cure.",
+          "key_moments": [
+            "Chapter 93: he postpones her whipping to 'leisure hours.'",
+            "Chapter 103: he is said to have forgotten the disenchantment.",
+            "Chapter 124: he haggles at 825 reals and whips beech trees.",
+            "Chapter 125: he claims to be 'very well whipped'; Quixote counts the fraud as triumph.",
+            "Chapter 126: Sancho turns an omen into a joke and presses a hare into Quixote's arms as Dulcinea.",
+            "Chapter 127: Sancho promises they may find Dulcinea disenchanted behind a bush; Quixote declines the fantasy and dies sane."
+          ]
+        }
+      ],
+      "evidence_summary": "Trust is measurably destroyed by explicit authorial statement: the narrator flatly reports that Sancho 'had never seen her in all his life,' and Sancho later confesses the enchantment and the wheat-sifting were his inventions. What survives is not testimony but a transactional debt. Confidence high because the disclosures are overt and dated."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_05",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Sancho Panza",
+      "dimension_label": "Esteem (Concrete vs Comparative)",
+      "axis_name": "From Earthy Affection to Fluctuating Comparison",
+      "pole_start": "Esteem grounded in concrete familiarity: a strong, loud, funny woman he has known all his life and praises for real qualities.",
+      "pole_end": "Esteem expressed only as a comparative ranking that swings with circumstance — demoted below Dorothea, equated with the Duchess, restored to 'fairest creature in the world' when it suits a defence.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Concrete praise",
+          "chapter_range": [
+            26,
+            26
+          ],
+          "position_description": "He values her as a person he knows: her crowbar-throw, her voice from the belfry, her joking.",
+          "key_moments": [
+            "Chapter 26: the farm-girl description offered as rough affection."
+          ]
+        },
+        {
+          "phase": "Demotion",
+          "chapter_range": [
+            31,
+            32
+          ],
+          "position_description": "He measures her against Dorothea and finds her wanting, then reduces her to a caricature of sweat and cheese in the very act of praising her industry.",
+          "key_moments": [
+            "Chapter 31: 'not half as fair' — publicly demoted from peerless.",
+            "Chapter 32: the winnowing, illiterate, cheese-giving peasant of his invention."
+          ]
+        },
+        {
+          "phase": "Reinstatement by comparison",
+          "chapter_range": [
+            83,
+            84
+          ],
+          "position_description": "Her rank is again set by comparison — equated with the Duchess, then asserted as supreme in a court that has just called her enchanted and hideous.",
+          "key_moments": [
+            "Chapter 83: 'the Duchess is in no way behind her'.",
+            "Chapter 84: 'the fairest creature in the world' — leaping onto an ass like a cat."
+          ]
+        }
+      ],
+      "evidence_summary": "Esteem is real but volatile and entirely comparative; it moves from the texture of acquaintance to the arithmetic of ranking, losing all content beyond 'fairer' or 'not so fair.' Confidence medium because the oscillation could also be read as constant, merely inarticulate, affection."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_06",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "Dorothea (Princess Micomicona)",
+      "dimension_label": "Rival Displacement",
+      "axis_name": "From Unwitting Usurper to Self-Styled Servant: homage as erasure",
+      "pole_start": "A stranger who, costumed as a princess in distress, takes over the functional role of the lady who commands knightly service — without ever knowing Dulcinea's name.",
+      "pole_end": "The usurper publicly styles herself Dulcinea's servant and well-wisher, a deference that seals rather than repairs the displacement, since she commands the oath and the knees.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Functional usurpation",
+          "chapter_range": [
+            30,
+            31
+          ],
+          "position_description": "Dorothea receives the boon, the vow and the service that Dulcinea's name had formerly commanded, and is openly judged the fairer of the two.",
+          "key_moments": [
+            "Chapter 30: the Micomicona boon displaces her as addressee of knightly deeds.",
+            "Chapter 31: Sancho measures them and finds Dorothea superior."
+          ]
+        },
+        {
+          "phase": "Homage as erasure",
+          "chapter_range": [
+            31,
+            38
+          ],
+          "position_description": "Dorothea declares herself Dulcinea's servant and prays for her behalf while occupying the saddle and the story; her own queenship is shown to be a costume she can wear and drop.",
+          "key_moments": [
+            "Chapter 31: 'I know nothing of that lady Toboso save that she is her servant'.",
+            "Chapter 38: invented sovereignty worn and re-worn at will, undercutting Dulcinea's imagined rank."
+          ]
+        }
+      ],
+      "evidence_summary": "The axis is one of structural antagonism without contact: Dorothea performs the lady-function more effectively than the lady herself and cheapens aristocratic identity in the process. Confidence medium because the rivalry is never acknowledged by either woman."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_07",
+      "source_character": "Dulcinea del Toboso",
+      "target_character": "the Duchess",
+      "dimension_label": "Instrumental Notoriety",
+      "axis_name": "From Printed Name to Staged Spectacle",
+      "pole_start": "A name the Duchess knows only from the printed First Part — a catalogue entry in another man's story, discussed as a curiosity.",
+      "pole_end": "A theatrical property: the Duchess pledges household-wide 'belief' in her, reinstates her enchantment as fact, and stages her triumphal arrival in a pageant of devils and cars.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Printed acquaintance",
+          "chapter_range": [
+            83,
+            84
+          ],
+          "position_description": "She enters the Duchess's world as literary reputation; the Duchess asks for trophies and treats her as a fixture of a story to be played with.",
+          "key_moments": [
+            "Chapter 83: 'a certain Dulcinea del Toboso' — the name confirmed from print.",
+            "Chapter 84: the Duchess asks what presents of vanquished giants she has lately received."
+          ]
+        },
+        {
+          "phase": "Belief as policy",
+          "chapter_range": [
+            85,
+            86
+          ],
+          "position_description": "The Duchess proposes that Dulcinea may be imaginary, then converts belief in her into an amused decree, and finally re-imposes the enchantment as authoritative truth after Sancho's confession.",
+          "key_moments": [
+            "Chapter 85: 'an imaginary lady... begot in his own brain'; promise that all her household will 'believe'.",
+            "Chapter 86: 'knowledge from good authority' that the wench on the ass is Dulcinea, enchanted through no fault of her own."
+          ]
+        },
+        {
+          "phase": "Staged apotheosis",
+          "chapter_range": [
+            87,
+            87
+          ],
+          "position_description": "Her condition and her cure are absorbed into a ducal spectacle: she is announced as enchanted cargo on a triumphal car, delivered to Quixote for instruction.",
+          "key_moments": [
+            "Chapter 87: a demon-courier announces her arrival; her fate is scripted entirely by the ducal pair."
+          ]
+        }
+      ],
+      "evidence_summary": "This is the sharpest late-stage relational change: a stranger acquires near-total authorial control over Dulcinea's public being — deciding whether she exists, whether she is enchanted, and how she shall appear. Confidence high because the Duchess's interventions are explicit, sequential and self-consciously theatrical."
     }
   ]
 }

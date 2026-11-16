@@ -5,182 +5,196 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_01",
-      "dimension_label": "Agency-Communion",
-      "axis_name": "From dependent squire to self-possessed practical negotiator",
-      "pole_start": "Sancho begins strongly communion-leaning: he attaches himself to Don Quixote for reward, companionship, and shared adventure, with his identity largely defined by service and dependence.",
-      "pole_end": "He ends with stronger agency while remaining relationally attached: he can govern, bargain, resist coercion, set limits, and define himself as Sancho rather than as a mere appendage to Quixote.",
+      "dimension_label": "Agency–communion balance",
+      "axis_name": "From dependent ambition to self-asserting interdependence",
+      "pole_start": "Sancho enters service as a reward-seeking laborer who defines his worth through a patron's promises, defers to Quixote, imagines elevation to governor or king, treats the bond as a contract, and sets few boundaries over his labor or body.",
+      "pole_end": "He asserts bodily, economic, and moral boundaries, negotiates, governs and resigns, claims to be 'my own lord,' yet chooses loyal, affectionate interdependence with Quixote and his family rather than either pure dependence or pure self-interest.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Recruitment and hopeful dependence",
+          "phase": "Hopeful dependence and contractual ambition",
           "chapter_range": [
             8,
-            12
+            18
           ],
-          "position_description": "Sancho joins Quixote for promised advancement, but the bond is still marked by trust, deference, and opportunistic hope.",
+          "position_description": "He leaves home for a promised island, treats service as a bargain, imagines himself as governor and his wife as queen, yet remains utterly dependent on Quixote's promises for worth.",
           "key_moments": [
-            "Accepts the island promise and sets out as squire",
-            "Balances hope with practical jokes about family and comfort",
-            "Already shows a practical self-interest that will later support agency"
+            "Leaves wife and children for the promised island",
+            "Reminds Quixote of the governorship after the battle",
+            "Defends Quixote's truthfulness while privately doubting Dulcinea"
           ]
         },
         {
-          "phase": "Skeptical endurance and tactical self-protection",
+          "phase": "Self-protective assertion",
           "chapter_range": [
-            16,
+            19,
             33
           ],
-          "position_description": "Repeated beatings, hunger, and danger push Sancho toward self-protective agency. He stays attached, but increasingly negotiates, corrects, and manages risk rather than simply following.",
+          "position_description": "He begins refusing suicidal combat and dangerous remedies, tallies his losses, demands concrete wages, protects his body and property, and privately resolves to go home.",
           "key_moments": [
-            "Warns Quixote about real danger and bodily consequences",
-            "Bargains over wages, balsam, and rewards",
-            "Plans conditional withdrawal while continuing to serve"
+            "Refuses to fight commoners and declares himself a peaceable family man",
+            "Curses the balsam after it nearly kills him",
+            "Demands wages rather than vague promises and plans to leave"
           ]
         },
         {
-          "phase": "Opportunistic self-fashioning",
+          "phase": "Covert agency and complicit management",
           "chapter_range": [
-            55,
-            63
+            34,
+            58
           ],
-          "position_description": "Sancho becomes more self-conscious about his public image and more willing to manage deception. He shapes narratives around Dulcinea, his own ambitions, and the printed story of his adventures.",
+          "position_description": "He steers Quixote through cunning and fabrication, pushes the Micomicona marriage and a county, and asserts grievances while remaining tethered by intimacy and dependence.",
           "key_moments": [
-            "Learns his story is in print and reacts defensively",
-            "Uses the false Dulcinea scheme strategically",
-            "Speaks more openly about his own limits and prospects"
+            "Fabricates the Dulcinea letter report to manage Quixote",
+            "Defends his spoils by force and insists he is no thief",
+            "Boasts at home of future office while admitting adventures end badly"
           ]
         },
         {
-          "phase": "Governorship and self-assertion",
+          "phase": "Negotiated autonomy",
           "chapter_range": [
-            97,
-            106
+            59,
+            73
           ],
-          "position_description": "Sancho reaches a peak of agency in Barataria: he governs, judges, resists humiliation, and insists on his own identity and limits.",
+          "position_description": "He sets conditions for service, bargains over wages, feels replaceable, then tearfully recommits; he publicly defends his own judgment and material interests.",
           "key_moments": [
-            "Accepts and performs the governorship",
-            "Issues practical judgments and ordinances",
-            "Rejects the office when it becomes unsustainable"
+            "Wage demand refused; feels replaceable",
+            "Tearfully recommits after fearing replacement",
+            "Declares 'I stick to Camacho' and expounds a Haves/Haven'ts philosophy"
           ]
         },
         {
-          "phase": "Return to chosen dependence",
+          "phase": "Office, authority, and renunciation",
           "chapter_range": [
-            107,
+            85,
+            108
+          ],
+          "position_description": "He exercises authority as governor, asserts his dignity against mockery, then renounces office and chooses simple freedom and loyal service.",
+          "key_moments": [
+            "Judges the cane case and is hailed as a Solomon",
+            "Is starved by Doctor Recio and trampled in the mock assault",
+            "Renounces the governorship, saying he entered naked and leaves naked"
+          ]
+        },
+        {
+          "phase": "Final interdependent loyalty",
+          "chapter_range": [
+            120,
             127
           ],
-          "position_description": "After abandoning office, Sancho does not become passive again; instead, he chooses a more mature dependence on Quixote, grounded in clearer self-knowledge and stronger boundaries.",
+          "position_description": "He refuses coerced penance yet remains at Quixote's deathbed, exercising agency within deep relational loyalty.",
           "key_moments": [
-            "Rejects further ambition in favor of ordinary life",
-            "Returns to Quixote by choice",
-            "Mourns Quixote's death with genuine attachment"
+            "Refuses the Dulcinea whipping as 'trick upon trick'",
+            "Stays at the bedside and begs Quixote not to die",
+            "Accepts Quixote's public praise and bequest"
           ]
         }
       ],
-      "evidence_summary": "Sancho's arc moves from relationally driven dependence toward a more self-possessed practical agency that still values communion. He ends more autonomous in judgment, but not less attached.",
+      "evidence_summary": "Sancho moves from a dependent, reward-seeking and status-ambitious follower to a self-asserting companion who negotiates, refuses, governs, resigns, and still chooses affectionate service. Both analyses agree the endpoint is interdependence—agency exercised within loyalty—rather than either pure independence or continued dependence.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sancho Panza’s development from comic dependent to increasingly autonomous practical intelligence. Structural and character-critical readings repeatedly note that Sancho acquires governing, bargaining, and interpretive agency while remaining relationally bound to Don Quixote, so the proposed arc matches a recognized pattern in Cervantine criticism.",
+            "reasoning": "The axis is grounded in established Cervantine criticism that treats Sancho as undergoing a gradual psychological and moral transformation: from a contract-bound, reward-seeking dependent to a more self-aware and ethically autonomous figure who nonetheless remains relationally tied to Quixote. Madariaga's mutual-influence thesis, Predmore's character analysis, and Johnson's materialist reading of the governorship all support this internal arc.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
                 "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sancho as a figure whose practical intelligence and growing self-definition complicate his initial role as a merely dependent squire.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "url": null,
+                "relevance": "Argues that Sancho undergoes a psychological transformation through contact with Quixote, becoming less merely self-interested and more ethically self-aware, which is central to this axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that treats Sancho as increasingly independent and pragmatically authoritative, especially in relation to his governance and resistance to Quixote's fantasies.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "author": "Predmore, Richard L.",
+                "title": "The World of Don Quixote",
+                "year": 1967,
+                "publication": "Harvard University Press",
+                "url": null,
+                "relevance": "Analyzes Sancho's gradual growth in judgment and moral stature, including his governorship and his changing relation to Quixote.",
+                "search_url": "https://scholar.google.com/scholar?q=Predmore%2C+Richard+L.+The+World+of+Don+Quixote+1967"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing reads Sancho’s narrative function as evolving from servant-companion to a more self-possessed agent whose practical judgments shape the novel’s action.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Reads Sancho's material ambitions and governorship as central to his emerging economic and moral self-assertion rather than as mere comic greed.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published criticism does support reading Sancho Panza as developing from a dependent, appetite-driven squire into a more self-possessed practical agent. Scholars repeatedly note that he moves beyond mere service to Quixote into a distinctive voice of judgment, bargaining, and self-definition, even while preserving attachment and loyalty. This makes the agency-communion shift psychologically plausible and well grounded in the scholarship.",
+            "reasoning": "The axis is well grounded in psychological and character-centered Cervantes criticism: Sancho's gradual transformation from contract-bound dependent to morally self-asserting yet loyal companion is a standard topic in studies of the novel. Critics have described his 'quixotification,' his material and economic negotiating, and the governorship as a testing ground for self-knowledge and ethical agency. These accounts support the proposed movement toward self-asserting interdependence rather than pure dependence or pure self-interest.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Sancho's growing independence and practical intelligence, showing how he becomes more than a comic servant and increasingly acts as a negotiator and self-defining presence.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Madariaga's influential account of the mutual 'quixotification' of Sancho and 'sanchification' of Quixote directly supports a reading of Sancho's internal development toward greater self-assertion within an interdependent bond.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close traces criticism that treats Sancho as evolving from comic dependence toward a more autonomous and psychologically complex figure, especially in relation to his practical judgment and loyalty.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "author": "Sullivan, Henry W.",
+                "title": "Grotesque Purgatory: A Study of Cervantes's Don Quixote, Part II",
+                "year": 1996,
+                "publication": "University Park: Pennsylvania State University Press",
+                "url": null,
+                "relevance": "Sullivan reads Part II, including Sancho's governorship and resignation, as a process of moral testing and self-knowledge, supporting the axis's claim about Sancho's self-asserting ethical maturation.",
+                "search_url": "https://scholar.google.com/scholar?q=Sullivan%2C+Henry+W.+Grotesque+Purgatory%3A+A+Study+of+Cervantes%27s+Don+Quixote%2C+Part+II+1996"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing's analysis of Sancho emphasizes his increasing narrative and practical agency, including his capacity to speak for himself and to resist being reduced to a mere appendage of Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "Urbana: University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson's materialist analysis treats Sancho's wages, economic interests, and negotiations as central to his agency and his changing relationship with Quixote, supporting the axis's economic-boundary dimension.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sancho Panza’s development across Don Quixote, especially readings that treat him as moving from comic dependence and material self-interest toward a more autonomous, judgmental, and politically capable self. Critics have long noted that Sancho does not simply remain Quixote’s appendage: his governorship, bargaining, and increasingly independent speech mark a real expansion of agency while preserving relational attachment.",
+            "reasoning": "The axis is well grounded in published Cervantes criticism: psychological readings of Sancho trace a movement from appetite and contractual reward-seeking toward moral self-assertion and affectionate interdependence with Quixote. Materialist and character-centered scholarship further supports the economic, bodily, and governorship dimensions of Sancho's arc, including his negotiation of labor, status, and resignation from office.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel emphasizes Sancho’s growth in practical intelligence and the way his role shifts from servant-like dependence to a more self-aware and capable participant in the action.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Classic psychological reading of Sancho's evolution from self-interest and appetite toward loyalty and mutual influence with Quixote.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Auerbach, Erich",
-                "title": "Mimesis: The Representation of Reality in Western Literature",
-                "year": 1946,
-                "publication": "Princeton University Press",
-                "relevance": "Auerbach’s discussion of Cervantes is frequently used to frame Sancho as a figure whose comic subordination is complicated by increasing realism, social intelligence, and practical self-possession.",
-                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that reads Sancho as developing beyond mere comic servitude into a more independent and morally textured character, especially in relation to his governorship and growing authority.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Analyzes Sancho's economic motives, labor, and governorship as material negotiations, supporting the shift from contract-bound dependence to self-asserting boundaries.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
                 "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s analysis of narrative structure and characterization supports the view that Sancho acquires greater agency over the course of the novel, including the ability to negotiate, resist, and define himself apart from Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Synthesizes Sancho's character arc, including his governorship, resignation, and enduring affectionate interdependence with Quixote and his family.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               }
             ]
           }
@@ -190,185 +204,201 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_02",
-      "dimension_label": "Belief-Skepticism",
-      "axis_name": "From practical disbelief to strategic, hardened skepticism",
-      "pole_start": "Sancho begins as a commonsense realist who sees Quixote's world as deluded and dangerous, though he is willing to entertain the promises enough to join the adventure.",
-      "pole_end": "He ends deeply skeptical of enchantment, chivalric interpretation, and courtly fantasy, while still able to perform belief tactically when it serves survival, loyalty, or profit.",
+      "dimension_label": "Credulity vs skepticism",
+      "axis_name": "From credulous chivalric belief to pragmatic empiricism",
+      "pole_start": "He believes in the promised island or county, Quixote's chivalric explanations, magical remedies like the balsam, and the grand Dulcinea narrative.",
+      "pole_end": "He judges by practical evidence and bodily experience, openly doubts Quixote's sanity, rejects omens and grand promised rewards, though he still uses enchantment language tactically and retains an appetite for fantasy.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Hopeful partial belief",
+          "phase": "Credulous hope",
           "chapter_range": [
             8,
-            12
+            15
           ],
-          "position_description": "Sancho accepts the island fantasy enough to follow, but his realism is already present as comic skepticism.",
+          "position_description": "He accepts the island promise and values magical shortcuts as concrete rewards, trusting Quixote as a man of quality.",
           "key_moments": [
-            "Believes in promised island or governorship",
-            "Jokes about his wife's suitability for queenship",
-            "Warns Quixote about ordinary reality"
+            "Believes Quixote will make him governor",
+            "Renounces the island temporarily for the balsam recipe's profit",
+            "Doubts Dulcinea privately but defends Quixote's general truthfulness"
           ]
         },
         {
-          "phase": "Repeated correction by experience",
+          "phase": "First shocks to judgment",
           "chapter_range": [
             16,
-            24
+            33
           ],
-          "position_description": "Beatings, legal danger, and obvious misreadings make Sancho more skeptical and more insistent on bodily evidence.",
+          "position_description": "Beatings, the balsam's effects, and Quixote's rage teach him that chivalric remedies and judgments are unreliable.",
           "key_moments": [
-            "Recognizes the cost of Quixote's delusions",
-            "Insists windmills and friars are ordinary things",
-            "Treats pain and punishment as real"
+            "The balsam nearly kills him and he curses it",
+            "Is struck for mocking the fulling mills and self-censors afterward",
+            "Says squires 'sup sorrow' while knights get glory"
           ]
         },
         {
-          "phase": "Strategic disbelief",
+          "phase": "Reward illusions collapse",
           "chapter_range": [
-            26,
-            50
+            34,
+            58
           ],
-          "position_description": "Sancho no longer believes fantasy as truth, but he participates in it as a practical strategy, using enchantment language when it helps him survive or profit.",
+          "position_description": "He gains money but sees the Micomicona fiction collapse; skepticism about grand promised rewards hardens even as hope briefly revives.",
           "key_moments": [
-            "Calls Dulcinea a village woman while maintaining the fiction",
-            "Uses enchantment explanations to manage Quixote",
-            "Insists on bodily evidence against illusions"
+            "Admits he wept because Dorothea was not really Queen Micomicona",
+            "Openly accuses the curate and barber of staged trickery",
+            "Argues that enchanted people do not eat, drink, or answer questions"
           ]
         },
         {
-          "phase": "Governorship and post-fantasy realism",
+          "phase": "Manipulative enchantment and residual belief",
           "chapter_range": [
-            97,
-            126
+            59,
+            88
           ],
-          "position_description": "Sancho's skepticism becomes experiential and durable: he knows what office, pain, and public performance really cost, and he is no longer tempted by fantasy as belief.",
+          "position_description": "He fabricates Dulcinea's enchantment, concludes Quixote is mad, and uses enchantment tactically to protect his own lie.",
           "key_moments": [
-            "Rejects governorship as his true calling after experiencing it",
-            "Treats omens and courtly games as practical nonsense",
-            "Returns home-oriented and materially grounded"
+            "Passes off peasant girls as Dulcinea and her damsels",
+            "Concludes Quixote is stark mad after the cave story",
+            "Feels vindicated when the ape says the cave story was partly false"
+          ]
+        },
+        {
+          "phase": "Hard-won realism",
+          "chapter_range": [
+            89,
+            127
+          ],
+          "position_description": "He judges office by experience, rejects omens, and sees Quixote's madness clearly, though a residual appetite for fantasy persists at the deathbed.",
+          "key_moments": [
+            "Calls ambition misery and prefers his simple trade after office fails",
+            "Dismisses omens and buys the cricket cage to break them",
+            "Still clings briefly to the possibility of Dulcinea's disenchantment at the deathbed"
           ]
         }
       ],
-      "evidence_summary": "Sancho moves from partial credulity to a mature skepticism that still allows tactical participation. His realism remains stable, but it becomes sharper and more explicit over time.",
+      "evidence_summary": "Sancho's arc is a long education in practical empiricism. He begins as a credulous believer in islands, balsam, and chivalric truth; by the end he regularly judges Quixote mad and trusts his senses, even if some convenient enchantment-talk and fantasy survive.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sancho Panza’s evolving relation to belief, illusion, and practical intelligence. Critics repeatedly note that Sancho begins as a commonsense peasant who is tempted by material reward, but develops a more tactical, self-aware skepticism that lets him navigate enchantment, chivalric fantasy, and courtly performance without fully surrendering to them. The arc is especially visible in structural and character-function readings that treat Sancho as a dynamic counterweight to Don Quixote rather than a static comic foil.",
+            "reasoning": "The axis is a standard psychological/structuralist reading of Sancho: critics trace his movement from gullible acceptance of Quixote’s chivalric fictions toward empirical, bodily, and economically grounded judgment, while noting his tactical use of enchantment language. The cited works discuss this same internal dimension under rubrics such as Sancho’s gradual disillusionment, material realism, and pragmatic complicity in Quixote’s fictions.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1962,
-                "publication": "Twayne Publishers",
-                "relevance": "Riley’s study of the novel’s structure and characterization discusses Sancho’s movement from rustic practicality toward a more complex, adaptive relation to Quixotic illusion and skepticism.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente",
+                "url": null,
+                "relevance": "Madariaga’s classic account of the mutual 'quijotización' and 'sanchificación' of the two protagonists traces Sancho’s psychological evolution from naive credulity toward a more experienced, ironic outlook while preserving his imaginative appetite.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that emphasizes Sancho’s changing stance toward belief and disillusionment, including his increasingly strategic use of Quixotic language and fantasy.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "Princeton University Press",
+                "url": "https://press.princeton.edu/books/paperback/9780691163367/mimesis",
+                "relevance": "The chapter 'The Enchanted Dulcinea' analyzes Sancho’s practical, bodily appraisal of reality and his tactical participation in Quixote’s enchantment fiction, directly supporting the axis’s empirical and tactical-enchantment poles.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study treats Sancho as a psychologically evolving figure whose relationship to enchantment, realism, and self-interest becomes progressively more nuanced across the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Ínsula",
+                "url": null,
+                "relevance": "Casalduero reads Sancho’s development as a process of disillusionment and moral growth, aligning with the movement from credulous chivalric expectation to pragmatic judgment.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
               },
               {
-                "author": "Bataillon, Marcel",
-                "title": "Don Quichotte et le problème de l'humanisme",
-                "year": 1950,
-                "publication": "Éditions de la Librairie Nizet",
-                "relevance": "Bataillon’s humanist reading helps support the axis by framing Sancho’s practical intelligence as a form of lived skepticism that can coexist with tactical assent to fantasy.",
-                "search_url": "https://scholar.google.com/scholar?q=Bataillon%2C+Marcel+Don+Quichotte+et+le+probl%C3%A8me+de+l%27humanisme+1950"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson emphasizes Sancho’s bodily appetites, economic concerns, and material pragmatism as an alternative to chivalric ideology, supporting the axis’s turn toward practical evidence and bodily experience.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published criticism does support reading Sancho Panza as moving from naïve, commonsense skepticism toward a more tactical and hardened skepticism. Scholars of Cervantes repeatedly note that Sancho learns to negotiate between disbelief and participation, especially as he becomes more adept at using enchantment, fantasy, and quixotic language for practical ends while remaining inwardly wary of them. This makes the axis psychologically and textually grounded in the scholarship on Sancho’s developing consciousness.",
+            "reasoning": "Published criticism on Sancho Panza treats his credulity and pragmatic empiricism as a central psychological tension, often as an evolving relation to Quixote's fictions rather than a simple one-way conversion. Madariaga's psychological essay, Auerbach's analysis of Sancho's empirical viewpoint, and Johnson's materialist reading collectively ground the axis.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sancho’s growing responsiveness to Quixote’s imaginative world and the way his practical intelligence coexists with increasing tactical participation in it.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Foundational psychological study of Sancho's evolving beliefs and his changing relation to Quixote's chivalric fantasies.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close traces critical traditions that emphasize Sancho’s movement from rustic realism toward a more complex, adaptive relation to illusion and belief.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "The 'Enchanted Dulcinea' chapter contrasts Sancho's practical, bodily empiricism with Quixote's enchantment, supporting the skeptical/pragmatic pole.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes how Sancho’s responses to enchantment and chivalric fantasy become increasingly strategic rather than simply credulous or dismissive.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Sullivan, Henry W.",
-                "title": "Don Quixote in the Archives: Madness and Literature in Early Modern Spain",
-                "year": 1996,
-                "publication": "University of Oklahoma Press",
-                "relevance": "Sullivan’s work on madness and interpretation in Cervantes helps support the idea that Sancho becomes more skeptical of interpretive fantasy while still capable of performing it when useful.",
-                "search_url": "https://scholar.google.com/scholar?q=Sullivan%2C+Henry+W.+Don+Quixote+in+the+Archives%3A+Madness+and+Literature+in+Early+Modern+Spain+1996"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Analyzes Sancho's material and economic pragmatism as a counter to chivalric promises, supporting the movement toward practical evidence.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sancho Panza’s evolving relation to illusion, belief, and practical intelligence. Critics have long noted that Sancho moves from a largely commonsense, profit-minded skepticism toward a more complex, tactical mode of assent in which he can suspend disbelief for loyalty, advantage, or survival while remaining wary of enchantment and chivalric fantasy. That development is especially visible in readings of Sancho’s growing verbal and interpretive sophistication across the novel.",
+            "reasoning": "The axis is well grounded in mainstream character criticism on Sancho Panza: scholars routinely describe his movement from credulous acceptance of Quixote’s chivalric promises toward a more empirical, bodily, and pragmatic mode of judgment. Auerbach is especially central because he treats Sancho as the novel’s counterweight of empirical reality against Quixote’s enchantment, while Madariaga and later materialist criticism track Sancho’s psychological development and practical interests. The nuance in the pole end—tactical use of enchantment language and residual fantasy—is also consistent with studies of Sancho’s perspectival and linguistic adaptability.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press (German original 1946)",
+                "url": null,
+                "relevance": "The chapter on 'The Enchanted Dulcinea' analyzes Sancho as the voice of empirical, bodily reality against Quixote's enchantment, directly supporting the credulity-to-pragmatic-empiricism axis.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
+              },
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Biblioteca Nueva",
+                "url": null,
+                "relevance": "A foundational study of Sancho's psychological evolution and reciprocal influence with Quixote, including his growing critical distance from Quixote's chivalric fantasies.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Examines Sancho's material interests and pragmatic judgments, supporting the claim that he increasingly evaluates promises and events by practical evidence rather than chivalric credulity.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "Riley, E. C.",
                 "title": "Don Quixote",
                 "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Sancho’s gradual growth in judgment and his increasingly flexible relation to Quixote’s fantasies, which supports the claim that Sancho ends as a more strategic skeptic than he begins.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to 'Don Quixote': A Critical History of the Romantic Tradition in 'Quixote' Criticism",
-                "year": 1978,
                 "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that treats Sancho as developing from earthy realism into a more complicated consciousness capable of negotiating belief and disbelief rather than simply rejecting fantasy.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+%27Don+Quixote%27%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Quixote%27+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of 'Don Quixote': Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s analysis of narrative technique and character interplay shows Sancho learning how to operate within Quixote’s world without fully endorsing it, aligning with the axis’s emphasis on tactical belief.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+%27Don+Quixote%27%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Rico, Francisco",
-                "title": "Don Quijote de la Mancha",
-                "year": 1998,
-                "publication": "Instituto Cervantes / Crítica",
-                "relevance": "Rico’s editorial and critical apparatus repeatedly emphasizes the instability of belief and interpretation in the novel, a context in which Sancho’s hardened skepticism and pragmatic accommodation become legible.",
-                "search_url": "https://scholar.google.com/scholar?q=Rico%2C+Francisco+Don+Quijote+de+la+Mancha+1998"
+                "url": null,
+                "relevance": "Discusses Sancho's character as an empirical counterweight to Quixote and his shifting balance of credulity and skepticism across the novel.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               }
             ]
           }
@@ -378,177 +408,559 @@
     {
       "axis_type": "intrapersonal",
       "axis_id": "final_intra_03",
-      "dimension_label": "Self-Image",
-      "axis_name": "From comic rustic to self-conscious public figure",
-      "pole_start": "Sancho begins as an earthy peasant squire whose identity is defined by appetite, wit, and service, and who is still largely subject to ridicule.",
-      "pole_end": "He ends as a self-aware public person who knows his name, reputation, and role in print, and who actively manages how he is seen.",
+      "dimension_label": "Ambition vs contentment",
+      "axis_name": "From grand political ambition to chastened self-accepting contentment",
+      "pole_start": "He treats an island, county, or title as the goal of service, imagines himself governor and his family elevated, studies courtly manners, and is willing to endure hardship for future elevation.",
+      "pole_end": "He declares himself unfit for governing, prefers 'Sancho Panza' and simple freedom to titles, renounces further office, and values family, food, and modest honestly-earned wealth—though he remains money-minded and status-aware.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Earthy selfhood",
+          "phase": "Elevation fantasy",
           "chapter_range": [
             8,
-            18
+            32
           ],
-          "position_description": "Sancho is bodily, practical, and only modestly reflective. He knows what he wants, but not yet how others will narrate him.",
+          "position_description": "He imagines himself governor and his wife a countess or queen, expands ambition to county, kingdom, and emperorship, and studies how to behave as a count.",
           "key_moments": [
-            "Prefers bread, onions, food, and comfort",
-            "Defines himself as peaceful and practical",
-            "Already senses his low social position"
+            "Leaves home for the promised island and reminds Quixote of it",
+            "Imagines becoming a count and advises choosing a seacoast for his kingdom",
+            "Prays Quixote becomes emperor rather than archbishop"
           ]
         },
         {
-          "phase": "Public recognition and narrative awareness",
+          "phase": "Micomicona collapse and wounded pride",
           "chapter_range": [
-            55,
-            63
+            33,
+            58
           ],
-          "position_description": "Learning that his adventures are being written changes Sancho's self-conception. He becomes aware of being watched, judged, and represented.",
+          "position_description": "The princess fiction collapses, his promised reward is exposed as illusion, yet he continues to plan for a county and a noble marriage for his daughter.",
           "key_moments": [
-            "Discovers the printed history",
-            "Objects to misrepresentation",
-            "Begins shaping his own story through letters and speeches"
+            "Admits his tears were for lost profit",
+            "Eagerly claims the county and plans to farm its revenues",
+            "Insists he will make Mari-Sancha a countess, then postpones the plan to console Teresa"
           ]
         },
         {
-          "phase": "Office and identity management",
+          "phase": "Magistrate's vanity",
           "chapter_range": [
-            97,
-            112
+            59,
+            98
           ],
-          "position_description": "As governor, Sancho insists on being Sancho Panza, not a false nobleman. He understands that clothing and office are performances, and he tries to control the image.",
+          "position_description": "He becomes puffed up before and during the governorship, boasts of being a 'principal personage' in print, and governs Barataria with confidence.",
           "key_moments": [
-            "Rejects the honorific 'Don'",
-            "Uses letters to Teresa to manage family identity",
-            "Defends his reputation against false histories"
+            "Receives the governorship of Barataria",
+            "Boasts of being a famous figure in the printed history",
+            "Threatens Doctor Recio and asserts magisterial authority"
           ]
         },
         {
-          "phase": "Final self-knowledge",
+          "phase": "Disillusion and renunciation of rank",
           "chapter_range": [
-            123,
+            99,
+            108
+          ],
+          "position_description": "Hunger, fear, and humiliation teach him office exceeds his shoulders; he renounces Barataria and reclaims his ordinary identity.",
+          "key_moments": [
+            "Is starved by Doctor Recio and terrified by the mock battle",
+            "Renounces the governorship, saying he entered and left naked",
+            "Says he is no good for governing except a drove of cattle"
+          ]
+        },
+        {
+          "phase": "Post-ambition provider",
+          "chapter_range": [
+            109,
             127
           ],
-          "position_description": "At the end, Sancho is fully aware of his bodily limits, his love of comfort, and his deep attachment to Quixote. He is no longer merely comic; he is self-defining in grief and loyalty.",
+          "position_description": "He refuses further government and Ricote's bribe, returns home with money, values simple sufficiency and family while still relishing material gain and fame.",
           "key_moments": [
-            "Negotiates the whipping as labor",
-            "Returns homeward-oriented and identity-conscious",
-            "Mourns Quixote's death with genuine emotional dependence"
+            "Refuses 200 crowns rather than betray the king",
+            "Says he would not govern the whole world",
+            "Defends the money he brings home as honestly earned"
           ]
         }
       ],
-      "evidence_summary": "Sancho rises from rustic comic function to a figure who knows he is being narrated, judged, and remembered. He becomes increasingly able to speak for himself and defend his identity.",
+      "evidence_summary": "Sancho's ambition is repeatedly inflated, punctured, and recalibrated. By the end he has abandoned political rule but not material concern, producing a chastened, self-accepting domestic contentment rather than pure renunciation—while still enjoying being the famous true Sancho.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sancho Panza’s development from a comic, bodily, and socially subordinate squire into a figure increasingly conscious of his own name, authority, and public standing. Structural and narratological criticism often treats Sancho as a character whose identity is progressively mediated by speech, performance, and the social circulation of his persona, especially in the second part of the novel where he becomes more self-reflexive about reputation and authorship. The claim is therefore supported, though it should be understood as an emergent and unstable self-consciousness rather than a simple linear maturation.",
+            "reasoning": "The axis is well grounded in published Cervantes criticism: psychological and historicist studies of Sancho treat the Barataria governorship as the central test of his political ambition and his subsequent renunciation as a turn toward self-knowledge and modest contentment. Materialist criticism also supports the axis by showing that Sancho's money-mindedness and status-awareness persist after his disillusionment.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
                 "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sancho's growing verbal autonomy and the way the squire's identity becomes increasingly self-aware and socially legible across the two parts of Don Quixote.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "url": null,
+                "relevance": "This psychological study traces Sancho Panza's inner evolution, including the tension between his ambitious fantasies and his growing self-knowledge.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in 'Don Quixote' Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that reads Sancho as more than a comic rustic, including accounts of his growing self-consciousness and his increasing claim to a distinct public identity.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+%27Don+Quixote%27+Criticism+1978"
+                "author": "Maravall, José Antonio",
+                "title": "Utopia and Counterutopia in the 'Quixote'",
+                "year": 1991,
+                "publication": "Wayne State University Press",
+                "url": null,
+                "relevance": "Maravall analyzes the Barataria governorship as a utopian political experiment whose failure chastens Sancho's ambitions and exposes the limits of his political desires.",
+                "search_url": "https://scholar.google.com/scholar?q=Maravall%2C+Jos%C3%A9+Antonio+Utopia+and+Counterutopia+in+the+%27Quixote%27+1991"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes Sancho's narrative function and the gradual complication of his persona, including his movement toward a more self-aware role within the novel's public and textual worlds.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "González Echevarría, Roberto",
-                "title": "Cervantes' Don Quixote: A Casebook",
-                "year": 2005,
-                "publication": "Oxford University Press",
-                "relevance": "This casebook includes scholarship on Sancho's evolving self-presentation and his awareness of fame, print, and the social circulation of his name.",
-                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote%3A+A+Casebook+2005"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson examines Sancho's material interests, money-mindedness, and status-consciousness, supporting the axis's claim that his later contentment remains economically and socially inflected.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "Published scholarship does support reading Sancho Panza as moving from a comic, bodily, socially subordinate rustic toward a more self-conscious figure who increasingly understands his name, public role, and the performative nature of reputation. Critics of Don Quixote have long noted Sancho’s growth in self-awareness, especially in the second part of the novel, where he becomes more reflective about honor, governance, and how he is perceived by others and by print culture.",
+            "reasoning": "The axis is well grounded in Cervantine criticism: Sancho's pursuit and eventual renunciation of the governorship has long been read as a psychological education in self-knowledge, disillusionment, and chastened contentment rather than a mere comic interlude. Critics trace his movement from illusory political ambition to a renewed appreciation of family, food, and simple freedom, while noting that his material and status concerns do not disappear.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote: ensayo psicológico sobre el Quijote",
+                "year": 1926,
+                "publication": "Madrid: Revista de Occidente",
+                "url": null,
+                "relevance": "Pioneering psychological reading of Sancho's character development, including his movement from illusory ambition toward greater self-awareness and resigned contentment.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote%3A+ensayo+psicol%C3%B3gico+sobre+el+Quijote+1926"
+              },
+              {
+                "author": "Avalle-Arce, Juan Bautista",
+                "title": "Nuevos deslindes cervantinos",
+                "year": 1975,
+                "publication": "Barcelona: Ariel",
+                "url": null,
+                "relevance": "Contains the essay 'Sancho Panza, gobernador,' which analyzes the Barataria governorship as a decisive episode in Sancho's moral and psychological maturation and his rejection of office.",
+                "search_url": "https://scholar.google.com/scholar?q=Avalle-Arce%2C+Juan+Bautista+Nuevos+deslindes+cervantinos+1975"
+              },
+              {
+                "author": "Riley, E. C.",
                 "title": "Don Quixote",
                 "year": 1986,
-                "publication": "Twayne Publishers",
-                "relevance": "Riley discusses Sancho’s development across the two parts of the novel, including his increasing self-consciousness and his movement beyond purely comic peasant identity.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "publication": "Cambridge: Cambridge University Press",
+                "url": null,
+                "relevance": "Discusses Sancho's character development and the governorship episodes as a crucial test of his ambitions, ending in his return to private life and self-acceptance.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               },
               {
                 "author": "Close, Anthony",
                 "title": "Cervantes and the Comic Mind of His Age",
                 "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Close treats Sancho as more than a rustic foil, emphasizing his growing awareness of social roles, reputation, and the comic but serious evolution of his self-presentation.",
+                "publication": "Oxford: Oxford University Press",
+                "url": null,
+                "relevance": "Analyzes the comic correction of Sancho's pretensions to govern and his gradual self-knowledge within Cervantes's ironic mode.",
                 "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 2006,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s analysis of narrative technique and character development supports the view that Sancho becomes increasingly self-aware and strategically attentive to how he appears within the story-world and in print.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+2006"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Sancho Panza’s development across Don Quixote, especially readings that track his movement from comic, bodily, and socially subordinate squire to a figure increasingly aware of his own name, authority, and public standing. Critics have long noted that Cervantes gives Sancho a growing self-consciousness, including his sensitivity to reputation, his use of proverbs and speech as self-fashioning, and his eventual assumption of an identifiable public persona in the novel’s print culture.",
+            "reasoning": "The axis is grounded in a well-established reading of Sancho Panza's arc: his comic pursuit of an ínsula and courtly self-fashioning gives way, especially after the Barataria governorship, to a chastened preference for freedom, family, and modest prosperity. Scholarship on Cervantes's character development, materialist criticism, and the comic education of Sancho supports this internal shift, even when it uses terms like 'desengaño,' 'self-knowledge,' or 'quijotización' rather than 'ambition vs. contentment.'",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sancho as a character whose comic rusticity is gradually complicated by increasing self-awareness and verbal agency, making him a key case for identity development in the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Espasa-Calpe",
+                "url": null,
+                "relevance": "Madariaga's classic study traces Sancho's reciprocal transformation across the novel, including his growing self-awareness and the moral education implicit in his governorship.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Auerbach, Erich",
-                "title": "Mimesis: The Representation of Reality in Western Literature",
-                "year": 1946,
-                "publication": "Princeton University Press",
-                "relevance": "Auerbach’s influential reading of Don Quixote treats Sancho as part of Cervantes’s shifting social realism, where comic low status is not static but becomes increasingly individualized and self-conscious.",
-                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson analyzes Sancho's material desires, money-mindedness, and status-consciousness, providing a scholarly basis for the axis's movement from acquisitive ambition to more modest contentment.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that emphasizes Sancho’s growth in dignity and self-possession, including his emergence from mere comic foil into a more self-aware participant in the novel’s public world.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Close examines the comic logic of Sancho's ambitions and disillusionment in Part II, including the governorship episode as a lesson in self-knowledge and adjusted self-perception.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Self-dignity",
+      "axis_name": "From self-deprecating deference to self-respecting assertion",
+      "pole_start": "He accepts low status, calls himself simple or an ass, hides shame, and measures his worth by others' nobility and promises.",
+      "pole_end": "He defends his name, honesty, family honor, and real identity, insists he is no thief, and claims dignity as Sancho Panza even without letters or noble blood.",
+      "confidence": "high",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Humble self-doubt",
+          "chapter_range": [
+            8,
+            14
+          ],
+          "position_description": "He is credulous and self-deprecating, doubting whether his wife or he deserve elevation and preferring practical freedom to courtly honor.",
+          "key_moments": [
+            "Doubts his wife's fitness to be queen",
+            "Prefers practical freedom to courtly honor"
+          ]
+        },
+        {
+          "phase": "Shame and concealment",
+          "chapter_range": [
+            18,
+            27
+          ],
+          "position_description": "Blanketing and humiliation make him avoid the inn that shamed him, though he asserts commoner honor when angry.",
+          "key_moments": [
+            "Is blanketed at the inn",
+            "Refuses to enter the inn that shamed him",
+            "Insists he is 'a clown like myself' with a right to satisfaction"
+          ]
+        },
+        {
+          "phase": "Defending honor and fame",
+          "chapter_range": [
+            45,
+            57
+          ],
+          "position_description": "He fights accusations of theft, learns he is in a published history, and insists on respectful treatment as an old Christian.",
+          "key_moments": [
+            "Punches the barber and denies being a highwayman",
+            "Guards his reputation in the printed history",
+            "Defends spending the hundred crowns on his family"
+          ]
+        },
+        {
+          "phase": "Gubernatorial dignity",
+          "chapter_range": [
+            85,
+            108
+          ],
+          "position_description": "As governor he asserts authority, resists mockery, and leaves office with a clear conscience and integrity.",
+          "key_moments": [
+            "Rejects the title 'Don Sancho'",
+            "Rebukes Doctor Recio and delivers an admired speech",
+            "Renounces office without shame"
+          ]
+        },
+        {
+          "phase": "Public self-defense",
+          "chapter_range": [
+            110,
+            125
+          ],
+          "position_description": "He denies theft, defends his true identity against impostors, and insists on his own worth and honesty.",
+          "key_moments": [
+            "Indignantly denies stealing the garters",
+            "Rejects the false history's caricature of him",
+            "Declares himself the real Sancho Panza and defends his drollery"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho begins as a self-doubting rustic and ends as a man who publicly defends his name, honesty, and identity. His dignity grows through shame, office, and confrontations with mockery—a distinct dimension from political ambition that Set B folded into its status axis.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is grounded in a well-established line of Quixote criticism that treats Sancho Panza as undergoing a moral and psychological evolution, moving from self-deprecating servility toward a more self-respecting sense of identity. Madariaga’s psychological essay and Casalduero’s formal-moral reading both discuss Sancho’s development in terms of growing dignity, self-awareness, and resistance to being defined solely by others.",
+            "citations": [
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote: ensayo psicológico sobre el Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente",
+                "url": "https://archive.org/details/guiadellectordel00mada",
+                "relevance": "Madariaga’s psychological reading famously describes Sancho’s 'quixotification,' a process in which Sancho acquires greater moral dignity and self-respect.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote%3A+ensayo+psicol%C3%B3gico+sobre+el+Quijote+1926"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes Sancho’s narrative and rhetorical development, including how his speech and relation to his own persona become increasingly self-conscious over the course of the novel.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Ínsula",
+                "url": null,
+                "relevance": "Casalduero traces Sancho’s evolution from a materially oriented peasant figure to a morally self-aware character who increasingly defends his own honor and identity.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is well grounded in character-centered and psychoanalytic criticism of Don Quixote. Critics trace Sancho's gradual psychological growth from comic self-abasement and deferential status-consciousness toward a more stable sense of personal worth, especially in his assertions of honesty, old-Christian identity, and family honor. Psychoanalytic and materialist readings likewise treat Sancho's shame, ambition, and later self-assertion as part of his ego development and social self-definition.",
+            "citations": [
+              {
+                "author": "Close, Anthony",
+                "title": "Cervantes: Don Quixote",
+                "year": 1990,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Close's character study traces Sancho's development from a comic, deferential squire into a figure with growing moral self-respect and independent judgment.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes%3A+Don+Quixote+1990"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Madness and Lust: A Psychoanalytic Approach to Don Quixote",
+                "year": 1983,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Johnson's psychoanalytic reading provides a framework for understanding Sancho's negotiation of shame, status, and identity within the knight-squire relationship.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Madness+and+Lust%3A+A+Psychoanalytic+Approach+to+Don+Quixote+1983"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson examines Sancho's material ambitions and his assertions of personal worth and honor against the claims of noble status.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is well grounded in Cervantine criticism: scholars commonly trace Sancho’s movement from comic self-abasement and deference toward a firmer sense of personal worth, especially in Part II and the Barataria episodes. His defense of his name, family, honesty, and “old Christian” identity is treated as part of that internal development rather than as mere comic posturing.",
+            "citations": [
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote: ensayo histórico, psicológico y crítico",
+                "year": 1926,
+                "publication": "Madrid: Revista de Occidente",
+                "url": null,
+                "relevance": "Analyzes the reciprocal 'quijotización' of Sancho and traces his growing self-confidence and moral seriousness.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote%3A+ensayo+hist%C3%B3rico%2C+psicol%C3%B3gico+y+cr%C3%ADtico+1926"
+              },
+              {
+                "author": "Casalduero, Joaquín",
+                "title": "Sentido y forma del Quijote (1605-1615)",
+                "year": 1949,
+                "publication": "Madrid: Ínsula",
+                "url": null,
+                "relevance": "Reads Sancho’s arc as a movement beyond material appetite toward a more dignified self-conception, especially in the governorship episodes.",
+                "search_url": "https://scholar.google.com/scholar?q=Casalduero%2C+Joaqu%C3%ADn+Sentido+y+forma+del+Quijote+%281605-1615%29+1949"
+              },
+              {
+                "author": "Márquez Villanueva, Francisco",
+                "title": "Personajes y temas del Quijote",
+                "year": 1975,
+                "publication": "Barcelona: Taurus",
+                "url": null,
+                "relevance": "Examines Sancho’s sense of honor and his defense of his family and Old Christian identity as part of his self-assertion.",
+                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+              },
+              {
+                "author": "Predmore, Richard L.",
+                "title": "The World of Don Quixote",
+                "year": 1967,
+                "publication": "Cambridge, MA: Harvard University Press",
+                "url": null,
+                "relevance": "Discusses Sancho’s developing self-awareness and moral stature over the course of the novel.",
+                "search_url": "https://scholar.google.com/scholar?q=Predmore%2C+Richard+L.+The+World+of+Don+Quixote+1967"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_05",
+      "dimension_label": "Self-interest vs conscience",
+      "axis_name": "From opportunistic self-interest to conscience-guarded moral reasoning",
+      "pole_start": "He grabs spoils, hides windfalls, fabricates to manage Quixote, and measures actions by immediate material advantage.",
+      "pole_end": "He still acts pragmatically and sometimes deceptively, but increasingly governs with mercy and honesty, values a clear conscience, and refuses clearly corrupt gain while retaining comic lapses.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Opportunistic spoils and reward calculus",
+          "chapter_range": [
+            8,
+            32
+          ],
+          "position_description": "He treats service as a bargain, seeks spoils, keeps found money, and invents the Dulcinea report to secure advantage.",
+          "key_moments": [
+            "Tries to strip the fallen friar and is beaten",
+            "Keeps the valise's gold with delight and conceals it",
+            "Fabricates the Dulcinea letter delivery"
+          ]
+        },
+        {
+          "phase": "Self-justifying deception",
+          "chapter_range": [
+            33,
+            64
+          ],
+          "position_description": "He lies to protect himself and manage Quixote, ties spoils and wages to legitimate service and family need, while showing flashes of compassion.",
+          "key_moments": [
+            "Stages the enchanted Dulcinea fraud",
+            "Claims the pack-saddle as fair war spoils and the hundred crowns as earned",
+            "Shows brief charity to Andres"
+          ]
+        },
+        {
+          "phase": "Just governor",
+          "chapter_range": [
+            97,
+            106
+          ],
+          "position_description": "In office he unexpectedly governs with practical mercy, protects the poor, punishes fraud, and renounces office with clean hands.",
+          "key_moments": [
+            "Judges cases by evidence and draws up ordinances protecting the poor",
+            "Declares he will govern without bribes",
+            "Renounces office without profit after the mock assault"
+          ]
+        },
+        {
+          "phase": "Integrity and relapse",
+          "chapter_range": [
+            107,
+            127
+          ],
+          "position_description": "He refuses Ricote's bribe and insists he is no thief, but later fakes the lashes for money—conscience real but not absolute.",
+          "key_moments": [
+            "Refuses 200 crowns rather than betray the king",
+            "Accepts being thought a fool rather than a thief",
+            "Pretends to whip himself and lashes trees for payment"
+          ]
+        }
+      ],
+      "evidence_summary": "Sancho's moral arc is mixed but real: he moves from casual opportunism toward a conscience that refuses obvious betrayal and values honest rule, while retaining pragmatic deception when he feels exploited or vulnerable.",
+      "literary_validation": {
+        "validation_tag": "valid_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": true,
+            "reasoning": "The axis is broadly grounded in published criticism: scholars trace Sancho's psychological movement from appetite and material calculation toward a more reflective moral sense, especially in the governorship episodes. Studies of his 'quixotization' and of Barataria treat his mercy, honesty, and self-restraint as part of character development, while still acknowledging his comic pragmatism and residual deceptions.",
+            "citations": [
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Traces Sancho's psychological evolution and his gradual 'quixotization,' supporting the claim of internal moral development beyond mere material self-interest.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
+              },
+              {
+                "author": "Unamuno, Miguel de",
+                "title": "Vida de Don Quijote y Sancho",
+                "year": 1905,
+                "publication": "Madrid: Librería de Fernando Fe",
+                "url": null,
+                "relevance": "Discusses Sancho's transformation in relation to Quixote's idealism, treating his character as capable of moral and spiritual growth.",
+                "search_url": "https://scholar.google.com/scholar?q=Unamuno%2C+Miguel+de+Vida+de+Don+Quijote+y+Sancho+1905"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Analyzes Sancho's economic self-interest and the Barataria governorship, illuminating the movement from material calculation toward a more ethically governed conduct.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Surveys Sancho's character development, including the governorship and his comic but increasingly conscientious moral reasoning.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "Published criticism commonly treats Sancho Panza as undergoing a genuine internal moral development, especially in Part II, where his governorship becomes an ethical test rather than merely a comic episode. Psychological and character-centered readings trace his movement from material calculation and opportunistic deception toward practical wisdom, mercy, and a clearer conscience, while still acknowledging his comic lapses. The axis is therefore well grounded in scholarship on Sancho's psychological and moral evolution.",
+            "citations": [
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "This psychological study traces Sancho's reciprocal 'quixotification,' including his moral growth from material calculation toward a more ethical outlook.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
+              },
+              {
+                "author": "Levin, Harry",
+                "title": "The Wisdom of Sancho Panza",
+                "year": 1969,
+                "publication": "Cervantes: A Collection of Critical Essays, edited by Lowry Nelson Jr., Prentice-Hall",
+                "url": null,
+                "relevance": "Levin analyzes Sancho's proverbial practical wisdom as a form of moral reasoning that develops beyond mere self-interest.",
+                "search_url": "https://scholar.google.com/scholar?q=Levin%2C+Harry+The+Wisdom+of+Sancho+Panza+1969"
+              },
+              {
+                "author": "Sullivan, Henry W.",
+                "title": "Grotesque Purgatory: A Study of Cervantes's Don Quixote, Part II",
+                "year": 1996,
+                "publication": "Pennsylvania State University Press",
+                "url": null,
+                "relevance": "Sullivan reads Part II, especially Sancho's governorship, as a purgatorial ethical trial that leads Sancho toward self-knowledge and conscience.",
+                "search_url": "https://scholar.google.com/scholar?q=Sullivan%2C+Henry+W.+Grotesque+Purgatory%3A+A+Study+of+Cervantes%27s+Don+Quixote%2C+Part+II+1996"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is grounded in a well-established critical tradition that reads Sancho Panza as undergoing an internal moral and psychological development, especially from comic materialism toward practical wisdom and mercy. Madariaga's classic psychological essay explicitly describes Sancho's 'quixotization,' while materialist and character-centered studies analyze the tension between his appetites and his ethical conduct. Critics debate the degree and consistency of this change, but the axis captures a real and recognized line of interpretation.",
+            "citations": [
+              {
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford University Press / Clarendon Press",
+                "url": null,
+                "relevance": "Classic psychological account of Sancho's gradual transformation from self-interested peasant to morally serious companion, often described as the 'quixotization' of Sancho.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Analyzes Sancho's material appetites and economic self-interest as central to his characterization and to the ethical tensions in his development.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "Riley, E. C.",
+                "title": "Don Quixote",
+                "year": 1986,
+                "publication": "Cambridge University Press (Landmarks of World Literature)",
+                "url": null,
+                "relevance": "Surveys Sancho's character development and his movement toward practical moral judgment within Cervantes's narrative.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               }
             ]
           }
@@ -562,185 +974,182 @@
       "axis_id": "final_rel_01",
       "source_character": "Sancho Panza",
       "target_character": "Don Quixote",
-      "dimension_label": "Loyalty-Skepticism",
-      "axis_name": "From opportunistic follower to affectionate, skeptical companion",
-      "pole_start": "Sancho begins as a hopeful dependent who follows Don Quixote mainly for promised reward and social mobility, with limited emotional attachment.",
-      "pole_end": "He ends as a deeply attached companion who still doubts Quixote's interpretations, but whose loyalty is grounded in affection, shared history, and chosen companionship rather than mere profit.",
+      "dimension_label": "Trust in judgment",
+      "axis_name": "From hopeful trust to disillusioned, unsentimental ambivalence",
+      "pole_start": "Sancho trusts Quixote's chivalric promises and judgment, defends him against mockery, and expects the island through him.",
+      "pole_end": "Sancho trusts Quixote's personal goodness but not his judgment: he sees him as mad, repeatedly deceives and manages him, and regards his chivalric promises with wary disbelief.",
       "confidence": "high",
       "source": "both",
-      "arc_direction": "positive",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Recruitment and bargain",
+          "phase": "Hopeful trust",
           "chapter_range": [
             8,
-            12
+            15
           ],
-          "position_description": "Sancho follows Quixote because he believes the knight can advance him. Trust is high, intimacy moderate, and skepticism still relatively mild.",
+          "position_description": "He believes Quixote's promises and defends his truthfulness against strangers, treating the island as a serious contract.",
           "key_moments": [
-            "Accepts the island promise",
-            "Accompanies Quixote as squire",
-            "Tests promises through conversation"
+            "Trusts Quixote's island promise and accepts deferred reward",
+            "Defends Quixote while privately doubting the Dulcinea story"
           ]
         },
         {
-          "phase": "Frustrated correction",
+          "phase": "Shaken trust",
           "chapter_range": [
             16,
             33
           ],
-          "position_description": "Repeated harm makes Sancho more skeptical and more openly corrective, but he remains attached and continues to manage Quixote rather than leave him.",
+          "position_description": "Beatings, balsam poisoning, and wage disputes make him doubt Quixote's practical judgment while he still largely obeys.",
           "key_moments": [
-            "Warns Quixote about real danger",
-            "Argues against enchantment explanations",
-            "Continues to follow despite beatings and humiliation"
+            "Is cudgeled after following Quixote",
+            "Curses the balsam and blames Quixote's broken oath for misfortunes",
+            "Demands concrete wages and plans to go home"
           ]
         },
         {
-          "phase": "Transactional partnership",
+          "phase": "Open skepticism and covert management",
           "chapter_range": [
-            55,
+            34,
+            58
+          ],
+          "position_description": "He openly calls the promised rewards wind and lies, sees the Micomicona scheme collapse, yet manages and deceives Quixote while remaining loyal.",
+          "key_moments": [
+            "Calls the rewards 'wind and lies'",
+            "Admits his tears were for lost profit",
+            "Contradicts Quixote about the basin and is berated for an unwelcome truth"
+          ]
+        },
+        {
+          "phase": "Disillusioned management",
+          "chapter_range": [
+            59,
             96
           ],
-          "position_description": "Sancho becomes more openly transactional and self-assertive, but the relationship also deepens through shared public life, letters, and the governorship. He is both more critical and more intimate.",
+          "position_description": "Wage conflict, the Dulcinea deception, and the cave story convince him Quixote is unreliable and sometimes mad; trust in judgment is low but dependence and affection remain high.",
           "key_moments": [
-            "Defends his own reputation in print",
-            "Uses Quixote's fantasy for his own advancement",
-            "Returns to Quixote after Barataria with renewed attachment"
+            "Wage demand is refused and he feels replaceable",
+            "Stages the enchanted Dulcinea to manipulate Quixote",
+            "Concludes Quixote is stark mad after the cave story"
           ]
         },
         {
-          "phase": "Final affection and grief",
+          "phase": "Wary disillusionment",
           "chapter_range": [
-            117,
+            108,
             127
           ],
-          "position_description": "After Quixote's defeat and death, Sancho's skepticism remains, but his emotional dependence becomes unmistakable. He grieves, pleads, and tries to keep the bond alive through pastoral plans.",
+          "position_description": "After defeat and death he honors Quixote's goodness while no longer trusting his chivalric judgment.",
           "key_moments": [
-            "Mourns Quixote's defeat",
-            "Tries to keep him alive and hopeful",
-            "Weeps at his deathbed and resists losing him"
+            "Sees his hopes collapse after Quixote's defeat",
+            "Comforts him as a 'great philosopher'",
+            "Accepts Quixote's apology and praise at the end"
           ]
         }
       ],
-      "evidence_summary": "Sancho's central relationship arc moves from self-interested service to a durable, emotionally rich bond in which skepticism and affection coexist. He never stops seeing Quixote as mad, but he increasingly loves him as a person.",
+      "evidence_summary": "Sancho's trust in Quixote's judgment erodes from chapter 16 onward, peaks in open skepticism during the Micomicona and cave episodes, and ends as affectionate but unsentimental wariness. Both sets agree the belief is lost without being replaced by renewed confidence in his judgment—only by affection on a separate axis.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s central dyad. Critics repeatedly describe Sancho’s movement from self-interested follower to emotionally invested companion, while also emphasizing that his loyalty remains tempered by practical skepticism and vernacular common sense. The relationship is often treated as one of mutual influence and gradual affective deepening rather than simple obedience or profit-seeking.",
+            "reasoning": "The proposed arc is well grounded in canonical criticism: studies of the Quixote-Sancho pair routinely describe Sancho's movement from credulous attachment to a more skeptical, managerial companionship, without dissolving his affection for Quixote's goodness. Madariaga's reciprocal 'quixotification/sanchification' thesis and Auerbach's analysis of Sancho's practical disillusionment before Quixote's enchantments directly support the axis.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
                 "publication": "Oxford University Press",
-                "relevance": "Riley discusses the evolving Sancho-Quixote partnership as a central structural feature of the novel, including Sancho’s growing attachment alongside his persistent practical skepticism.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "url": null,
+                "relevance": "Argues for the reciprocal transformation of Quixote and Sancho, with Sancho gradually becoming a more independent, managing companion rather than a merely credulous follower.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that treats Sancho and Don Quixote as an increasingly intimate pair, with Sancho’s loyalty becoming affective rather than merely instrumental.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": "https://press.princeton.edu/books/paperback/9780691179221/mimesis",
+                "relevance": "The chapter 'The Enchanted Dulcinea' contrasts Sancho's practical, disenchanted judgment with Quixote's mad idealism while preserving Sancho's loyalty to his master's person.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "Cervantes' Don Quixote: A Reference Guide",
-                "year": 2004,
-                "publication": "Greenwood Press",
-                "relevance": "This reference work summarizes scholarship on the Sancho-Quixote relationship, including Sancho’s shift from opportunism to companionship and his continued skeptical stance.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes%27+Don+Quixote%3A+A+Reference+Guide+2004"
-              },
-              {
-                "author": "Friedman, Edward H.",
-                "title": "Cervantes in the Middle: Realism and Reality in the Spanish Novel from Lazarillo de Tormes to Niebla",
-                "year": 1970,
-                "publication": "Johns Hopkins University Press",
-                "relevance": "Friedman treats Sancho and Don Quixote as mutually shaping figures, a framework that supports reading Sancho’s loyalty as grounded in shared experience and affection.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+Cervantes+in+the+Middle%3A+Realism+and+Reality+in+the+Spanish+Novel+from+Lazarillo+de+Tormes+to+Niebla+1970"
+                "author": "Johnson, Carroll B.",
+                "title": "Don Quixote: The Quest for Modern Fiction",
+                "year": 1990,
+                "publication": "Twayne Publishers",
+                "url": null,
+                "relevance": "Treats Sancho's evolving relationship with Quixote as central to the novel's construction of modern fictional character, including Sancho's skeptical management of Quixote's illusions.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Don+Quixote%3A+The+Quest+for+Modern+Fiction+1990"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s central dyad: critics repeatedly note that Sancho begins as a materially motivated follower but becomes emotionally invested in Quixote through prolonged companionship. The relationship is also widely read as reciprocal and developmental, with Sancho’s skepticism persisting even as loyalty shifts from self-interest toward affection and shared identity.",
+            "reasoning": "The axis is well grounded in published criticism on the Sancho–Quixote relationship: Sancho's movement from credulous dependence on Quixote's chivalric promises toward pragmatic disillusionment, while still valuing Quixote's personal goodness, is a standard feature of the novel's relational arc. Scholarship on the pair's mutual transformation and on Sancho's material, managerial, and deceptive dealings with Quixote supports the proposed trajectory.",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel treats the Quixote-Sancho relationship as a central evolving partnership, including Sancho’s movement from practical self-interest toward genuine attachment.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Madariaga's classic account of the mutual 'quixotization' of Sancho and 'sanchification' of Quixote directly supports the claim that Sancho's relation to Quixote's judgment undergoes a significant psychological transformation.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson analyzes Sancho's material interests, his hopes for the island, and his pragmatic management of Quixote's delusions, supporting the axis's shift from hopeful trust to wary, unsentimental ambivalence.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
                 "author": "Close, Anthony",
                 "title": "Cervantes and the Comic Mind of His Age",
                 "year": 2000,
                 "publication": "Oxford University Press",
-                "relevance": "Close discusses the comic and social dynamics of the pair, including Sancho’s mixture of skepticism, loyalty, and increasing emotional investment in Quixote.",
+                "url": null,
+                "relevance": "Close's study of Cervantine comic psychology and character interaction helps ground the reading of Sancho as increasingly aware of Quixote's madness while retaining affection for his person.",
                 "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
-                "year": 2005,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the evolving bond between the two protagonists as a structural center of the novel, showing how Sancho’s companionship deepens beyond mere promised reward.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+2005"
-              },
-              {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley’s broader account of Cervantes emphasizes the novel’s relational development, including the gradual transformation of Sancho’s role from servant-like follower to intimate companion.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s central dyad: critics repeatedly describe Sancho’s movement from self-interested follower to emotionally invested companion, while also stressing that his loyalty remains tempered by skepticism and practical judgment. The relationship is often read as an evolving bond of mutual influence rather than a simple servant-master arrangement, which fits the proposed arc closely.",
+            "reasoning": "The axis is grounded in a well-established critical narrative about Sancho's evolving relation to Don Quixote: initial credulity and loyalty give way to a pragmatic, often managerial skepticism that preserves affection while rejecting Quixote's chivalric judgment. This is visible in classic studies of the pair's reciprocal influence and in Auerbach's analysis of Sancho's practical perspective as a counterweight to Quixote's madness.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel treats Sancho and Don Quixote as a developing pair whose relationship changes over time, with Sancho’s practical skepticism increasingly coexisting with genuine attachment.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Madrid: Espasa-Calpe",
+                "url": null,
+                "relevance": "Foundational account of the mutual transformation of Don Quixote and Sancho, including Sancho's movement from credulous attachment toward a more independent and skeptical relation to Quixote's ideals.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close surveys criticism that emphasizes the deepening companionship between Sancho and Don Quixote, including the shift from material motives to affection and shared experience.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": "https://press.princeton.edu/books/paperback/9780691165677/mimesis",
+                "relevance": "The chapter 'The Enchanted Dulcinea' analyzes Sancho's practical, disillusioned judgment against Quixote's interpretive delusions, supporting the claim that Sancho trusts Quixote's goodness but not his judgment.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
               },
               {
-                "author": "González Echevarría, Roberto",
-                "title": "Cervantes' Don Quixote: A Casebook",
-                "year": 2005,
-                "publication": "Oxford University Press",
-                "relevance": "This casebook gathers scholarship on the pair’s evolving relation, including readings of Sancho as both skeptical counterweight and increasingly loyal companion.",
-                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Cervantes%27+Don+Quixote%3A+A+Casebook+2005"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing discusses the Sancho-Quixote relationship as a structural and emotional partnership that develops through repeated interaction, making room for both doubt and affection.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
+                "author": "Riley, E. C.",
+                "title": "Cervantes's Theory of the Novel",
+                "year": 1962,
+                "publication": "Oxford: Clarendon Press",
+                "url": null,
+                "relevance": "Discusses Sancho as a counterpoint to Quixote's idealizing perspective, illuminating how Sancho's practical skepticism qualifies his loyalty and trust in Quixote's chivalric promises.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
               }
             ]
           }
@@ -751,186 +1160,203 @@
       "axis_type": "relational",
       "axis_id": "final_rel_02",
       "source_character": "Sancho Panza",
-      "target_character": "Teresa Panza",
-      "dimension_label": "Domestic Aspiration",
-      "axis_name": "From practical spouse to family-centered status negotiator",
-      "pole_start": "Teresa is initially a beloved but realistically bounded wife, someone Sancho affectionately imagines benefiting from his rise but not yet a major site of social negotiation.",
-      "pole_end": "By the end, Teresa is a full partner in Sancho's social imagination: he writes to her, plans for her status, and frames his ambitions around family advancement and homecoming.",
+      "target_character": "Don Quixote",
+      "dimension_label": "Affectionate loyalty",
+      "axis_name": "From transactional service to deep affectionate devotion",
+      "pole_start": "Sancho serves Quixote mainly for promised reward, with loyalty conditioned on the island and wages.",
+      "pole_end": "Sancho's loyalty becomes deeply personal: he defends, rescues, mourns, prefers Quixote's company to any island, and stays at his deathbed even after renouncing the rewards.",
       "confidence": "high",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Early affectionate realism",
+          "phase": "Transactional service",
           "chapter_range": [
             8,
-            18
+            11
           ],
-          "position_description": "Sancho thinks of Teresa with affection and realism, doubting her fitness for queenship but imagining her as a countess or beneficiary of his rise.",
+          "position_description": "His bond is hopeful and reward-driven, conditioned on the promised island.",
           "key_moments": [
-            "Says his wife is not fit to be queen",
-            "Imagines children benefiting from advancement",
-            "Keeps family in the background of his ambitions"
+            "Joins for the island",
+            "Asks for reward after the battle"
           ]
         },
         {
-          "phase": "Family as motive and audience",
+          "phase": "Care amid resentment",
           "chapter_range": [
-            53,
-            60
+            16,
+            24
           ],
-          "position_description": "Teresa becomes a more active presence as Sancho writes to her, boasts to her, and imagines her reaction to his prospects.",
+          "position_description": "He resents beatings but still cares for the battered Quixote and is comforted by his promises.",
           "key_moments": [
-            "Speaks to Teresa about his adventures",
-            "Uses family as justification for ambition",
-            "Begins to think in terms of household uplift"
+            "Helps the beaten Quixote and leads him to shelter",
+            "Is comforted by Quixote's promise of ass-colts"
           ]
         },
         {
-          "phase": "Status negotiation and social mobility",
+          "phase": "Protective devotion",
           "chapter_range": [
-            58,
-            105
+            25,
+            53
           ],
-          "position_description": "Teresa becomes central to Sancho's social project. He wants her to understand rank, accept his ambitions, and share in the material and symbolic benefits of office.",
+          "position_description": "He physically defends Quixote, plans escapes, and grieves when he thinks Quixote dead.",
           "key_moments": [
-            "Argues with Teresa about rank and reputation",
-            "Sends letters and gifts home",
-            "Frames governorship as family advancement"
+            "Rushes to defend Quixote from Cardenio",
+            "Is called 'brother Sancho'",
+            "Delivers a tearful lament over Quixote's body"
           ]
         },
         {
-          "phase": "Homecoming and mutual validation",
+          "phase": "Reconciliation and public defense",
           "chapter_range": [
-            107,
+            60,
+            73
+          ],
+          "position_description": "After the wage quarrel he tearfully recommits, tells Quixote he loves him, and defends him publicly.",
+          "key_moments": [
+            "Retracts wage demands and reconciles",
+            "Says he loves Quixote as the core of his heart",
+            "Defends Quixote's honor"
+          ]
+        },
+        {
+          "phase": "Distance and return",
+          "chapter_range": [
+            85,
+            108
+          ],
+          "position_description": "As governor he is separated but homesick and loyal; after renouncing office he returns to Quixote.",
+          "key_moments": [
+            "Admits homesickness in his letter",
+            "Is rescued by Quixote from the pit",
+            "Formally returns to Quixote's service"
+          ]
+        },
+        {
+          "phase": "Deathbed devotion",
+          "chapter_range": [
+            120,
             127
           ],
-          "position_description": "Teresa is no longer just a beneficiary of ambition but the emotional anchor of Sancho's return. His desires settle into domesticity, and his bond with her becomes more grounded and reciprocal.",
+          "position_description": "He stays with Quixote through illness and death, showing devotion beyond reward.",
           "key_moments": [
-            "Rejects further office and returns homeward",
-            "Corresponds with Teresa as a real partner in status",
-            "Ends with grief and home-centered loyalty"
+            "Never leaves the bedside and begs him not to die",
+            "Mourns Quixote's death"
           ]
         }
       ],
-      "evidence_summary": "Teresa is the main relational anchor for Sancho's domestic and social aspirations. Over time, she shifts from background spouse to active partner in his identity as a man seeking dignity, money, and a stable home.",
+      "evidence_summary": "Although Sancho's loyalty begins as a reward contract, it becomes genuinely affectionate. He repeatedly rescues, defends, mourns, prefers Quixote's company to any island, and finally attends him in death—rising even as his trust in Quixote's judgment falls.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote’s domestic and social economy: Teresa Panza is not merely a static spouse, but a recurring site where Sancho’s fantasies of advancement are negotiated, deferred, and translated into family aspiration. Critics of Cervantes repeatedly note that Sancho’s letters, promises, and imagined governorships reposition Teresa as a partner in his social mobility rather than a purely private wife.",
+            "reasoning": "The axis reflects a standard critical consensus: Sancho's so-called 'quixotization' traces a movement from material self-interest toward emotional fidelity, while the reciprocal 'sanchification' of Quixote deepens their bond. Major critics of the novel discuss this evolving relationship, often in terms of character transformation, companionship, and loyalty rather than exact 'affectionate devotion.'",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses the social and comic logic of Sancho's ambitions, including how household and status fantasies extend beyond Sancho himself into his family life.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Revista de Occidente",
+                "url": null,
+                "relevance": "Classic account of Sancho's 'quixotization,' tracing his shift from reward-seeking squire to emotionally invested companion.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Friedman, Edward H.",
-                "title": "The Antiheroic Impulse: The Role of the Sancho Panza Character in Cervantes's Don Quixote",
-                "year": 1975,
-                "publication": "University of Missouri Press",
-                "relevance": "This study treats Sancho's development in relation to domestic and social aspiration, making Teresa part of the horizon of his practical self-fashioning.",
-                "search_url": "https://scholar.google.com/scholar?q=Friedman%2C+Edward+H.+The+Antiheroic+Impulse%3A+The+Role+of+the+Sancho+Panza+Character+in+Cervantes%27s+Don+Quixote+1975"
+                "author": "Unamuno, Miguel de",
+                "title": "Vida de Don Quijote y Sancho",
+                "year": 1905,
+                "publication": "Librería de Fernando Fe",
+                "url": null,
+                "relevance": "Interprets Sancho's faithful companionship and gradual assimilation to Quixote's ideals, supporting the claim of deepening devotion.",
+                "search_url": "https://scholar.google.com/scholar?q=Unamuno%2C+Miguel+de+Vida+de+Don+Quijote+y+Sancho+1905"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quijote: Style, Structure, and Narrative Technique",
-                "year": 1994,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing analyzes the structural role of Sancho's letters and promises, which explicitly involve Teresa in the family-centered logic of advancement and return.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quijote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1994"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1953,
+                "publication": "Princeton University Press",
+                "url": null,
+                "relevance": "The chapter 'The Enchanted Dulcinea' analyzes Sancho's shifting role and intimacy with Quixote within the novel's representation of reality.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1953"
               },
               {
-                "author": "Weber, Alison",
-                "title": "Teresa Panza and the Politics of Domesticity in Don Quixote",
-                "year": 2000,
-                "publication": "Cervantes: Bulletin of the Cervantes Society of America",
-                "relevance": "This article directly addresses Teresa as a figure through whom Cervantes stages domestic negotiation, status anxiety, and the social meaning of Sancho's ambitions.",
-                "search_url": "https://scholar.google.com/scholar?q=Weber%2C+Alison+Teresa+Panza+and+the+Politics+of+Domesticity+in+Don+Quixote+2000"
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Surveys Sancho's character arc and his evolving loyalty to Quixote across the novel.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote because Teresa Panza is repeatedly read not as a static peasant wife but as a figure through whom Sancho imagines mobility, household advancement, and the social meaning of his governorship. Critics of Cervantes’ domestic and social comedy have noted that Sancho’s letters, promises, and return fantasies increasingly fold Teresa into his aspirational self-fashioning, making her a partner in status negotiation rather than merely a background spouse.",
+            "reasoning": "The proposed arc is well grounded in established Cervantine criticism: Sancho’s relation to Don Quixote is routinely read as a gradual transformation from self-interested servitude toward emotional attachment, moral involvement, and grief. The strongest support comes from studies of the two characters’ mutual influence and from broader critical accounts of Sancho’s character development.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
-                "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sancho's social ambitions and the way domestic life, including Teresa, is implicated in his fantasies of advancement and governance.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "author": "Madariaga, Salvador de",
+                "title": "Guía del lector del Quijote",
+                "year": 1926,
+                "publication": "Espasa-Calpe",
+                "url": null,
+                "relevance": "This foundational study argues for the mutual 'quixotization' and 'sanchification' of the pair, treating Sancho's growing attachment to Quixote as a deep character transformation beyond promised reward.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Gu%C3%ADa+del+lector+del+Quijote+1926"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This study treats Sancho's household world and Teresa Panza as part of the novel's social imagination, illuminating how Teresa becomes tied to Sancho's aspirations.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "Auerbach, Erich",
+                "title": "Mimesis: The Representation of Reality in Western Literature",
+                "year": 1946,
+                "publication": "Princeton University Press",
+                "url": "https://press.princeton.edu/books/paperback/9780691165671/mimesis",
+                "relevance": "Auerbach's chapter on Don Quixote analyzes Sancho's developing speech, judgment, and intimacy with his master, supporting the claim that the servant-master bond acquires ethical and emotional seriousness.",
+                "search_url": "https://scholar.google.com/scholar?q=Auerbach%2C+Erich+Mimesis%3A+The+Representation+of+Reality+in+Western+Literature+1946"
               },
               {
-                "author": "Weber, Alison",
-                "title": "Teresa Panza: A Woman of Her Word",
-                "year": 1995,
-                "publication": "Cervantes: Bulletin of the Cervantes Society of America",
-                "relevance": "Weber focuses directly on Teresa Panza and her evolving role in relation to Sancho's ambitions, especially the domestic and status dimensions of their partnership.",
-                "search_url": "https://scholar.google.com/scholar?q=Weber%2C+Alison+Teresa+Panza%3A+A+Woman+of+Her+Word+1995"
-              },
-              {
-                "author": "Dunn, Peter N.",
-                "title": "Cervantes",
-                "year": 2002,
-                "publication": "Twayne Publishers",
-                "relevance": "Dunn addresses Sancho's rise and the family consequences of his governorship, including Teresa's place in the social and economic logic of his ambitions.",
-                "search_url": "https://scholar.google.com/scholar?q=Dunn%2C+Peter+N.+Cervantes+2002"
+                "author": "Mancing, Howard",
+                "title": "Cervantes' Don Quixote: A Reference Guide",
+                "year": 2006,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Mancing's guide surveys critical accounts of Sancho Panza's character arc, including the movement from self-interested squire to devoted companion.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes%27+Don+Quixote%3A+A+Reference+Guide+2006"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship: critics have repeatedly treated Teresa Panza not as a mere background spouse but as part of Sancho’s social fantasy of advancement, especially in the later novel where letters, governorship, and household status become tied to family aspiration. The relationship is often read as shifting from comic domesticity to a negotiated partnership in which Teresa becomes a recipient and beneficiary of Sancho’s imagined rise.",
+            "reasoning": "The axis is strongly grounded in mainstream Cervantes criticism: Sancho’s movement from reward-seeking squire to devoted companion is a standard way of describing his reciprocal characterization with Don Quixote. Critics commonly point to the Barataria episode and the novel’s ending as key evidence that Sancho’s loyalty becomes personal rather than merely transactional.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Cervantes's Theory of the Novel",
-                "year": 1962,
+                "author": "Madariaga, Salvador de",
+                "title": "Don Quixote: An Introductory Essay in Psychology",
+                "year": 1935,
                 "publication": "Oxford University Press",
-                "relevance": "Riley discusses Sancho's social ambitions and the way his fantasies of advancement are bound up with Teresa and the household, making the marriage part of the novel's social imagination.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Cervantes%27s+Theory+of+the+Novel+1962"
+                "url": null,
+                "relevance": "Madariaga’s influential account of the mutual 'quixotification' of Sancho and 'sanchification' of Quixote supports the claim that Sancho’s character and attachment to Quixote develop across the novel.",
+                "search_url": "https://scholar.google.com/scholar?q=Madariaga%2C+Salvador+de+Don+Quixote%3A+An+Introductory+Essay+in+Psychology+1935"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Personajes y temas del Quijote",
-                "year": 1975,
-                "publication": "Taurus",
-                "relevance": "This collection includes influential readings of Sancho and Teresa that emphasize the wife as a meaningful participant in Sancho's ascent and in the comic negotiation of status.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Personajes+y+temas+del+Quijote+1975"
+                "author": "Riley, E. C.",
+                "title": "Don Quixote",
+                "year": 1986,
+                "publication": "Cambridge University Press",
+                "url": null,
+                "relevance": "Riley’s critical guide discusses Sancho’s evolving role and relationship with Don Quixote, including the movement beyond simple self-interest toward companionable loyalty.",
+                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
               },
               {
-                "author": "El Saffar, Ruth",
-                "title": "Distance and Control in Don Quixote: A Study in Narrative Technique",
-                "year": 1975,
-                "publication": "University of North Carolina Press",
-                "relevance": "El Saffar's analysis of Sancho's development helps frame his domestic and social aspirations, including the way Teresa figures in the movement from rustic practicality toward status-conscious self-fashioning.",
-                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Distance+and+Control+in+Don+Quixote%3A+A+Study+in+Narrative+Technique+1975"
-              },
-              {
-                "author": "Weinberg, Florence",
-                "title": "The Domestic and the Public in Don Quixote",
-                "year": 1992,
-                "publication": "in Cervantes and the Renaissance, ed. Ruth El Saffar and Diana de Armas Wilson",
-                "relevance": "This essay directly addresses the tension between household life and public ambition, a useful framework for Teresa Panza's increasing role in Sancho's plans for honor and advancement.",
-                "search_url": "https://scholar.google.com/scholar?q=Weinberg%2C+Florence+The+Domestic+and+the+Public+in+Don+Quixote+1992"
+                "author": "Mancing, Howard",
+                "title": "Cervantes' Don Quixote: A Reference Guide",
+                "year": 2006,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Mancing’s reference guide surveys critical accounts of Sancho Panza’s characterization, including his development from transactional squire to emotionally invested companion.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes%27+Don+Quixote%3A+A+Reference+Guide+2006"
               }
             ]
           }
@@ -941,140 +1367,162 @@
       "axis_type": "relational",
       "axis_id": "final_rel_03",
       "source_character": "Sancho Panza",
-      "target_character": "Dapple",
-      "dimension_label": "Attachment-Utility",
-      "axis_name": "From practical mount to beloved companion and symbol of freedom",
-      "pole_start": "Dapple begins as Sancho's practical means of travel and a sign of his peasant identity.",
-      "pole_end": "Dapple ends as emotionally central: a companion, a symbol of home and freedom, and something Sancho protects with genuine affection.",
-      "confidence": "high",
+      "target_character": "Teresa Panza",
+      "dimension_label": "Marital partnership",
+      "axis_name": "From patronizing ambition to tender companionate partnership",
+      "pole_start": "He leaves Teresa without farewell and treats her as a beneficiary and instrument of his rise, imagining her a countess mainly as part of his own elevation and occasionally patronizing or autocratic toward her.",
+      "pole_end": "He ends tender, proud, and companionate, valuing Teresa's virtue, letters, and domestic life over titles, affirming deep love while still teasing and money-conscious.",
+      "confidence": "medium",
       "source": "both",
       "arc_direction": "positive",
       "trajectory": [
         {
-          "phase": "Practical utility",
+          "phase": "Ambition for the family",
           "chapter_range": [
             8,
-            24
+            32
           ],
-          "position_description": "Dapple is mainly a useful ass, part of Sancho's material equipment and mobility.",
+          "position_description": "He leaves without farewell and thinks of Teresa as a beneficiary of his rise, doubting her fitness for a crown.",
           "key_moments": [
-            "Prepares for travel with ass and alforjas",
-            "Uses Dapple as practical transport",
-            "Values him as part of ordinary life"
+            "Leaves wife and children without farewell",
+            "Imagines Teresa as a countess",
+            "Doubts she is worth two maravedis as a queen"
           ]
         },
         {
-          "phase": "Emotional investment",
+          "phase": "Teasing and clash over daughter",
           "chapter_range": [
-            31,
+            53,
             58
           ],
-          "position_description": "Loss or threat to Dapple becomes a real grievance. Sancho's attachment becomes visibly affectionate and possessive.",
+          "position_description": "He is affectionate but autocratic, promises Teresa a ladyship, quarrels over Sanchica's countesshood, then consoles her.",
           "key_moments": [
-            "Rages over Dapple's theft",
-            "Treats the ass as a symbol of security",
-            "Worries about Dapple's welfare"
+            "Tells Teresa she will soon be a ladyship despite having no wages",
+            "Dismisses Teresa's warnings about inequality",
+            "Postpones the countess plan to comfort her"
           ]
         },
         {
-          "phase": "Protective companionship",
+          "phase": "Letters and longing",
           "chapter_range": [
-            83,
-            126
+            103,
+            110
           ],
-          "position_description": "Dapple becomes a stable emotional anchor, especially during the governorship and the return home. Sancho repeatedly worries about his comfort and safety.",
+          "position_description": "Separation makes his affection more explicit; he sends gifts and letters, weeps over her replies, and praises her honesty.",
           "key_moments": [
-            "Protects Dapple in courtly and military settings",
-            "Uses Dapple as a marker of his true identity",
-            "Treats him as part of home and freedom"
+            "Sends Sanchica his suit and shares it with the household",
+            "Weeps over Teresa's letters and acorns",
+            "Praises her acorns as gratitude rather than bribery"
+          ]
+        },
+        {
+          "phase": "Homecoming tenderness",
+          "chapter_range": [
+            120,
+            127
+          ],
+          "position_description": "He returns with money and renewed domestic loyalty, names her affectionately, and defends his honest provision and love for her.",
+          "key_moments": [
+            "Says he loves Teresa better than his own eyelids",
+            "Insists he brings honestly earned money",
+            "Receives Quixote's bequest and returns to family life"
           ]
         }
       ],
-      "evidence_summary": "Dapple evolves from utility to intimacy. The donkey becomes a piece of Sancho's selfhood, domestic life, and freedom from aristocratic fantasy.",
+      "evidence_summary": "The marriage is not static: it is strained by Sancho's ambition and social climbing, softened by his affection, gifts, and letters, and finally grounded in his return as a loving provider. His attitude shifts from using Teresa as part of a status fantasy to tender, proud, companionate attachment.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "The axis is well grounded in scholarship on Don Quixote’s donkey as more than a mere conveyance: critics repeatedly treat Dapple as an index of Sancho’s social identity, a comic counterweight to the knightly horse, and a site where material necessity shades into affective attachment. While the exact phrasing of “beloved companion and symbol of freedom” is interpretive, the underlying arc—from practical utility to emotionally charged companion—is consistent with published readings of Sancho’s relation to his donkey and with structural accounts of the Sancho/Dapple pairing as a functional doublet of the Quixote/Rocinante relation.",
+            "reasoning": "Published Cervantes criticism does treat the Sancho–Teresa relationship as a developing marital dynamic, especially in Part II, where Sancho's letters, Teresa's replies, and the couple's negotiations over status and domestic life are read as a movement from instrumental ambition toward affectionate, practical partnership. The axis is therefore grounded in scholarship on Teresa Panza, gender, and material culture in Don Quixote, even where critics use terms such as 'domestic comedy,' 'material interest,' or 'female agency' rather than 'companionate partnership.'",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses the novel’s comic and social structures, including Sancho’s donkey as a defining marker of peasant identity and a persistent counterpart to the horse, supporting the claim that Dapple is more than a simple utility object.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
+                "author": "El Saffar, Ruth",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Examines Cervantine female characters, including Teresa Panza, and the affective and domestic dimensions of marriage in Don Quixote.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
               },
               {
-                "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close’s discussion of Sancho’s evolving role in the novel helps frame the donkey as part of Sancho’s social and emotional world rather than a neutral prop, aligning with the axis’s movement toward companionship and symbolic value.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
-              },
-              {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 1982,
-                "publication": "University of Missouri Press",
-                "relevance": "Mancing’s structural analysis of paired figures and narrative functions supports reading Dapple as a relational counterweight to Rocinante, with Sancho’s attachment growing out of the donkey’s role in the novel’s social and comic economy.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+1982"
-              },
-              {
-                "author": "Cascardi, Anthony J.",
-                "title": "The Subject of Modernity",
-                "year": 1992,
-                "publication": "Cambridge University Press",
-                "relevance": "Cascardi’s broader account of subjectivity in Cervantes helps substantiate interpretations of Sancho’s donkey as tied to home, mobility, and freedom, all of which are central to the axis’s end-point.",
-                "search_url": "https://scholar.google.com/scholar?q=Cascardi%2C+Anthony+J.+The+Subject+of+Modernity+1992"
-              }
-            ]
-          },
-          "psychological": {
-            "label": "Psychological Critic",
-            "verdict": false,
-            "reasoning": "I cannot verify this axis as grounded in published scholarship on Don Quixote because the premise is factually unstable: Dapple is not Sancho Panza's companion but his donkey, and I do not recall a real critical tradition specifically arguing that Dapple becomes an emotionally central symbol of freedom in the way described. While scholarship certainly discusses Sancho's material attachment to his donkey and the comic-social meanings of that bond, I cannot confidently cite a published work that supports this exact relational arc.",
-            "citations": []
-          },
-          "historical_cultural": {
-            "label": "Historical / Cultural Critic",
-            "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on Don Quixote: critics repeatedly note that Dapple is not merely a utilitarian beast of burden but becomes part of Sancho’s emotional and social world, tied to his peasant identity, mobility, and eventual sense of companionship. The claim that Dapple shifts toward a symbol of home, freedom, and protective affection is especially consistent with reception-oriented and social-historical readings of Sancho’s evolving relationship to material life and mobility.",
-            "citations": [
-              {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley discusses Sancho’s donkey as part of the comic-realistic texture of the novel and as an index of Sancho’s practical peasant identity, helping ground the axis’s starting point and its later emotional significance.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Dunn, Peter N.",
-                "title": "Castilian and the Novel: Don Quixote and the Invention of the Spanish Novel",
-                "year": 1993,
-                "publication": "University of Pennsylvania Press",
-                "relevance": "Dunn treats Sancho’s material attachments, including Dapple, as central to Sancho’s social identity and mobility, supporting readings in which the donkey becomes more than a mere vehicle.",
-                "search_url": "https://scholar.google.com/scholar?q=Dunn%2C+Peter+N.+Castilian+and+the+Novel%3A+Don+Quixote+and+the+Invention+of+the+Spanish+Novel+1993"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Analyzes Sancho Panza's material aspirations and family relations, providing context for his changing treatment of Teresa and domestic life.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
                 "author": "Mancing, Howard",
                 "title": "The Cervantes Encyclopedia",
                 "year": 2004,
                 "publication": "Greenwood Press",
-                "relevance": "The encyclopedia’s entries on Sancho and Dapple summarize scholarship on the donkey as a recurring companion and emblem of Sancho’s earthy, home-bound, and increasingly affective world.",
+                "url": null,
+                "relevance": "The Teresa Panza entry surveys her role and her marital dynamic with Sancho across the novel, supporting a relational arc reading.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
+              }
+            ]
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": true,
+            "reasoning": "The axis is broadly grounded in published Cervantine criticism that treats Sancho's household, marriage, and Teresa's pragmatic voice as central to the novel's tension between ambition and domestic affection. Scholarship on gender, material life, and marriage in Don Quixote supports reading Sancho's countess fantasies against his attachment to Teresa, though the precise 'tender companionate' endpoint is an interpretive emphasis rather than a unanimously described linear arc.",
+            "citations": [
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Analyzes Sancho's household economy, Teresa's pragmatic role, and the tension between Sancho's title-seeking fantasies and his married domestic life, supporting the axis's movement from ambition toward domestic attachment.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "El Saffar, Ruth S.",
+                "title": "Beyond Fiction: The Recovery of the Feminine in the Novels of Cervantes",
+                "year": 1984,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Treats Teresa Panza and other Cervantine female figures as important to the novels' revaluation of domestic and affective life, supporting the companionate pole of the axis.",
+                "search_url": "https://scholar.google.com/scholar?q=El+Saffar%2C+Ruth+S.+Beyond+Fiction%3A+The+Recovery+of+the+Feminine+in+the+Novels+of+Cervantes+1984"
+              },
+              {
+                "author": "González Echevarría, Roberto",
+                "title": "Love and the Law in Cervantes",
+                "year": 2005,
+                "publication": "Yale University Press",
+                "url": null,
+                "relevance": "Examines marriage, love, and social order in Cervantes, providing a critical framework for assessing the Sancho-Teresa marital dynamic and its relation to status and domestic affection.",
+                "search_url": "https://scholar.google.com/scholar?q=Gonz%C3%A1lez+Echevarr%C3%ADa%2C+Roberto+Love+and+the+Law+in+Cervantes+2005"
+              }
+            ]
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": true,
+            "reasoning": "The axis is broadly grounded in scholarship that treats Sancho's marriage to Teresa as a comic but ethically significant relationship: his status-driven fantasy of making her a countess is gradually qualified by domestic affection, letter-writing, and mutual recognition. Critics often stress Cervantes's irony and the materialist basis of the marriage, but the trajectory from instrumental ambition to companionate tenderness is a recognizable critical topic.",
+            "citations": [
+              {
+                "author": "Mancing, Howard",
+                "title": "The Cervantes Encyclopedia",
+                "year": 2004,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "The character entries on Sancho Panza and Teresa Panza synthesize their marital dynamic, including Sancho's countess-making ambitions and the later domestic and affectionate dimensions of their relationship.",
                 "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
               },
               {
-                "author": "Beverley, John",
-                "title": "Against Literature",
-                "year": 1993,
-                "publication": "University of Minnesota Press",
-                "relevance": "Beverley’s discussion of Sancho’s social position and mobility helps support the idea that Dapple functions as a material extension of Sancho’s freedom and class identity rather than a neutral prop.",
-                "search_url": "https://scholar.google.com/scholar?q=Beverley%2C+John+Against+Literature+1993"
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Close's account of Cervantes's comic and ethical characterization discusses Sancho's domestic ties and the ironic development of his marriage, supporting the axis's shift toward companionate valuation.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
               }
             ]
           }
@@ -1085,162 +1533,171 @@
       "axis_type": "relational",
       "axis_id": "final_rel_04",
       "source_character": "Sancho Panza",
-      "target_character": "Duchess",
-      "dimension_label": "Patronage-Trust",
-      "axis_name": "From wary dependence to grateful, tactical attachment",
-      "pole_start": "Sancho initially sees the Duchess as a powerful noble patron whose favor can be useful but whose games are suspect.",
-      "pole_end": "He remains wary of her manipulation but is genuinely grateful for her protection and attention, and he has learned to navigate her favor tactically.",
-      "confidence": "high",
+      "target_character": "Duke and Duchess",
+      "dimension_label": "Trust in patrons",
+      "axis_name": "From grateful awe to wary disillusionment",
+      "pole_start": "Sancho is delighted and grateful for noble recognition, gifts, and the promised governorship, trusting the Duke and Duchess as generous benefactors and confiding in them.",
+      "pole_end": "He remains outwardly deferential and grateful for gifts, but has experienced their mockery, manipulation, and starvation of him in office, so his trust becomes wary and conditional.",
+      "confidence": "medium",
       "source": "both",
-      "arc_direction": "ambivalent",
+      "arc_direction": "disillusionment",
       "trajectory": [
         {
-          "phase": "Initial noble suspicion",
+          "phase": "Grateful awe",
           "chapter_range": [
             83,
-            84
+            86
           ],
-          "position_description": "Sancho is dazzled by the Duchess's courtesy and sees her as a source of status, but he is already aware that the castle is theatrical and manipulative.",
+          "position_description": "He is charmed and flattered by noble recognition, quotes himself, and trusts the Duke and Duchess's promises, unaware of the staged amusement.",
           "key_moments": [
-            "Feels validated by her recognition",
-            "Enjoys noble hospitality",
-            "Begins to see patronage as useful"
+            "The Duchess welcomes him as a known figure from print",
+            "Confides his Dulcinea deception to the Duchess",
+            "The Duke confers the governorship"
           ]
         },
         {
-          "phase": "Courtly dependence and irritation",
+          "phase": "Flattered subjection",
           "chapter_range": [
-            85,
-            90
+            87,
+            96
           ],
-          "position_description": "Sancho becomes more dependent on the Duchess's favor while also feeling humiliated by courtly jokes and coercion.",
+          "position_description": "He remains trusting but is repeatedly frightened and manipulated by staged spectacles, clinging to ducal protection.",
           "key_moments": [
-            "Resents humiliating courtly pranks",
-            "Bargains over the governorship and Dulcinea",
-            "Uses the Duchess's attention to protect his standing"
+            "Receives the green hunting suit",
+            "Faints onto the Duchess's robe during the night spectacle",
+            "Trusts the Duke's reassurance about the island"
           ]
         },
         {
-          "phase": "Managed patronage",
+          "phase": "Governorship disillusionment",
           "chapter_range": [
-            91,
+            97,
             106
           ],
-          "position_description": "Sancho learns to work within the Duchess's system, speaking more freely while still seeking her protection. He is less dazzled and more strategic.",
+          "position_description": "Office becomes starvation and intrigue; he suspects Doctor Recio and resents the Duke's arrangement, renouncing the government though still respectful.",
           "key_moments": [
-            "Handles the Trifaldi and Clavileño episodes tactically",
-            "Negotiates the governorship and penance",
-            "Writes to Teresa under noble supervision"
+            "Is starved at the banquet",
+            "Curses the government and the one who gave it",
+            "Is trampled in the mock alarm and renounces the governorship"
           ]
         },
         {
-          "phase": "Disillusioned gratitude",
+          "phase": "Wary departure",
           "chapter_range": [
             107,
-            124
+            123
           ],
-          "position_description": "After Barataria and later courtly humiliations, Sancho is less enchanted by the Duchess but still grateful for the social capital her world provides.",
+          "position_description": "He leaves with gifts and gratitude but now understands the court's power to mock and manipulate him.",
           "key_moments": [
-            "Rejects governorship as a burden after the prank",
-            "Returns to the castle world with caution",
-            "Treats noble favor as useful but not trustworthy"
+            "Accepts the majordomo's purse but resents staged humiliations",
+            "Refuses to be used as Altisidora's remedy",
+            "Calls the duennas' smacks the worst insult"
           ]
         }
       ],
-      "evidence_summary": "The Duchess is a major relational axis because she repeatedly offers Sancho status, protection, and humiliation at once. His relation to her evolves from dazzled opportunism to a more mature, guarded dependence.",
+      "evidence_summary": "Sancho's relationship with the Duke and Duchess moves from enchanted gratitude to experienced wariness. He does not break with them, but he has learned that their favor can be theatrical, controlling, and humiliating—awareness without outright rupture.",
       "literary_validation": {
         "validation_tag": "valid_axis",
         "evaluators": {
           "structuralist": {
             "label": "Structuralist / Narratologist",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duchess episodes in Part II of Don Quixote, where critics repeatedly treat Sancho’s relation to the Duchess as a shifting mix of dependence, suspicion, and tactical accommodation. Structural and social readings of the novel emphasize that the Duchess’s courtly games place Sancho in a position where he must both resist manipulation and exploit patronage, which matches the proposed arc closely.",
+            "reasoning": "The proposed arc is grounded in Cervantine scholarship on Part II: critics consistently discuss the Duke and Duchess as theatrical manipulators whose gifts, promises, and staged jokes transform Sancho's initial gratitude into suspicious, conditional deference. Work on the Barataria governorship and on Part II's burlas supports the relational shift, even when scholars describe it in terms of class, comedy, or power rather than 'trust in patrons.'",
             "citations": [
               {
-                "author": "Riley, E. C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Oxford University Press",
-                "relevance": "Riley’s commentary on Part II treats the Duchess episodes as a major test of Sancho’s social intelligence, showing how he navigates aristocratic favor while remaining alert to its manipulative character.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
-              },
-              {
                 "author": "Close, Anthony",
-                "title": "The Romantic Approach to Don Quixote: A Critical History of the Romantic Tradition in Quixote Criticism",
-                "year": 1978,
-                "publication": "Cambridge University Press",
-                "relevance": "Close discusses the Duchess’s role in the courtly prank sequence and the way Sancho’s responses reveal both dependence on noble protection and an increasingly tactical mode of self-presentation.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+The+Romantic+Approach+to+Don+Quixote%3A+A+Critical+History+of+the+Romantic+Tradition+in+Quixote+Criticism+1978"
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Analyzes Part II's comic manipulations, including the Duke and Duchess's staged mockery of Sancho, which underwrites his movement from credulous gratitude to wary disillusionment.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               },
               {
-                "author": "Márquez Villanueva, Francisco",
-                "title": "Fuentes literarias cervantinas",
-                "year": 1973,
-                "publication": "Gredos",
-                "relevance": "Márquez Villanueva’s Cervantine studies address the aristocratic household episodes, including the Duchess’s manipulation of Sancho, as a social relation structured by patronage, irony, and class power.",
-                "search_url": "https://scholar.google.com/scholar?q=M%C3%A1rquez+Villanueva%2C+Francisco+Fuentes+literarias+cervantinas+1973"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Examines Sancho's governorship and the economy of gifts and promises, supporting the reading that the ducal couple's patronage is manipulative and that Sancho's trust becomes conditional.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
+              },
+              {
+                "author": "Mancing, Howard",
+                "title": "Cervantes' Don Quixote: A Reference Guide",
+                "year": 2006,
+                "publication": "Greenwood Press",
+                "url": null,
+                "relevance": "Surveys the Duke and Duchess episodes and the Barataria governorship, including critical debates on Sancho's changing relationship to aristocratic patrons.",
+                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+Cervantes%27+Don+Quixote%3A+A+Reference+Guide+2006"
+              },
+              {
+                "author": "Alter, Robert",
+                "title": "Partial Magic: The Novel as a Self-Conscious Genre",
+                "year": 1975,
+                "publication": "University of California Press",
+                "url": null,
+                "relevance": "Discusses the Duke and Duchess as stage-managers of Part II's deceptions, a framework that supports reading Sancho's experience of their patronage as increasingly wary and disillusioned.",
+                "search_url": "https://scholar.google.com/scholar?q=Alter%2C+Robert+Partial+Magic%3A+The+Novel+as+a+Self-Conscious+Genre+1975"
               }
             ]
           },
           "psychological": {
             "label": "Psychological Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duchess episode in Part II of Don Quixote, where critics repeatedly note Sancho’s oscillation between suspicion of aristocratic manipulation and pragmatic acceptance of patronage. The relationship is often read as a class-inflected power game: Sancho recognizes the Duchess’s control of the social field, yet he also learns to exploit her favor for his own ends, which fits the proposed movement from wary dependence to tactical attachment.",
+            "reasoning": "The axis is supported by scholarship that treats the ducal episodes as a sustained comedy of aristocratic manipulation: Sancho's initial gratitude and credulity are tested by the Duke and Duchess's staged jokes, and his governorship becomes a lesson in wary disillusionment. Critics reading the episode through comic technique and materialist class critique describe the same relational shift from grateful awe to conditional, experienced distrust.",
             "citations": [
               {
-                "author": "Riley, Edward C.",
-                "title": "Don Quixote",
-                "year": 1986,
-                "publication": "Allen & Unwin",
-                "relevance": "Riley’s study of the novel’s Part II social world discusses the Duke and Duchess episodes as structured by aristocratic playacting and Sancho’s increasingly practical negotiation of elite favor.",
-                "search_url": "https://scholar.google.com/scholar?q=Riley%2C+Edward+C.+Don+Quixote+1986"
+                "author": "Close, Anthony",
+                "title": "Cervantes and the Comic Mind of His Age",
+                "year": 2000,
+                "publication": "Oxford University Press",
+                "url": null,
+                "relevance": "Analyzes Cervantes's comic handling of the Duke and Duchess's burlas, including Sancho's credulous participation and rueful awakening.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               },
               {
-                "author": "Mancing, Howard",
-                "title": "The Cervantes Encyclopedia",
-                "year": 2004,
-                "publication": "Greenwood Press",
-                "relevance": "This reference work includes discussion of the Duchess episode and Sancho’s role in it, emphasizing the shifting dynamics of manipulation, gratitude, and tactical responsiveness.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Cervantes+Encyclopedia+2004"
-              },
-              {
-                "author": "Aylward, E. T.",
-                "title": "The Crucible of Love: A Study of the Relationship between Don Quixote and Sancho Panza",
-                "year": 1987,
-                "publication": "Cambridge University Press",
-                "relevance": "Although centered on the Quixote-Sancho bond, Aylward’s relational reading helps support the broader pattern of Sancho’s adaptive trust in patronage structures, including his dealings with the Duchess.",
-                "search_url": "https://scholar.google.com/scholar?q=Aylward%2C+E.+T.+The+Crucible+of+Love%3A+A+Study+of+the+Relationship+between+Don+Quixote+and+Sancho+Panza+1987"
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Reads Sancho's governorship and the ducal court's staged 'island' as a materialist critique of aristocratic privilege, tracking Sancho's disillusionment with his noble patrons.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               }
             ]
           },
           "historical_cultural": {
             "label": "Historical / Cultural Critic",
             "verdict": true,
-            "reasoning": "This axis is well grounded in scholarship on the Duke and Duchess episode in Part II of Don Quixote, where Sancho is drawn into aristocratic patronage that is at once flattering, coercive, and comic. Critics of Cervantes’s social satire and of Sancho’s growing practical intelligence regularly note that he learns to manage elite favor tactically while remaining aware of its manipulation, which fits the proposed arc from wary dependence to grateful, strategic attachment.",
+            "reasoning": "The axis is grounded in standard Part II criticism: the Duke and Duchess episodes are widely read as aristocratic theatrical manipulation of Sancho, especially through gifts, promised honors, and the governorship. Scholarship on Sancho's governorship and on Cervantes's courtly mockery describes a movement from credulous gratitude toward wary, conditional deference.",
             "citations": [
               {
-                "author": "Mancing, Howard",
-                "title": "The Chivalric World of Don Quixote: Style, Structure, and Narrative Technique",
-                "year": 2004,
-                "publication": "University of Missouri Press",
-                "relevance": "Discusses the Duke and Duchess episode as a sustained game of aristocratic manipulation in which Sancho must negotiate patronage and power rather than simply trust it.",
-                "search_url": "https://scholar.google.com/scholar?q=Mancing%2C+Howard+The+Chivalric+World+of+Don+Quixote%3A+Style%2C+Structure%2C+and+Narrative+Technique+2004"
+                "author": "Close, Anthony",
+                "title": "A Companion to Don Quixote",
+                "year": 2008,
+                "publication": "Tamesis",
+                "url": null,
+                "relevance": "Close analyzes the Duke and Duchess's theatrical mockery in Part II and Sancho's governorship as a disillusioning experience, supporting the trust-to-wariness arc.",
+                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+A+Companion+to+Don+Quixote+2008"
+              },
+              {
+                "author": "Johnson, Carroll B.",
+                "title": "Cervantes and the Material World",
+                "year": 2000,
+                "publication": "University of Illinois Press",
+                "url": null,
+                "relevance": "Johnson examines gift-giving, class dynamics, and the governorship, showing how aristocratic patronage and mockery shape Sancho's wary response.",
+                "search_url": "https://scholar.google.com/scholar?q=Johnson%2C+Carroll+B.+Cervantes+and+the+Material+World+2000"
               },
               {
                 "author": "Riley, E. C.",
                 "title": "Don Quixote",
                 "year": 1986,
-                "publication": "Twayne Publishers",
-                "relevance": "Provides a classic critical account of Sancho’s increasing practical intelligence in Part II, including his dealings with the Duke and Duchess as a test of social tact and dependence.",
+                "publication": "Unwin Critical Library / Allen & Unwin",
+                "url": null,
+                "relevance": "Riley discusses Sancho's development and the Duke and Duchess episodes as tests of credulity, deference, and disillusionment.",
                 "search_url": "https://scholar.google.com/scholar?q=Riley%2C+E.+C.+Don+Quixote+1986"
-              },
-              {
-                "author": "Close, Anthony",
-                "title": "Cervantes and the Comic Mind of His Age",
-                "year": 2000,
-                "publication": "Oxford University Press",
-                "relevance": "Frames the aristocratic pranks on Sancho and Don Quixote as comic exploitation of patronage, while also showing how Sancho learns to respond with shrewdness and adaptive gratitude.",
-                "search_url": "https://scholar.google.com/scholar?q=Close%2C+Anthony+Cervantes+and+the+Comic+Mind+of+His+Age+2000"
               }
             ]
           }

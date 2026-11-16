@@ -1,0 +1,58 @@
+{
+  "schema_version": "generated_arc_v1",
+  "story_id": "He-Knew-He-Was-Right_arcane_selected_Louis-Trevelyan",
+  "title": "He Knew He Was Right",
+  "generator": "arcane_stage1_axes",
+  "condition": "extraction_only",
+  "control": "not_source_verified",
+  "prompt_id": null,
+  "seed": null,
+  "judge_model": "deepseek-flash",
+  "score_scale": 100,
+  "presence_rule": {
+    "minimum_average": 60.0,
+    "minimum_dimension": 40.0,
+    "minimum_phases": 2
+  },
+  "story_has_arc": true,
+  "n_declared_characters": 1,
+  "n_evaluable_characters": 1,
+  "n_characters_with_arc": 1,
+  "character_arc_rate": 1.0,
+  "character_coverage": 1.0,
+  "n_axes_scored": 4,
+  "n_candidate_axes": 4,
+  "axis_coverage": 1.0,
+  "n_axes_with_arc": 4,
+  "axis_arc_rate": 1.0,
+  "mean_axis_score": 83.875,
+  "mean_best_axis_score": 86.0,
+  "mean_candidate_evidence_grounding": null,
+  "n_invalid_evidence_items": 0,
+  "dimension_means": {
+    "action_progression": 86.75,
+    "reasoning_progression": 83.75,
+    "reasoning_action_entailment": 79.0,
+    "trajectory_coherence": 86.0
+  },
+  "by_character": {
+    "Louis Trevelyan": {
+      "n_scored_axes": 4,
+      "n_arc_axes": 4,
+      "has_arc": true,
+      "best_axis_id": "final_intra_03",
+      "best_axis_score": 86.0,
+      "best_axis_dimension": "Self-Justification-Shame",
+      "status": "evaluated"
+    }
+  },
+  "verification_scope": "arcane_extraction_only",
+  "source_axes_path": "D:\\ProjectFile\\VSCode\\Research\\ArcANE\\results\\arc_extraction\\He Knew He Was Right\\final\\all_characters_axes.json",
+  "candidate_has_arc": true,
+  "this_run": {
+    "axes_scored": 4,
+    "input_tokens": 4945,
+    "output_tokens": 4997,
+    "cost_usd": 0.0262
+  }
+}

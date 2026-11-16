@@ -28,7 +28,8 @@ def require_openai_key() -> str:
     """
     if not OPENAI_API_KEY:
         raise SystemExit(
-            "OPENAI_API_KEY is not set. Export it (or put it in .env) before "
+            "OPENAI_API_KEY is not set. Export it (or put it in .env) before" \
+            " "
             "running the stages that call the API. Chapter splitting "
             "(arc_construction.phase0_preprocess) needs no key."
         )

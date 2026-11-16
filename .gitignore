@@ -69,3 +69,4 @@ models/
 # otherwise swallow the training stack's launchers. Keep them in the release.
 !training/sft/scripts/
 !training/rl/scripts/
+training/.evn
