@@ -1,0 +1,52 @@
+{
+  "character": "Zeus",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "Static agency-dominance: from controlling order-keeper to controlling order-keeper",
+          "set_b_axis": "From sovereign agency to unexamined sovereign agency",
+          "overlap_description": "Both sets posit a single intrapersonal axis along an Agency vs Communion dimension. Both characterize Zeus as fixed at the Agency pole: imperious, control-seeking, treating his authority as self-evident, framing the women's collective action as disorder, and instrumentally using Hestia's gentleness to restore hierarchical order. Both report no observed movement toward communion, empathy, mutuality, or self-awareness, and both constrain the trajectory to a single Chapter 1 phase with a static/flat arc."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency vs communion",
+      "axis_name": "Fixed sovereign agency: unchanging dominance over communion",
+      "pole_start": "Zeus operates from the Agency pole: imperious, control-seeking, and eager to reassert hierarchical order. He treats his authority as self-evident, frames mortal women's collective action and demands for equal pay as disorder rather than as legitimate claims, delegates control covertly through Hestia rather than engaging cooperatively or vulnerably, and treats others—including Hestia—as instruments of his will rather than interdependent partners.",
+      "pole_end": "Remains at the same Agency pole with no evidenced movement toward communion, empathy, mutuality, or shared authority. His irritation at loss of control reinforces his conviction that he is entitled to direct divine subordinates; no later chapter shows a shift in this position.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Entrenched sovereign agency (single observed event)",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Zeus is fixed at the agency-dominance pole. Agitated by loss of control, he responds with imperious irritation and covert manipulation: he complains to Hestia that mortal women are abandoning the hearth and demanding equal pay, frames women's proper station as domestic and equal pay as 'what is not their station,' then orders Hestia to observe the protest and 'gently, subtly' guide a key defiant figure back to traditional domestic life—wanting hierarchy restored without arguing for it and without appearing himself or using open force. The event is marked neutral for belief change, self-perception change, and meaning-making, so there is no intrapersonal movement.",
+          "key_moments": [
+            "Zeus complains to Hestia that mortal women are abandoning the hearth and demanding equal pay.",
+            "Zeus voices 'displeasure' at the women's collective action, treating it as disorder rather than a political claim.",
+            "He frames women's proper station as domestic and equal pay as 'what is not their station.'",
+            "Zeus orders Hestia to observe the protest and subtly guide a key defiant figure back to traditional domestic life, using her gentleness as an instrument of control."
+          ]
+        }
+      ],
+      "evidence_summary": "Both independent analyses converge on a single intrapersonal axis and on the same diagnosis: Zeus is fixed at the Agency pole with no internal movement. He seeks control, reinforces traditional hierarchical order, and uses Hestia as a subordinate instrument; the available material explicitly reports no belief shifts, no self-perception change, no meaning-making change, and no change magnitude. The axis is therefore an unchanged starting position rather than a tracked arc, yielding a flat trajectory. Confidence is medium rather than low because two independent derivations agree on the concept, the poles, and the static shape, though both rest on a single Chapter 1 event and neither includes relational axes."
+    }
+  ],
+  "relational_axes": []
+}

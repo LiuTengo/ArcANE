@@ -1,0 +1,16 @@
+{
+  "target_characters": [
+    "Hestia",
+    "Maya",
+    "Zeus",
+    "The Protesters",
+    "The Hearth"
+  ],
+  "character_dirs": {
+    "Hestia": "hestia",
+    "Maya": "maya",
+    "Zeus": "zeus",
+    "The Protesters": "protesters",
+    "The Hearth": "hearth"
+  }
+}

@@ -1,0 +1,2014 @@
+{
+  "The Hearth": {
+    "character": "The Hearth",
+    "arc_richness": "",
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency within Communion",
+        "axis_name": "From Obedient Role-Fusion to Self-Authored Solidarity",
+        "pole_start": "Communion is expressed as unquestioning duty and immersion in the assigned hearth-guardian role; agency is ceded to Zeus and traditional order, and the protest is seen as chaos against proper domestic peace.",
+        "pole_end": "Agency is exercised as autonomous choice to stand with Maya and the protesters; communion becomes chosen solidarity, interdependence, and self-authored belonging rather than commanded role performance.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Dutiful role-fusion",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia begins as Zeus's obedient agent and guardian of the traditional hearth. Her communion is prescribed by divine command and tradition, and her agency is subordinated to Zeus's mission.",
+            "key_moments": [
+              "Zeus summons Hestia and commands her to guide a key protester back to the traditional hearth.",
+              "Hestia maintains formal reserve and views the protest as contrary to proper domestic peace.",
+              "She materializes in a chaotic modern city and feels alienated as an ancient guardian out of place."
+            ]
+          },
+          {
+            "phase": "Destabilized role and stirring conscience",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's challenge unsettles Hestia and cracks her duty-bound frame. She begins to question whether peace without autonomy is truly peaceful, though she has not yet acted against Zeus.",
+            "key_moments": [
+              "Maya argues that peace in the home is not true peace if it depends on women sacrificing autonomy, dignity, and financial independence.",
+              "Hestia experiences sensory overwhelm and destabilized uncertainty as her ancient worldview is challenged."
+            ]
+          },
+          {
+            "phase": "Conscience-driven solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia moves toward self-assertion by defying Zeus's mission and choosing solidarity with the protesters. Her agency is exercised for communion rather than domination or obedience.",
+            "key_moments": [
+              "Hestia recognizes a new hearth built of shared struggle and chooses to stand with the protesters instead of redirecting them.",
+              "She reveals her identity and mission to Maya and confesses that she chose the protesters."
+            ]
+          },
+          {
+            "phase": "Chosen belonging",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia accepts Maya's apartment as a safe modern hearth and becomes a quiet guardian of community spaces, integrating autonomous choice with relational belonging.",
+            "key_moments": [
+              "Maya offers her small apartment as a safe modern hearth.",
+              "Hestia accepts and becomes a quiet presence in Maya's activist circle, settling into chosen belonging."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses show Hestia shifting from obedient, role-bound service to Zeus and tradition toward autonomous choice, solidarity with Maya and the protesters, and chosen belonging that integrates agency with communion.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character 'The Hearth.' Because the requested axis concerns an intrapersonal arc specific to this apparently unidentified work, no legitimate structuralist or psychological criticism can be cited without inventing sources. I therefore leave the citations empty rather than fabricate support.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I can locate no published novel titled 'Dg Hestia Ar' nor any body of literary criticism addressing a character called 'The Hearth.' Without a verifiable primary text, there is no scholarly corpus in which an intrapsychic arc from role-fusion to self-authored solidarity could be traced, and inventing psychoanalytic readings of a nonexistent work would violate the requirement for real, checkable sources. The axis may be internally coherent as a design, but it is not grounded in published criticism.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify 'Dg Hestia Ar' as a published novel with a verifiable reception or scholarship, nor can I recall any real critical work discussing 'The Hearth' as a character. The proposed intrapersonal arc from role-fusion to self-authored solidarity therefore cannot be grounded in published literary criticism without inventing sources.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Hearth's Meaning",
+        "axis_name": "From Fixed Traditional Hearth to Portable Belonging",
+        "pole_start": "The hearth is understood as a physical flame within four walls, traditional domestic order, and proper peace. The protest appears as disruption to the order Hestia has known, and peace is tied to the home as a fixed place.",
+        "pole_end": "The hearth is redefined as the spirit of belonging, safety, warmth, sustenance, and community wherever it manifests, including shared struggle, mutual support, activist spaces, shared meals, late-night conversations, and Maya's apartment.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Traditional frame",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia initially frames the protest as disruption and understands her mission through the traditional hearth, domestic peace, proper order, and Zeus's command.",
+            "key_moments": [
+              "Zeus commands Hestia to observe the women's protest and subtly guide a key figure back to the traditional hearth.",
+              "Hestia is overwhelmed by the modern city and senses that her ancient framework may not map cleanly onto modern mortal life.",
+              "She believes domestic peace and proper order are paramount."
+            ]
+          },
+          {
+            "phase": "Cracked framework",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's challenge creates doubt about whether the hearth's peace is complete if it requires sacrificed autonomy and dignity, and whether true security is only four walls.",
+            "key_moments": [
+              "Maya challenges Hestia: peace in the home is not true peace if it depends on women sacrificing autonomy, dignity, and financial independence.",
+              "Hestia begins to recognize that true security is not just four walls."
+            ]
+          },
+          {
+            "phase": "Redefinition through solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia recognizes a new hearth in shared struggle, warmth, and mutual support. She chooses to stand with the protesters and articulates the hearth as larger than she knew.",
+            "key_moments": [
+              "Hestia perceives the protesters as guardians of a new hearth rather than chaotic outsiders.",
+              "She recognizes a new hearth built of shared struggle and stands with the protesters.",
+              "She declares that the hearth she served is larger than she knew."
+            ]
+          },
+          {
+            "phase": "Lived expanded hearth",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia practices her expanded understanding by accepting Maya's apartment and becoming a guardian of belonging in everyday community spaces.",
+            "key_moments": [
+              "Hestia accepts Maya's apartment as a safe modern hearth.",
+              "She becomes a quiet guardian of home, belonging, and safety wherever they manifest."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses explicitly trace Hestia's belief about the hearth from a fixed physical/traditional order to an expansive, portable, relational understanding of belonging, safety, warmth, and community.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character called 'The Hearth' within it. Therefore, the proposed intrapersonal arc from a fixed traditional hearth to portable belonging cannot be grounded in published criticism I can responsibly cite.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character called 'The Hearth' that would support this intrapersonal axis. Without identifiable author, publication history, or critical reception, any citation would be fabricated, so the axis is not grounded in published criticism I can verify.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I can find no record of a published novel titled 'Dg Hestia Ar,' nor any character criticism treating a figure called 'The Hearth' whose internal redefinition of hearth-as-fixed-place into hearth-as-portable-belonging has been analyzed. Because the primary text itself does not appear in the scholarly or bibliographical record I can verify, no genuine peer-reviewed or monograph scholarship can be cited for this intrapersonal axis, and I will not fabricate sources to fill the gap.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Moral Reasoning",
+        "axis_name": "From Order-Centered Peace to Dignity-Centered Justice",
+        "pole_start": "Hestia treats traditional order and domestic peace as paramount. Women's demands for equal pay and autonomy are seen as abandonment of the home and as chaos against proper order, so the protest is a disruption to be guided back into tradition.",
+        "pole_end": "Hestia reasons that true hearth-peace cannot be built on sacrificed autonomy, dignity, dependence, or inability to provide. Fairness demands are tending a new hearth built of shared struggle and hope, and she chooses conscience over command.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Order as moral frame",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia begins with duty and tradition as her moral compass, accepting Zeus's mission without questioning whether the tradition is complete.",
+            "key_moments": [
+              "Zeus commands Hestia to guide a key figure back to the traditional hearth.",
+              "She views women's demands for equal pay and autonomy as abandonment of the home and protest as chaos against proper order."
+            ]
+          },
+          {
+            "phase": "Moral challenge",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's argument shakes Hestia because it exposes a conflict between order and dignity. Hestia has no immediate answer and experiences destabilized uncertainty.",
+            "key_moments": [
+              "Maya argues that peace dependent on sacrificed autonomy, dignity, and financial independence is not true peace.",
+              "Hestia's ancient belief system is cracked open by the challenge."
+            ]
+          },
+          {
+            "phase": "Conscience over command",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia decides she cannot guide the protesters back to an incomplete truth. She chooses solidarity with the true hearth she has found and aligns with the demand for fundamental fairness.",
+            "key_moments": [
+              "As police advance, Hestia chooses to stand with the protesters instead of redirecting them.",
+              "Hestia confesses her choice to Maya and owns her new belief.",
+              "She recognizes her former framework as an incomplete truth."
+            ]
+          },
+          {
+            "phase": "Accepted risk and justice-bearing peace",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia accepts the risk of Olympus's wrath rather than return to unquestioning duty, confirming her dignity-centered and justice-bearing moral reasoning.",
+            "key_moments": [
+              "Maya warns Hestia that Zeus will be furious.",
+              "Hestia accepts refuge in Maya's apartment and continues as a quiet guardian under possible divine wrath."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses show Hestia's moral reasoning changing from protecting traditional order and domestic peace to protecting dignity, autonomy, fairness, and chosen belonging even at personal risk.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or a character called 'The Hearth.' Because the work itself does not appear in the published narratological or structuralist literature I can verify, the proposed intrapersonal moral-reasoning arc cannot be grounded in citable criticism without fabrication. The axis may be an insightful interpretive construction, but it is not supported by published scholarship on this text.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character 'The Hearth.' The proposed moral-reasoning arc from order-centered peace to dignity-centered justice is therefore not grounded in citable criticism. Without real published sources, the axis cannot be supported under the stated evidentiary rules.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any verifiable reception or character-development criticism concerning 'The Hearth.' Because the axis depends on a specific intrapersonal moral transformation in a character from an apparently unverifiable work, there are no real, citable scholarly works to ground it.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Identity and Worldview",
+        "axis_name": "From Obedient Certainty to Conscience-Driven Openness",
+        "pole_start": "Hestia sees herself as Zeus's obedient agent and guardian of the traditional hearth. Her ancient worldview is complete and authoritative, and modern autonomy or protest is misguided chaos to be gently corrected.",
+        "pole_end": "Hestia sees herself as a conscience-driven guardian of an expanded hearth. She recognizes her former framework as an incomplete truth, can be cracked open by a mortal, revises her beliefs humbly, and accepts growth even under possible divine wrath.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Obedient agent and doctrinal certainty",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia understands herself through duty to Zeus and the ancient hearth. She is self-assured in her divine role and treats her ancient worldview as complete and authoritative.",
+            "key_moments": [
+              "Zeus summons Hestia and commands her to observe the protest and guide a key figure back to tradition.",
+              "Hestia maintains serene, dutiful stillness and formal reserve before Maya.",
+              "She views the protest through the lens of proper order and sees it as chaos."
+            ]
+          },
+          {
+            "phase": "Unsettled guardian and epistemic destabilization",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's challenge and the modern city make Hestia less certain and less self-assured in her divine role. Her ancient belief system is cracked open.",
+            "key_moments": [
+              "Hestia experiences sensory overwhelm and bewilderment in the modern city.",
+              "Maya challenges Hestia's assumption that hearth-peace is inherently paramount.",
+              "Hestia feels destabilized uncertainty as her worldview is challenged."
+            ]
+          },
+          {
+            "phase": "Conscience-driven identity and humble revision",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia shifts from Olympian agent to a guardian who chooses conscience over command and redefines her divine identity. She recognizes her former framework as incomplete.",
+            "key_moments": [
+              "Hestia stands with the protesters instead of redirecting them.",
+              "She reveals her identity to Maya and declares the hearth she served is larger than she knew.",
+              "She recognizes her former framework was an incomplete truth and sheds a skin that had become too tight."
+            ]
+          },
+          {
+            "phase": "Expanded guardian accepting risk",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia becomes a quiet guardian of home, belonging, and safety wherever they manifest, accepting that her divine identity can grow and that Zeus may be furious.",
+            "key_moments": [
+              "Hestia accepts Maya's apartment as a safe modern hearth and refuge.",
+              "She continues as a quiet presence in the activist circle.",
+              "She accepts the risk of divine wrath rather than returning to unquestioning obedience."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses show Hestia's self-perception and worldview shifting from obedient divine functionary with closed certainty to a conscience-driven, humbled guardian whose identity expands through chosen belonging and openness to revision.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character 'The Hearth' as described here. The axis may be a plausible structuralist/psychological reading, but without identifiable published criticism specifically addressing this work or character, the claim is not grounded in citable scholarship.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character 'The Hearth.' Since the axis depends on the psychological criticism of this specific character in this specific work, and no genuine citations can be identified, the claim is not grounded in published scholarship.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character 'The Hearth' as evaluated here. The axis may be a plausible internal reading, but without real reception or criticism to cite, it is not grounded in published scholarship. Therefore I set the verdict to false and leave citations empty rather than invent sources.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "The Hearth",
+        "target_character": "Maya",
+        "dimension_label": "Trust and Esteem",
+        "axis_name": "From Wary Challenger to Trusted Friend and Ally",
+        "pole_start": "Maya is the key defiant figure Zeus fears, approached with formal reserve and a corrective mission. She is a moral challenger whose challenge unsettles Hestia; there is no prior bond, only tension and disagreement.",
+        "pole_end": "Maya becomes teacher, friend, protector, trusted confidante, and offerer of a modern hearth. Hestia feels high esteem, trust, and gratitude, chooses silent solidarity with Maya, and shares daily life with her.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Formal reserve and challenge",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia observes Maya as the key defiant figure and approaches her with formal reserve and a corrective mission. Maya's moral clarity shakes Hestia, but Hestia is also impressed by her conviction.",
+            "key_moments": [
+              "Hestia identifies Maya as Zeus's feared key figure and maintains formal reserve before her.",
+              "Maya challenges Hestia: peace in the home is not true peace if it depends on women sacrificing autonomy, dignity, and financial independence.",
+              "Hestia feels destabilized uncertainty but also impressed esteem amid disagreement."
+            ]
+          },
+          {
+            "phase": "Solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia aligns herself with Maya and the protesters through silent, absolute solidarity, deepening trust and esteem.",
+            "key_moments": [
+              "Hestia recognizes a new hearth built of shared struggle.",
+              "She chooses to stand with the protesters instead of redirecting them."
+            ]
+          },
+          {
+            "phase": "Confession and protection",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia reveals her identity and mission to Maya. Maya receives the confession with protective concern, deepening intimacy and trust.",
+            "key_moments": [
+              "Hestia reveals her identity and mission to Maya and confesses that she chose the protesters.",
+              "Maya responds with protective concern, deepening their improbable bond."
+            ]
+          },
+          {
+            "phase": "Shared daily life and grateful alliance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya offers her apartment as a safe modern hearth. Hestia accepts, transforming alliance into friendship, gratitude, and shared daily life.",
+            "key_moments": [
+              "Maya warns Hestia that Zeus will be furious and offers her small apartment as a safe modern hearth.",
+              "Hestia accepts and becomes a quiet presence in Maya's activist circle.",
+              "Hestia views Maya as teacher, friend, protector, and grateful ally."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses show the Hestia-Maya relationship moving from formal reserve, corrective mission, or moral challenge to solidarity, confession, mutual protection, gratitude, and shared daily life.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar' or on a character relationship between 'The Hearth' and Maya. The proposed relational arc may be an internal interpretive claim, but it is not grounded in verifiable published criticism that I can cite.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the specific relational arc between 'The Hearth' and Maya. Since the axis requires citations to published criticism discussing this relationship dynamic, and no such work can be recalled or verified, the claim is not grounded in published scholarship.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a Hestia–Maya relationship arc within it. The specified character names and title do not correspond to a recognized published work in my available critical knowledge, so the relational axis cannot be grounded in citable scholarship. I therefore decline to invent sources and set the verdict to false.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "The Hearth",
+        "target_character": "Zeus",
+        "dimension_label": "Obedience and Defiance",
+        "axis_name": "From Reverent Obedience to Liberated Defiance",
+        "pole_start": "Zeus is brother and commander. Hestia accepts his mission as an extension of her ancient role and the traditional order he represents, acting as his obedient agent with dutiful reverence and trust.",
+        "pole_end": "Zeus's mission feels like a fragile wisp. Hestia defies it by choosing solidarity with the protesters, creates a breach of trust, accepts liberation from unquestioning obedience, and anticipates antagonism and divine wrath.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Commanded mission and obedient acceptance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia accepts Zeus's command without resistance, framing the mission through duty and tradition. She still recognizes him as brother and commander.",
+            "key_moments": [
+              "Zeus summons Hestia and commands her to observe the women's protest and subtly guide a key figure back to the traditional hearth.",
+              "Hestia accepts the assignment and still recognizes Zeus as commander."
+            ]
+          },
+          {
+            "phase": "Internal questioning",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's challenge creates doubt about the mission and traditional hearth-peace, but Hestia has not yet openly or internally broken with Zeus.",
+            "key_moments": [
+              "Maya challenges Hestia's traditional understanding of hearth-peace.",
+              "Hestia experiences uncertainty without yet defying Zeus."
+            ]
+          },
+          {
+            "phase": "Defiant choice and breach",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia chooses the protesters over Zeus's mission, creating a breach of trust and anticipated antagonism. She accepts liberation from unquestioning obedience.",
+            "key_moments": [
+              "Hestia stands with the protesters instead of redirecting them.",
+              "Hestia reveals to Maya that she chose to stand with the protesters.",
+              "She feels apprehension at Zeus's potential wrath."
+            ]
+          },
+          {
+            "phase": "Accepted rupture",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia accepts the risk of Zeus's fury rather than return to obedience, confirming the relational breach and her new stance.",
+            "key_moments": [
+              "Maya warns Hestia that Zeus will be furious.",
+              "Hestia accepts Maya's apartment as refuge and continues as a quiet guardian."
+            ]
+          }
+        ],
+        "evidence_summary": "Both analyses show Hestia's stance toward Zeus shifting from reverent obedience and accepted command to defiant breach, liberation from unquestioning obedience, and acceptance of anticipated divine wrath.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot identify any published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar' or on a Hearth–Zeus relationship arc within it. Without real, verifiable criticism discussing this specific work or character dynamic, the axis is not grounded in published literary scholarship.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on its character 'The Hearth' and a relational arc with Zeus. While Hestia–Zeus dynamics appear in classical myth criticism, that does not constitute published criticism of this specific novel. Therefore the axis is not grounded in citable scholarship.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on the novel 'Dg Hestia Ar' or on a The Hearth–Zeus relationship arc within it. The claimed axis therefore cannot be assessed as grounded in published criticism, and no legitimate citations can be supplied.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "The Hearth",
+        "target_character": "The protesters / activist community",
+        "dimension_label": "Solidarity and Esteem",
+        "axis_name": "From Bewildered Outsider to Aligned Guardian",
+        "pole_start": "The protesters appear as chaotic outsiders focused outside the home and contrary to proper domestic peace. Hestia observes them with bewilderment, sensory overwhelm, and the assumption that their demands are abandonment of the home.",
+        "pole_end": "The protesters appear as warm, mutually supportive guardians of a new hearth built of shared struggle and hope. Hestia feels solidarity with their demand for fundamental fairness, aligns herself with them, and becomes a quiet guardian within the activist community.",
+        "confidence": "high",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Bewildered observer",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia initially observes the protesters with bewilderment as a chaotic force outside the home and contrary to proper order.",
+            "key_moments": [
+              "Hestia experiences sensory overwhelm in the modern city.",
+              "She sees the protest as chaos against proper order.",
+              "She views women's demands for equal pay and autonomy as abandonment of the home."
+            ]
+          },
+          {
+            "phase": "Recognition of a new hearth",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia perceives the protesters' warmth, mutual support, and shared struggle as hearth-guarding rather than hearth-abandoning. Their demands are reframed as tending a new hearth.",
+            "key_moments": [
+              "Hestia perceives the protesters' warmth and mutual support.",
+              "She recognizes shared struggle as tending a new hearth of hope.",
+              "She reframes fairness demands as a form of hearth-tending rather than destruction."
+            ]
+          },
+          {
+            "phase": "Aligned participant and guardian",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia chooses to stand with the activist community and their demand for fundamental fairness. She feels solidarity and becomes a quiet guardian within the circle.",
+            "key_moments": [
+              "Hestia feels solidarity with their demand for fairness.",
+              "She aligns herself with the protesters and chooses to stand with them.",
+              "She becomes a quiet presence in Maya's activist circle."
+            ]
+          }
+        ],
+        "evidence_summary": "Set B uniquely traces Hestia's perception of the activist community from chaotic outsiders to fellow guardians of an expanded hearth, with explicit solidarity and alignment.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary or narratological scholarship on a novel titled \"Dg Hestia Ar\" or on a character called \"The Hearth\" in relation to an activist/protester community. The proposed relational arc therefore cannot be grounded in identifiable published criticism, and I will not invent citations.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any verifiable criticism discussing the relationship arc between 'The Hearth' and 'the protesters / activist community.' Because the axis depends on a work and character dynamic I cannot confirm exists in published criticism, I cannot ground the claim in real citations.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the relational arc between an allegorical character called 'The Hearth' and a protesters/activist community in that work. The axis may be internally coherent as a reading, but it is not grounded in recoverable published criticism. Therefore I cannot cite real works supporting this specific relational claim.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ]
+  },
+  "Hestia": {
+    "character": "Hestia",
+    "arc_richness": "",
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency–Communion Integration",
+        "axis_name": "From Duty-Bound Communion to Self-Authored Guardianship",
+        "pole_start": "Communion experienced as embedded duty to Zeus and the eternal domestic order; Hestia acts as an obedient divine observer with low self-assertion and externally supplied purpose.",
+        "pole_end": "Agentic communion: Hestia asserts moral autonomy, chooses solidarity with Maya and the protesters, and commits to guarding a relational hearth—fusing independent judgment with interdependence, warmth, and shared belonging.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Eternal-hearth compliance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia begins serene and purposeful in her eternal hearth, accepting Zeus's framing and intending to observe the protest and subtly guide a key figure back to traditional domestic life.",
+            "key_moments": [
+              "Zeus summons Hestia and orders her to observe the women's protest and steer a key figure back to the traditional hearth.",
+              "Hestia arrives in the modern city overwhelmed by sensory overload and the protest's energy."
+            ]
+          },
+          {
+            "phase": "Encounter and destabilization",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Sensory overwhelm and Maya's moral challenge create curiosity and discomfort, weakening Hestia's unreflective obedience without yet producing open action.",
+            "key_moments": [
+              "Hestia feels out of her element, no longer the serene center of a sanctuary.",
+              "Maya argues that peace without autonomy, dignity, and fair pay is not true peace."
+            ]
+          },
+          {
+            "phase": "Moral awakening and chosen solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia moves from divine duty toward moral autonomy, recognizing the protest as a legitimate demand for dignity and fairness rather than chaos.",
+            "key_moments": [
+              "Hestia recognizes a new hearth built of shared struggle and stands with Maya and the protesters rather than redirecting them.",
+              "Hestia confesses her divine identity and original mission to Maya, declaring she cannot guide the protesters back."
+            ]
+          },
+          {
+            "phase": "Liberated guardianship",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia ends in quiet resolve and new purpose, accepting Maya's shelter and choosing to remain as guardian of the new hearth while anticipating Zeus's displeasure.",
+            "key_moments": [
+              "Hestia accepts Maya's offer of shelter and becomes a quiet guardian within her activist circle.",
+              "Hestia experiences liberation and new purpose mixed with apprehension at Zeus's potential wrath."
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets converge: Hestia shifts from obedient service within Zeus's prescribed order to a self-authored moral stance that chooses interdependence with mortals, integrating agency with communion in a commitment to relational guardianship.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on the novel 'Dg Hestia Ar' or on an internal agency–communion arc for its character Hestia. Without a real published narratological, psychological, or structuralist analysis grounding this specific character transformation, the axis cannot be supported by citation.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any psychological or psychoanalytic criticism discussing this specific Hestia character's movement from duty-bound communion to self-authored guardianship. Without identifiable published criticism to ground the axis, the claim cannot be substantiated under the citation rules.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar' or on its character Hestia, including work addressing her agency–communion development or moral autonomy. The proposed axis may be a plausible interpretive reading, but it is not grounded in verifiable published criticism that I can cite without invention. Therefore I set the verdict to false and leave citations empty.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Hearth Concept",
+        "axis_name": "From Literal Domestic Hearth to Relational Community Hearth",
+        "pole_start": "Hestia understands the hearth as the physical home and domestic order, an inherited abstract duty aligned with Zeus's traditional framing and largely separate from modern mortal complexity.",
+        "pole_end": "Hestia sees the hearth's true essence as belonging, safety, warmth, and community wherever it manifests—in cramped apartments, shared meals, protests, and activist communities.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Traditional domestic order",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "The hearth remains an inherited, abstract duty tied to Olympus's order rather than a lived mortal reality; Hestia accepts a mission to restore traditional domestic life.",
+            "key_moments": [
+              "Zeus orders Hestia to steer a key figure back to the traditional hearth."
+            ]
+          },
+          {
+            "phase": "Disorientation and expanded understanding",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Modern city life and Maya's moral challenge expose the inadequacy of Hestia's ancient frame and reveal a broader, relational meaning of hearth.",
+            "key_moments": [
+              "Hestia is overwhelmed by the modern city and the equal-pay protest.",
+              "Maya challenges Hestia's praise of hearth and home as insufficient without autonomy and dignity."
+            ]
+          },
+          {
+            "phase": "Recognition and crystallization",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia sees the hearth anew in shared struggle and articulates this transformed understanding openly.",
+            "key_moments": [
+              "Hestia recognizes a new hearth built of shared struggle and chooses solidarity with the protesters.",
+              "Hestia declares that she now sees the hearth's true essence in the protesters' struggle."
+            ]
+          },
+          {
+            "phase": "Embodied adoption",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia fully adopts the expanded hearth concept by living within Maya's apartment and activist community, committing to guard belonging and community in their modern forms.",
+            "key_moments": [
+              "Hestia accepts Maya's offer of shelter and becomes a quiet presence in her life and activist circle.",
+              "Hestia remains in the mortal world to understand and guard the new hearth in both ancient and modern forms."
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets describe a shift from physical/domestic-hearth symbolism to a revised belief that hearth is wherever belonging, safety, warmth, and mutual care are practiced—embodied when Hestia chooses to remain and guard the new hearth.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published narratological, psychological, or structuralist scholarship on a work titled 'Dg Hestia Ar' or on the character Hestia in that specific novel. Because no real citation can be supplied for this intrapersonal axis, the claim is not grounded in published literary scholarship as required.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "The proposed intrapersonal arc from a literal domestic hearth to a relational community hearth is thematically coherent, but I cannot recall any verifiable published psychological or literary-critical scholarship on the specific novel 'Dg Hestia Ar' or on this character's internal development. General classical reception work on Hestia as hearth goddess does not establish the modern activist-community transformation described here, so the axis lacks grounded published support.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character named Hestia within such a work. The proposed intrapersonal arc from a literal domestic hearth to a relational community hearth is therefore not grounded in citable published criticism. Without identifiable scholarship discussing this character's internal development, the axis must be marked unsupported.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Self-Perception",
+        "axis_name": "From Detached Divine Observer to Embodied Guardian",
+        "pole_start": "Hestia sees herself as the serene, eternal hearth-keeper and a subordinate divine observer who subtly guides mortals from a distance while executing Zeus's mission.",
+        "pole_end": "Hestia sees herself as an embodied participant and quiet guardian of home, belonging, and safety wherever they manifest—a moral agent willing to side with mortals against Zeus.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Detached dutiful agent",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's self-perception is reinforced as Zeus's serene, subordinate hearth-keeper and distant observer.",
+            "key_moments": [
+              "Hestia begins serene and purposeful in her eternal hearth, intending to observe the protest and subtly guide a key figure.",
+              "Zeus summons Hestia and orders her to observe the protest and steer a key figure back to tradition."
+            ]
+          },
+          {
+            "phase": "Displaced and questioned",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia feels out of her element and begins to question whether her millennia of hearth-tending rested on an incomplete truth.",
+            "key_moments": [
+              "Hestia is sensorily overwhelmed and bewildered by the modern city, no longer feeling like the serene center of a sanctuary.",
+              "Maya's challenge unsettles Hestia's ancient belief in the hearth as inherently peaceful."
+            ]
+          },
+          {
+            "phase": "Embodied guardian by choice",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia redefines herself as an embodied guardian of the true hearth found in shared struggle, not merely an unquestioning, detached servant of Zeus.",
+            "key_moments": [
+              "Hestia stands in solidarity with Maya and the protesters rather than redirecting them.",
+              "Hestia confesses her identity and mission and redefines herself as a guardian of the true hearth.",
+              "Hestia accepts Maya's shelter, remains in the mortal world, and becomes a quiet guardian within the activist circle."
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets converge on a self-concept shift from detached, role-based obedience within Olympus to an embodied, chosen guardianship defined by moral conviction, protection of Maya, and solidarity with mortals.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character Hestia within that specific work. Therefore, the proposed intrapersonal arc from detached divine observer to embodied guardian cannot be grounded in real, citable narratological or psychological criticism. No citations are provided because inventing them would violate the requirement for verifiable sources.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "The proposed arc is psychologically coherent as an intrapersonal shift from detached divine observer to embodied moral guardian, but I cannot recall any real, verifiable published literary or psychological criticism on 'Dg Hestia Ar' that analyzes Hestia's self-perception in these terms. Because no specific scholarly source can be cited for this character and novel, the axis is not grounded in published criticism.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar' or on the character Hestia in that specific work. The proposed arc from detached divine observer to embodied guardian is plausible as a reading, but without verifiable published criticism addressing this character's self-perception, the axis is not grounded in citable scholarship.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_04",
+        "dimension_label": "Moral Reasoning",
+        "axis_name": "From Unquestioning Divine Duty to Dignity-Centered Autonomy",
+        "pole_start": "Hestia accepts Zeus's framing of the protest as chaos and treats divine duty and traditional hearth stability as unquestionable, taking her mission as an extension of eternal duty.",
+        "pole_end": "Hestia judges that peace without autonomy, dignity, and fair pay is false peace, exercising moral autonomy and choosing allegiance based on dignity and fairness over divine command.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Order-based duty",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia accepts the mission as duty and sees the mortal world through Zeus's framing of chaos and traditional order.",
+            "key_moments": [
+              "Hestia accepts Zeus's framing of the protest as chaos.",
+              "Zeus orders Hestia to observe the women's protest and subtly steer a key figure back to the traditional hearth."
+            ]
+          },
+          {
+            "phase": "Moral disruption and awakening",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's argument introduces a competing moral criterion: peace must include autonomy, dignity, and fair pay, cracking Hestia's ancient beliefs.",
+            "key_moments": [
+              "Maya challenges Hestia's praise of hearth and home, arguing that peace without autonomy and dignity is not true peace.",
+              "Hestia recognizes the protest as a legitimate demand for dignity, autonomy, and fairness."
+            ]
+          },
+          {
+            "phase": "Conviction over command",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia acts on the new moral criterion by refusing to undermine the protest and openly abandoning Zeus's mission, accepting the risk of his wrath.",
+            "key_moments": [
+              "Hestia chooses to stand with Maya and the protesters rather than redirect them.",
+              "Hestia confesses her divine identity and mission, declaring she cannot guide the protesters back.",
+              "Hestia accepts the risk of Zeus's reckoning and finds purpose in chosen belonging and allegiance."
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets describe a shift from unquestioning obedience to divine authority toward a dignity-centered ethic that prioritizes autonomy, fair pay, shared struggle, and chosen allegiance over divine command, while anticipating consequences.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published narratological, psychological, or structuralist scholarship on a novel titled 'Dg Hestia Ar' or on the character Hestia in that specific work. The axis may be analytically plausible, but it is not grounded in published literary criticism that I can cite without inventing sources.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any published literary or psychological criticism on a novel titled 'Dg Hestia Ar' or on the character Hestia that would support this specific intrapsychic moral-reasoning arc. Without identifiable scholarship discussing Hestia's shift from divine duty to dignity-centered autonomy, the claim remains critically unsupported rather than merely under-cited.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify 'Dg Hestia Ar' as a published novel with a verifiable scholarly reception, nor can I recall any real published literary criticism discussing Hestia's moral reasoning in this work. Because the axis depends on scholarship specific to this text and character, and no verifiable citation can be supplied, the claim is not grounded in published criticism here.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Hestia",
+        "target_character": "Maya",
+        "dimension_label": "Trust and Solidarity",
+        "axis_name": "From Challenged Stranger to Trusted Ally and Mutual Protector",
+        "pole_start": "Hestia regards Maya with respectful but challenged distance, curiosity, and discomfort as Maya's moral clarity unsettles her inherited worldview; trust and intimacy are not yet established.",
+        "pole_end": "Hestia and Maya share deep mutual respect, gratitude, and solidarity, with Maya offering a safe hearth and Hestia confessing her divine identity, committing to protect Maya and guard their new hearth.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Challenge and discomfort",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya challenges Hestia, who is stunned but comes to respect Maya's conviction; curiosity and discomfort rather than immediate trust.",
+            "key_moments": [
+              "Maya argues that peace without autonomy, dignity, and fair pay is not true peace.",
+              "Maya's questions crack Hestia's ancient beliefs."
+            ]
+          },
+          {
+            "phase": "Respect and solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's moral awakening, silent touch, and choice to stand with Maya create a bond of respect, gratitude, and solidarity.",
+            "key_moments": [
+              "Hestia recognizes a new hearth in shared struggle and stands with Maya and the protesters.",
+              "Hestia feels deep respect and gratitude toward Maya."
+            ]
+          },
+          {
+            "phase": "Confession and shelter",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "The relationship deepens through Hestia's confession and Maya's protective response, establishing trust and intimacy.",
+            "key_moments": [
+              "Hestia confesses her divine identity and original mission to Maya.",
+              "Maya responds protectively by offering her apartment as a safe hearth."
+            ]
+          },
+          {
+            "phase": "Protective shared life",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Their friendship becomes a bridge between ancient and modern, built on mutual trust, shared purpose, and reciprocal protection.",
+            "key_moments": [
+              "Hestia accepts Maya's shelter and protection, committing to protect Maya and guard the new hearth.",
+              "Hestia becomes a quiet presence in Maya's life and activist circle."
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets describe the Hestia–Maya relationship moving from moral challenge and discomfort to respect, solidarity, confession, shelter, and a protective friendship of mutual trust.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar,' nor on a Hestia–Maya relationship arc within such a work. Because the axis requires evidence from published criticism discussing this specific relational dynamic, and no real citation can be supplied, the claim is not grounded in available scholarship.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on the specific Hestia–Maya relationship arc. The claimed shift from challenged stranger to trusted ally and mutual protector may be plausible within the text, but without real published criticism discussing this relationship, the axis is not grounded in scholarship.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a Hestia–Maya relationship arc in such a work. The axis therefore appears unsupported by published reception or cultural/historical criticism rather than merely under-cited.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Hestia",
+        "target_character": "Zeus",
+        "dimension_label": "Loyalty and Deference",
+        "axis_name": "From Dutiful Subordination to Fractured Defiance",
+        "pole_start": "Hestia begins as Zeus's loyal subordinate and dutiful divine agent, accepting his summons, mission, and framing of the protest as chaos as an extension of her eternal duty.",
+        "pole_end": "Hestia openly abandons Zeus's mission, anticipates his displeasure and wrath, and experiences fractured loyalty and a cooling, antagonistic shift toward him.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Dutiful mission",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "The summons reaffirms Hestia's subordinate role to Zeus; she accepts the mission and framing without immediate alteration of the relationship.",
+            "key_moments": [
+              "Zeus summons Hestia and orders her to observe the protest and steer a key figure back to the traditional hearth.",
+              "Hestia accepts Zeus's framing of the protest as chaos and intends to fulfill the mission."
+            ]
+          },
+          {
+            "phase": "Internal defiance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "After Maya's challenge, Hestia internally rejects Zeus's framing and chooses solidarity, defying him by not undermining the protesters.",
+            "key_moments": [
+              "Hestia recognizes the protest as legitimate and stands in solidarity with Maya and the protesters rather than redirecting them.",
+              "Hestia shifts from unquestioning divine duty toward chosen allegiance."
+            ]
+          },
+          {
+            "phase": "Open abandonment and apprehensive separation",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia openly abandons Zeus's mission, making future conflict with Olympus likely, and experiences fractured loyalty and cooling toward him.",
+            "key_moments": [
+              "Hestia confesses her divine identity and mission to Maya, declaring she cannot guide the protesters back.",
+              "Hestia accepts Maya's shelter while anticipating Zeus's potential wrath and experiencing fractured loyalty."
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets mark a cooling shift from obedient trust and dutiful mission-following to open moral and relational opposition, with broken loyalty and apprehension about Zeus's wrath.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any narratological or structuralist analysis specifically addressing Hestia's relational arc with Zeus in that work. The axis may be interpretively plausible, but it is not grounded in citable published criticism that I can verify.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary or psychoanalytic scholarship on a novel titled 'Dg Hestia Ar' or on a Hestia–Zeus relational arc within it. Without real criticism discussing Hestia's shift from dutiful subordination to fractured defiance toward Zeus, the axis cannot be grounded in published scholarship.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a Hestia–Zeus relationship arc within that work. Since the axis depends on a specific, published novel and reception/criticism that I cannot confirm, citing works would require invention. Therefore the claim is not grounded in verifiable scholarship.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_03",
+        "source_character": "Hestia",
+        "target_character": "Activist circle",
+        "dimension_label": "Belonging and Acceptance",
+        "axis_name": "From Outside Observer to Accepted Guardian",
+        "pole_start": "Hestia begins as an outsider and divine observer, abstractly separated from the protesters' lived struggle, experiencing the protest as overwhelming and unfamiliar rather than as a community she belongs to.",
+        "pole_end": "Hestia is accepted as a silent guardian and participant within the activist community, forming new bonds of belonging.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Outsider amid chaos",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia experiences the protest as overwhelming and unfamiliar rather than as a community she belongs to.",
+            "key_moments": [
+              "Hestia arrives in the chaotic modern city and is overwhelmed by the protest's impassioned energy."
+            ]
+          },
+          {
+            "phase": "Solidarity stance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia chooses to stand with the protesters, beginning her shift from observer to participant.",
+            "key_moments": [
+              "Hestia recognizes a new hearth in shared struggle and stands in solidarity with Maya and the protesters."
+            ]
+          },
+          {
+            "phase": "Accepted guardian",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia becomes a quiet presence accepted within the activist circle.",
+            "key_moments": [
+              "Hestia accepts Maya's shelter and becomes a quiet presence in her life and activist circle."
+            ]
+          }
+        ],
+        "evidence_summary": "Set A uniquely tracks Hestia's move from external divine observer to accepted participant within the activist community; the evidence is thin and partly overlaps the Maya axis, warranting medium confidence.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a Hestia–Activist circle relational arc within it. Since the axis depends on a work I cannot confirm exists in published criticism, the claim is not grounded in citable scholarship. No real citations can be provided without inventing them.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published novel titled \"Dg Hestia Ar,\" nor any body of literary criticism addressing a character named Hestia who moves from divine observer to accepted guardian within an activist circle. The title and character configuration do not match any work I can verify in the scholarship on depth psychology or psychoanalytic character criticism, so the proposed relational arc between Hestia and the Activist circle cannot be grounded in real, citable sources. Absent a verifiable primary text and secondary literature, asserting support for this axis would require inventing citations, which I will not do.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "The proposed relational arc from outsider divine observer to accepted guardian within the activist circle is a plausible thematic reading, but I cannot identify any real, verifiable published literary scholarship on the novel 'Dg Hestia Ar' that discusses Hestia's evolving relationship with the activist community. Without published criticism specifically grounding this axis, the claim cannot be confirmed through citable scholarship.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ]
+  },
+  "Maya": {
+    "character": "Maya",
+    "arc_richness": "",
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency-communion",
+        "axis_name": "From confrontational self-assertion to protective communion",
+        "pole_start": "Maya begins on the agency pole: she is fiercely self-assertive, morally confrontational, and publicly defends women's autonomy, fair pay, and dignity against Hestia's traditionalist view of hearth and peace.",
+        "pole_end": "Maya moves toward communion: she becomes protective, hospitable, and relationally invested in Hestia's safety, offering shelter and a shared refuge while retaining her activist agency.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Assertive advocacy",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya addresses the crowd with moral conviction, challenges Hestia publicly, and demands equal pay, autonomy, dignity, and fair treatment.",
+            "key_moments": [
+              "Maya confronts Hestia's traditionalist view of hearth and peace.",
+              "Maya argues that peace without autonomy, fair pay, and dignity is hollow.",
+              "Maya treats Hestia as an ideological challenger rather than an ally."
+            ]
+          },
+          {
+            "phase": "Destabilized encounter",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's steadying touch and divine confession disrupt Maya's prior opponent-frame, producing warmth and bewilderment.",
+            "key_moments": [
+              "Hestia steps beside Maya and places a steadying hand on her arm.",
+              "Maya feels unexpected warmth and pulls Hestia back to question her.",
+              "Hestia confesses she is a goddess sent by Zeus but has chosen to defy Zeus and stand with the protesters."
+            ]
+          },
+          {
+            "phase": "Protective interdependence",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya acts from the communion pole by offering shelter and practical safety, turning activism into personal solidarity.",
+            "key_moments": [
+              "Maya offers Hestia her small apartment as a safe place to stay.",
+              "Maya recognizes Hestia's sacrifice after her defiance of Zeus.",
+              "Maya maintains solidarity with the protesters while defining home as a refuge shared with an ally."
+            ]
+          }
+        ],
+        "evidence_summary": "Maya's arc begins with self-assertive defense of autonomy and ends with an offer of shelter and shared refuge, showing movement from confrontational independence toward relational interdependence without abandoning her core values.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on the novel 'Dg Hestia Ar' or on Maya's intrapersonal agency-communion arc. Since the axis requires grounded published criticism specific to this character and work, and no such citations are known, the claim is unsupported under the given rules.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I can recall no published novel titled \"Dg Hestia Ar,\" nor any body of literary criticism addressing a character named Maya within such a work. Since the axis is intrapersonal and must be grounded in verifiable psychological or psychoanalytic criticism of this specific text, I have no real scholarship to cite; inventing titles, authors, or URLs would violate the citation rules. The axis itself is internally coherent (agency-to-communion movement, retaining activist identity while adding protective care), but coherence is not evidence of published support.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character named Maya within such a work. Because the title and character do not correspond to any recognizable published novel or critical corpus I can cite, the claimed intrapersonal agency-communion arc cannot be grounded in published scholarship. I therefore leave the citation list empty rather than invent sources.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Worldview openness",
+        "axis_name": "From secular activist frame to accepting divine intervention",
+        "pole_start": "Maya interprets the conflict in secular, economic, and political terms: peace must be grounded in autonomy, fair pay, and dignity, and Hestia's view is treated as an ideological challenge rather than a divine claim.",
+        "pole_end": "Maya's worldview expands to accept divine intervention; she sees Hestia's defiance of Zeus as authentic and the movement as divinely noticed and existentially risky.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Secular moral argument",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya argues entirely within a human-political frame, treating Hestia's view as an ideological challenge.",
+            "key_moments": [
+              "Maya defends the protest by arguing that peace without autonomy, fair pay, and dignity is hollow.",
+              "Maya challenges Hestia's traditionalist view of hearth and peace."
+            ]
+          },
+          {
+            "phase": "Divine shock and destabilization",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's touch and revelation of her divinity disrupt Maya's secular framework and produce shock and awe.",
+            "key_moments": [
+              "Hestia places a steadying hand on Maya's arm.",
+              "Hestia confesses that she is a goddess sent by Zeus to redirect Maya.",
+              "Maya is destabilized by the impossible reality of Hestia's divine identity."
+            ]
+          },
+          {
+            "phase": "Expanded acceptance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya accepts Hestia's costly defiance of Zeus as authentic and interprets the movement as carrying divine validation and existential risk.",
+            "key_moments": [
+              "Hestia reveals she has chosen to defy Zeus and stand with the protesters.",
+              "Maya recognizes Hestia's sacrifice and offers her shelter.",
+              "Maya's framework expands from secular activism to include divine intervention."
+            ]
+          }
+        ],
+        "evidence_summary": "The explicit belief change is from a secular activist framework to one that accepts divine intervention and interprets the movement as divinely noticed and existentially risky.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any published novel titled 'Dg Hestia Ar', nor any narratological, structuralist, or psychological scholarship addressing a character named Maya within it. Because the axis is text-specific — tracking Maya's shift from a secular economic/political frame to acceptance of divine intervention — no real, verifiable published work I know of documents this internal dimension, and fabricating citations for an unidentifiable text would violate the requirement of verifiability.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any psychological or psychoanalytic criticism discussing Maya's worldview development from secular activism to acceptance of divine intervention. Because the axis depends on a text for which I can identify no verifiable secondary literature, it cannot be grounded in published criticism under the stated rules.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar' or on its character Maya. The described worldview shift from secular activism to acceptance of divine intervention may be interpretable through general psychological or postsecular criticism, but without verifiable published work specifically on this novel, the axis is not grounded in scholarship. I therefore cannot supply real citations supporting this claim.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Inclusive solidarity",
+        "axis_name": "From opponent-only framing to expanded alliance",
+        "pole_start": "Maya initially frames Hestia as a philosophical and moral opponent outside her activist cause, with solidarity directed toward human protesters and women seeking equality.",
+        "pole_end": "Maya expands her sense of who can belong to the cause: Hestia becomes an ally who chose solidarity through costly defiance, without Maya abandoning her activism.",
+        "confidence": "medium",
+        "source": "psych_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Oppositional framing",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya treats Hestia as a representative of a traditional view to be challenged, keeping her outside the circle of activist solidarity.",
+            "key_moments": [
+              "Maya challenges Hestia before the crowd with pointed moral conviction.",
+              "Maya sees Hestia initially as a philosophical opponent."
+            ]
+          },
+          {
+            "phase": "Revelation and reframing",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's touch, revelation, and defiance of Zeus force Maya to reconsider Hestia as a potential ally rather than only an opponent.",
+            "key_moments": [
+              "Hestia's touch and divine revelation destabilize Maya's opponent-frame.",
+              "Maya recognizes Hestia as an ally who has chosen solidarity."
+            ]
+          },
+          {
+            "phase": "Protective alliance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya acts on the expanded alliance by offering shelter and protection while remaining committed to the protest and cause.",
+            "key_moments": [
+              "Maya offers Hestia shelter.",
+              "Maya recognizes Hestia's defiance of Zeus as costly alignment.",
+              "Maya maintains solidarity with the protesters."
+            ]
+          }
+        ],
+        "evidence_summary": "Maya's beliefs in equality and dignity do not change, but her boundary of who can count as an ally expands from human protesters to include a defecting goddess.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a work titled 'Dg Hestia Ar' or on Maya as a character within it. The proposed intrapersonal arc—from opponent-only framing to expanded alliance—is narratologically plausible, but without identifiable published criticism or even a securely identifiable primary text, it cannot be grounded in citable scholarship. I therefore decline to invent sources.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship — psychological, psychoanalytic, or otherwise — on a novel titled \"Dg Hestia Ar\" or on a character named Maya within it; the title does not correspond to any work I can verify in the critical literature. Since the axis concerns an intrapersonal shift in Maya's moral reasoning and coalitional imagination, it would require a critic who has actually analyzed her character development, and I can recall none. Per the rules, I therefore decline to supply citations rather than fabricate them.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor on a character Maya whose internal arc is analyzed in relation to Hestia and expanded activist solidarity. Because the axis requires reception-oriented or character-development scholarship specific to this work, and no real citation can be supplied, the claim is not grounded in published criticism as required.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "Maya",
+        "target_character": "Hestia",
+        "dimension_label": "Trust and esteem",
+        "axis_name": "From ideological challenger to trusted ally",
+        "pole_start": "Maya treats Hestia as an ideological and moral opponent whose traditionalist view of hearth and peace must be challenged.",
+        "pole_end": "Maya trusts and esteems Hestia because she risked divine wrath to stand with the protesters; Hestia becomes a sheltered ally.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Ideological friction",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya engages Hestia seriously but as a challenger rather than an ally.",
+            "key_moments": [
+              "Maya confronts Hestia's traditionalist view of hearth and peace.",
+              "Maya defends the protest's demand for autonomy, fair pay, and dignity.",
+              "Maya challenges Hestia before the crowd with moral conviction."
+            ]
+          },
+          {
+            "phase": "Surprising solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya feels unexpected warmth when Hestia stands with her, revising her view from critic to potential ally.",
+            "key_moments": [
+              "Hestia steps beside Maya and places a steadying hand on her arm.",
+              "Maya feels warmth and pulls Hestia back to question her.",
+              "Hestia's touch and revelation bewilder Maya and disrupt her prior opponent-frame."
+            ]
+          },
+          {
+            "phase": "Costly trust",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya's trust and esteem deepen because Hestia's confession reveals sacrifice and authentic alignment with the cause.",
+            "key_moments": [
+              "Hestia confesses she is a goddess sent by Zeus.",
+              "Hestia reveals she has chosen to defy Zeus and stand with the protesters.",
+              "Maya recognizes Hestia's costly defiance as authentic solidarity."
+            ]
+          },
+          {
+            "phase": "Deepened bond",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya translates trust into action by sheltering Hestia.",
+            "key_moments": [
+              "Maya offers Hestia her small apartment as a safe place to stay.",
+              "Maya acts with protective concern and cautious hospitality."
+            ]
+          }
+        ],
+        "evidence_summary": "The relationship moves from ideological challenge to deep trust and esteem, driven by Hestia's solidarity and costly defiance of Zeus.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a Maya–Hestia relationship arc in that work. Because the title and characters do not match any verifiable published literary corpus I know, the proposed relational axis cannot be grounded in real, citable scholarship. I therefore set the verdict to false and leave citations empty rather than invent sources.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published novel titled 'Dg Hestia Ar' or any character named Maya or Hestia within it, so there is no body of literary criticism — psychoanalytic, feminist, or otherwise — that could document a Maya–Hestia relational arc from ideological opposition to trust. The axis as described (a mortal or devotee shifting from challenging Hestia's traditionalist hearth-and-peace ideology to esteeming her as a sheltered ally after divine risk-taking) reads as a generic mythographic trope rather than one traceable to verifiable scholarship. Absent any real, citable source, I must mark the axis ungrounded rather than fabricate parallels from Hestia-focused classical reception studies, which do not concern these characters.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published novel titled Dg Hestia Ar or any verifiable literary scholarship discussing a Maya–Hestia relationship arc in such a work. The proposed axis therefore lacks grounding in published criticism, and any citation would be fabricated.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "Maya",
+        "target_character": "Hestia",
+        "dimension_label": "Intimacy and protection",
+        "axis_name": "From distant debate to personal refuge",
+        "pole_start": "Maya's relation to Hestia is public, argumentative, and emotionally distant.",
+        "pole_end": "Maya develops personal warmth and protective intimacy, offering Hestia shelter and a shared domestic refuge.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Public debate",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya relates to Hestia through ideological debate, with no personal intimacy.",
+            "key_moments": [
+              "Maya defends the protest against Hestia's traditionalist view of hearth and peace.",
+              "Maya challenges Hestia before the crowd."
+            ]
+          },
+          {
+            "phase": "Personal warmth",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya feels unexpected warmth and curiosity when Hestia physically stands beside her.",
+            "key_moments": [
+              "Hestia places a steadying hand on Maya's arm.",
+              "Maya feels warmth and pulls Hestia back to question her.",
+              "Maya's prior emotional distance is disrupted by Hestia's touch."
+            ]
+          },
+          {
+            "phase": "Protective refuge",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Maya turns intimacy into protective action by offering Hestia a safe place to stay.",
+            "key_moments": [
+              "Maya offers Hestia her apartment after Hestia's defiance of Zeus.",
+              "Maya defines home as a refuge shared with those who stand with her.",
+              "Maya maintains solidarity with the protesters while sheltering Hestia."
+            ]
+          }
+        ],
+        "evidence_summary": "Maya's relationship with Hestia gains emotional warmth and protective intimacy, culminating in the offer of shelter and a shared domestic refuge.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar' or on a Maya–Hestia relationship arc within it. Without a real critical corpus addressing this work or its character dynamics, the proposed relational axis cannot be grounded in published literary scholarship.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any real, verifiable published literary scholarship on 'Dg Hestia Ar' that discusses Maya's relationship with Hestia, let alone an arc from public argument to protective domestic intimacy. Without grounded criticism, the axis remains an interpretive claim rather than a scholarly-supported one.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published novel titled 'Dg Hestia Ar' or any verifiable literary scholarship discussing a Maya–Hestia relationship arc. The character names and title do not correspond to works I can confirm in published criticism, so the claim about Maya moving from distant debate to protective domestic intimacy cannot be grounded in real citations.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ]
+  },
+  "The Protesters": {
+    "character": "The Protesters",
+    "arc_richness": "",
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency–Communion Balance",
+        "axis_name": "From Joyous Communal Solidarity through Defiant Confrontation to Chosen, Guarded Belonging",
+        "pole_start": "The group begins in communion-heavy solidarity: chanting together, united by shared purpose and joyful conviction around equal pay, autonomy, and dignity; their defiance is expressive and communal rather than confrontational.",
+        "pole_end": "After an agency surge of defiant confrontation under police pressure, communion is restored and deepened: the circle becomes a chosen hearth experienced as a legitimate source of safety and belonging, anchored by an outsider ally who stays as quiet guardian.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "ambivalent",
+        "trajectory": [
+          {
+            "phase": "Celebratory communal defiance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "High communion with moderate agency: the crowd is impassioned, chanting, and united by purpose; defiance is expressive and communal.",
+            "key_moments": [
+              "Joyous chanting and shared conviction",
+              "Collective demand for equal pay, autonomy, and dignity",
+              "Maya's grim determination mirrored across the crowd"
+            ]
+          },
+          {
+            "phase": "Confrontational collective resistance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Agency intensifies while communion remains: police lines advance, crowd energy turns volatile, and protesters hold their ground rather than dispersing.",
+            "key_moments": [
+              "Police lines advance on the protest",
+              "Crowd shifts from joyous purpose to volatile confrontation and defiant chanting",
+              "Protesters guard one another and stand firm"
+            ]
+          },
+          {
+            "phase": "Validation through alliance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Agency softens back toward communion as an outsider physically aligns with the group, producing surprise, validation, and a morale surge.",
+            "key_moments": [
+              "Hestia steps into position with the protesters and places a steadying hand on Maya's arm as police close in"
+            ]
+          },
+          {
+            "phase": "Chosen hearth and guardianship",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Communion is deepened into chosen interdependent belonging: the activist circle is experienced as a safe hearth, with Hestia as quiet guardian.",
+            "key_moments": [
+              "Hestia reveals she defied Zeus's mission and chooses to remain with Maya and the activist circle as a quiet guardian"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree the crowd's core values stay stable while its collective stance shifts under police pressure. Set B captures the initial celebratory communion and the agency surge of confrontation; Set A captures the return toward communion via Hestia's solidarity and guardianship. The combined shape is non-linear (communion → agency surge → deepened chosen communion), hence ambivalent rather than a simple positive shift.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I have no recollection of a published novel titled 'Dg Hestia Ar' nor of any narratological, psychological, or structuralist scholarship treating its characters, so the posited intrapersonal arc for 'The Protesters' cannot be grounded in verifiable criticism. While the described movement (communal solidarity → confrontational agency → chosen belonging) resembles familiar group-character patterns, I cannot recall any real published work that discusses this dimension in this specific text. In accordance with the rules, I therefore decline to fabricate citations.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify 'Dg Hestia Ar' as a real published novel, nor can I recall any verifiable literary scholarship on a character or group called 'The Protesters' in such a work. The proposed axis is a plausible psychological reading, but it cannot be grounded in published criticism without a real textual and bibliographic referent.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on its group character 'The Protesters.' Without a real critical corpus addressing this work, the proposed intrapersonal arc cannot be grounded in published reception or character-development scholarship. I therefore cannot supply citations without inventing them.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_02",
+        "dimension_label": "Openness to Allies",
+        "axis_name": "From Embattled Insularity to Open Solidarity",
+        "pole_start": "The movement's legitimacy is felt mainly within its own ranks; the moral world is centered on the group's confrontation with police, and unfamiliar outsiders are unknown or suspect.",
+        "pole_end": "The protesters believe their cause can attract and retain solidarity beyond their own ranks, seeing the movement as worthy of bridge-building defense and shared struggle.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Internal resolve under pressure",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Their demand feels worth the risk, but the group's moral world is still bounded by its own confrontation with police; Hestia is an unknown outsider asking about home and peace.",
+            "key_moments": [
+              "Police lines advance, shifting the crowd from joyous purpose to volatile confrontation",
+              "Hestia questions Maya before the confrontation; her divine identity and mission are unknown to the group"
+            ]
+          },
+          {
+            "phase": "Unexpected outsider solidarity",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's physical alignment produces surprise and validation, expanding the group's belief about who might stand with them.",
+            "key_moments": [
+              "Hestia steps into the protesters' line and places a steadying hand on Maya's arm as police close in"
+            ]
+          },
+          {
+            "phase": "Trusted ally incorporated",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's choice to defy Zeus and remain as guardian confirms that shared struggle can create belonging beyond the original circle.",
+            "key_moments": [
+              "Hestia reveals she defied Zeus's mission and chooses to remain with the activist circle as a quiet guardian"
+            ]
+          }
+        ],
+        "evidence_summary": "Unique to Set A, this is a belief axis (who can belong to the cause) rather than an affective or power-balance one. It is partially redundant with the communion pole of final_intra_01 and with the Hestia relational axis, but it captures a distinct shift from insider-only legitimacy to a movement that can absorb and retain outside allies. Rated medium for that overlap.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published narratological, structuralist, or psychological criticism on the novel 'Dg Hestia Ar' or on the character-group 'The Protesters.' Without real scholarship addressing this text or this internal dimension of the group, the axis cannot be grounded in published criticism under the stated rules.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify \"Dg Hestia Ar\" as any published novel, and I have no reliable recall of literary scholarship — psychoanalytic, ego-developmental, or otherwise — treating a character group called \"The Protesters\" in such a work. Because the axis concerns a specific internal shift in openness to allies within this text, grounding it would require verifiable criticism on that text, which I cannot supply without fabricating sources. I therefore decline to assert the axis is scholar  grounded.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify 'Dg Hestia Ar' as a published novel with a verifiable scholarly reception, nor can I recall any real literary-critical work discussing The Protesters as a character or their internal shift from insularity to solidarity. Because the axis depends on a specific intrapersonal reading of this group and no verifiable published scholarship supports it, the claim is not grounded in citable criticism.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_03",
+        "dimension_label": "Threat-to-Safety",
+        "axis_name": "From Fearful Defiance to Guarded Safety",
+        "pole_start": "The emotional baseline is volatile confrontation: fear mixed with defiant solidarity as police close in on the crowd.",
+        "pole_end": "The emotional baseline deepens into safety, recognition, and improbable companionship under a guardian presence.",
+        "confidence": "medium",
+        "source": "event_only",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Volatile confrontation",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Fear and defiance coexist as the crowd shifts from joy to confrontation under an advancing police line.",
+            "key_moments": [
+              "Police lines advance; crowd energy turns volatile and confrontational"
+            ]
+          },
+          {
+            "phase": "Morale surge from ally",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Surprise and validation lift morale when Hestia joins the protesters physically.",
+            "key_moments": [
+              "Hestia steps into position with the protesters and steadies Maya's arm"
+            ]
+          },
+          {
+            "phase": "Guarded safety",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "A deepened sense of safety and recognition emerges as Hestia stays as a quiet guardian.",
+            "key_moments": [
+              "Hestia defies Zeus's mission and remains with the circle as quiet guardian"
+            ]
+          }
+        ],
+        "evidence_summary": "Unique to Set A and missed by Set B, which frames the emotional shift only as celebration → confrontation. This axis captures the affective security dimension: fear-inflected defiance under immediate threat resolving into felt safety and companionship, driven by the guardian presence.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on the novel 'Dg Hestia Ar' or on 'The Protesters' as a collective character. The proposed intrapersonal emotional arc from fearful defiance to guarded safety therefore cannot be grounded in published narratological or psychological criticism. Because no legitimate citation can be supplied, the axis must be judged unsupported.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published novel titled 'Dg Hestia Ar,' nor any body of literary criticism addressing a collective character called 'The Protesters' within such a work. Because the underlying text appears unverifiable and I can recall no real scholarship — psychological, psychoanalytic, or otherwise — that tracks an intrapsychic shift from 'fearful defiance' to 'guarded safety' in this collective figure, the axis cannot be grounded in citable criticism. I therefore decline to manufacture support.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar' or on 'The Protesters' as a character/collective in that work. The proposed intrapersonal axis from fearful defiance to guarded safety therefore cannot be grounded in verifiable published criticism, and inventing citations would violate the task constraints.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ],
+    "relational_axes": [
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_01",
+        "source_character": "The Protesters",
+        "target_character": "Hestia",
+        "dimension_label": "Trust–Esteem–Intimacy",
+        "axis_name": "From Unfamiliar Outsider to Trusted Guardian Ally",
+        "pole_start": "Hestia is an unknown outsider who had been questioning Maya about home and peace; the protesters know nothing of her divine identity or mission, and trust, esteem, and intimacy are all low.",
+        "pole_end": "Hestia is a trusted, esteemed presence inside the activist circle—a quiet guardian whose choice to stay strengthens group cohesion and deepens intimacy.",
+        "confidence": "high",
+        "source": "both",
+        "arc_direction": "positive",
+        "trajectory": [
+          {
+            "phase": "Unfamiliar outsider",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia stands outside the group's cause and trust; her questions about home and peace do not yet establish solidarity.",
+            "key_moments": [
+              "Hestia asks about home and peace",
+              "Protesters do not know her divine identity or mission"
+            ]
+          },
+          {
+            "phase": "Solidarity gesture / physical alignment",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia steps into the protesters' line and touches Maya, producing surprise and validation; trust and esteem rise, shifting her from outsider to likely ally.",
+            "key_moments": [
+              "Hestia steps into position with the protesters",
+              "Hestia places a steadying hand on Maya's arm as police close in"
+            ]
+          },
+          {
+            "phase": "Revealed guardian",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Hestia's defiance of Zeus and decision to remain as quiet guardian deepens her integration and the group's cohesion, converting provisional alliance into intimacy.",
+            "key_moments": [
+              "Hestia reveals she defied Zeus's mission",
+              "Hestia chooses to remain with Maya and the activist circle as a quiet guardian"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets independently trace the same warming arc from outsider to ally via the embodied solidarity gesture. Set B supplies the clearest starting pole (unknown outsider, low trust/intimacy) and caution; Set A supplies the endpoint (trusted guardian after defying Zeus). Merged, the axis shows steady gains in trust and esteem with intimacy deepening only at the final reveal.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any published narratological, structuralist, or relational-dynamics scholarship on a work titled 'Dg Hestia Ar' or on the Protesters–Hestia relationship. Without a verifiable critical corpus addressing this specific text or its characters, the proposed trust–esteem–intimacy arc is not grounded in published literary scholarship.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a relationship arc between 'The Protesters' and a character named Hestia in that work. Because the title and character configuration do not correspond to a known published novel or critical corpus, the claimed relational axis cannot be grounded in real, citable scholarship. Any citation here would therefore risk fabrication, so the axis is unsupported.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character group called 'The Protesters' in relation to Hestia. Without a real, citable critical source discussing this relational arc, the axis cannot be grounded in published scholarship.",
+              "citations": []
+            }
+          }
+        }
+      },
+      {
+        "axis_type": "relational",
+        "axis_id": "final_rel_02",
+        "source_character": "The Protesters",
+        "target_character": "Police",
+        "dimension_label": "Antagonism Escalation",
+        "axis_name": "From Wary Adversarial Authority to Immediate Confrontational Force",
+        "pole_start": "Police are an approaching authority already viewed with adversarial wariness as a threat to the group's demands and bodily autonomy; trust and esteem are low, but the crowd's energy is still primarily expressive and communal.",
+        "pole_end": "Police are an immediate, actively confronting force; trust and esteem remain low while antagonism and threat perception intensify into volatile confrontation.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "negative",
+        "trajectory": [
+          {
+            "phase": "Wary adversarial distance",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Police are already perceived as adversaries to the cause, but the crowd's stance is still expressive and communal rather than actively confrontational.",
+            "key_moments": [
+              "Protesters demand equal pay, autonomy, and dignity",
+              "Police perceived as a threat to the demands and to bodily autonomy"
+            ]
+          },
+          {
+            "phase": "Advancing line hardens the relationship",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "The advancing police line converts the police into an immediate adversarial force and the crowd into volatile confrontation.",
+            "key_moments": [
+              "Police lines advance on the protest",
+              "Crowd energy turns volatile; defiant chanting begins"
+            ]
+          },
+          {
+            "phase": "Volatile confrontation",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Protesters hold their ground against intimidation without abandoning their cause; antagonism is at its height while trust and esteem stay consistently low.",
+            "key_moments": [
+              "Protesters resist intimidation and refuse to disperse",
+              "Collective self-assertion against the police line"
+            ]
+          }
+        ],
+        "evidence_summary": "Both sets agree the Protesters–Police relationship cools and hardens within the single chapter, with trust and esteem staying low while antagonism escalates. The sets differ only on the starting baseline (authority line vs. already-wary adversary); the merged axis treats police as wary adversarial authority that becomes an immediate confrontational force. The trajectory is negative: the adversarial stance entrenches rather than resolves.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any narratological or structuralist analysis specifically addressing the Protesters–Police relational arc in that work. Without a real, citable critical corpus, the proposed antagonism-escalation axis cannot be grounded in published scholarship.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a Protesters–Police relational arc in such a work. Because the axis depends on a specific, identifiable novel and its published criticism, I cannot ground the claim without risking invented sources.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "I cannot identify 'Dg Hestia Ar' as a published novel with a verifiable reception or scholarship, and I recall no real literary-critical work discussing an evolving Protesters–Police relationship in that title. The axis therefore cannot be grounded in published scholarship on the novel, and any citation would be fabricated.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ]
+  },
+  "Zeus": {
+    "character": "Zeus",
+    "arc_richness": "",
+    "intrapersonal_axes": [
+      {
+        "axis_type": "intrapersonal",
+        "axis_id": "final_intra_01",
+        "dimension_label": "Agency vs communion",
+        "axis_name": "Fixed sovereign agency: unchanging dominance over communion",
+        "pole_start": "Zeus operates from the Agency pole: imperious, control-seeking, and eager to reassert hierarchical order. He treats his authority as self-evident, frames mortal women's collective action and demands for equal pay as disorder rather than as legitimate claims, delegates control covertly through Hestia rather than engaging cooperatively or vulnerably, and treats others—including Hestia—as instruments of his will rather than interdependent partners.",
+        "pole_end": "Remains at the same Agency pole with no evidenced movement toward communion, empathy, mutuality, or shared authority. His irritation at loss of control reinforces his conviction that he is entitled to direct divine subordinates; no later chapter shows a shift in this position.",
+        "confidence": "medium",
+        "source": "both",
+        "arc_direction": "flat",
+        "trajectory": [
+          {
+            "phase": "Entrenched sovereign agency (single observed event)",
+            "chapter_range": [
+              1,
+              1
+            ],
+            "position_description": "Zeus is fixed at the agency-dominance pole. Agitated by loss of control, he responds with imperious irritation and covert manipulation: he complains to Hestia that mortal women are abandoning the hearth and demanding equal pay, frames women's proper station as domestic and equal pay as 'what is not their station,' then orders Hestia to observe the protest and 'gently, subtly' guide a key defiant figure back to traditional domestic life—wanting hierarchy restored without arguing for it and without appearing himself or using open force. The event is marked neutral for belief change, self-perception change, and meaning-making, so there is no intrapersonal movement.",
+            "key_moments": [
+              "Zeus complains to Hestia that mortal women are abandoning the hearth and demanding equal pay.",
+              "Zeus voices 'displeasure' at the women's collective action, treating it as disorder rather than a political claim.",
+              "He frames women's proper station as domestic and equal pay as 'what is not their station.'",
+              "Zeus orders Hestia to observe the protest and subtly guide a key defiant figure back to traditional domestic life, using her gentleness as an instrument of control."
+            ]
+          }
+        ],
+        "evidence_summary": "Both independent analyses converge on a single intrapersonal axis and on the same diagnosis: Zeus is fixed at the Agency pole with no internal movement. He seeks control, reinforces traditional hierarchical order, and uses Hestia as a subordinate instrument; the available material explicitly reports no belief shifts, no self-perception change, no meaning-making change, and no change magnitude. The axis is therefore an unchanged starting position rather than a tracked arc, yielding a flat trajectory. Confidence is medium rather than low because two independent derivations agree on the concept, the poles, and the static shape, though both rest on a single Chapter 1 event and neither includes relational axes.",
+        "literary_validation": {
+          "validation_tag": "none_axis",
+          "evaluators": {
+            "structuralist": {
+              "label": "Structuralist / Narratologist",
+              "verdict": false,
+              "reasoning": "I cannot identify any published work — let alone peer-reviewed narratological, psychological, or structuralist scholarship — on a novel titled \"Dg Hestia Ar.\" Without a verifiable text or critical tradition, there is no basis for grounding this intrapersonal 'fixed sovereign agency' axis about Zeus in real published analysis. Any citation I produced here would be fabricated, so the axis must be marked unsupported.",
+              "citations": []
+            },
+            "psychological": {
+              "label": "Psychological Critic",
+              "verdict": false,
+              "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any psychological or psychoanalytic criticism discussing Zeus's agency/communion development in that specific work. Because the axis depends on a character and text for which no identifiable published criticism is available, the claim is not grounded in citable scholarship.",
+              "citations": []
+            },
+            "historical_cultural": {
+              "label": "Historical / Cultural Critic",
+              "verdict": false,
+              "reasoning": "There is no identifiable published novel 'Dg Hestia Ar' or verifiable literary scholarship on a Zeus character in such a work, so the claimed intrapersonal axis of fixed sovereign agency cannot be grounded in published criticism. Since no real, verifiable citation can be recalled for this specific text, the axis must be marked unsupported.",
+              "citations": []
+            }
+          }
+        }
+      }
+    ],
+    "relational_axes": []
+  }
+}

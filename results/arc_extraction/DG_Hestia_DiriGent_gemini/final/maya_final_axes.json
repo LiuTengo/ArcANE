@@ -1,0 +1,89 @@
+{
+  "character": "Maya",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From undetermined to undetermined (no evidenced movement on the Agency–Communion axis)",
+          "set_b_axis": "From communion-saturated self-effacement toward (unobserved) agency — a position that never moves on the page",
+          "overlap_description": "Both sets occupy the same named dimension (Bakan's Agency–Communion) as intra_01, but only nominally: Set A declares the axis null because its event list is empty, while Set B actually populates the communion pole from Phebe's secondhand characterization. The dimension matches; the content exists only in B, so the merge inherits B's substance while both agree the axis does not move."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": [
+        {
+          "axis": "From silent endurance to (possible) voiced complaint — an unverified threshold (Grievance articulation)",
+          "assessment": "borderline"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [],
+      "unique_to_a": [
+        {
+          "axis": "From unreported to unreported (no relational data for any dyad)",
+          "assessment": "artifact"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency vs Communion",
+      "axis_name": "Fixed at communion-saturated self-effacement with no registered agency (unmoving position)",
+      "pole_start": "Communion pole: Maya is characterized wholly through what she absorbs for others — full-time employment plus the entirety of cooking, cleaning, and childcare, with a husband who treats his obligations as discharged at the doorstep. Her motivational posture, as reported, is endless accommodation: her needs folded into the household's needs, no boundary-setting, no claim on shared labor.",
+      "pole_end": "No ending position is observable. The narrative supplies a single offstage snapshot and no subsequent data, so the axis terminates where it began — communion without registered agency. Any agency-ward movement is latent (private resentment) rather than enacted, and even that is inferred from a third party rather than shown.",
+      "confidence": "low",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Offstage illustration (single data point)",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Fully at the communion pole with an agency deficit: her labor is described as total and her grievance as private. Because she never appears in a scene and is voiced only through Phebe's advocacy, no movement along the axis can be measured — the position is inferred, not dramatized.",
+          "key_moments": [
+            "Phebe cites Maya as the exemplar of the 'second shift': full-time employment plus sole responsibility for cooking, cleaning, and childcare",
+            "Phebe describes a husband who considers his workday finished the moment he crosses the threshold",
+            "Phebe frames Maya as exhausted and overburdened, with her labor invisible and unvalued",
+            "No scene places Maya in her own household; she exists on the page only as a rhetorical example"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A's contribution for this dimension is an explicit null (empty event list), which carries no textual information and should be read as a schema placeholder rather than a finding. Set B reconstructs the position from Phebe's characterization: maximal communion (self subordinated to family maintenance) paired with an absence of asserted agency. Both sets converge on the same conclusion — no evidenced movement — but only B supplies a defensible starting position. Confidence stays low because the entire characterization is secondhand and single-observation."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Grievance articulation",
+      "axis_name": "From silent endurance toward a possible voiced complaint — an unverified threshold",
+      "pole_start": "Silent endurance: the implied state is chronic fatigue and quiet resentment, with her sense of injustice held privately rather than contested inside the household.",
+      "pole_end": "Marginal, unverified movement: the sole trace of outward expression is that she has apparently named the imbalance to Phebe — speech to a third party rather than confrontation with her husband. Whether this is the start of a trajectory or merely a pressure valve cannot be determined.",
+      "confidence": "low",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Unverified first crack",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Barely off the starting pole. Disclosure to Phebe is the only evidence that the grievance has been externalized at all, and it is reported rather than dramatized; the axis therefore reads as essentially static.",
+          "key_moments": [
+            "Phebe speaks of Maya with sympathetic familiarity, implying Maya has confided the details of her domestic burden",
+            "No scene depicts Maya articulating the grievance directly to her husband or acting on it"
+          ]
+        }
+      ],
+      "evidence_summary": "Retained from Set B as a borderline axis. The private-resentment versus expressed-grievance distinction is the one additional psychologically meaningful dimension the text hints at, and it rests on a single inference (that Maya confided in Phebe). Set A offers no competing or corroborating evidence — its event list is empty — so this axis survives only at low confidence and should be re-evaluated if later chapters return to Maya. It is distinct from final_intra_01 because a character can occupy the communion pole while differing in whether the cost of that position is voiced."
+    }
+  ],
+  "relational_axes": [],
+  "notes": "No relational axes are carried forward. Set A's rel_00 is an explicit placeholder generated from an empty event list (target character unspecified, no starting or ending stance) and is assessed as an artifact with zero informational content. Set B declined to propose any relational axis on principle: Phebe is the only character connected to Maya, the relationship is described at a single moment as already established (sympathetic familiarity, prior confiding), and with no second observation point no shift in trust, esteem, intimacy, or antagonism can be traced. The merged result follows B's reasoning. If later chapters return to Maya, the likeliest genuine relational candidates would be (a) the marital dyad, where the axis of unquestioned division of labor could shift toward negotiated reciprocity, and (b) the Phebe dyad, where mutual recognition could convert into solidarity or open advocacy."
+}

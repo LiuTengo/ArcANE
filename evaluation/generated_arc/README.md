@@ -162,7 +162,9 @@ python -m evaluation.generated_arc score-arcane \
 `--characters selected` prints a numbered list and asks for character numbers.
 The output directory, story title, axes-file location, model, score scale, and
 axis limit are resolved automatically. `--story` may also be a direct path to
-an ArcANE axes JSON file.
+an ArcANE axes JSON file. Case and separator differences are accepted; a
+unique close misspelling is also resolved with a warning, while ambiguous
+matches remain an error that lists the available stories.
 
 ```text
 results/generated_arc/<story>_arcane_all/

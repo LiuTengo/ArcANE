@@ -1,0 +1,135 @@
+{
+  "character": "Zeus",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency–Communion",
+      "axis_name": "Fixed at the Agency pole: from unilateral decree to coercive reassertion, with no movement toward communion",
+      "pole_start": "Zeus operates from an extreme Agency pole: he summons Hestia, decrees her purpose unilaterally from his throne, defines order as obedience to his decree, and treats her as a divine instrument dispatched through a golden portal.",
+      "pole_end": "Zeus remains Agency-dominant and low-communion: rather than moving toward cooperation or shared authority, he responds to Hestia's silent reinterpretation with intensified intimidation (chilling draft, rumbling, flickering lights, thunder, lightning, earthquake), betraying only a mild destabilization of his assumption of unthinking compliance.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Imperious decree / unilateral decree",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Anchored at the extreme Agency pole: Zeus commands rather than consults, issues his mission from his throne, frames order as divine prerogative, and expects his authority to be mirrored by unquestioning obedience.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees that she travel to the present world to restore natural order by guiding women back to hearth and home.",
+            "Zeus opens a golden portal, formally dispatching Hestia as his subordinate agent.",
+            "Zeus expects his decree to be executed without revision or reinterpretation."
+          ]
+        },
+        {
+          "phase": "Coercive correction / agency under contestation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Still strongly Agency-oriented and low-communion: Zeus escalates divine pressure to enforce compliance, showing no move toward cooperation or relational warmth. Both readings converge that his position is stable; only his confidence in automatic compliance is slightly unsettled.",
+          "key_moments": [
+            "Hestia discusses women's struggles with Phebe and silently redefines the hearth as shared burdens and belonging rather than forced confinement.",
+            "Zeus responds with a chilling draft, rumbling, flickering lights, thunder, lightning, and an earthquake.",
+            "Zeus appears frustrated that his authority is not being mirrored, yet he neither revises his decree nor moves toward shared authority."
+          ]
+        }
+      ],
+      "evidence_summary": "Both axis sets agree on dimension and direction: Zeus begins at an extreme Agency pole and stays there, never shifting toward Communion. Set A notes a small destabilization of his assumption of unthinking compliance ('agency under contestation'); Set B reads the position as wholly unchanged ('unchanged dominant agency'). Synthesizing, the most defensible reading is a flat arc with a minor perturbation: intensified coercion substitutes for any internal realignment. Evidence is confined to chapter 1, so confidence is medium rather than high.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I can recall no published narratological, structuralist, or psychological scholarship on a work titled \"Dg Hestia Dirigent Gemini\"; the title does not correspond to any text in the corpus of literary criticism I can verify. Because the axis is intrapersonal and text-specific (Zeus's movement, or lack of it, from unilateral decree to coercive reassertion within this particular narrative), it cannot be grounded in real published scholarship without scholarship that actually treats this work. Invoking general works on Zeus's characterization in myth or on agency/communion theory would be a fabrication of relevance rather than a genuine citation supporting this axis.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini,' and the title, character configuration (Zeus, Hestia, a golden portal), and narrative details do not match any work I can verify in the critical literature. Since the axis requires psychological criticism specifically addressing Zeus's intrapsychic movement along the Agency–Communion dimension in this text, and no such criticism exists that I can recall or verify, the claim is unsupported. General works on Zeus in classical mythology or on agency/communion theory would not ground a claim about this specific novel's character arc.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify 'Dg Hestia Dirigent Gemini' as a published novel with a verifiable reception or scholarly tradition, and I recall no real literary criticism on this Zeus character or on the claimed Agency–Communion arc. Because the axis requires citations to published scholarship specifically about this work, I cannot ground the claim and therefore leave the citation list empty.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Zeus",
+      "target_character": "Hestia",
+      "dimension_label": "Trust and Antagonism",
+      "axis_name": "From delegated trust in a compliant instrument to cooling suspicion and coercive pressure",
+      "pole_start": "Zeus relates to Hestia through confident, hierarchical trust: she is a subordinate divine instrument with medium trust and esteem, low intimacy, and an expectation that she will execute his decree faithfully and without reinterpretation.",
+      "pole_end": "Zeus's trust in Hestia's compliance is weakened and his esteem cools; displeasure, suspicion, and antagonistic divine pressure enter the relationship even though Hestia remains formally loyal and Zeus still treats her as his agent.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Formal delegation / instrumental delegation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Zeus relates to Hestia through confident, hierarchical trust: he dispatches her as his instrument and expects obedience to his interpretation of order, with no indication of doubt.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees her mission to restore traditional order by returning women to hearth and home.",
+            "Zeus opens a golden portal, establishing Hestia's role as his subordinate agent in the present world."
+          ]
+        },
+        {
+          "phase": "Pressure and silent rebuttal / cooling suspicion",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Trust strains as Zeus registers Hestia's independent reinterpretation of the mission; he answers with coercive omens, introducing antagonism and suspicion into a relationship that remains formally hierarchical.",
+          "key_moments": [
+            "Hestia silently asserts loyalty to Zeus's authority while redefining the hearth as shared burdens and belonging rather than forced confinement.",
+            "Zeus applies escalating divine pressure through a chilling draft, rumbling, flickering lights, thunder, lightning, and an earthquake.",
+            "Zeus appears displeased and suspicious rather than affirming, steering Hestia back toward his original decree."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets describe the same relational movement in the same direction: from confident instrumental delegation to cooler, more suspicious oversight. Set A emphasizes the emergence of antagonism and diminished trust; Set B emphasizes the drop in trust and esteem with intimacy remaining low. Neither set reports a rupture of loyalty or a shift in formal hierarchy—Hestia stays his agent, and Zeus substitutes intimidation for revised trust. The arc is negative (trust/esteem degrade) and rests entirely on chapter 1 evidence, warranting medium confidence.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I can find no record in my knowledge of any published novel titled 'Dg Hestia Dirigent Gemini', and consequently no narratological, structuralist, or relationship-studies scholarship addressing a Zeus–Hestia relational arc within it. General works on Zeus and Hestia in Greek myth (e.g. Vernant, Burkert) or on character function (Propp, Greimas) cannot be cited here, since they say nothing about the trust-to-suspicion dynamic in this specific text. Absent any verifiable published criticism on this axis, the claim is unsupported.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any real, verifiable published literary scholarship on the novel 'Dg Hestia Dirigent Gemini' or on its Zeus–Hestia relationship arc. Because the requested axis depends on criticism specific to this apparently non-canonical or unpublished text, no credible citation can be supplied without fabrication.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini,' nor any criticism discussing a Zeus–Hestia relationship arc in that work. The proposed axis may be a plausible internal reading, but it is not grounded in published scholarship that I can cite without inventing sources.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ]
+}

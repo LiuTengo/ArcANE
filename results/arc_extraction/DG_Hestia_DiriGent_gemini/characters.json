@@ -1,0 +1,16 @@
+{
+  "target_characters": [
+    "Hestia",
+    "Phebe",
+    "Zeus",
+    "Maya",
+    "Gemini"
+  ],
+  "character_dirs": {
+    "Hestia": "hestia",
+    "Phebe": "phebe",
+    "Zeus": "zeus",
+    "Maya": "maya",
+    "Gemini": "gemini"
+  }
+}

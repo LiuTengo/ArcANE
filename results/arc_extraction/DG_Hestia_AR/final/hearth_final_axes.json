@@ -1,0 +1,498 @@
+{
+  "character": "The Hearth",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From Scripted Communion to Agentic Communion",
+          "set_b_axis": "From obedient role-fusion to self-authored solidarity",
+          "overlap_description": "Both trace Hestia's movement from duty-bound, prescribed communion and ceded agency toward autonomous choice expressed as chosen solidarity with Maya and the protesters."
+        },
+        {
+          "set_a_axis": "From Sacred Tradition to Lived Belonging",
+          "set_b_axis": "From fixed domestic hearth to portable belonging",
+          "overlap_description": "Both describe a redefinition of the hearth from a fixed traditional domestic place/order to an expansive, relational spirit of belonging, safety, warmth, and community."
+        },
+        {
+          "set_a_axis": "From Order-Centered Peace to Dignity-Centered Peace",
+          "set_b_axis": "From order-preserving peace to justice-bearing peace",
+          "overlap_description": "Both capture Hestia's moral shift from accepting traditional order and domestic peace to rejecting peace built on sacrificed autonomy, dignity, and financial independence."
+        },
+        {
+          "set_a_axis": "From Obedient Olympian Agent to Conscience-Driven Guardian",
+          "set_b_axis": "From closed doctrine to humble openness",
+          "overlap_description": "Both describe a revision of Hestia's authoritative frame: A emphasizes divine self-perception and identity, while B emphasizes epistemic certainty and humble openness. They are related aspects of the same shift from closed, role-bound certainty to conscience-driven openness."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From Challenger to Trusted Friend and Ally",
+          "set_b_axis": "From wary target to grateful ally",
+          "overlap_description": "Both track the Hestia-Maya relationship from formal reserve, corrective mission, or moral challenge into solidarity, trust, gratitude, protection, and shared daily life."
+        },
+        {
+          "set_a_axis": "From Obedient Trust to Defiant Breach",
+          "set_b_axis": "From reverent obedience to liberated defiance",
+          "overlap_description": "Both track Hestia's stance toward Zeus from accepting his commanded mission with reverence/trust to defying it, breaching obedience, and accepting the risk of his wrath."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": [
+        {
+          "axis": "From bewildered outsider to aligned guardian",
+          "assessment": "valid_missed"
+        }
+      ]
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency within Communion",
+      "axis_name": "From Obedient Role-Fusion to Self-Authored Solidarity",
+      "pole_start": "Communion is expressed as unquestioning duty and immersion in the assigned hearth-guardian role; agency is ceded to Zeus and traditional order, and the protest is seen as chaos against proper domestic peace.",
+      "pole_end": "Agency is exercised as autonomous choice to stand with Maya and the protesters; communion becomes chosen solidarity, interdependence, and self-authored belonging rather than commanded role performance.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Dutiful role-fusion",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia begins as Zeus's obedient agent and guardian of the traditional hearth. Her communion is prescribed by divine command and tradition, and her agency is subordinated to Zeus's mission.",
+          "key_moments": [
+            "Zeus summons Hestia and commands her to guide a key protester back to the traditional hearth.",
+            "Hestia maintains formal reserve and views the protest as contrary to proper domestic peace.",
+            "She materializes in a chaotic modern city and feels alienated as an ancient guardian out of place."
+          ]
+        },
+        {
+          "phase": "Destabilized role and stirring conscience",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's challenge unsettles Hestia and cracks her duty-bound frame. She begins to question whether peace without autonomy is truly peaceful, though she has not yet acted against Zeus.",
+          "key_moments": [
+            "Maya argues that peace in the home is not true peace if it depends on women sacrificing autonomy, dignity, and financial independence.",
+            "Hestia experiences sensory overwhelm and destabilized uncertainty as her ancient worldview is challenged."
+          ]
+        },
+        {
+          "phase": "Conscience-driven solidarity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia moves toward self-assertion by defying Zeus's mission and choosing solidarity with the protesters. Her agency is exercised for communion rather than domination or obedience.",
+          "key_moments": [
+            "Hestia recognizes a new hearth built of shared struggle and chooses to stand with the protesters instead of redirecting them.",
+            "She reveals her identity and mission to Maya and confesses that she chose the protesters."
+          ]
+        },
+        {
+          "phase": "Chosen belonging",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia accepts Maya's apartment as a safe modern hearth and becomes a quiet guardian of community spaces, integrating autonomous choice with relational belonging.",
+          "key_moments": [
+            "Maya offers her small apartment as a safe modern hearth.",
+            "Hestia accepts and becomes a quiet presence in Maya's activist circle, settling into chosen belonging."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses show Hestia shifting from obedient, role-bound service to Zeus and tradition toward autonomous choice, solidarity with Maya and the protesters, and chosen belonging that integrates agency with communion."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Hearth's Meaning",
+      "axis_name": "From Fixed Traditional Hearth to Portable Belonging",
+      "pole_start": "The hearth is understood as a physical flame within four walls, traditional domestic order, and proper peace. The protest appears as disruption to the order Hestia has known, and peace is tied to the home as a fixed place.",
+      "pole_end": "The hearth is redefined as the spirit of belonging, safety, warmth, sustenance, and community wherever it manifests, including shared struggle, mutual support, activist spaces, shared meals, late-night conversations, and Maya's apartment.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Traditional frame",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia initially frames the protest as disruption and understands her mission through the traditional hearth, domestic peace, proper order, and Zeus's command.",
+          "key_moments": [
+            "Zeus commands Hestia to observe the women's protest and subtly guide a key figure back to the traditional hearth.",
+            "Hestia is overwhelmed by the modern city and senses that her ancient framework may not map cleanly onto modern mortal life.",
+            "She believes domestic peace and proper order are paramount."
+          ]
+        },
+        {
+          "phase": "Cracked framework",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's challenge creates doubt about whether the hearth's peace is complete if it requires sacrificed autonomy and dignity, and whether true security is only four walls.",
+          "key_moments": [
+            "Maya challenges Hestia: peace in the home is not true peace if it depends on women sacrificing autonomy, dignity, and financial independence.",
+            "Hestia begins to recognize that true security is not just four walls."
+          ]
+        },
+        {
+          "phase": "Redefinition through solidarity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia recognizes a new hearth in shared struggle, warmth, and mutual support. She chooses to stand with the protesters and articulates the hearth as larger than she knew.",
+          "key_moments": [
+            "Hestia perceives the protesters as guardians of a new hearth rather than chaotic outsiders.",
+            "She recognizes a new hearth built of shared struggle and stands with the protesters.",
+            "She declares that the hearth she served is larger than she knew."
+          ]
+        },
+        {
+          "phase": "Lived expanded hearth",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia practices her expanded understanding by accepting Maya's apartment and becoming a guardian of belonging in everyday community spaces.",
+          "key_moments": [
+            "Hestia accepts Maya's apartment as a safe modern hearth.",
+            "She becomes a quiet guardian of home, belonging, and safety wherever they manifest."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses explicitly trace Hestia's belief about the hearth from a fixed physical/traditional order to an expansive, portable, relational understanding of belonging, safety, warmth, and community."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Moral Reasoning",
+      "axis_name": "From Order-Centered Peace to Dignity-Centered Justice",
+      "pole_start": "Hestia treats traditional order and domestic peace as paramount. Women's demands for equal pay and autonomy are seen as abandonment of the home and as chaos against proper order, so the protest is a disruption to be guided back into tradition.",
+      "pole_end": "Hestia reasons that true hearth-peace cannot be built on sacrificed autonomy, dignity, dependence, or inability to provide. Fairness demands are tending a new hearth built of shared struggle and hope, and she chooses conscience over command.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Order as moral frame",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia begins with duty and tradition as her moral compass, accepting Zeus's mission without questioning whether the tradition is complete.",
+          "key_moments": [
+            "Zeus commands Hestia to guide a key figure back to the traditional hearth.",
+            "She views women's demands for equal pay and autonomy as abandonment of the home and protest as chaos against proper order."
+          ]
+        },
+        {
+          "phase": "Moral challenge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's argument shakes Hestia because it exposes a conflict between order and dignity. Hestia has no immediate answer and experiences destabilized uncertainty.",
+          "key_moments": [
+            "Maya argues that peace dependent on sacrificed autonomy, dignity, and financial independence is not true peace.",
+            "Hestia's ancient belief system is cracked open by the challenge."
+          ]
+        },
+        {
+          "phase": "Conscience over command",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia decides she cannot guide the protesters back to an incomplete truth. She chooses solidarity with the true hearth she has found and aligns with the demand for fundamental fairness.",
+          "key_moments": [
+            "As police advance, Hestia chooses to stand with the protesters instead of redirecting them.",
+            "Hestia confesses her choice to Maya and owns her new belief.",
+            "She recognizes her former framework as an incomplete truth."
+          ]
+        },
+        {
+          "phase": "Accepted risk and justice-bearing peace",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia accepts the risk of Olympus's wrath rather than return to unquestioning duty, confirming her dignity-centered and justice-bearing moral reasoning.",
+          "key_moments": [
+            "Maya warns Hestia that Zeus will be furious.",
+            "Hestia accepts refuge in Maya's apartment and continues as a quiet guardian under possible divine wrath."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses show Hestia's moral reasoning changing from protecting traditional order and domestic peace to protecting dignity, autonomy, fairness, and chosen belonging even at personal risk."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Identity and Worldview",
+      "axis_name": "From Obedient Certainty to Conscience-Driven Openness",
+      "pole_start": "Hestia sees herself as Zeus's obedient agent and guardian of the traditional hearth. Her ancient worldview is complete and authoritative, and modern autonomy or protest is misguided chaos to be gently corrected.",
+      "pole_end": "Hestia sees herself as a conscience-driven guardian of an expanded hearth. She recognizes her former framework as an incomplete truth, can be cracked open by a mortal, revises her beliefs humbly, and accepts growth even under possible divine wrath.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Obedient agent and doctrinal certainty",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia understands herself through duty to Zeus and the ancient hearth. She is self-assured in her divine role and treats her ancient worldview as complete and authoritative.",
+          "key_moments": [
+            "Zeus summons Hestia and commands her to observe the protest and guide a key figure back to tradition.",
+            "Hestia maintains serene, dutiful stillness and formal reserve before Maya.",
+            "She views the protest through the lens of proper order and sees it as chaos."
+          ]
+        },
+        {
+          "phase": "Unsettled guardian and epistemic destabilization",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's challenge and the modern city make Hestia less certain and less self-assured in her divine role. Her ancient belief system is cracked open.",
+          "key_moments": [
+            "Hestia experiences sensory overwhelm and bewilderment in the modern city.",
+            "Maya challenges Hestia's assumption that hearth-peace is inherently paramount.",
+            "Hestia feels destabilized uncertainty as her worldview is challenged."
+          ]
+        },
+        {
+          "phase": "Conscience-driven identity and humble revision",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia shifts from Olympian agent to a guardian who chooses conscience over command and redefines her divine identity. She recognizes her former framework as incomplete.",
+          "key_moments": [
+            "Hestia stands with the protesters instead of redirecting them.",
+            "She reveals her identity to Maya and declares the hearth she served is larger than she knew.",
+            "She recognizes her former framework was an incomplete truth and sheds a skin that had become too tight."
+          ]
+        },
+        {
+          "phase": "Expanded guardian accepting risk",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia becomes a quiet guardian of home, belonging, and safety wherever they manifest, accepting that her divine identity can grow and that Zeus may be furious.",
+          "key_moments": [
+            "Hestia accepts Maya's apartment as a safe modern hearth and refuge.",
+            "She continues as a quiet presence in the activist circle.",
+            "She accepts the risk of divine wrath rather than returning to unquestioning obedience."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses show Hestia's self-perception and worldview shifting from obedient divine functionary with closed certainty to a conscience-driven, humbled guardian whose identity expands through chosen belonging and openness to revision."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "The Hearth",
+      "target_character": "Maya",
+      "dimension_label": "Trust and Esteem",
+      "axis_name": "From Wary Challenger to Trusted Friend and Ally",
+      "pole_start": "Maya is the key defiant figure Zeus fears, approached with formal reserve and a corrective mission. She is a moral challenger whose challenge unsettles Hestia; there is no prior bond, only tension and disagreement.",
+      "pole_end": "Maya becomes teacher, friend, protector, trusted confidante, and offerer of a modern hearth. Hestia feels high esteem, trust, and gratitude, chooses silent solidarity with Maya, and shares daily life with her.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Formal reserve and challenge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia observes Maya as the key defiant figure and approaches her with formal reserve and a corrective mission. Maya's moral clarity shakes Hestia, but Hestia is also impressed by her conviction.",
+          "key_moments": [
+            "Hestia identifies Maya as Zeus's feared key figure and maintains formal reserve before her.",
+            "Maya challenges Hestia: peace in the home is not true peace if it depends on women sacrificing autonomy, dignity, and financial independence.",
+            "Hestia feels destabilized uncertainty but also impressed esteem amid disagreement."
+          ]
+        },
+        {
+          "phase": "Solidarity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia aligns herself with Maya and the protesters through silent, absolute solidarity, deepening trust and esteem.",
+          "key_moments": [
+            "Hestia recognizes a new hearth built of shared struggle.",
+            "She chooses to stand with the protesters instead of redirecting them."
+          ]
+        },
+        {
+          "phase": "Confession and protection",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia reveals her identity and mission to Maya. Maya receives the confession with protective concern, deepening intimacy and trust.",
+          "key_moments": [
+            "Hestia reveals her identity and mission to Maya and confesses that she chose the protesters.",
+            "Maya responds with protective concern, deepening their improbable bond."
+          ]
+        },
+        {
+          "phase": "Shared daily life and grateful alliance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya offers her apartment as a safe modern hearth. Hestia accepts, transforming alliance into friendship, gratitude, and shared daily life.",
+          "key_moments": [
+            "Maya warns Hestia that Zeus will be furious and offers her small apartment as a safe modern hearth.",
+            "Hestia accepts and becomes a quiet presence in Maya's activist circle.",
+            "Hestia views Maya as teacher, friend, protector, and grateful ally."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses show the Hestia-Maya relationship moving from formal reserve, corrective mission, or moral challenge to solidarity, confession, mutual protection, gratitude, and shared daily life."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "The Hearth",
+      "target_character": "Zeus",
+      "dimension_label": "Obedience and Defiance",
+      "axis_name": "From Reverent Obedience to Liberated Defiance",
+      "pole_start": "Zeus is brother and commander. Hestia accepts his mission as an extension of her ancient role and the traditional order he represents, acting as his obedient agent with dutiful reverence and trust.",
+      "pole_end": "Zeus's mission feels like a fragile wisp. Hestia defies it by choosing solidarity with the protesters, creates a breach of trust, accepts liberation from unquestioning obedience, and anticipates antagonism and divine wrath.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Commanded mission and obedient acceptance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia accepts Zeus's command without resistance, framing the mission through duty and tradition. She still recognizes him as brother and commander.",
+          "key_moments": [
+            "Zeus summons Hestia and commands her to observe the women's protest and subtly guide a key figure back to the traditional hearth.",
+            "Hestia accepts the assignment and still recognizes Zeus as commander."
+          ]
+        },
+        {
+          "phase": "Internal questioning",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's challenge creates doubt about the mission and traditional hearth-peace, but Hestia has not yet openly or internally broken with Zeus.",
+          "key_moments": [
+            "Maya challenges Hestia's traditional understanding of hearth-peace.",
+            "Hestia experiences uncertainty without yet defying Zeus."
+          ]
+        },
+        {
+          "phase": "Defiant choice and breach",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia chooses the protesters over Zeus's mission, creating a breach of trust and anticipated antagonism. She accepts liberation from unquestioning obedience.",
+          "key_moments": [
+            "Hestia stands with the protesters instead of redirecting them.",
+            "Hestia reveals to Maya that she chose to stand with the protesters.",
+            "She feels apprehension at Zeus's potential wrath."
+          ]
+        },
+        {
+          "phase": "Accepted rupture",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia accepts the risk of Zeus's fury rather than return to obedience, confirming the relational breach and her new stance.",
+          "key_moments": [
+            "Maya warns Hestia that Zeus will be furious.",
+            "Hestia accepts Maya's apartment as refuge and continues as a quiet guardian."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses show Hestia's stance toward Zeus shifting from reverent obedience and accepted command to defiant breach, liberation from unquestioning obedience, and acceptance of anticipated divine wrath."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_03",
+      "source_character": "The Hearth",
+      "target_character": "The protesters / activist community",
+      "dimension_label": "Solidarity and Esteem",
+      "axis_name": "From Bewildered Outsider to Aligned Guardian",
+      "pole_start": "The protesters appear as chaotic outsiders focused outside the home and contrary to proper domestic peace. Hestia observes them with bewilderment, sensory overwhelm, and the assumption that their demands are abandonment of the home.",
+      "pole_end": "The protesters appear as warm, mutually supportive guardians of a new hearth built of shared struggle and hope. Hestia feels solidarity with their demand for fundamental fairness, aligns herself with them, and becomes a quiet guardian within the activist community.",
+      "confidence": "high",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Bewildered observer",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia initially observes the protesters with bewilderment as a chaotic force outside the home and contrary to proper order.",
+          "key_moments": [
+            "Hestia experiences sensory overwhelm in the modern city.",
+            "She sees the protest as chaos against proper order.",
+            "She views women's demands for equal pay and autonomy as abandonment of the home."
+          ]
+        },
+        {
+          "phase": "Recognition of a new hearth",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia perceives the protesters' warmth, mutual support, and shared struggle as hearth-guarding rather than hearth-abandoning. Their demands are reframed as tending a new hearth.",
+          "key_moments": [
+            "Hestia perceives the protesters' warmth and mutual support.",
+            "She recognizes shared struggle as tending a new hearth of hope.",
+            "She reframes fairness demands as a form of hearth-tending rather than destruction."
+          ]
+        },
+        {
+          "phase": "Aligned participant and guardian",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia chooses to stand with the activist community and their demand for fundamental fairness. She feels solidarity and becomes a quiet guardian within the circle.",
+          "key_moments": [
+            "Hestia feels solidarity with their demand for fairness.",
+            "She aligns herself with the protesters and chooses to stand with them.",
+            "She becomes a quiet presence in Maya's activist circle."
+          ]
+        }
+      ],
+      "evidence_summary": "Set B uniquely traces Hestia's perception of the activist community from chaotic outsiders to fellow guardians of an expanded hearth, with explicit solidarity and alignment."
+    }
+  ]
+}

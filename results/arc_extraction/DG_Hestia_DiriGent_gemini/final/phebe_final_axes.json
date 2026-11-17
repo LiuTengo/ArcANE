@@ -1,0 +1,356 @@
+{
+  "character": "Phebe",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From Confrontational Agency to Dialogic Communion",
+          "set_b_axis": "From confrontational self-assertion to dialogic relational openness",
+          "overlap_description": "Both describe the same core movement within Chapter 1: Phebe begins as a public, bullhorn-wielding protest leader who confronts Hestia in front of the crowd, and ends in a private café conversation that is softer, thoughtful, and dialogic while retaining her principled insistence on systemic change."
+        },
+        {
+          "set_a_axis": "From Defensive Certainty to Nuanced Openness",
+          "set_b_axis": "From dismissing hearth devotion as confinement to respecting chosen devotion",
+          "overlap_description": "Both trace Phebe's reinterpretation of Hestia's hearth commitment: an initial reading of it as regressive confinement / an 'outdated notion' to be corrected, giving way to a distinction between chosen devotion and coerced confinement, with respect for Hestia's sincerity alongside a preserved critique of structural inequality."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From Guardian to Bridge-Building Advocate (Self-Identity)",
+          "assessment": "artifact"
+        },
+        {
+          "axis": "From Defensive Reactivity to Empathetic Receptivity (Emotional Receptivity)",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From Adversarial Distrust to Respectful Trust",
+          "set_b_axis": "From wary confrontation to respectful, curious dialogue",
+          "overlap_description": "Both capture the same dyadic shift toward Hestia: initial public antagonism and wariness framing her as an adversary of women's public strength, moving to respectful, curious, thoughtful engagement in private conversation. Set B labels the endpoint 'respectful curiosity' rather than 'trust,' and explicitly notes intimacy remains low."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From Guarded Public Opposition to Personal Intimacy (Distance to Intimacy)",
+          "assessment": "valid_missed"
+        }
+      ],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency to Communion",
+      "axis_name": "From Confrontational Self-Assertion to Dialogic Communion",
+      "pole_start": "Self-assertive and confrontational: Phebe acts as an impassioned public protest leader, uses a bullhorn, treats Hestia as a representative of 'outdated' confinement, and asserts her convictions through public challenge.",
+      "pole_end": "Relational and dialogic without losing agency: Phebe lowers the bullhorn, invites private conversation, listens respectfully, honors Hestia's chosen commitment, and shares personal vulnerability while still pressing firmly for systemic change.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Public confrontation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Strongly agency-poled: Phebe overhears Hestia question whether a woman's strength can be drawn from outside the hearth and sharply confronts her before the protest crowd, framing her as an adversary of women's public voice.",
+          "key_moments": [
+            "Begins as an impassioned protest leader with a bullhorn",
+            "Challenges Hestia publicly with conviction",
+            "Treats Hestia initially as an 'outdated' voice of confinement"
+          ]
+        },
+        {
+          "phase": "Cautious softening",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Moving toward communion: Phebe explains her cause passionately and shifts from public confrontation to inviting Hestia into a quieter café dialogue, though she remains guarded.",
+          "key_moments": [
+            "After Hestia asks sincere questions about the 'chains' and the 'home where voices matter,' Phebe explains her cause",
+            "Phebe lowers her bullhorn and invites Hestia to a café conversation"
+          ]
+        },
+        {
+          "phase": "Dialogic respect",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Firmly in communion: Phebe listens to Hestia's account of the hearth as a chosen path of strength and responds with respect, while still explaining other women's need for choice and fair treatment.",
+          "key_moments": [
+            "Phebe honors Hestia's chosen devotion while distinguishing it from coerced confinement",
+            "She articulates the 'chains' as both invisible expectations and structural penalties"
+          ]
+        },
+        {
+          "phase": "Vulnerable connection",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Deepens communion through trust and personal disclosure, retaining passion about injustice expressed through dialogue rather than confrontation.",
+          "key_moments": [
+            "Phebe shares specific stories of workplace bias, unequal domestic labor, and quiet rebellion",
+            "She stays candid and empathetic while continuing to press for systemic change"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses independently describe Phebe's movement from public, confrontational assertion to private, thoughtful, dialogic engagement — softening and listening without abandoning her principles."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Reappraisal of Devotion",
+      "axis_name": "From Dismissing Hearth Devotion as Confinement to Respecting Chosen Devotion",
+      "pole_start": "Phebe holds a binary conviction: questions about the hearth reinforce outdated confinement, and Hestia is a 'maiden' defending the very expectations Phebe fights, to be challenged and educated.",
+      "pole_end": "Phebe distinguishes chosen devotion from coerced confinement, honoring Hestia's sincerity, strength, and independence, while preserving her critique of invisible expectations and structural penalties.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Entrenched certainty",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe interprets Hestia's question as regressive and responds defensively, seeing her as an adversary clinging to outdated ideas.",
+          "key_moments": [
+            "Phebe sharply confronts Hestia over the overheard question about strength from outside the hearth",
+            "She challenges 'outdated notions' publicly"
+          ]
+        },
+        {
+          "phase": "Beginning curiosity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe begins to consider that Hestia's questions may come from genuine seeking rather than judgment, and grants her a fuller hearing.",
+          "key_moments": [
+            "Hestia asks sincere questions about the 'chains' and the 'home where voices matter'",
+            "Phebe explains her cause at length and invites further conversation"
+          ]
+        },
+        {
+          "phase": "Nuanced reappraisal",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe's view of the hearth becomes genuinely more nuanced: chosen devotion is honored, oppression is still named, and the two are no longer conflated.",
+          "key_moments": [
+            "Phebe honors Hestia's commitment to the hearth while explaining women's fights for choice and fair treatment",
+            "She reframes 'chains' as both invisible expectations and structural penalties"
+          ]
+        },
+        {
+          "phase": "Integrated conviction",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe retains her critique of systemic barriers while accepting that not every commitment to home is oppression; she treats Hestia as strong rather than deluded.",
+          "key_moments": [
+            "Phebe shares stories of workplace bias, unequal domestic labor, and quiet rebellion",
+            "She maintains firm but respectful persuasive dialogue without reverting to a binary view"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets identify a real but contained reappraisal: Phebe revises her read of Hestia from a defender of confinement to a sincere practitioner of chosen devotion, without surrendering her feminist critique of structural inequality."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Emotional Receptivity",
+      "axis_name": "From Defensive Reactivity to Empathetic, Candid Receptivity",
+      "pole_start": "Phebe is defensive, indignant, and quick to confront; she listens through the lens of protecting women's public voice against regressive ideas.",
+      "pole_end": "Phebe is thoughtful, respectful, empathetic, candid, and invested; frustration at injustice persists but is channeled through listening, sharing, and dialogue.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Defensive reactivity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe reacts sharply and indignantly to Hestia's question, interpreting it as reinforcement of outdated confinement.",
+          "key_moments": [
+            "Phebe sharply confronts Hestia in front of the protest crowd"
+          ]
+        },
+        {
+          "phase": "Softening curiosity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe remains guarded but becomes softer and curious when Hestia asks sincere questions rather than attacking.",
+          "key_moments": [
+            "Phebe passionately explains her cause, lowers her bullhorn, and invites Hestia to a café conversation"
+          ]
+        },
+        {
+          "phase": "Empathetic listening",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe listens thoughtfully and responds with respect and empathy to Hestia's chosen path.",
+          "key_moments": [
+            "Phebe honors Hestia's commitment to the hearth while explaining women's need for choice and fair treatment"
+          ]
+        },
+        {
+          "phase": "Candid connection",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe is candid and vulnerable, sharing frustration and personal experience in a way that deepens trust.",
+          "key_moments": [
+            "Phebe shares specific stories of workplace bias, unequal domestic labor, and quiet rebellion"
+          ]
+        }
+      ],
+      "evidence_summary": "Only the event-graph analysis formalized this as a distinct axis, but it captures a dimension both accounts describe informally: Phebe's emotional register shifts from defensive indignation to empathetic, candid dialogue, with her anger at injustice redirected rather than extinguished."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Phebe",
+      "target_character": "Hestia",
+      "dimension_label": "Antagonism to Trust",
+      "axis_name": "From Adversarial Distrust to Respectful, Curious Trust",
+      "pole_start": "Phebe views Hestia as an adversary clinging to outdated ideas and as a defender of confinement; antagonism is high, curiosity low, and trust minimal.",
+      "pole_end": "Phebe treats Hestia as a sincere interlocutor whose chosen devotion deserves respect; antagonism is reduced and respectful curiosity — and, in the event-graph reading, a measure of trust and esteem — has grown, though the relationship remains low in intimacy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Adversarial first contact",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe frames Hestia as an opponent aligned with confinement and confronts her publicly, warily challenging her as a representative of outdated notions.",
+          "key_moments": [
+            "Phebe overhears Hestia's question about strength and the hearth and sharply confronts her",
+            "Phebe views Hestia as a 'maiden' defending confinement"
+          ]
+        },
+        {
+          "phase": "Cautious openness",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe moves from an adversarial stance to cautious openness, granting Hestia a private hearing and explaining her cause in more detail.",
+          "key_moments": [
+            "Phebe explains her cause and invites Hestia to a quieter café conversation",
+            "Phebe lowers her bullhorn and lets Hestia speak"
+          ]
+        },
+        {
+          "phase": "Growing respect",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe recognizes Hestia's sincerity and chosen devotion; antagonism drops and respectful, thoughtful curiosity takes its place even as Phebe keeps persuading.",
+          "key_moments": [
+            "Phebe honors Hestia's commitment to the hearth while explaining women's need for choice and fair treatment",
+            "Phebe maintains firm but respectful dialogic persuasion"
+          ]
+        },
+        {
+          "phase": "Trusted connection",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe's trust and esteem deepen as she shares personal narratives, treating Hestia as someone worth confiding in.",
+          "key_moments": [
+            "Phebe shares stories of workplace bias, unequal domestic labor, and quiet rebellion"
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses agree the Phebe–Hestia dyad warms from public antagonism to respectful, thoughtful dialogue; Set A additionally calls the endpoint 'trust,' while Set B more conservatively calls it 'respectful curiosity' — the merged reading keeps respect as the confident core and trust as the suggested deepening."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Phebe",
+      "target_character": "Hestia",
+      "dimension_label": "Distance to Intimacy",
+      "axis_name": "From Guarded Public Opposition to Personal Intimacy",
+      "pole_start": "Phebe keeps Hestia at a guarded public distance, addressing her as a representative of opposing ideas rather than as a person.",
+      "pole_end": "Phebe engages Hestia personally and vulnerably, sharing specific personal stories and building interpersonal closeness.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Public distance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe addresses Hestia through public confrontation before a crowd, maintaining emotional and relational distance.",
+          "key_moments": [
+            "Phebe sharply confronts Hestia in front of the protest crowd"
+          ]
+        },
+        {
+          "phase": "Private hearing",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe reduces distance by relocating the exchange to a café and listening to Hestia's own account.",
+          "key_moments": [
+            "Phebe lowers her bullhorn and invites Hestia to a quieter café conversation"
+          ]
+        },
+        {
+          "phase": "Respectful exchange",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe engages Hestia's personal commitment with respect, increasing interpersonal closeness.",
+          "key_moments": [
+            "Phebe honors Hestia's description of the hearth as a chosen path of strength"
+          ]
+        },
+        {
+          "phase": "Personal disclosure",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe reveals personal vulnerability and trust, deepening intimacy beyond the political exchange.",
+          "key_moments": [
+            "Phebe shares specific stories of workplace bias, unequal domestic labor, and quiet rebellion"
+          ]
+        }
+      ],
+      "evidence_summary": "Only the event-graph analysis isolates the distance–intimacy dimension, but the psychological summary corroborates the underlying movement (public challenge to private café dialogue) while judging the resulting intimacy still low — hence medium confidence and a modest, not dramatic, claimed shift."
+    }
+  ]
+}

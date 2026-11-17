@@ -1,0 +1,112 @@
+{
+  "character": "Zeus",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From absolute agency to agency under contestation (without communion shift)",
+          "set_b_axis": "From dominant agency to unchanged dominant agency",
+          "overlap_description": "Both sets identify the same underlying dimension (Agency–Communion) and the same essential finding: Zeus begins at an extreme Agency pole (unilateral decree from his throne, Hestia as instrument) and never crosses toward Communion. The only divergence is magnitude of change: Set A observes a slight destabilization of Zeus's confidence in unthinking compliance ('agency under contestation'), while Set B reads the position as entirely stable ('unchanged dominant agency'). Both agree no genuine internal realignment occurs."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From delegated trust to wary distrust",
+          "set_b_axis": "From subordinate instrument to suspected subordinate",
+          "overlap_description": "Both sets describe the same relational shift toward Hestia: an initial phase of confident, instrumental delegation (Hestia as trusted subordinate executor of Zeus's decree) giving way, after Hestia silently reinterprets the mission, to a cooler phase of displeasure, suspicion, and coercive pressure. Set A frames this in Trust–Antagonism terms; Set B frames it in Trust–Esteem with intimacy noted as low. Directionally identical: trust/esteem decline while formal subordination persists."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency–Communion",
+      "axis_name": "Fixed at the Agency pole: from unilateral decree to coercive reassertion, with no movement toward communion",
+      "pole_start": "Zeus operates from an extreme Agency pole: he summons Hestia, decrees her purpose unilaterally from his throne, defines order as obedience to his decree, and treats her as a divine instrument dispatched through a golden portal.",
+      "pole_end": "Zeus remains Agency-dominant and low-communion: rather than moving toward cooperation or shared authority, he responds to Hestia's silent reinterpretation with intensified intimidation (chilling draft, rumbling, flickering lights, thunder, lightning, earthquake), betraying only a mild destabilization of his assumption of unthinking compliance.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Imperious decree / unilateral decree",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Anchored at the extreme Agency pole: Zeus commands rather than consults, issues his mission from his throne, frames order as divine prerogative, and expects his authority to be mirrored by unquestioning obedience.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees that she travel to the present world to restore natural order by guiding women back to hearth and home.",
+            "Zeus opens a golden portal, formally dispatching Hestia as his subordinate agent.",
+            "Zeus expects his decree to be executed without revision or reinterpretation."
+          ]
+        },
+        {
+          "phase": "Coercive correction / agency under contestation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Still strongly Agency-oriented and low-communion: Zeus escalates divine pressure to enforce compliance, showing no move toward cooperation or relational warmth. Both readings converge that his position is stable; only his confidence in automatic compliance is slightly unsettled.",
+          "key_moments": [
+            "Hestia discusses women's struggles with Phebe and silently redefines the hearth as shared burdens and belonging rather than forced confinement.",
+            "Zeus responds with a chilling draft, rumbling, flickering lights, thunder, lightning, and an earthquake.",
+            "Zeus appears frustrated that his authority is not being mirrored, yet he neither revises his decree nor moves toward shared authority."
+          ]
+        }
+      ],
+      "evidence_summary": "Both axis sets agree on dimension and direction: Zeus begins at an extreme Agency pole and stays there, never shifting toward Communion. Set A notes a small destabilization of his assumption of unthinking compliance ('agency under contestation'); Set B reads the position as wholly unchanged ('unchanged dominant agency'). Synthesizing, the most defensible reading is a flat arc with a minor perturbation: intensified coercion substitutes for any internal realignment. Evidence is confined to chapter 1, so confidence is medium rather than high."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Zeus",
+      "target_character": "Hestia",
+      "dimension_label": "Trust and Antagonism",
+      "axis_name": "From delegated trust in a compliant instrument to cooling suspicion and coercive pressure",
+      "pole_start": "Zeus relates to Hestia through confident, hierarchical trust: she is a subordinate divine instrument with medium trust and esteem, low intimacy, and an expectation that she will execute his decree faithfully and without reinterpretation.",
+      "pole_end": "Zeus's trust in Hestia's compliance is weakened and his esteem cools; displeasure, suspicion, and antagonistic divine pressure enter the relationship even though Hestia remains formally loyal and Zeus still treats her as his agent.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Formal delegation / instrumental delegation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Zeus relates to Hestia through confident, hierarchical trust: he dispatches her as his instrument and expects obedience to his interpretation of order, with no indication of doubt.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees her mission to restore traditional order by returning women to hearth and home.",
+            "Zeus opens a golden portal, establishing Hestia's role as his subordinate agent in the present world."
+          ]
+        },
+        {
+          "phase": "Pressure and silent rebuttal / cooling suspicion",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Trust strains as Zeus registers Hestia's independent reinterpretation of the mission; he answers with coercive omens, introducing antagonism and suspicion into a relationship that remains formally hierarchical.",
+          "key_moments": [
+            "Hestia silently asserts loyalty to Zeus's authority while redefining the hearth as shared burdens and belonging rather than forced confinement.",
+            "Zeus applies escalating divine pressure through a chilling draft, rumbling, flickering lights, thunder, lightning, and an earthquake.",
+            "Zeus appears displeased and suspicious rather than affirming, steering Hestia back toward his original decree."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets describe the same relational movement in the same direction: from confident instrumental delegation to cooler, more suspicious oversight. Set A emphasizes the emergence of antagonism and diminished trust; Set B emphasizes the drop in trust and esteem with intimacy remaining low. Neither set reports a rupture of loyalty or a shift in formal hierarchy—Hestia stays his agent, and Zeus substitutes intimidation for revised trust. The arc is negative (trust/esteem degrade) and rests entirely on chapter 1 evidence, warranting medium confidence."
+    }
+  ]
+}

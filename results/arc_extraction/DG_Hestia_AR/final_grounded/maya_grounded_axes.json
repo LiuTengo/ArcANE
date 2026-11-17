@@ -1,0 +1,400 @@
+{
+  "character": "Maya",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-communion",
+      "axis_name": "From confrontational self-assertion to protective communion",
+      "pole_start": "Maya begins on the agency pole: she is fiercely self-assertive, morally confrontational, and publicly defends women's autonomy, fair pay, and dignity against Hestia's traditionalist view of hearth and peace.",
+      "pole_end": "Maya moves toward communion: she becomes protective, hospitable, and relationally invested in Hestia's safety, offering shelter and a shared refuge while retaining her activist agency.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Assertive advocacy",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya addresses the crowd with moral conviction, challenges Hestia publicly, and demands equal pay, autonomy, dignity, and fair treatment.",
+          "key_moments": [
+            "Maya confronts Hestia's traditionalist view of hearth and peace.",
+            "Maya argues that peace without autonomy, fair pay, and dignity is hollow.",
+            "Maya treats Hestia as an ideological challenger rather than an ally."
+          ]
+        },
+        {
+          "phase": "Destabilized encounter",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's steadying touch and divine confession disrupt Maya's prior opponent-frame, producing warmth and bewilderment.",
+          "key_moments": [
+            "Hestia steps beside Maya and places a steadying hand on her arm.",
+            "Maya feels unexpected warmth and pulls Hestia back to question her.",
+            "Hestia confesses she is a goddess sent by Zeus but has chosen to defy Zeus and stand with the protesters."
+          ]
+        },
+        {
+          "phase": "Protective interdependence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya acts from the communion pole by offering shelter and practical safety, turning activism into personal solidarity.",
+          "key_moments": [
+            "Maya offers Hestia her small apartment as a safe place to stay.",
+            "Maya recognizes Hestia's sacrifice after her defiance of Zeus.",
+            "Maya maintains solidarity with the protesters while defining home as a refuge shared with an ally."
+          ]
+        }
+      ],
+      "evidence_summary": "Maya's arc begins with self-assertive defense of autonomy and ends with an offer of shelter and shared refuge, showing movement from confrontational independence toward relational interdependence without abandoning her core values.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on the novel 'Dg Hestia Ar' or on Maya's intrapersonal agency-communion arc. Since the axis requires grounded published criticism specific to this character and work, and no such citations are known, the claim is unsupported under the given rules.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I can recall no published novel titled \"Dg Hestia Ar,\" nor any body of literary criticism addressing a character named Maya within such a work. Since the axis is intrapersonal and must be grounded in verifiable psychological or psychoanalytic criticism of this specific text, I have no real scholarship to cite; inventing titles, authors, or URLs would violate the citation rules. The axis itself is internally coherent (agency-to-communion movement, retaining activist identity while adding protective care), but coherence is not evidence of published support.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character named Maya within such a work. Because the title and character do not correspond to any recognizable published novel or critical corpus I can cite, the claimed intrapersonal agency-communion arc cannot be grounded in published scholarship. I therefore leave the citation list empty rather than invent sources.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Worldview openness",
+      "axis_name": "From secular activist frame to accepting divine intervention",
+      "pole_start": "Maya interprets the conflict in secular, economic, and political terms: peace must be grounded in autonomy, fair pay, and dignity, and Hestia's view is treated as an ideological challenge rather than a divine claim.",
+      "pole_end": "Maya's worldview expands to accept divine intervention; she sees Hestia's defiance of Zeus as authentic and the movement as divinely noticed and existentially risky.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Secular moral argument",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya argues entirely within a human-political frame, treating Hestia's view as an ideological challenge.",
+          "key_moments": [
+            "Maya defends the protest by arguing that peace without autonomy, fair pay, and dignity is hollow.",
+            "Maya challenges Hestia's traditionalist view of hearth and peace."
+          ]
+        },
+        {
+          "phase": "Divine shock and destabilization",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's touch and revelation of her divinity disrupt Maya's secular framework and produce shock and awe.",
+          "key_moments": [
+            "Hestia places a steadying hand on Maya's arm.",
+            "Hestia confesses that she is a goddess sent by Zeus to redirect Maya.",
+            "Maya is destabilized by the impossible reality of Hestia's divine identity."
+          ]
+        },
+        {
+          "phase": "Expanded acceptance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya accepts Hestia's costly defiance of Zeus as authentic and interprets the movement as carrying divine validation and existential risk.",
+          "key_moments": [
+            "Hestia reveals she has chosen to defy Zeus and stand with the protesters.",
+            "Maya recognizes Hestia's sacrifice and offers her shelter.",
+            "Maya's framework expands from secular activism to include divine intervention."
+          ]
+        }
+      ],
+      "evidence_summary": "The explicit belief change is from a secular activist framework to one that accepts divine intervention and interprets the movement as divinely noticed and existentially risky.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any published novel titled 'Dg Hestia Ar', nor any narratological, structuralist, or psychological scholarship addressing a character named Maya within it. Because the axis is text-specific — tracking Maya's shift from a secular economic/political frame to acceptance of divine intervention — no real, verifiable published work I know of documents this internal dimension, and fabricating citations for an unidentifiable text would violate the requirement of verifiability.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any psychological or psychoanalytic criticism discussing Maya's worldview development from secular activism to acceptance of divine intervention. Because the axis depends on a text for which I can identify no verifiable secondary literature, it cannot be grounded in published criticism under the stated rules.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar' or on its character Maya. The described worldview shift from secular activism to acceptance of divine intervention may be interpretable through general psychological or postsecular criticism, but without verifiable published work specifically on this novel, the axis is not grounded in scholarship. I therefore cannot supply real citations supporting this claim.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Inclusive solidarity",
+      "axis_name": "From opponent-only framing to expanded alliance",
+      "pole_start": "Maya initially frames Hestia as a philosophical and moral opponent outside her activist cause, with solidarity directed toward human protesters and women seeking equality.",
+      "pole_end": "Maya expands her sense of who can belong to the cause: Hestia becomes an ally who chose solidarity through costly defiance, without Maya abandoning her activism.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Oppositional framing",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya treats Hestia as a representative of a traditional view to be challenged, keeping her outside the circle of activist solidarity.",
+          "key_moments": [
+            "Maya challenges Hestia before the crowd with pointed moral conviction.",
+            "Maya sees Hestia initially as a philosophical opponent."
+          ]
+        },
+        {
+          "phase": "Revelation and reframing",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's touch, revelation, and defiance of Zeus force Maya to reconsider Hestia as a potential ally rather than only an opponent.",
+          "key_moments": [
+            "Hestia's touch and divine revelation destabilize Maya's opponent-frame.",
+            "Maya recognizes Hestia as an ally who has chosen solidarity."
+          ]
+        },
+        {
+          "phase": "Protective alliance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya acts on the expanded alliance by offering shelter and protection while remaining committed to the protest and cause.",
+          "key_moments": [
+            "Maya offers Hestia shelter.",
+            "Maya recognizes Hestia's defiance of Zeus as costly alignment.",
+            "Maya maintains solidarity with the protesters."
+          ]
+        }
+      ],
+      "evidence_summary": "Maya's beliefs in equality and dignity do not change, but her boundary of who can count as an ally expands from human protesters to include a defecting goddess.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary scholarship on a work titled 'Dg Hestia Ar' or on Maya as a character within it. The proposed intrapersonal arc—from opponent-only framing to expanded alliance—is narratologically plausible, but without identifiable published criticism or even a securely identifiable primary text, it cannot be grounded in citable scholarship. I therefore decline to invent sources.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship — psychological, psychoanalytic, or otherwise — on a novel titled \"Dg Hestia Ar\" or on a character named Maya within it; the title does not correspond to any work I can verify in the critical literature. Since the axis concerns an intrapersonal shift in Maya's moral reasoning and coalitional imagination, it would require a critic who has actually analyzed her character development, and I can recall none. Per the rules, I therefore decline to supply citations rather than fabricate them.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor on a character Maya whose internal arc is analyzed in relation to Hestia and expanded activist solidarity. Because the axis requires reception-oriented or character-development scholarship specific to this work, and no real citation can be supplied, the claim is not grounded in published criticism as required.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Maya",
+      "target_character": "Hestia",
+      "dimension_label": "Trust and esteem",
+      "axis_name": "From ideological challenger to trusted ally",
+      "pole_start": "Maya treats Hestia as an ideological and moral opponent whose traditionalist view of hearth and peace must be challenged.",
+      "pole_end": "Maya trusts and esteems Hestia because she risked divine wrath to stand with the protesters; Hestia becomes a sheltered ally.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Ideological friction",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya engages Hestia seriously but as a challenger rather than an ally.",
+          "key_moments": [
+            "Maya confronts Hestia's traditionalist view of hearth and peace.",
+            "Maya defends the protest's demand for autonomy, fair pay, and dignity.",
+            "Maya challenges Hestia before the crowd with moral conviction."
+          ]
+        },
+        {
+          "phase": "Surprising solidarity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya feels unexpected warmth when Hestia stands with her, revising her view from critic to potential ally.",
+          "key_moments": [
+            "Hestia steps beside Maya and places a steadying hand on her arm.",
+            "Maya feels warmth and pulls Hestia back to question her.",
+            "Hestia's touch and revelation bewilder Maya and disrupt her prior opponent-frame."
+          ]
+        },
+        {
+          "phase": "Costly trust",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's trust and esteem deepen because Hestia's confession reveals sacrifice and authentic alignment with the cause.",
+          "key_moments": [
+            "Hestia confesses she is a goddess sent by Zeus.",
+            "Hestia reveals she has chosen to defy Zeus and stand with the protesters.",
+            "Maya recognizes Hestia's costly defiance as authentic solidarity."
+          ]
+        },
+        {
+          "phase": "Deepened bond",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya translates trust into action by sheltering Hestia.",
+          "key_moments": [
+            "Maya offers Hestia her small apartment as a safe place to stay.",
+            "Maya acts with protective concern and cautious hospitality."
+          ]
+        }
+      ],
+      "evidence_summary": "The relationship moves from ideological challenge to deep trust and esteem, driven by Hestia's solidarity and costly defiance of Zeus.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a Maya–Hestia relationship arc in that work. Because the title and characters do not match any verifiable published literary corpus I know, the proposed relational axis cannot be grounded in real, citable scholarship. I therefore set the verdict to false and leave citations empty rather than invent sources.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published novel titled 'Dg Hestia Ar' or any character named Maya or Hestia within it, so there is no body of literary criticism — psychoanalytic, feminist, or otherwise — that could document a Maya–Hestia relational arc from ideological opposition to trust. The axis as described (a mortal or devotee shifting from challenging Hestia's traditionalist hearth-and-peace ideology to esteeming her as a sheltered ally after divine risk-taking) reads as a generic mythographic trope rather than one traceable to verifiable scholarship. Absent any real, citable source, I must mark the axis ungrounded rather than fabricate parallels from Hestia-focused classical reception studies, which do not concern these characters.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published novel titled Dg Hestia Ar or any verifiable literary scholarship discussing a Maya–Hestia relationship arc in such a work. The proposed axis therefore lacks grounding in published criticism, and any citation would be fabricated.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Maya",
+      "target_character": "Hestia",
+      "dimension_label": "Intimacy and protection",
+      "axis_name": "From distant debate to personal refuge",
+      "pole_start": "Maya's relation to Hestia is public, argumentative, and emotionally distant.",
+      "pole_end": "Maya develops personal warmth and protective intimacy, offering Hestia shelter and a shared domestic refuge.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Public debate",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya relates to Hestia through ideological debate, with no personal intimacy.",
+          "key_moments": [
+            "Maya defends the protest against Hestia's traditionalist view of hearth and peace.",
+            "Maya challenges Hestia before the crowd."
+          ]
+        },
+        {
+          "phase": "Personal warmth",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya feels unexpected warmth and curiosity when Hestia physically stands beside her.",
+          "key_moments": [
+            "Hestia places a steadying hand on Maya's arm.",
+            "Maya feels warmth and pulls Hestia back to question her.",
+            "Maya's prior emotional distance is disrupted by Hestia's touch."
+          ]
+        },
+        {
+          "phase": "Protective refuge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya turns intimacy into protective action by offering Hestia a safe place to stay.",
+          "key_moments": [
+            "Maya offers Hestia her apartment after Hestia's defiance of Zeus.",
+            "Maya defines home as a refuge shared with those who stand with her.",
+            "Maya maintains solidarity with the protesters while sheltering Hestia."
+          ]
+        }
+      ],
+      "evidence_summary": "Maya's relationship with Hestia gains emotional warmth and protective intimacy, culminating in the offer of shelter and a shared domestic refuge.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published narratological or structuralist scholarship on a novel titled 'Dg Hestia Ar' or on a Maya–Hestia relationship arc within it. Without a real critical corpus addressing this work or its character dynamics, the proposed relational axis cannot be grounded in published literary scholarship.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any real, verifiable published literary scholarship on 'Dg Hestia Ar' that discusses Maya's relationship with Hestia, let alone an arc from public argument to protective domestic intimacy. Without grounded criticism, the axis remains an interpretive claim rather than a scholarly-supported one.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published novel titled 'Dg Hestia Ar' or any verifiable literary scholarship discussing a Maya–Hestia relationship arc. The character names and title do not correspond to works I can confirm in published criticism, so the claim about Maya moving from distant debate to protective domestic intimacy cannot be grounded in real citations.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ]
+}

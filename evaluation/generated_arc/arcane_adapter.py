@@ -9,11 +9,90 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
+import warnings
+from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
 
 _SAFE_SLUG_RE = re.compile(r"[^a-zA-Z0-9._-]+")
+_STORY_MATCH_THRESHOLD = 0.82
+_STORY_MATCH_MARGIN = 0.05
+
+
+def _story_key(value: str) -> str:
+    """Normalize separators and punctuation for exact and typo matching."""
+    normalized = unicodedata.normalize("NFKC", value).casefold()
+    return "".join(character for character in normalized if character.isalnum())
+
+
+def _resolve_story_directory(value: str | Path, directories: list[Path]) -> Path:
+    """Resolve an exact story slug, with a guarded fallback for unique typos."""
+    requested = str(value).strip()
+    requested_key = _story_key(requested)
+    exact = [
+        path
+        for path in directories
+        if path.name.casefold() == requested.casefold()
+        or _story_key(path.name) == requested_key
+    ]
+    if len(exact) == 1:
+        return exact[0]
+
+    ranked = sorted(
+        (
+            (
+                SequenceMatcher(
+                    None, requested_key, _story_key(path.name)
+                ).ratio(),
+                path,
+            )
+            for path in directories
+        ),
+        key=lambda item: (-item[0], item[1].name.casefold()),
+    )
+    close = [
+        (score, path)
+        for score, path in ranked
+        if score >= _STORY_MATCH_THRESHOLD
+    ]
+
+    if len(close) == 1:
+        selected = close[0][1]
+        warnings.warn(
+            f"story {requested!r} was not found exactly; "
+            f"resolved to {selected.name!r}",
+            UserWarning,
+            stacklevel=2,
+        )
+        return selected
+    if (
+        len(close) > 1
+        and close[0][0] - close[1][0] >= _STORY_MATCH_MARGIN
+    ):
+        selected = close[0][1]
+        warnings.warn(
+            f"story {requested!r} was not found exactly; "
+            f"resolved to {selected.name!r}",
+            UserWarning,
+            stacklevel=2,
+        )
+        return selected
+
+    choices = ", ".join(sorted(path.name for path in directories))
+    suggestions = ", ".join(
+        f"{path.name!r} ({score:.2f})"
+        for score, path in ranked[:3]
+        if score > 0
+    )
+    suggestion_text = (
+        f"; close matches: {suggestions}" if suggestions else ""
+    )
+    raise ValueError(
+        f"could not uniquely resolve story {requested!r}"
+        f"{suggestion_text}; available stories: {choices}"
+    )
 
 
 def slugify(value: str) -> str:
@@ -46,23 +125,12 @@ def resolve_arcane_story(value: str | Path) -> dict[str, str]:
         raise FileNotFoundError(
             f"ArcANE extraction root not found: {results_root}"
         )
-    requested = str(value).strip().casefold()
     dirs = [
         path
         for path in results_root.iterdir()
         if path.is_dir()
-        and (
-            path.name.casefold() == requested
-            or path.name.replace("_", " ").casefold() == requested
-        )
     ]
-    if len(dirs) != 1:
-        choices = ", ".join(sorted(path.name for path in results_root.iterdir() if path.is_dir()))
-        raise ValueError(
-            f"could not uniquely resolve story {str(value)!r}; "
-            f"available stories: {choices}"
-        )
-    story_dir = dirs[0]
+    story_dir = _resolve_story_directory(value, dirs)
     candidates = [
         story_dir / "final" / "all_characters_axes.json",
         story_dir / "final_auto" / "all_characters_auto.json",

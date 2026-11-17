@@ -11,7 +11,10 @@ from unittest.mock import Mock, patch
 
 from evaluation.generated_arc import config
 from evaluation.generated_arc import runner
-from evaluation.generated_arc.arcane_adapter import load_arcane_axes
+from evaluation.generated_arc.arcane_adapter import (
+    _resolve_story_directory,
+    load_arcane_axes,
+)
 from evaluation.generated_arc.loader import (
     ground_evidence,
     load_story,
@@ -139,6 +142,36 @@ class StoryLoaderTests(unittest.TestCase):
         self.assertTrue(valid.valid)
         self.assertFalse(wrong_span.valid)
         self.assertFalse(fabricated.valid)
+
+
+class ArcaneStoryResolutionTests(unittest.TestCase):
+    def test_story_separator_variants_resolve_exactly(self):
+        with tempfile.TemporaryDirectory(prefix="genarc-story-") as temp:
+            root = Path(temp)
+            expected = root / "DG_Hestia_AR"
+            expected.mkdir()
+            (root / "DG_Hestia_DiriGent_gemini").mkdir()
+
+            selected = _resolve_story_directory(
+                "dg-hestia-ar", list(root.iterdir())
+            )
+
+            self.assertEqual(selected, expected)
+
+    def test_unique_close_story_slug_resolves_typo(self):
+        with tempfile.TemporaryDirectory(prefix="genarc-story-") as temp:
+            root = Path(temp)
+            (root / "DG_Hestia_AR").mkdir()
+            expected = root / "DG_Hestia_DiriGent_gemini"
+            expected.mkdir()
+
+            with self.assertWarnsRegex(UserWarning, "resolved to"):
+                selected = _resolve_story_directory(
+                    "DG_Hesitia_DirectGent_gemini",
+                    list(root.iterdir()),
+                )
+
+            self.assertEqual(selected, expected)
 
 
 class CandidateExtractionTests(unittest.TestCase):

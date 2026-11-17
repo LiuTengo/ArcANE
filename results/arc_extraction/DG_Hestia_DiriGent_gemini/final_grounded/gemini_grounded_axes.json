@@ -1,0 +1,57 @@
+{
+  "character": "Gemini",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency–Communion (unassessable)",
+      "axis_name": "Indeterminate: no observable movement along the Agency–Communion continuum",
+      "pole_start": "Unknown — Gemini is absent from all supplied evidence (the event ledger contains no Gemini events; the sole available chapter summary, Chapter 1, never mentions him). No starting orientation toward agency (self-assertion, mastery, independence) or communion (cooperation, warmth, interdependence) can be established.",
+      "pole_end": "Unknown — no later chapter data exists to show whether Gemini shifts toward agency or communion, so no terminal position can be inferred.",
+      "confidence": "low",
+      "source": "both",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Absence / no narrative presence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Gemini is neither present nor mentioned in the only available material. Chapter 1 is devoted to Hestia's summons by Zeus, her descent into the modern world, and her exchange with the protest leader Phebe. With zero Gemini events in the ledger and zero textual trace in the summary, any plotted position on the Agency–Communion axis would be fabrication.",
+          "key_moments": [
+            "Event ledger for Gemini is empty ([]), offering no scene, choice, or interaction to anchor a baseline",
+            "Chapter 1 contains no appearance or mention of Gemini",
+            "Narrative attention is entirely on Hestia's summons by Zeus and her dialogue with Phebe"
+          ]
+        }
+      ],
+      "evidence_summary": "Both independent analyses reach the same verdict from complementary evidence gaps: Set A reports an empty event graph, Set B reports a Chapter 1 summary with no Gemini presence. There is consequently no basis for characterizing any intrapersonal arc, and the Agency–Communion axis is retained only to satisfy the mandatory intra_01 slot. Marked low confidence and flat direction; this axis must be re-run once Gemini's chronological events become available.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any published narratological, psychological, or structuralist scholarship on the specific work 'Dg Hestia Dirigent Gemini,' nor any criticism addressing Gemini's agency–communion development. Because the axis is explicitly marked unassessable due to absent evidence, grounding it in verifiable published literary scholarship is not possible. Therefore, no real citations can be supplied.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "The proposed axis is explicitly marked unassessable because Gemini has no observable presence in the supplied evidence and no later chapter data exists to establish either an initial or terminal position on Agency–Communion. I cannot recall any real, verifiable published literary scholarship on this specific novel and character that would ground such an intrapersonal psychological axis. Therefore the axis lacks published critical support.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any published literary scholarship on 'Dg Hestia Dirigent Gemini' or on the character Gemini, let alone work addressing an internal Agency–Communion or identity-development arc. Since the axis itself is marked unassessable due to absent evidence, there is no verifiable critical corpus to cite.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": []
+}

@@ -1,0 +1,457 @@
+{
+  "character": "Hestia",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion Integration",
+      "axis_name": "From Deferential Service to Agentic Communion",
+      "pole_start": "Hestia begins communion-dominant and deferential: her communion is expressed through obedience to Zeus, selfless devotion to the hearth, and acceptance of an unfamiliar mission without asserting her own interpretation, with little self-assertion.",
+      "pole_end": "Hestia ends as an agentic but still relational moral actor: she quietly asserts her own reinterpretation of the mission while remaining committed to a hearth defined by shared burdens and heard voices.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Deferential obedience",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "High communion through loyalty and service, low agency: Hestia accepts Zeus's decree with calm deference and private uncertainty rather than questioning or redefining it.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees that she must travel to the present world to restore order by guiding women back to hearth and home.",
+            "Hestia accepts the decree with deference and reaffirms her loyalty.",
+            "Hestia passes through Zeus's portal and is overwhelmed and quietly disoriented by the modern city, yet remains resolute in divine duty."
+          ]
+        },
+        {
+          "phase": "Relational learning",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Communion expands through listening and empathy while a nascent agency appears in curiosity and in her request to observe a modern household.",
+          "key_moments": [
+            "Hestia observes a women's protest demanding equal pay and a banner declaring women's power lies in their united voice.",
+            "Hestia questions a protestor and is sharply challenged by Phebe, becoming aware that her traditional views may seem outdated or confining.",
+            "Phebe recounts workplace bias against a mother and the invisible second shift endured by Maya, deepening Hestia's understanding."
+          ]
+        },
+        {
+          "phase": "Agentic reinterpretation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia moves toward agentic communion: she silently asserts an independent moral interpretation, redefining the mission as building a hearth of shared burdens and heard voices rather than enforcing confinement.",
+          "key_moments": [
+            "Hestia asks to observe a modern household firsthand.",
+            "Under Zeus's supernatural pressure (drafts, tremors, darkness, thunder), Hestia resolutely and quietly defies the implied coercion by reinterpreting her sacred purpose."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses converge: Hestia starts in obedient, communion-dominant service to Zeus and ends by asserting her own moral interpretation while retaining a relational, hearth-centered ethic. The change integrates agency with communion rather than trading one for the other.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I have no knowledge of any published novel titled 'Dg Hestia Dirigent Gemini,' nor of any narratological, psychological, or structuralist scholarship analyzing a character named Hestia within such a work. Because the primary text itself cannot be verified as a published artifact, no real, citable body of criticism can be attached to this intrapersonal axis. Any citation I produced would be fabricated, so I decline to offer one.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini,' nor any psychological or psychoanalytic criticism discussing Hestia's internal development along an agency-communion axis. Because the title and character do not map onto a recognizable published work in the scholarship I can verify, the claimed arc cannot be grounded in citable criticism. I therefore decline to invent sources and set the verdict to false.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any real, verifiable published literary scholarship on the novel 'Dg Hestia Dirigent Gemini' or on Hestia's character arc in that work. Without specific reception or character-development scholarship, the claimed intrapersonal shift from deferential service to agentic communion cannot be grounded in published criticism. I therefore leave the citation list empty rather than invent sources.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Hearth Ideology",
+      "axis_name": "From Fixed Domestic Confinement to Renegotiated Shared Hearth",
+      "pole_start": "Hestia initially accepts Zeus's framing that restoring order means guiding women back to hearth and home, treating traditional domestic roles as the proper source of harmony and women's external pursuits as potential distraction.",
+      "pole_end": "Hestia redefines the hearth as a sanctuary of shared burdens, heard voices, belonging, and renegotiated duties rather than enforced confinement or unexamined self-sacrifice.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Inherited framework",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia receives Zeus's decree without disputing its premise that women should be guided back to hearth and home, framing her task as correcting women's external pursuits.",
+          "key_moments": [
+            "Zeus decrees that Hestia must restore order by guiding women back to hearth and home.",
+            "Hestia intends to guide women back to domestic order out of loyalty to Zeus's authority."
+          ]
+        },
+        {
+          "phase": "Assumption challenged",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "The protest and Phebe's confrontation challenge Hestia's assumption that women's power outside the home necessarily threatens household harmony.",
+          "key_moments": [
+            "Hestia observes the protest's demands for equal pay and its banner about women's united voice.",
+            "Phebe sharply confronts Hestia over the assumption that a woman's strength belongs only in the kitchen.",
+            "Hestia begins to question whether women's focus outside the home necessarily threatens household harmony."
+          ]
+        },
+        {
+          "phase": "Ideological redefinition",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia recognizes that 'chains' include invisible domestic labor and structural penalties, and shifts to a hearth model grounded in shared responsibility, belonging, and justice.",
+          "key_moments": [
+            "Phebe explains workplace bias against a mother and the invisible second shift endured by Maya.",
+            "Phebe explains 'quiet rebellion' and shared responsibility in the home.",
+            "Hestia silently asserts to Zeus a mission to build a hearth of shared burdens and heard voices rather than enforce outdated confinement."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sources agree this is the chapter's most explicit tracked shift: Hestia's conception of the hearth moves from fixed traditional order requiring enforcement to a renegotiated relational order built on shared responsibility and voice. Set B's 'shared sanctuary' language and Set A's 'renegotiated duties' language are merged here.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary or narratological scholarship on the novel 'Dg Hestia Dirigent Gemini' or on the character Hestia as described. Since the requested axis concerns a specific character arc in that specific work, no real citation can be supplied without inventing a source.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify \"Dg Hestia Dirigent Gemini\" as a published novel, nor can I recall any scholarly criticism—psychological, psychoanalytic, or otherwise—treating a character named Hestia within such a work. The proposed axis (a shift from Zeus-mandated domestic confinement to a renegotiated 'shared hearth' ideology) is a coherent intrapsychic reading in the abstract, but it appears to be generated from the character premise rather than grounded in any verifiable body of published literary scholarship. I therefore cannot supply real, citable works without fabricating them.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I have no recollection of any published work titled \"Dg Hestia Dirigent Gemini,\" nor of a character named Hestia within it, and therefore cannot identify any peer-reviewed or otherwise verifiable literary scholarship — psychological, narratological, or reception-oriented — that discusses this character's ideological movement from domestic confinement to a renegotiated shared hearth. Because the axis concerns an intrapersonal transformation that only makes sense against a specific text I cannot confirm exists in the published record, asserting grounded scholarship would require fabrication, which the rules forbid.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Obedience and Conscience",
+      "axis_name": "From Tradition's Faithful Guardian to Independent Moral Interpreter",
+      "pole_start": "Hestia sees herself as a faithful divine agent and guardian of a fixed tradition, treating Zeus's decree as the highest order and following it even when the path is unclear, while avoiding open divergence.",
+      "pole_end": "Hestia sees herself as an independent moral agent who can remain loyal to Zeus while reinterpreting his command, quietly asserting that inclusive shared harmony serves a higher order; the divergence is felt but not yet fully confronted.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Faithful agent",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia reaffirms herself as a faithful divine agent, loyal and respectful toward Zeus's authority, responding to his ominous disruptions with steady resolve.",
+          "key_moments": [
+            "Hestia accepts Zeus's decree with deference and reaffirms her loyalty.",
+            "Hestia meets Zeus's supernatural disruptions (drafts, darkness, thunder) with steady resolve."
+          ]
+        },
+        {
+          "phase": "Self-awareness under challenge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe's challenge makes Hestia aware that her traditional self-presentation may be perceived as outdated or confining, turning certainty into curiosity and concern.",
+          "key_moments": [
+            "Phebe confronts Hestia over her apparent assumption that a woman's strength belongs only in the kitchen.",
+            "Hestia becomes increasingly uneasy with the forced-confinement implications of Zeus's decree."
+          ]
+        },
+        {
+          "phase": "Conflicted loyal dissent",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia becomes a learner and independent interpreter who can dissent inwardly from divine coercion, while still intending loyalty and not yet fully confronting the depth of her divergence.",
+          "key_moments": [
+            "Hestia asks to observe a modern household firsthand as a self-directed act of inquiry.",
+            "Hestia quietly asserts to Zeus that inclusive shared harmony serves the highest order.",
+            "Hestia resolutely reinterprets Zeus's mission while under supernatural pressure."
+          ]
+        }
+      ],
+      "evidence_summary": "Merges Set A's 'self-concept revision' with Set B's 'obedience to conscience' and its caveat. Hestia's self-perception shifts from obedient guardian of fixed tradition to independent moral interpreter who integrates loyalty with critical judgment; the resistance is quiet and internal rather than an open break.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini'; the work does not appear in the narratological or classical-reception record I can verify, and 'Hestia' here seems to be a character within an unlocatable text. No real, citable structuralist or psychological analysis of this specific character's obedience/conscience arc exists that I can recall. Per the rules, I therefore set verdict to false with no citations rather than fabricate support.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any real, verifiable published literary scholarship on Dg Hestia Dirigent Gemini or on Hestia as a character in that work. Without published psychological or character-development criticism addressing her obedience and conscience, the proposed intrapersonal axis cannot be grounded in citable scholarship.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I have no reliable knowledge of a published novel titled \"Dg Hestia Dirigent Gemini,\" and I cannot recall any peer-reviewed or scholarly work — reception studies, psychoanalytic criticism, or character-development analysis — addressed to it. Since the axis requires verifiable published scholarship specifically on this text and character, and none can be identified, the claim cannot be grounded in citation. Inventing sources would be improper, so the verdict is negative.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Epistemic Stance",
+      "axis_name": "From Doctrinal Certainty to Experiential Inquiry",
+      "pole_start": "Hestia begins from inherited doctrinal assumptions and divine certainty about hearth, home, and the women she must guide, interpreting the modern world from the distance of tradition and observation alone.",
+      "pole_end": "Hestia ends by privileging epistemic humility, direct listening, first-hand observation, and lived testimony as necessary for understanding how to restore harmony.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Distant certainty",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia observes the modern city and protest with curiosity and confusion, resolute in duty but quietly disoriented, still interpreting through her prior framework.",
+          "key_moments": [
+            "Hestia is overwhelmed by the modern city.",
+            "Hestia observes the women's protest and hears demands that challenge her assumptions."
+          ]
+        },
+        {
+          "phase": "Direct questioning",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia questions a protestor and is confronted by Phebe, learning through direct encounter rather than judgment from afar.",
+          "key_moments": [
+            "Hestia questions a protestor and is sharply challenged by Phebe.",
+            "Initial certainty gives way to curiosity and concern."
+          ]
+        },
+        {
+          "phase": "Experiential humility",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia listens to concrete testimony and seeks access to a modern household, treating lived experience as a source of moral knowledge and acknowledging she knows little of this world.",
+          "key_moments": [
+            "Phebe recounts workplace bias and invisible domestic labor.",
+            "Hestia recognizes that true understanding requires listening rather than merely watching.",
+            "Hestia asks to observe a modern household firsthand."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets identify the same epistemic movement from doctrinal assumption and top-down certainty to receptive learning. Set A calls it 'experiential inquiry', Set B 'epistemic humility'; the merged axis keeps both halves: humbled about what she knows, and committed to listening and observing as the method.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any published narratological, psychological, or structuralist scholarship on a novel titled 'Dg Hestia Dirigent Gemini' or on the character Hestia in that specific work. Without verifiable published criticism addressing Hestia's epistemic development from doctrinal certainty to experiential inquiry, the axis cannot be grounded in scholarship. Therefore I set the verdict to false and provide no citations rather than invent support.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary or psychological criticism on the novel 'Dg Hestia Dirigent Gemini' or on the character Hestia. Because the requested axis requires specific published scholarship and no citable work can be identified, the claim is not grounded in the available critical record. This verdict reflects the absence of verifiable sources, not an assessment of the axis's interpretive plausibility.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini' or on a character Hestia within that specific work. Consequently, there is no verifiable criticism to ground the claimed intrapersonal shift from doctrinal certainty to experiential inquiry. Without real, citable scholarship, the axis cannot be supported under the stated rules.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Hestia",
+      "target_character": "Zeus",
+      "dimension_label": "Loyalty vs Resistance",
+      "axis_name": "From Deferential Compliance to Loyal Quiet Defiance",
+      "pole_start": "Hestia relates to Zeus with deferential trust, respect, and obedience, accepting his decree as binding without visible resistance.",
+      "pole_end": "Hestia remains loyal and respectful in word, with trust and esteem still high, but she is conflicted and quietly resists the coercive implications of the decree by reinterpreting it, introducing strain into the relationship.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Deferential acceptance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia accepts Zeus's decree with calm deference, high trust and esteem, and reaffirms her loyalty to his authority without open challenge.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees her mission to guide women back to hearth and home.",
+            "Hestia accepts the decree with deference and remains loyal and respectful."
+          ]
+        },
+        {
+          "phase": "Coercive pressure",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Zeus's supernatural pressure makes the relationship feel coercive as Hestia begins to form a reinterpreted mission.",
+          "key_moments": [
+            "Drafts, tremors, darkness, and thunder manifest as Hestia considers her reinterpreted mission.",
+            "Hestia responds to the ominous disruptions with steady resolve rather than submission or open rebellion."
+          ]
+        },
+        {
+          "phase": "Loyal quiet dissent",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia silently asserts a reinterpreted mission, loyal in word but resistant in spirit, quietly insisting that inclusive shared harmony serves the highest order.",
+          "key_moments": [
+            "Hestia silently asserts to Zeus a mission to build a hearth of shared burdens and heard voices rather than enforce outdated confinement.",
+            "Hestia does not yet fully confront the depth of her divergence from Zeus."
+          ]
+        }
+      ],
+      "evidence_summary": "Merged from both sets: the Zeus relationship moves from uncomplicated deference to ambivalent but loyal dissent. Set A stresses the resulting strain on trust; Set B stresses that trust and esteem stay high and the conflict is internal and not yet openly confronted.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary scholarship on the novel 'Dg Hestia Dirigent Gemini' or on a Hestia–Zeus relational arc within it. General mythographic or structuralist work on Hestia and Zeus would not ground a claim about this specific novel's character development, so the axis lacks published critical support.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on the novel 'Dg Hestia Dirigent Gemini' or on a Hestia–Zeus relationship arc within it. Because the axis is relational and requires specific criticism discussing how Hestia's stance toward Zeus evolves, I cannot ground it in published sources without inventing citations.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on the novel 'Dg Hestia Dirigent Gemini' or on a Hestia–Zeus relationship arc within it. Because the axis concerns a specific relational dynamic in an apparently obscure or unpublished text, asserting scholarly grounding would require inventing citations, which I must not do.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Hestia",
+      "target_character": "Phebe",
+      "dimension_label": "Trust and Esteem",
+      "axis_name": "From Wary Confrontation to Trusted Guide",
+      "pole_start": "Hestia meets Phebe with wary distance and low initial trust, experiencing her as an unfamiliar modern challenger and public accuser of her traditional assumptions.",
+      "pole_end": "Hestia trusts and esteems Phebe as a candid guide and ally whose testimony reshapes her understanding of the hearth, warming to her perspective on the modern world.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Wary confrontation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia observes Phebe and the protestors with cautious distance; Phebe's sharp challenge provokes surprise and curiosity rather than retreat.",
+          "key_moments": [
+            "Hestia listens to Phebe and the protestors with wary observation and growing curiosity.",
+            "Phebe sharply confronts Hestia over her apparent assumption that a woman's strength belongs only in the kitchen."
+          ]
+        },
+        {
+          "phase": "Deepening dialogue",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe's concrete stories earn Hestia's respect, and the conversation deepens mutual understanding.",
+          "key_moments": [
+            "Phebe recounts workplace bias against a mother and the invisible second shift endured by Maya.",
+            "Phebe explains 'quiet rebellion' and shared responsibility in the home.",
+            "Hestia comes to see Phebe as a candid guide who illuminates the modern world."
+          ]
+        },
+        {
+          "phase": "Alliance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia trusts Phebe enough to seek access to a modern household through her and makes her reinterpreted stand in Phebe's presence.",
+          "key_moments": [
+            "Hestia asks to observe a modern household firsthand.",
+            "Hestia silently asserts her reinterpreted mission while with Phebe."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree the Hestia-Phebe relationship warms substantially and Phebe becomes the key interlocutor for Hestia's revised hearth ethic. Set A's 'sharp challenge to trusted alliance' and Set B's 'wary observation to warming respect' describe the same dyad from two angles and are combined into one three-phase arc.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini' or on a Hestia–Phebe relationship arc within it. Consequently, the proposed movement from wary confrontation to trusted guide is not grounded in published narratological or structuralist criticism that I can cite. No citations are provided because inventing them would violate the verification requirement.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini,' nor any criticism discussing a Hestia–Phebe relationship arc within it. The title does not correspond to any work in the scholarly record I can verify, so there is no citable criticism on which to ground this relational axis. Absent verifiable sources, the claim cannot be supported and must be recorded as ungrounded rather than as a confirmed reading.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled Dg Hestia Dirigent Gemini, nor any criticism discussing a Hestia–Phebe relationship arc in such a work. Because the axis depends on a specific relational dynamic in an apparently untraceable or non-scholarly text, there are no real, checkable citations to support it.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "character": "Hestia",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "Agency-Communion Integration: From Deferential Communion to Agentic Communion",
+          "set_b_axis": "Agency-Communion Balance: From Deferential Hearth-Service to Assertive Communion",
+          "overlap_description": "Both identify the same core movement: Hestia begins communion-dominant and deferential (obedient service to Zeus and traditional domestic order, little self-assertion) and ends with agency integrated into communion (she asserts a reinterpreted hearth while remaining relational). Sets differ only in emphasis and confidence (A 'high', B 'medium') and in trajectory granularity (A gives three phases, B two)."
+        },
+        {
+          "set_a_axis": "Hearth Ideology: From Fixed Domestic Confinement to Renegotiated Shared Hearth",
+          "set_b_axis": "Hearth Purpose Reinterpretation: From Domestic Confinement to Shared Sanctuary",
+          "overlap_description": "Direct conceptual identity: Hestia's belief about what the hearth means shifts from a fixed traditional order requiring enforcement (guiding women back home) to a renegotiated relational order of shared burdens, belonging, and heard voices. Both cite the same evidence chain (decree, protest, Phebe's testimony on bias and invisible labor, final silent reinterpretation)."
+        },
+        {
+          "set_a_axis": "Self-Concept Revision: From Tradition's Guardian to Independent Moral Interpreter",
+          "set_b_axis": "Obedience to Conscience: From Unquestioning Divine Obedience to Loyal Quiet Defiance",
+          "overlap_description": "Partial but substantive match. Both track the same interior shift from obedient divine servant to independent moral agent who quietly dissents from forced-confinement implications while remaining loyal in word. A frames it as identity/self-concept (guardian of tradition -> interpreter); B frames it as conscience versus obedience. B adds the important nuance that the divergence is not yet fully confronted, which A underplays."
+        },
+        {
+          "set_a_axis": "Epistemic Stance: From Doctrinal Assumption to Experiential Inquiry",
+          "set_b_axis": "Epistemic Humility: From Top-Down Certainty to Receptive Learning",
+          "overlap_description": "Same axis: Hestia begins interpreting the modern world from inherited doctrinal assumption and divine certainty, and ends privileging direct listening, testimony, and first-hand observation. Both cite the protest, Phebe's concrete stories, and the request to observe a modern household as the turning evidence; confidence is complementary (A medium, B high)."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "Zeus — From Unquestioning Loyalty to Loyal Dissent",
+          "set_b_axis": "Zeus — From Respectful Compliance to Loyal Quiet Defiance",
+          "overlap_description": "Same dyad and same shape: deferential acceptance of Zeus's decree, followed by supernatural coercive pressure (drafts, tremors, darkness, thunder), followed by silent internal resistance that preserves verbal loyalty. A stresses the strain on trust; B stresses that trust and esteem remain high while the attitude becomes conflicted."
+        },
+        {
+          "set_a_axis": "Phebe — From Sharp Challenge to Trusted Alliance",
+          "set_b_axis": "Phebe — From Wary Observation to Warming Respect",
+          "overlap_description": "Same dyad and same directional warming. Sets differ on the starting pole: A foregrounds Phebe's sharp public confrontation (low trust, antagonism), B foregrounds Hestia's cautious, wary observation of an unfamiliar modern guide. These are compatible descriptions of the same first encounter and should be merged as wary distance plus candid challenge leading to trust and respect."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-Communion Integration",
+      "axis_name": "From Deferential Service to Agentic Communion",
+      "pole_start": "Hestia begins communion-dominant and deferential: her communion is expressed through obedience to Zeus, selfless devotion to the hearth, and acceptance of an unfamiliar mission without asserting her own interpretation, with little self-assertion.",
+      "pole_end": "Hestia ends as an agentic but still relational moral actor: she quietly asserts her own reinterpretation of the mission while remaining committed to a hearth defined by shared burdens and heard voices.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Deferential obedience",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "High communion through loyalty and service, low agency: Hestia accepts Zeus's decree with calm deference and private uncertainty rather than questioning or redefining it.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees that she must travel to the present world to restore order by guiding women back to hearth and home.",
+            "Hestia accepts the decree with deference and reaffirms her loyalty.",
+            "Hestia passes through Zeus's portal and is overwhelmed and quietly disoriented by the modern city, yet remains resolute in divine duty."
+          ]
+        },
+        {
+          "phase": "Relational learning",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Communion expands through listening and empathy while a nascent agency appears in curiosity and in her request to observe a modern household.",
+          "key_moments": [
+            "Hestia observes a women's protest demanding equal pay and a banner declaring women's power lies in their united voice.",
+            "Hestia questions a protestor and is sharply challenged by Phebe, becoming aware that her traditional views may seem outdated or confining.",
+            "Phebe recounts workplace bias against a mother and the invisible second shift endured by Maya, deepening Hestia's understanding."
+          ]
+        },
+        {
+          "phase": "Agentic reinterpretation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia moves toward agentic communion: she silently asserts an independent moral interpretation, redefining the mission as building a hearth of shared burdens and heard voices rather than enforcing confinement.",
+          "key_moments": [
+            "Hestia asks to observe a modern household firsthand.",
+            "Under Zeus's supernatural pressure (drafts, tremors, darkness, thunder), Hestia resolutely and quietly defies the implied coercion by reinterpreting her sacred purpose."
+          ]
+        }
+      ],
+      "evidence_summary": "Both analyses converge: Hestia starts in obedient, communion-dominant service to Zeus and ends by asserting her own moral interpretation while retaining a relational, hearth-centered ethic. The change integrates agency with communion rather than trading one for the other."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Hearth Ideology",
+      "axis_name": "From Fixed Domestic Confinement to Renegotiated Shared Hearth",
+      "pole_start": "Hestia initially accepts Zeus's framing that restoring order means guiding women back to hearth and home, treating traditional domestic roles as the proper source of harmony and women's external pursuits as potential distraction.",
+      "pole_end": "Hestia redefines the hearth as a sanctuary of shared burdens, heard voices, belonging, and renegotiated duties rather than enforced confinement or unexamined self-sacrifice.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Inherited framework",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia receives Zeus's decree without disputing its premise that women should be guided back to hearth and home, framing her task as correcting women's external pursuits.",
+          "key_moments": [
+            "Zeus decrees that Hestia must restore order by guiding women back to hearth and home.",
+            "Hestia intends to guide women back to domestic order out of loyalty to Zeus's authority."
+          ]
+        },
+        {
+          "phase": "Assumption challenged",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "The protest and Phebe's confrontation challenge Hestia's assumption that women's power outside the home necessarily threatens household harmony.",
+          "key_moments": [
+            "Hestia observes the protest's demands for equal pay and its banner about women's united voice.",
+            "Phebe sharply confronts Hestia over the assumption that a woman's strength belongs only in the kitchen.",
+            "Hestia begins to question whether women's focus outside the home necessarily threatens household harmony."
+          ]
+        },
+        {
+          "phase": "Ideological redefinition",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia recognizes that 'chains' include invisible domestic labor and structural penalties, and shifts to a hearth model grounded in shared responsibility, belonging, and justice.",
+          "key_moments": [
+            "Phebe explains workplace bias against a mother and the invisible second shift endured by Maya.",
+            "Phebe explains 'quiet rebellion' and shared responsibility in the home.",
+            "Hestia silently asserts to Zeus a mission to build a hearth of shared burdens and heard voices rather than enforce outdated confinement."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sources agree this is the chapter's most explicit tracked shift: Hestia's conception of the hearth moves from fixed traditional order requiring enforcement to a renegotiated relational order built on shared responsibility and voice. Set B's 'shared sanctuary' language and Set A's 'renegotiated duties' language are merged here."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Obedience and Conscience",
+      "axis_name": "From Tradition's Faithful Guardian to Independent Moral Interpreter",
+      "pole_start": "Hestia sees herself as a faithful divine agent and guardian of a fixed tradition, treating Zeus's decree as the highest order and following it even when the path is unclear, while avoiding open divergence.",
+      "pole_end": "Hestia sees herself as an independent moral agent who can remain loyal to Zeus while reinterpreting his command, quietly asserting that inclusive shared harmony serves a higher order; the divergence is felt but not yet fully confronted.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Faithful agent",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia reaffirms herself as a faithful divine agent, loyal and respectful toward Zeus's authority, responding to his ominous disruptions with steady resolve.",
+          "key_moments": [
+            "Hestia accepts Zeus's decree with deference and reaffirms her loyalty.",
+            "Hestia meets Zeus's supernatural disruptions (drafts, darkness, thunder) with steady resolve."
+          ]
+        },
+        {
+          "phase": "Self-awareness under challenge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe's challenge makes Hestia aware that her traditional self-presentation may be perceived as outdated or confining, turning certainty into curiosity and concern.",
+          "key_moments": [
+            "Phebe confronts Hestia over her apparent assumption that a woman's strength belongs only in the kitchen.",
+            "Hestia becomes increasingly uneasy with the forced-confinement implications of Zeus's decree."
+          ]
+        },
+        {
+          "phase": "Conflicted loyal dissent",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia becomes a learner and independent interpreter who can dissent inwardly from divine coercion, while still intending loyalty and not yet fully confronting the depth of her divergence.",
+          "key_moments": [
+            "Hestia asks to observe a modern household firsthand as a self-directed act of inquiry.",
+            "Hestia quietly asserts to Zeus that inclusive shared harmony serves the highest order.",
+            "Hestia resolutely reinterprets Zeus's mission while under supernatural pressure."
+          ]
+        }
+      ],
+      "evidence_summary": "Merges Set A's 'self-concept revision' with Set B's 'obedience to conscience' and its caveat. Hestia's self-perception shifts from obedient guardian of fixed tradition to independent moral interpreter who integrates loyalty with critical judgment; the resistance is quiet and internal rather than an open break."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_04",
+      "dimension_label": "Epistemic Stance",
+      "axis_name": "From Doctrinal Certainty to Experiential Inquiry",
+      "pole_start": "Hestia begins from inherited doctrinal assumptions and divine certainty about hearth, home, and the women she must guide, interpreting the modern world from the distance of tradition and observation alone.",
+      "pole_end": "Hestia ends by privileging epistemic humility, direct listening, first-hand observation, and lived testimony as necessary for understanding how to restore harmony.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Distant certainty",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia observes the modern city and protest with curiosity and confusion, resolute in duty but quietly disoriented, still interpreting through her prior framework.",
+          "key_moments": [
+            "Hestia is overwhelmed by the modern city.",
+            "Hestia observes the women's protest and hears demands that challenge her assumptions."
+          ]
+        },
+        {
+          "phase": "Direct questioning",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia questions a protestor and is confronted by Phebe, learning through direct encounter rather than judgment from afar.",
+          "key_moments": [
+            "Hestia questions a protestor and is sharply challenged by Phebe.",
+            "Initial certainty gives way to curiosity and concern."
+          ]
+        },
+        {
+          "phase": "Experiential humility",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia listens to concrete testimony and seeks access to a modern household, treating lived experience as a source of moral knowledge and acknowledging she knows little of this world.",
+          "key_moments": [
+            "Phebe recounts workplace bias and invisible domestic labor.",
+            "Hestia recognizes that true understanding requires listening rather than merely watching.",
+            "Hestia asks to observe a modern household firsthand."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets identify the same epistemic movement from doctrinal assumption and top-down certainty to receptive learning. Set A calls it 'experiential inquiry', Set B 'epistemic humility'; the merged axis keeps both halves: humbled about what she knows, and committed to listening and observing as the method."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Hestia",
+      "target_character": "Zeus",
+      "dimension_label": "Loyalty vs Resistance",
+      "axis_name": "From Deferential Compliance to Loyal Quiet Defiance",
+      "pole_start": "Hestia relates to Zeus with deferential trust, respect, and obedience, accepting his decree as binding without visible resistance.",
+      "pole_end": "Hestia remains loyal and respectful in word, with trust and esteem still high, but she is conflicted and quietly resists the coercive implications of the decree by reinterpreting it, introducing strain into the relationship.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Deferential acceptance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia accepts Zeus's decree with calm deference, high trust and esteem, and reaffirms her loyalty to his authority without open challenge.",
+          "key_moments": [
+            "Zeus summons Hestia and decrees her mission to guide women back to hearth and home.",
+            "Hestia accepts the decree with deference and remains loyal and respectful."
+          ]
+        },
+        {
+          "phase": "Coercive pressure",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Zeus's supernatural pressure makes the relationship feel coercive as Hestia begins to form a reinterpreted mission.",
+          "key_moments": [
+            "Drafts, tremors, darkness, and thunder manifest as Hestia considers her reinterpreted mission.",
+            "Hestia responds to the ominous disruptions with steady resolve rather than submission or open rebellion."
+          ]
+        },
+        {
+          "phase": "Loyal quiet dissent",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia silently asserts a reinterpreted mission, loyal in word but resistant in spirit, quietly insisting that inclusive shared harmony serves the highest order.",
+          "key_moments": [
+            "Hestia silently asserts to Zeus a mission to build a hearth of shared burdens and heard voices rather than enforce outdated confinement.",
+            "Hestia does not yet fully confront the depth of her divergence from Zeus."
+          ]
+        }
+      ],
+      "evidence_summary": "Merged from both sets: the Zeus relationship moves from uncomplicated deference to ambivalent but loyal dissent. Set A stresses the resulting strain on trust; Set B stresses that trust and esteem stay high and the conflict is internal and not yet openly confronted."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Hestia",
+      "target_character": "Phebe",
+      "dimension_label": "Trust and Esteem",
+      "axis_name": "From Wary Confrontation to Trusted Guide",
+      "pole_start": "Hestia meets Phebe with wary distance and low initial trust, experiencing her as an unfamiliar modern challenger and public accuser of her traditional assumptions.",
+      "pole_end": "Hestia trusts and esteems Phebe as a candid guide and ally whose testimony reshapes her understanding of the hearth, warming to her perspective on the modern world.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Wary confrontation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia observes Phebe and the protestors with cautious distance; Phebe's sharp challenge provokes surprise and curiosity rather than retreat.",
+          "key_moments": [
+            "Hestia listens to Phebe and the protestors with wary observation and growing curiosity.",
+            "Phebe sharply confronts Hestia over her apparent assumption that a woman's strength belongs only in the kitchen."
+          ]
+        },
+        {
+          "phase": "Deepening dialogue",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Phebe's concrete stories earn Hestia's respect, and the conversation deepens mutual understanding.",
+          "key_moments": [
+            "Phebe recounts workplace bias against a mother and the invisible second shift endured by Maya.",
+            "Phebe explains 'quiet rebellion' and shared responsibility in the home.",
+            "Hestia comes to see Phebe as a candid guide who illuminates the modern world."
+          ]
+        },
+        {
+          "phase": "Alliance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia trusts Phebe enough to seek access to a modern household through her and makes her reinterpreted stand in Phebe's presence.",
+          "key_moments": [
+            "Hestia asks to observe a modern household firsthand.",
+            "Hestia silently asserts her reinterpreted mission while with Phebe."
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree the Hestia-Phebe relationship warms substantially and Phebe becomes the key interlocutor for Hestia's revised hearth ethic. Set A's 'sharp challenge to trusted alliance' and Set B's 'wary observation to warming respect' describe the same dyad from two angles and are combined into one three-phase arc."
+    }
+  ]
+}

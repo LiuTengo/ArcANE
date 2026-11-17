@@ -1,0 +1,384 @@
+{
+  "character": "The Protesters",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency–Communion Balance",
+      "axis_name": "From Joyous Communal Solidarity through Defiant Confrontation to Chosen, Guarded Belonging",
+      "pole_start": "The group begins in communion-heavy solidarity: chanting together, united by shared purpose and joyful conviction around equal pay, autonomy, and dignity; their defiance is expressive and communal rather than confrontational.",
+      "pole_end": "After an agency surge of defiant confrontation under police pressure, communion is restored and deepened: the circle becomes a chosen hearth experienced as a legitimate source of safety and belonging, anchored by an outsider ally who stays as quiet guardian.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "ambivalent",
+      "trajectory": [
+        {
+          "phase": "Celebratory communal defiance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "High communion with moderate agency: the crowd is impassioned, chanting, and united by purpose; defiance is expressive and communal.",
+          "key_moments": [
+            "Joyous chanting and shared conviction",
+            "Collective demand for equal pay, autonomy, and dignity",
+            "Maya's grim determination mirrored across the crowd"
+          ]
+        },
+        {
+          "phase": "Confrontational collective resistance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Agency intensifies while communion remains: police lines advance, crowd energy turns volatile, and protesters hold their ground rather than dispersing.",
+          "key_moments": [
+            "Police lines advance on the protest",
+            "Crowd shifts from joyous purpose to volatile confrontation and defiant chanting",
+            "Protesters guard one another and stand firm"
+          ]
+        },
+        {
+          "phase": "Validation through alliance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Agency softens back toward communion as an outsider physically aligns with the group, producing surprise, validation, and a morale surge.",
+          "key_moments": [
+            "Hestia steps into position with the protesters and places a steadying hand on Maya's arm as police close in"
+          ]
+        },
+        {
+          "phase": "Chosen hearth and guardianship",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Communion is deepened into chosen interdependent belonging: the activist circle is experienced as a safe hearth, with Hestia as quiet guardian.",
+          "key_moments": [
+            "Hestia reveals she defied Zeus's mission and chooses to remain with Maya and the activist circle as a quiet guardian"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree the crowd's core values stay stable while its collective stance shifts under police pressure. Set B captures the initial celebratory communion and the agency surge of confrontation; Set A captures the return toward communion via Hestia's solidarity and guardianship. The combined shape is non-linear (communion → agency surge → deepened chosen communion), hence ambivalent rather than a simple positive shift.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I have no recollection of a published novel titled 'Dg Hestia Ar' nor of any narratological, psychological, or structuralist scholarship treating its characters, so the posited intrapersonal arc for 'The Protesters' cannot be grounded in verifiable criticism. While the described movement (communal solidarity → confrontational agency → chosen belonging) resembles familiar group-character patterns, I cannot recall any real published work that discusses this dimension in this specific text. In accordance with the rules, I therefore decline to fabricate citations.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify 'Dg Hestia Ar' as a real published novel, nor can I recall any verifiable literary scholarship on a character or group called 'The Protesters' in such a work. The proposed axis is a plausible psychological reading, but it cannot be grounded in published criticism without a real textual and bibliographic referent.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on its group character 'The Protesters.' Without a real critical corpus addressing this work, the proposed intrapersonal arc cannot be grounded in published reception or character-development scholarship. I therefore cannot supply citations without inventing them.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Openness to Allies",
+      "axis_name": "From Embattled Insularity to Open Solidarity",
+      "pole_start": "The movement's legitimacy is felt mainly within its own ranks; the moral world is centered on the group's confrontation with police, and unfamiliar outsiders are unknown or suspect.",
+      "pole_end": "The protesters believe their cause can attract and retain solidarity beyond their own ranks, seeing the movement as worthy of bridge-building defense and shared struggle.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Internal resolve under pressure",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Their demand feels worth the risk, but the group's moral world is still bounded by its own confrontation with police; Hestia is an unknown outsider asking about home and peace.",
+          "key_moments": [
+            "Police lines advance, shifting the crowd from joyous purpose to volatile confrontation",
+            "Hestia questions Maya before the confrontation; her divine identity and mission are unknown to the group"
+          ]
+        },
+        {
+          "phase": "Unexpected outsider solidarity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's physical alignment produces surprise and validation, expanding the group's belief about who might stand with them.",
+          "key_moments": [
+            "Hestia steps into the protesters' line and places a steadying hand on Maya's arm as police close in"
+          ]
+        },
+        {
+          "phase": "Trusted ally incorporated",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's choice to defy Zeus and remain as guardian confirms that shared struggle can create belonging beyond the original circle.",
+          "key_moments": [
+            "Hestia reveals she defied Zeus's mission and chooses to remain with the activist circle as a quiet guardian"
+          ]
+        }
+      ],
+      "evidence_summary": "Unique to Set A, this is a belief axis (who can belong to the cause) rather than an affective or power-balance one. It is partially redundant with the communion pole of final_intra_01 and with the Hestia relational axis, but it captures a distinct shift from insider-only legitimacy to a movement that can absorb and retain outside allies. Rated medium for that overlap.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published narratological, structuralist, or psychological criticism on the novel 'Dg Hestia Ar' or on the character-group 'The Protesters.' Without real scholarship addressing this text or this internal dimension of the group, the axis cannot be grounded in published criticism under the stated rules.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify \"Dg Hestia Ar\" as any published novel, and I have no reliable recall of literary scholarship — psychoanalytic, ego-developmental, or otherwise — treating a character group called \"The Protesters\" in such a work. Because the axis concerns a specific internal shift in openness to allies within this text, grounding it would require verifiable criticism on that text, which I cannot supply without fabricating sources. I therefore decline to assert the axis is scholar  grounded.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify 'Dg Hestia Ar' as a published novel with a verifiable scholarly reception, nor can I recall any real literary-critical work discussing The Protesters as a character or their internal shift from insularity to solidarity. Because the axis depends on a specific intrapersonal reading of this group and no verifiable published scholarship supports it, the claim is not grounded in citable criticism.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Threat-to-Safety",
+      "axis_name": "From Fearful Defiance to Guarded Safety",
+      "pole_start": "The emotional baseline is volatile confrontation: fear mixed with defiant solidarity as police close in on the crowd.",
+      "pole_end": "The emotional baseline deepens into safety, recognition, and improbable companionship under a guardian presence.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Volatile confrontation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Fear and defiance coexist as the crowd shifts from joy to confrontation under an advancing police line.",
+          "key_moments": [
+            "Police lines advance; crowd energy turns volatile and confrontational"
+          ]
+        },
+        {
+          "phase": "Morale surge from ally",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Surprise and validation lift morale when Hestia joins the protesters physically.",
+          "key_moments": [
+            "Hestia steps into position with the protesters and steadies Maya's arm"
+          ]
+        },
+        {
+          "phase": "Guarded safety",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "A deepened sense of safety and recognition emerges as Hestia stays as a quiet guardian.",
+          "key_moments": [
+            "Hestia defies Zeus's mission and remains with the circle as quiet guardian"
+          ]
+        }
+      ],
+      "evidence_summary": "Unique to Set A and missed by Set B, which frames the emotional shift only as celebration → confrontation. This axis captures the affective security dimension: fear-inflected defiance under immediate threat resolving into felt safety and companionship, driven by the guardian presence.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any real, verifiable published literary scholarship on the novel 'Dg Hestia Ar' or on 'The Protesters' as a collective character. The proposed intrapersonal emotional arc from fearful defiance to guarded safety therefore cannot be grounded in published narratological or psychological criticism. Because no legitimate citation can be supplied, the axis must be judged unsupported.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published novel titled 'Dg Hestia Ar,' nor any body of literary criticism addressing a collective character called 'The Protesters' within such a work. Because the underlying text appears unverifiable and I can recall no real scholarship — psychological, psychoanalytic, or otherwise — that tracks an intrapsychic shift from 'fearful defiance' to 'guarded safety' in this collective figure, the axis cannot be grounded in citable criticism. I therefore decline to manufacture support.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Ar' or on 'The Protesters' as a character/collective in that work. The proposed intrapersonal axis from fearful defiance to guarded safety therefore cannot be grounded in verifiable published criticism, and inventing citations would violate the task constraints.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "The Protesters",
+      "target_character": "Hestia",
+      "dimension_label": "Trust–Esteem–Intimacy",
+      "axis_name": "From Unfamiliar Outsider to Trusted Guardian Ally",
+      "pole_start": "Hestia is an unknown outsider who had been questioning Maya about home and peace; the protesters know nothing of her divine identity or mission, and trust, esteem, and intimacy are all low.",
+      "pole_end": "Hestia is a trusted, esteemed presence inside the activist circle—a quiet guardian whose choice to stay strengthens group cohesion and deepens intimacy.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Unfamiliar outsider",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia stands outside the group's cause and trust; her questions about home and peace do not yet establish solidarity.",
+          "key_moments": [
+            "Hestia asks about home and peace",
+            "Protesters do not know her divine identity or mission"
+          ]
+        },
+        {
+          "phase": "Solidarity gesture / physical alignment",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia steps into the protesters' line and touches Maya, producing surprise and validation; trust and esteem rise, shifting her from outsider to likely ally.",
+          "key_moments": [
+            "Hestia steps into position with the protesters",
+            "Hestia places a steadying hand on Maya's arm as police close in"
+          ]
+        },
+        {
+          "phase": "Revealed guardian",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's defiance of Zeus and decision to remain as quiet guardian deepens her integration and the group's cohesion, converting provisional alliance into intimacy.",
+          "key_moments": [
+            "Hestia reveals she defied Zeus's mission",
+            "Hestia chooses to remain with Maya and the activist circle as a quiet guardian"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets independently trace the same warming arc from outsider to ally via the embodied solidarity gesture. Set B supplies the clearest starting pole (unknown outsider, low trust/intimacy) and caution; Set A supplies the endpoint (trusted guardian after defying Zeus). Merged, the axis shows steady gains in trust and esteem with intimacy deepening only at the final reveal.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any published narratological, structuralist, or relational-dynamics scholarship on a work titled 'Dg Hestia Ar' or on the Protesters–Hestia relationship. Without a verifiable critical corpus addressing this specific text or its characters, the proposed trust–esteem–intimacy arc is not grounded in published literary scholarship.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a relationship arc between 'The Protesters' and a character named Hestia in that work. Because the title and character configuration do not correspond to a known published novel or critical corpus, the claimed relational axis cannot be grounded in real, citable scholarship. Any citation here would therefore risk fabrication, so the axis is unsupported.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar' or on a character group called 'The Protesters' in relation to Hestia. Without a real, citable critical source discussing this relational arc, the axis cannot be grounded in published scholarship.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "The Protesters",
+      "target_character": "Police",
+      "dimension_label": "Antagonism Escalation",
+      "axis_name": "From Wary Adversarial Authority to Immediate Confrontational Force",
+      "pole_start": "Police are an approaching authority already viewed with adversarial wariness as a threat to the group's demands and bodily autonomy; trust and esteem are low, but the crowd's energy is still primarily expressive and communal.",
+      "pole_end": "Police are an immediate, actively confronting force; trust and esteem remain low while antagonism and threat perception intensify into volatile confrontation.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "negative",
+      "trajectory": [
+        {
+          "phase": "Wary adversarial distance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Police are already perceived as adversaries to the cause, but the crowd's stance is still expressive and communal rather than actively confrontational.",
+          "key_moments": [
+            "Protesters demand equal pay, autonomy, and dignity",
+            "Police perceived as a threat to the demands and to bodily autonomy"
+          ]
+        },
+        {
+          "phase": "Advancing line hardens the relationship",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "The advancing police line converts the police into an immediate adversarial force and the crowd into volatile confrontation.",
+          "key_moments": [
+            "Police lines advance on the protest",
+            "Crowd energy turns volatile; defiant chanting begins"
+          ]
+        },
+        {
+          "phase": "Volatile confrontation",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Protesters hold their ground against intimidation without abandoning their cause; antagonism is at its height while trust and esteem stay consistently low.",
+          "key_moments": [
+            "Protesters resist intimidation and refuse to disperse",
+            "Collective self-assertion against the police line"
+          ]
+        }
+      ],
+      "evidence_summary": "Both sets agree the Protesters–Police relationship cools and hardens within the single chapter, with trust and esteem staying low while antagonism escalates. The sets differ only on the starting baseline (authority line vs. already-wary adversary); the merged axis treats police as wary adversarial authority that becomes an immediate confrontational force. The trajectory is negative: the adversarial stance entrenches rather than resolves.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any narratological or structuralist analysis specifically addressing the Protesters–Police relational arc in that work. Without a real, citable critical corpus, the proposed antagonism-escalation axis cannot be grounded in published scholarship.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot recall any verifiable published literary scholarship on a novel titled 'Dg Hestia Ar,' nor any criticism discussing a Protesters–Police relational arc in such a work. Because the axis depends on a specific, identifiable novel and its published criticism, I cannot ground the claim without risking invented sources.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify 'Dg Hestia Ar' as a published novel with a verifiable reception or scholarship, and I recall no real literary-critical work discussing an evolving Protesters–Police relationship in that title. The axis therefore cannot be grounded in published scholarship on the novel, and any citation would be fabricated.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ]
+}

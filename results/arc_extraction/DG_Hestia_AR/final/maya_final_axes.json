@@ -1,0 +1,327 @@
+{
+  "character": "Maya",
+  "comparison": {
+    "intrapersonal": {
+      "matched": [
+        {
+          "set_a_axis": "From autonomous advocate to interdependent protector",
+          "set_b_axis": "From confrontational self-assertion to protective communion",
+          "overlap_description": "Both track Maya's movement from self-assertive, confrontational agency toward protective communion and relational interdependence. Set B adds a destabilized encounter after Hestia's touch/revelation; Set A emphasizes that Maya retains her activist values while offering shelter."
+        }
+      ],
+      "unique_to_a": [
+        {
+          "axis": "From secular activist frame to accepting divine intervention",
+          "assessment": "valid_missed"
+        },
+        {
+          "axis": "From articulate advocate to protective host and ally",
+          "assessment": "borderline"
+        }
+      ],
+      "unique_to_b": [
+        {
+          "axis": "From opponent-only framing to expanded alliance",
+          "assessment": "valid_missed"
+        }
+      ]
+    },
+    "relational": {
+      "matched": [
+        {
+          "set_a_axis": "From ideological challenger to trusted ally",
+          "set_b_axis": "From philosophical opponent to sheltered ally",
+          "overlap_description": "Both describe Maya's shift from treating Hestia as an ideological/moral opponent to trusting and esteeming her after Hestia's costly defiance of Zeus."
+        },
+        {
+          "set_a_axis": "From distant debate to personal refuge",
+          "set_b_axis": "From philosophical opponent to sheltered ally",
+          "overlap_description": "Set B's protective-alliance axis also encompasses Set A's intimacy/protection axis: Maya moves from public argument to personal warmth, hospitality, and sheltering Hestia."
+        }
+      ],
+      "unique_to_a": [],
+      "unique_to_b": []
+    }
+  },
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency-communion",
+      "axis_name": "From confrontational self-assertion to protective communion",
+      "pole_start": "Maya begins on the agency pole: she is fiercely self-assertive, morally confrontational, and publicly defends women's autonomy, fair pay, and dignity against Hestia's traditionalist view of hearth and peace.",
+      "pole_end": "Maya moves toward communion: she becomes protective, hospitable, and relationally invested in Hestia's safety, offering shelter and a shared refuge while retaining her activist agency.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Assertive advocacy",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya addresses the crowd with moral conviction, challenges Hestia publicly, and demands equal pay, autonomy, dignity, and fair treatment.",
+          "key_moments": [
+            "Maya confronts Hestia's traditionalist view of hearth and peace.",
+            "Maya argues that peace without autonomy, fair pay, and dignity is hollow.",
+            "Maya treats Hestia as an ideological challenger rather than an ally."
+          ]
+        },
+        {
+          "phase": "Destabilized encounter",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's steadying touch and divine confession disrupt Maya's prior opponent-frame, producing warmth and bewilderment.",
+          "key_moments": [
+            "Hestia steps beside Maya and places a steadying hand on her arm.",
+            "Maya feels unexpected warmth and pulls Hestia back to question her.",
+            "Hestia confesses she is a goddess sent by Zeus but has chosen to defy Zeus and stand with the protesters."
+          ]
+        },
+        {
+          "phase": "Protective interdependence",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya acts from the communion pole by offering shelter and practical safety, turning activism into personal solidarity.",
+          "key_moments": [
+            "Maya offers Hestia her small apartment as a safe place to stay.",
+            "Maya recognizes Hestia's sacrifice after her defiance of Zeus.",
+            "Maya maintains solidarity with the protesters while defining home as a refuge shared with an ally."
+          ]
+        }
+      ],
+      "evidence_summary": "Maya's arc begins with self-assertive defense of autonomy and ends with an offer of shelter and shared refuge, showing movement from confrontational independence toward relational interdependence without abandoning her core values."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Worldview openness",
+      "axis_name": "From secular activist frame to accepting divine intervention",
+      "pole_start": "Maya interprets the conflict in secular, economic, and political terms: peace must be grounded in autonomy, fair pay, and dignity, and Hestia's view is treated as an ideological challenge rather than a divine claim.",
+      "pole_end": "Maya's worldview expands to accept divine intervention; she sees Hestia's defiance of Zeus as authentic and the movement as divinely noticed and existentially risky.",
+      "confidence": "medium",
+      "source": "event_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Secular moral argument",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya argues entirely within a human-political frame, treating Hestia's view as an ideological challenge.",
+          "key_moments": [
+            "Maya defends the protest by arguing that peace without autonomy, fair pay, and dignity is hollow.",
+            "Maya challenges Hestia's traditionalist view of hearth and peace."
+          ]
+        },
+        {
+          "phase": "Divine shock and destabilization",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's touch and revelation of her divinity disrupt Maya's secular framework and produce shock and awe.",
+          "key_moments": [
+            "Hestia places a steadying hand on Maya's arm.",
+            "Hestia confesses that she is a goddess sent by Zeus to redirect Maya.",
+            "Maya is destabilized by the impossible reality of Hestia's divine identity."
+          ]
+        },
+        {
+          "phase": "Expanded acceptance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya accepts Hestia's costly defiance of Zeus as authentic and interprets the movement as carrying divine validation and existential risk.",
+          "key_moments": [
+            "Hestia reveals she has chosen to defy Zeus and stand with the protesters.",
+            "Maya recognizes Hestia's sacrifice and offers her shelter.",
+            "Maya's framework expands from secular activism to include divine intervention."
+          ]
+        }
+      ],
+      "evidence_summary": "The explicit belief change is from a secular activist framework to one that accepts divine intervention and interprets the movement as divinely noticed and existentially risky."
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_03",
+      "dimension_label": "Inclusive solidarity",
+      "axis_name": "From opponent-only framing to expanded alliance",
+      "pole_start": "Maya initially frames Hestia as a philosophical and moral opponent outside her activist cause, with solidarity directed toward human protesters and women seeking equality.",
+      "pole_end": "Maya expands her sense of who can belong to the cause: Hestia becomes an ally who chose solidarity through costly defiance, without Maya abandoning her activism.",
+      "confidence": "medium",
+      "source": "psych_only",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Oppositional framing",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya treats Hestia as a representative of a traditional view to be challenged, keeping her outside the circle of activist solidarity.",
+          "key_moments": [
+            "Maya challenges Hestia before the crowd with pointed moral conviction.",
+            "Maya sees Hestia initially as a philosophical opponent."
+          ]
+        },
+        {
+          "phase": "Revelation and reframing",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Hestia's touch, revelation, and defiance of Zeus force Maya to reconsider Hestia as a potential ally rather than only an opponent.",
+          "key_moments": [
+            "Hestia's touch and divine revelation destabilize Maya's opponent-frame.",
+            "Maya recognizes Hestia as an ally who has chosen solidarity."
+          ]
+        },
+        {
+          "phase": "Protective alliance",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya acts on the expanded alliance by offering shelter and protection while remaining committed to the protest and cause.",
+          "key_moments": [
+            "Maya offers Hestia shelter.",
+            "Maya recognizes Hestia's defiance of Zeus as costly alignment.",
+            "Maya maintains solidarity with the protesters."
+          ]
+        }
+      ],
+      "evidence_summary": "Maya's beliefs in equality and dignity do not change, but her boundary of who can count as an ally expands from human protesters to include a defecting goddess."
+    }
+  ],
+  "relational_axes": [
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_01",
+      "source_character": "Maya",
+      "target_character": "Hestia",
+      "dimension_label": "Trust and esteem",
+      "axis_name": "From ideological challenger to trusted ally",
+      "pole_start": "Maya treats Hestia as an ideological and moral opponent whose traditionalist view of hearth and peace must be challenged.",
+      "pole_end": "Maya trusts and esteems Hestia because she risked divine wrath to stand with the protesters; Hestia becomes a sheltered ally.",
+      "confidence": "high",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Ideological friction",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya engages Hestia seriously but as a challenger rather than an ally.",
+          "key_moments": [
+            "Maya confronts Hestia's traditionalist view of hearth and peace.",
+            "Maya defends the protest's demand for autonomy, fair pay, and dignity.",
+            "Maya challenges Hestia before the crowd with moral conviction."
+          ]
+        },
+        {
+          "phase": "Surprising solidarity",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya feels unexpected warmth when Hestia stands with her, revising her view from critic to potential ally.",
+          "key_moments": [
+            "Hestia steps beside Maya and places a steadying hand on her arm.",
+            "Maya feels warmth and pulls Hestia back to question her.",
+            "Hestia's touch and revelation bewilder Maya and disrupt her prior opponent-frame."
+          ]
+        },
+        {
+          "phase": "Costly trust",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya's trust and esteem deepen because Hestia's confession reveals sacrifice and authentic alignment with the cause.",
+          "key_moments": [
+            "Hestia confesses she is a goddess sent by Zeus.",
+            "Hestia reveals she has chosen to defy Zeus and stand with the protesters.",
+            "Maya recognizes Hestia's costly defiance as authentic solidarity."
+          ]
+        },
+        {
+          "phase": "Deepened bond",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya translates trust into action by sheltering Hestia.",
+          "key_moments": [
+            "Maya offers Hestia her small apartment as a safe place to stay.",
+            "Maya acts with protective concern and cautious hospitality."
+          ]
+        }
+      ],
+      "evidence_summary": "The relationship moves from ideological challenge to deep trust and esteem, driven by Hestia's solidarity and costly defiance of Zeus."
+    },
+    {
+      "axis_type": "relational",
+      "axis_id": "final_rel_02",
+      "source_character": "Maya",
+      "target_character": "Hestia",
+      "dimension_label": "Intimacy and protection",
+      "axis_name": "From distant debate to personal refuge",
+      "pole_start": "Maya's relation to Hestia is public, argumentative, and emotionally distant.",
+      "pole_end": "Maya develops personal warmth and protective intimacy, offering Hestia shelter and a shared domestic refuge.",
+      "confidence": "medium",
+      "source": "both",
+      "arc_direction": "positive",
+      "trajectory": [
+        {
+          "phase": "Public debate",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya relates to Hestia through ideological debate, with no personal intimacy.",
+          "key_moments": [
+            "Maya defends the protest against Hestia's traditionalist view of hearth and peace.",
+            "Maya challenges Hestia before the crowd."
+          ]
+        },
+        {
+          "phase": "Personal warmth",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya feels unexpected warmth and curiosity when Hestia physically stands beside her.",
+          "key_moments": [
+            "Hestia places a steadying hand on Maya's arm.",
+            "Maya feels warmth and pulls Hestia back to question her.",
+            "Maya's prior emotional distance is disrupted by Hestia's touch."
+          ]
+        },
+        {
+          "phase": "Protective refuge",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Maya turns intimacy into protective action by offering Hestia a safe place to stay.",
+          "key_moments": [
+            "Maya offers Hestia her apartment after Hestia's defiance of Zeus.",
+            "Maya defines home as a refuge shared with those who stand with her.",
+            "Maya maintains solidarity with the protesters while sheltering Hestia."
+          ]
+        }
+      ],
+      "evidence_summary": "Maya's relationship with Hestia gains emotional warmth and protective intimacy, culminating in the offer of shelter and a shared domestic refuge."
+    }
+  ]
+}

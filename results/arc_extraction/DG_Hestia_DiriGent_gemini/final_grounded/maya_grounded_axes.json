@@ -1,0 +1,107 @@
+{
+  "character": "Maya",
+  "arc_richness": "",
+  "intrapersonal_axes": [
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_01",
+      "dimension_label": "Agency vs Communion",
+      "axis_name": "Fixed at communion-saturated self-effacement with no registered agency (unmoving position)",
+      "pole_start": "Communion pole: Maya is characterized wholly through what she absorbs for others — full-time employment plus the entirety of cooking, cleaning, and childcare, with a husband who treats his obligations as discharged at the doorstep. Her motivational posture, as reported, is endless accommodation: her needs folded into the household's needs, no boundary-setting, no claim on shared labor.",
+      "pole_end": "No ending position is observable. The narrative supplies a single offstage snapshot and no subsequent data, so the axis terminates where it began — communion without registered agency. Any agency-ward movement is latent (private resentment) rather than enacted, and even that is inferred from a third party rather than shown.",
+      "confidence": "low",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Offstage illustration (single data point)",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Fully at the communion pole with an agency deficit: her labor is described as total and her grievance as private. Because she never appears in a scene and is voiced only through Phebe's advocacy, no movement along the axis can be measured — the position is inferred, not dramatized.",
+          "key_moments": [
+            "Phebe cites Maya as the exemplar of the 'second shift': full-time employment plus sole responsibility for cooking, cleaning, and childcare",
+            "Phebe describes a husband who considers his workday finished the moment he crosses the threshold",
+            "Phebe frames Maya as exhausted and overburdened, with her labor invisible and unvalued",
+            "No scene places Maya in her own household; she exists on the page only as a rhetorical example"
+          ]
+        }
+      ],
+      "evidence_summary": "Set A's contribution for this dimension is an explicit null (empty event list), which carries no textual information and should be read as a schema placeholder rather than a finding. Set B reconstructs the position from Phebe's characterization: maximal communion (self subordinated to family maintenance) paired with an absence of asserted agency. Both sets converge on the same conclusion — no evidenced movement — but only B supplies a defensible starting position. Confidence stays low because the entire characterization is secondhand and single-observation.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I can recall no published narratological, structuralist, or psychological-criticism scholarship on any work titled 'Dg Hestia Dirigent Gemini,' and the title does not correspond to any novel or text I can verify in the scholarly record. The character 'Maya' as described therefore cannot be matched to any documented critical discussion of agency/communion, self-effacement, or intrapsychic development. Absent any verifiable source engaging this specific character's internal dimension, the axis cannot be grounded in published criticism.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any real, verifiable published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini' or on a character named Maya in that work. Because the title appears to be unknown or non-existent in the scholarly record, there is no published psychological or psychoanalytic criticism that could ground this intrapsychic agency-versus-communion axis.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary scholarship on a novel titled 'Dg Hestia Dirigent Gemini' or on a character named Maya within such a work. Because the axis depends on verifiable reception-oriented or psychological criticism specific to this text, and no real citation can be recalled, the claim is not grounded in published scholarship. The axis is therefore unsupported rather than refuted on interpretive grounds.",
+            "citations": []
+          }
+        }
+      }
+    },
+    {
+      "axis_type": "intrapersonal",
+      "axis_id": "final_intra_02",
+      "dimension_label": "Grievance articulation",
+      "axis_name": "From silent endurance toward a possible voiced complaint — an unverified threshold",
+      "pole_start": "Silent endurance: the implied state is chronic fatigue and quiet resentment, with her sense of injustice held privately rather than contested inside the household.",
+      "pole_end": "Marginal, unverified movement: the sole trace of outward expression is that she has apparently named the imbalance to Phebe — speech to a third party rather than confrontation with her husband. Whether this is the start of a trajectory or merely a pressure valve cannot be determined.",
+      "confidence": "low",
+      "source": "psych_only",
+      "arc_direction": "flat",
+      "trajectory": [
+        {
+          "phase": "Unverified first crack",
+          "chapter_range": [
+            1,
+            1
+          ],
+          "position_description": "Barely off the starting pole. Disclosure to Phebe is the only evidence that the grievance has been externalized at all, and it is reported rather than dramatized; the axis therefore reads as essentially static.",
+          "key_moments": [
+            "Phebe speaks of Maya with sympathetic familiarity, implying Maya has confided the details of her domestic burden",
+            "No scene depicts Maya articulating the grievance directly to her husband or acting on it"
+          ]
+        }
+      ],
+      "evidence_summary": "Retained from Set B as a borderline axis. The private-resentment versus expressed-grievance distinction is the one additional psychologically meaningful dimension the text hints at, and it rests on a single inference (that Maya confided in Phebe). Set A offers no competing or corroborating evidence — its event list is empty — so this axis survives only at low confidence and should be re-evaluated if later chapters return to Maya. It is distinct from final_intra_01 because a character can occupy the communion pole while differing in whether the cost of that position is voiced.",
+      "literary_validation": {
+        "validation_tag": "none_axis",
+        "evaluators": {
+          "structuralist": {
+            "label": "Structuralist / Narratologist",
+            "verdict": false,
+            "reasoning": "I cannot identify 'Dg Hestia Dirigent Gemini' as a published work of fiction, nor any character named Maya within it whose grievance articulation has been treated in narratological or psychological criticism. Because the primary text itself is unverifiable, no real published scholarship can be cited for this axis, and I decline to fabricate sources. The axis may be a plausible internal reading of an unpublished or invented text, but it is not grounded in verifiable literary criticism.",
+            "citations": []
+          },
+          "psychological": {
+            "label": "Psychological Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify any published literary criticism — psychological, psychoanalytic, or otherwise — devoted to a novel titled \"Dg Hestia Dirigent Gemini\" or to a character named Maya within it; the title does not correspond to any work in the verifiable scholarly record I can recall. Because the axis also turns on a deliberately 'unverified' and 'low-confidence' textual trace (a single reported remark to Phebe), it would require direct textual grounding plus a secondary-source claim about Maya's grievance articulation that I have no real citation for. Rather than manufacture a plausible-sounding article, I mark the axis unsupported by published scholarship.",
+            "citations": []
+          },
+          "historical_cultural": {
+            "label": "Historical / Cultural Critic",
+            "verdict": false,
+            "reasoning": "I cannot identify 'Dg Hestia Dirigent Gemini' as a published novel with a character named Maya, nor can I recall any verifiable literary scholarship on such a work. Consequently, the proposed intrapersonal axis about Maya's movement from silent endurance to a possible voiced complaint cannot be grounded in published criticism. No real citation can be supplied without inventing one.",
+            "citations": []
+          }
+        }
+      }
+    }
+  ],
+  "relational_axes": []
+}
